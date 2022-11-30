@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&display=swap');
+*{
+    font-family:'Nuninto Sans',sans-serif;
+}
+
+body{
+    background: url(../assets/beranda/bc1.png);
+    background-repeat: no-repeat;
+    background-position-x: 1200px;
+    background-position-y: 70px;
+    background-size: 600px;
+    background-color: transparent;
+}
+
+.navbar{
+    background-color: transparent;
+    padding: 0 200px 0 0;
+}
+
+.navbar-brand{
+    color: black;
+    font-size: 30px;
+    display: flex;
+    padding: 20px 0 20px 130px;
+}
+
+.navbar-brand h3{
+    font-weight: bold;
+}
+
+.navbar-brand .word{
+    color: blue;
+}
+
+.nav-link{
+    color: black;
+    font-size: 20px;
+    padding: 0 20px 0 20px;
+}
+
+
+
+
+.banner{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+    display: flex;
+}
+
+.banner1{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+}
+
+.judul{
+    width: 70%;
+}
+
+.judul h1{
+    font-weight: bolder;
+    font-size: 37px;
+}
+
+
+.judul h2{
+    font-weight: normal;
+}
+
+.isiatas h2{
+color: blue;
+font-size: 30px;
+}
+
+.isiatas .isiatas1{
+    color: black;
+    padding: 0 0 0 10px;
+}
+
+.isiatas{
+    display: flex;
+    letter-spacing: 1.5px;
+}
+
+.container1{
+    width: 100%;
+    padding-left: 145px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    display: flex;
+}
+
+
+.nav-pills {
+    --bs-nav-pills-border-radius: 0.375rem;
+    --bs-nav-pills-link-active-color: #fff;
+    --bs-nav-pills-link-active-bg: #0d6efd;
+    width: 10%;
+    height: max-content;
+    box-sizing: border-box;
+    border-color: black;
+    border-right: outset;
+    border-radius: 3%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 100%;
+    border-color: black;
+}
+
+.nav-item1{
+    margin: 0 auto;
+    width: 120px;
+}
+
+.card{
+    padding: 30px 20px 30px 20px;
+    background-color: transparent;
+    --bs-card-border-color: blue;
+    box-shadow: 10px 10px 15px rgb(0 0 0 / 10%);
+    height: 40vh;
+}
+
+.row{
+    padding-left: 20px;
+    width: 50%;
+    height: 30%;
+}
+
+.card-title{
+    letter-spacing: 1px;
+    font-variant: all-petite-caps;
+    font-weight: bolder;
+    text-align: -webkit-center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+

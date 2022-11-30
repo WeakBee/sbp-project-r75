@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&display=swap');
+*{
+    font-family:'Nuninto Sans',sans-serif;
+}
+
+body{
+    background: url(./assets/identifikasi/jalak1.png);
+    background-repeat: no-repeat;
+    background-position-x: 1300px;
+    background-position-y: 80px;
+    background-size: 370px;
+}
+
+.banner{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+}
+
+.banner1{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+}
+
+.judul h1{
+    font-weight: bolder;
+    font-size: 90px;
+}
+
+.judul1 h1{
+    font-weight: bolder;
+    font-size: 90px;
+
+}
+
+.judul h2{
+    font-weight: normal;
+}
+
+.isiatas h2{
+color: blue;
+font-size: 70px;
+}
+
+.isiatas .isiatas1{
+    color: black;
+    padding: 0 0 0 10px;
+}
+
+.isiatas{
+    display: flex;
+    letter-spacing: 1.5px;
+}
+
+.keterangan{
+    font-size: 25px;
+}
+
+.ctn3{
+    height: 470px;
+    padding-right: 200px;
+}
+
+
+.card{
+    height: 470px;
+    background-color:rgb(41, 38, 38);
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 500;
+}
+
+.col{
+    width:75%;
+    height: 470px;
+}
+
+.img-fluid{
+    width: 100%;
+    height: 467px;
+    opacity: 1;
+}
+
+.card-title{
+    padding-top: 120px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.card-text{
+    font-size: 22px;
+    color: white;
+}
+
+.carousel-control-prev {
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    margin-top: 300px;
+    width: 100%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+    opacity: .5;
+    transition: opacity .15s ease;
+    padding-left: 635px;
+}
+
+
+.carousel-control-next {
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    margin-top: 300px;
+    width: 30%;
+    padding: 0;
+    color: #fff;
+    background: 0 0;
+    border: 0;
+    opacity: .5;
+    transition: opacity .15s ease;
+    padding-right: 300px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: black;
+    background-size: 80% 80%;
+}
+
+
+
+
+

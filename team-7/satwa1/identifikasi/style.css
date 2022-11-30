@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&display=swap');
+*{
+    font-family:'Nuninto Sans',sans-serif;
+}
+
+
+.banner{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+    display: flex;
+}
+
+.banner1{
+    box-sizing: border-box;
+    box-shadow: 7mm;
+    padding:  40px 0 0 0px;
+}
+
+.judul{
+    width: 70%;
+}
+
+.judul h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+
+.judul h2{
+    font-weight: normal;
+}
+
+.isiatas h2{
+color: blue;
+font-size: 30px;
+}
+
+.isiatas .isiatas1{
+    color: black;
+    padding: 0 0 0 10px;
+}
+
+.isiatas{
+    display: flex;
+    letter-spacing: 1.5px;
+}
+
+.keterangan{
+    font-size: 25px;
+}
+
+.block-banner {
+    padding: 3rem 0;
+    font-size: 1.33rem;
+    text-align: center;
+    background-color: rgb(55, 221, 91);
+    
+}
+
+.our-mission{
+    padding-left: 250px;
+    padding-right: 230px;
+}
+
+.our-mission .container-inside{
+padding: 3rem 0 0;
+margin-bottom: 0;
+}
+
+.container-inside{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.container-inside:last-child{
+    margin-bottom: 2em;
+}
+
+
+
+.our-mission .container__inside .h1, .our-mission .container__inside .h2 {
+color: #323031;
+font-size: 1.88rem;
+
+}
+
+
+
+.container-inside:first-child h2, .container__inside:first-child h3, .container__inside:first-child.u-margin--t-regular{
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.u-content--centered{
+    text-align: center;
+}
+
+
+
+.our-mission .container-inside .mission{
+    display: flex;
+    background-color: transparent;
+    }
+
+.our-mission .container-inside .mission-wrapper{
+    padding: 1rem;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background: #53616f;
+    transition: .4s;
+    min-height: calc(500px + 2rem);
+ }
+
+.our-mission .container-inside .mission-item{
+    position: absolute;
+    padding: 1rem;
+    width: 100%;
+    border: 1px solid #fff;
+    min-height: 500px;
+    width: calc(100% - 2rem);
+    height: calc(100% - 2rem);
+}
+
+.our-mission .container-inside .mission-image{
+position: absolute;
+top: -1.1rem;
+left: -1.1rem;
+right: -1.1rem;
+bottom: -1.1rem;
+opacity: .7;
+overflow: hidden;
+}
+
+.our-mission .container-inside .mission-image img{
+transition: .5s;
+width: 100%;
+height: 100%;
+}
+
+.lazyloaded{
+    opacity: 1;
+    transition: opacity 400ms;
+    transition-delay: 0ms;
+}
+
+img{
+    border-style: none;
+}
+
+
+
+
+.our-mission .container-inside .mission-title{
+    position: absolute;
+    left: 1rem;
+    top: 3rem;
+    z-index: 3;
+    max-width: 77%;
+    color:#fff;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.our-mission .container-inside .mission-title .word{
+    padding-bottom: 0.3rem;
+    padding-right: 0.7rem;
+    padding-left: 2rem;
+    margin-top:0.3rem ;
+    margin-left: -2.1rem;
+    margin-right: 3rem;
+    transition: .4s;
+    color: #fff;
+    background: #00a751;
+}
+
+.our-mission .container-inside .mission-title .word:hover{
+    background-color:rgb(139, 139, 255);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.our-mission .container-inside .mission-text{
+    margin-top: 2rem;
+}
+.our-mission .container-inside .mission-text .mission-content .word1:hover{
+    background-color: #00a751;
+}
+
+
+.our-mission .container-inside .mission-content{
+    padding-top: 7rem;
+    max-width: 77%;
+    color: #fff;
+    line-height: 1.5;
+    font-size: 1.15rem;
+    z-index: 2;
+    position: absolute;
+    text-align: justify;
+}
