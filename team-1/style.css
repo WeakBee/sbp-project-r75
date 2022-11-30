@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+    color: var(--warna4);
+}
+:root{
+    --warna1 : #FEBD2F;
+    --warna2 : #F5F3EF;
+    --warna3 : #E8E7E3;
+    --warna4 : #333333;
+    --warna5 : #F0BD46;
+    --warna6 : #A8A8A8;
+}
+
+/* Navbar */
+.navbar{
+    background-color: white;
+}
+.navbar .container{
+    position: relative;
+    border: 2px solid rgb(216, 216, 216);
+    border-style: none none solid none;
+    padding-bottom: 15px;
+}
+.navbar-brand{
+    font-weight: bold;
+    margin-right: 20px;
+    font-size: 35px;
+    color: var(--warna4);
+}
+.navbar-brand span{
+    font-weight: bold;
+    margin-right: 70px;
+    font-size: 35px;
+    color: var(--warna1);
+}
+.nav-item{
+    margin-left: 50px;
+}
+.navbar .btn{
+    background-color: white;
+    border-radius: 10px;
+    padding: 8px 30px;
+    font-weight: 500;
+    transition: 0.3s;
+    color: var(--warna1);
+    border: 1px solid var(--warna1);
+    display: flex;
+    align-items: center;
+}
+.navbar .btn i{
+    color: var(--warna1);
+    margin-left: 10px;
+}
+.navbar .btn:hover{
+    background-color: var(--warna1);
+    color: white;
+}
+.navbar .btn:hover i{
+    color: white;
+}
+/* Navbar */
+
+/* First */
+#first{
+    border-radius: 0 0 40px 40px;
+}
+#first .container{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+#first .kolom-kiri{
+    position: relative;
+    padding-top: 40px;
+}
+#first h2{
+    color: var(--warna1);
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 40px;
+}
+#first h3{
+    font-weight: bold;
+}
+#first .button-mulai{
+    position: absolute;
+    background-color: var(--warna1);
+    padding: 15px 30px;
+    color: white;
+    margin-top: 51px;
+    border: none;
+    border: 2px solid var(--warna1);
+} 
+#first .button-mulai i{
+    color: white;
+    margin-left: 20px;
+}
+#first .button-mulai:hover{
+    background-color: white;
+    border: 2px solid var(--warna1);
+    color: var(--warna1);
+    font-weight: 700;
+}
+#first .button-mulai:hover i{
+    color: var(--warna1);
+}
+#first .kolom-kanan{
+    position: relative;
+}
+#first .cooking-image{
+    width: 250px;
+    position: absolute;
+    top: -120px;
+    transform: rotate(20deg);
+    transition: 0.3s;
+}
+#first .cooking-image:hover{
+    transform: scale(1.2);
+}
+#first .cooking-image2{
+    width: 180px;
+    position: absolute;
+    top: 90px;
+    left: 230px;
+    transition: 0.3s;
+}
+#first .cooking-image2:hover{
+    transform: scale(1.2);
+}
+#first .cooking-image3{
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    left: 430px;
+    transition: 0.3s;
+}
+#first .cooking-image3:hover{
+    transform: rotate(-20deg) scale(1.2);
+}
+/* First */
+
+/* Second */
+#second{
+    padding-top: 80px;
+    background-color: var(--warna2);
+}
+#second h1{
+    font-weight: 700;
+}
+
+#second .search-bar{
+    width: 100%;
+    border: 1.5px solid var(--warna6);
+    border-radius: 25px;
+    padding: 3px 15px;
+    display: flex;
+}
+#second .search-bar form{
+    width: 100%;
+}
+#second .search-bar input{
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+#second .search-bar textarea:focus, input:focus{
+    outline: none;
+}
+#second .dropdown-column{
+    position: relative;
+}
+#second .dropdown-sort-by{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 200px;
+    padding: 10px 15px;
+    border-radius: 25px;
+    font-size: 14px;
+}
+#second .dropdown-sort-by span:nth-child(2){
+    font-weight: 700;
+    margin: 0 3px;
+}
+
+#second .dropdown-all {
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.219);
+}
+#second .dropdown-all ul{
+    margin-bottom: 0;
+    width: 150px;
+}
+#second .dropdown-all ul li:hover{
+    color: var(--warna1);
+    cursor: pointer;
+}
+#second .dropdown-column:hover .dropdown-all {
+    display: block;
+}
+#second .button-jenis{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    background: var(--warna2);
+    border: 2px solid var(--warna3);
+    border-radius: 25px;
+    font-weight: 700;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#second .button-jenis:hover{
+    background: var(--warna1);
+    border: 2px solid var(--warna5);
+    box-shadow: 5px 5px 10px var(--warna1);
+}
+
+#second .button-jenis.active{
+    background: var(--warna1);
+    border: 2px solid var(--warna5);
+}
+#second .logo-image{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+#second .logo-image img{
+    width: 100%;
+}
+#second .all-resep .col-lg-4{
+    margin-bottom: 15px;
+}
+#second .list-resep{
+    background-color: white;
+    padding: 20px 15px;
+    border-radius: 15px;
+}
+#second .list-resep .foto-makanan{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+#second .list-resep p{
+    margin-bottom: 0;
+}
+#second .semua-bahan{
+    height: 170px;
+    overflow-y: auto;
+}
+/* width */
+#second .semua-bahan::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+#second .semua-bahan::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+#second .semua-bahan::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+#second .semua-bahan::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+#second .semua-bahan li{
+    text-transform: capitalize;
+}
+#second .mulai-masak{
+    border: none;
+    background-color: var(--warna1);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--warna1);
+}
+#second .mulai-masak img{
+    margin-left: 10px;
+}
+#second .mulai-masak:hover{
+    background-color: transparent;
+    border: 1px solid black;
+}
+#second .waktu-masak{
+    color: #A8A8A8;
+}
+/* Second */
+
+@media (max-width: 991.98px) {
+    #first .kolom-kiri {
+        position: relative;
+        padding-top: 40px;
+        text-align: center;
+    }
+    .cooking-image,.cooking-image2,.cooking-image3{
+        display: none;
+    }
+    #first .button-mulai {
+        position: relative;
+    }
+}

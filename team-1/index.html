@@ -1,12 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="./assets/icon/favicon.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./assets/font/Inter Web/inter.css">
+  <script src="https://kit.fontawesome.com/1a746e98b1.js" crossorigin="anonymous"></script>
+  <title>COOKIE | Sistem Berbasis Pengetahuan</title>
 </head>
 <body>
-    <h1>Test</h1>
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="navbar-brand" href="#">COOK<span>IE</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Resep</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">API</a>
+          </li>
+        </ul>
+        <button class="btn d-flex" type="submit">Mulai <i class="fa-solid fa-arrow-right-long"></i></button>
+      </div>
+    </div>
+  </nav>
+  <section id="first">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 kolom-kiri">
+          <h2>Selangkah Lagi!</h2>
+          <h3>Untuk Mencoba sesuatu yang baru.</h3>
+          <a href="./get-started/">
+            <button class="button-mulai">Yuk Mulai <i class="fa-solid fa-arrow-right-long"></i></button>
+          </a>         
+        </div>
+        <div class="col-lg-6 kolom-kanan">
+          <img class="cooking-image" src="./assets/wortel.png">
+          <img class="cooking-image2" src="./assets/tomat.png">
+          <img class="cooking-image3" src="./assets/bawang.png">
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="second">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2 d-flex align-items-center mb-4">
+          <h1>RESEP</h1>
+        </div>
+        <div class="col-lg-7 d-flex align-items-center mb-4">
+          <div class="search-bar">
+            <img src="./assets/icon/Search_alt.svg" class="me-2">
+            <form action="">
+              <input type="text" placeholder="Cari Resep Makanan Indonesia">
+            </form>
+          </div>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center justify-content-end mb-4 dropdown-column">
+          <div class="dropdown-sort-by">
+            <span>Resep Oleh:</span>
+            <span class="sortbytags"></span>
+            <img src="./assets/icon/Expand_down.svg">
+          </div>
+          <div class="dropdown-all">
+            <ul>
+              <li onclick="roycoumami()">Semua</li>
+              <li onclick="royco()">Royco</li>
+              <li onclick="umami()">Umami</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-2">
+          <div class="button-jenis">
+            <div class="logo-image">
+              <img src="./assets/icon/sayur.png">
+            </div>
+            Sayur
+          </div>
+          <div class="button-jenis active">
+            <div class="logo-image">
+              <img src="./assets/icon/nasi.png">
+            </div>
+            Nasi
+          </div>
+          <div class="button-jenis">
+            <div class="logo-image">
+              <img src="./assets/icon/lauk.png">
+            </div>
+            Lauk
+          </div>
+          <div class="button-jenis">
+            <div class="logo-image">
+              <img src="./assets/icon/mie.png">
+            </div>
+            Mie
+          </div>
+          <div class="button-jenis">
+            <div class="logo-image">
+              <img src="./assets/icon/soto.png">
+            </div>
+            Soto
+          </div>
+          <div class="button-jenis">
+            <div class="logo-image">
+              <img src="./assets/icon/daerah.png">
+            </div>
+            Daerah
+          </div>
+        </div>
+        <div class="col-lg">
+          <div class="row all-resep">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 </body>
 </html>

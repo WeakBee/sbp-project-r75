@@ -1,0 +1,125 @@
+[
+    {
+        "nama" : "Tumis Kangkung",
+        "gambar" : "./assets/royco/Tumis Kangkung.jpg",
+        "jenis" : ["Sayur"],
+        "semua_bahan" : [
+            {"bahan" : "bawang merah","jumlah" : 5, "satuan" :"buah", "cat" : "Cincang Halus"},
+            {"bahan" : "bawang putih","jumlah" : 3, "satuan" :"siung", "cat" : "Memarkan Cincang Halus" },
+            {"bahan" : "royco kaldu ayam","jumlah" : 1.25, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "minyak wijen","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "cabai merah","jumlah" : 2, "satuan" :"buah", "cat" : "Buang Biji Iris Serong Tipis"},
+            {"bahan" : "kangkung","jumlah" : 2, "satuan" :"ikat", "cat" : "Petiki Daunnya"},
+            {"bahan" : "minyak","jumlah" : 3, "satuan" :"sdm", "cat" : "Untuk Menumis"}
+        ],
+        "cara" : [
+            {"resep" : "Panaskan minyak didalam wajan di atas api sedang. Tumis bawang merah dan bawang putih hingga harum."},
+            {"resep" : "Masukkan Royco Kaldu Ayam, minyak wijen, dan cabai merah, aduk rata."},
+            {"resep" : "Masukkan kangkung, aduk rata hingga semua bahan tercampur rata. Angkat."},
+            {"resep" : "Sajikan segera ditemani nasi putih."}
+        ]
+    },
+    {
+        "nama" : "Sayur Asem",
+        "gambar" : "./assets/royco/Sayur Asem.jpg",
+        "jenis" : ["Sayur"],
+        "semua_bahan" : [
+            {"bahan" : "Air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "Melinjo","jumlah" : 100, "satuan" :"gram", "cat" : "" },
+            {"bahan" : "Kacang Tanah","jumlah" : 100, "satuan" :"gram", "cat" : ""},
+            {"bahan" : "Jagung Manis","jumlah" : 1, "satuan" :"buah", "cat" : "potong potong menjadi bagian"},
+            {"bahan" : "Labu Siam","jumlah" : 1, "satuan" :"buah", "cat" : "kupas potong dadu"},
+            {"bahan" : "Kacang Panjang","jumlah" : 100, "satuan" :"gram", "cat" : "Potong 5cm"},
+            {"bahan" : "Royco Bumbu Komplit Sayur Asem","jumlah" : 1, "satuan" :"bungkus", "cat" : ""},
+            {"bahan" : "Daun Melinjo","jumlah" : 50, "satuan" :"gram", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Didihkan air di dalam panci. Masukkan buah melinjo, kacang tanah, dan jagung hingga matang."},
+            {"resep" : "Tambahkan labu siam dan kacang panjang, didihkan."},
+            {"resep" : "Masukkan Royco Bumbu Komplit Sayur Asem dan daun melinjo, aduk rata. Angkat."},
+            {"resep" : "Sajikan segera."}
+        ]
+    },
+    {
+        "nama" : "Opor Ayam",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua_bahan" : [
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong 8 bagian, buang kulitnya"},
+            {"bahan" : "santan encer", "jumlah" : 1, "satuan" : "L", "cat" : ""},
+            {"bahan" : "santan kental", "jumlah" : 200, "satuan" : "ml", "cat" : ""},
+            {"bahan" : "susu rendah lemak", "jumlah" : 300, "satuan" : "ml", "cat" : ""},
+            {"bahan" : "daun jeruk purut segar", "jumlah" : 4, "satuan" : "buah", "cat" : "biarkan utuh"},
+            {"bahan" : "daun kunyit", "jumlah" : 1, "satuan" : "g", "cat" : "kira-kira 1 lembar"},
+            {"bahan" : "lengkuas", "jumlah" : 1, "satuan" : "g", "cat" : "kira-kira seruas ibu jari, memarkan"},
+            {"bahan" : "serai", "jumlah" : 1, "satuan" : "btg", "cat" : "memarkan"},
+            {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "bawang goreng", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 3, "satuan" : "siung", "cat" : ""},
+            {"bahan" : "bawang putih", "jumlah" : 6, "satuan" : "siung", "cat" : ""},
+            {"bahan" : "kencur", "jumlah" : 1, "satuan" : "g", "cat" : "kira-kira seruas ibu jari, memarkan"},
+            {"bahan" : "merica putih bubuk", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "ketumbar butiran", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "kemiri", "jumlah" : 5, "satuan" : "buah", "cat" : "sangrai"},
+            {"bahan" : "garam", "jumlah" : 2, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "gula pasir", "jumlah" : 1, "satuan" : "sdt", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Aduk rata daging ayam dengan bumbu halus, lalu biarkan selama sekitar 15 menit hingga bumbu meresap."},
+            {"resep" : "Rebus santan encer dan susu rendah lemak, masukkan Royco Kaldu Ayam dan semua bahan kecuali santan kental. Masak di atas api kecil sambil sesekali diaduk agar santan tidak pecah."},
+            {"resep" : "Masukkan santan kental, aduk perlahan hingga ayam empuk. Angkat."},
+            {"resep" : "Sajikan dengan taburan bawang goreng"}
+        ]
+    },
+    {
+        "nama" : "Nasi Goreng Jamur",
+        "gambar" : "",
+        "jenis" : ["Nasi"],
+        "semua_bahan" : [
+            {"bahan" : "Nasi putih", "jumlah" : 600, "satuan" : "gr", "cat" : ""},
+            {"bahan" : "daging ayam giling", "jumlah" : 100, "satuan" : "gr", "cat" : ""},
+            {"bahan" : "telur ayam", "jumlah" : 2, "satuan" : "btr", "cat" : ""},
+            {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" : "gr", "cat" : "belah dua"},
+            {"bahan" : "Royco bumbu komplit nasi goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "margarin", "jumlah" : 1, "satuan" : "sdm", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Panaskan minyak dan margarin di dalam wajan diatas api besar. Masukkan daging ayam, masak hingga berubah warna. Sisihkan di pinggir wajan."},
+            {"resep" : "Masukkan telur, diamkan sebentar. Masak orak arik. Setelah matang, aduk rata dengan ayam."},
+            {"resep" : "Masukkan jamur, aduk rata."},
+            {"resep" : "Tambahkan nasi dan Royco Bumbu Komplit Nasi Goreng, aduk rata."},
+            {"resep" : "Masak hingga bumbu meresap sempurna. Angkat."}
+        ]
+    },
+    {
+        "nama" : "Capcay",
+        "gambar" : "",
+        "jenis" : ["Sayur"],
+        "semua_bahan" : [
+            {"bahan" : "wortel", "jumlah" : 150, "satuan" : "gram", "cat" : "Iris tipis"},
+            {"bahan" : "kol putih", "jumlah" : 150, "satuan" : "gram", "cat" : "potong potong kecil seukuran gigitan"},
+            {"bahan" : "brokoli", "jumlah" : 150, "satuan" : "gram", "cat" : "petiki kuntumnya"},
+            {"bahan" : "kapri", "jumlah" : 50, "satuan" : "gram", "cat" : "siangi"},
+            {"bahan" : "jamur", "jumlah" : 100, "satuan" : "gram", "cat" : "segar belah dua"},
+            {"bahan" : "sawi putih", "jumlah" : 150, "satuan" : "gram", "cat" : "potong dadu"},
+            {"bahan" : "bawang bombay", "jumlah" : 50, "satuan" : "gram", "cat" : "potong dadu"},
+            {"bahan" : "bawang putih", "jumlah" : 4, "satuan" : "siung", "cat" : "memarkan"},
+            {"bahan" : "bakso sapi", "jumlah" : 6, "satuan" : "buah", "cat" : "iris"},
+            {"bahan" : "air", "jumlah" : 200, "satuan" : "ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 3, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "maizena", "jumlah" : 1, "satuan" : "sdt", "cat" : "dilarutkan"},
+            {"bahan" : "minyak zaitun", "jumlah" : 2, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "saus tiram", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "lada putih bubuk", "jumlah" : 0.25, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "gula pasir", "jumlah" : 1, "satuan" : "sdt", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Tumis bawang bombay dan bawang putih hingga harum."},
+            {"resep" : "Masukkan bakso sapi, aduk rata. Kemudian masukkan semua sayuran, bumbu, Royco Penyedap Serbaguna Rasa Ayam atau Sapi, dan air."},
+            {"resep" : "Masak hingga kuah mengental. Angkat."},
+            {"resep" : "Sajikan hangat ditemani nasi putih."}
+        ]
+    }
+]

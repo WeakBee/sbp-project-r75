@@ -2,6 +2,9 @@
     color: #2A41F8;
     font-family: "Inter";
 }
+a{
+    text-decoration: none;
+}
 section{
     position: relative;
 }
