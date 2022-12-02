@@ -1,0 +1,499 @@
+[
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy S22 Ultra 5G",
+        "Tahun" : "2022",
+        "Harga" : "18.999.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB, 1 TB",
+                "Kamera_belakang" : "64 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A53 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint, gyro, compass"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A13",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "3GB, 4GB, 6GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "Fingerprint, Accelerometer, compass",
+                "Sensor" : "5000 mAh"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A33 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "48 + 8 + 5 + 2MP",
+                "kamera_depan" : "13MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint, Accelerometer, Compass, Gyro"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy S22 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "12 + 50 + 10MP",
+                "kamera_depan" : "10MP",
+                "Kapasitas_baterai" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+                "Sensor" : "3700 mAh"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A73 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : " 5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy S21 FE 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : " Android 12",
+                "Chipset" : "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "12 + 8 + 12MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A23 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : " 8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass "
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A04S",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : " 5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer Virtual Proximity Sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy S22+ 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 MP + 12 MP + 10 MP",
+                "kamera_depan" : "10 MP",
+                "Kapasitas_baterai" : " 4500 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy Z Fold4",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12L",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "12GB",
+                "Penyimpanan" : "255GB, 512GB 1TB",
+                "Kamera_belakang" : "50 + 10 + 12MP",
+                "kamera_depan" : "4MP",
+                "Kapasitas_baterai" : "44000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsusng Gakaxy A04e",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "13 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy Z Flip4",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "8 GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "12 + 12MP",
+                "kamera_depan" : "10MP",
+                "Kapasitas_baterai" : "3700 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy M53",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 + 2MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy M33",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, Virtual Proximity Sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy M13",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4 GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy S20 FE 2022",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6 GB",
+                "Penyimpanan" : "128 GB",
+                "Kamera_belakang" : "12 + 8 + 12MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy F13",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4 GB",
+                "Penyimpanan" : "64, 128 GB",
+                "Kamera_belakang" : "50 + 5 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy F23",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual Proximity Sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A13 (SM-A137)",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6769V/CU Helio G80 (12 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy M13 5G",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy M23",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual Proximity Sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy Xcover6 Pro",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "6 GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 8MP",
+                "kamera_depan" : "13MP",
+                "Kapasitas_baterai" : "4050 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer, Samsung DeX support"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A23",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung Galaxy A04",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "3GB, 4GB, 6GB, 8GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+
+            }
+        ]
+    }
+]

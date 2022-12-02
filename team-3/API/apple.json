@@ -1,0 +1,102 @@
+[
+    {   
+        "Gambar" : "",
+        "Brand" : "Apple iPhone 14 Pro Max",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "iOS 16",
+                "Chipset" : "Apple A16 Bionic (4 nm)",
+                "Prosesor inti" : "Hexa Core",
+                "RAM" : "6GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB, 1TB",
+                "Kamera_belakang" : "48 + 12 + 12MP",
+                "kamera_depan" : "12MP",
+                "Kapasitas_baterai" : "4323 mAh",
+                "Sensor" : "Face ID, accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Apple iPhone 14 Pro",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "iOS 16",
+                "Chipset" : "Apple A16 Bionic (4 nm)",
+                "Prosesor inti" : "Hexa Core",
+                "RAM" : "6GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB, 1TB",
+                "Kamera_belakang" : "48 + 12 + 12MP",
+                "kamera_depan" : "12MP",
+                "Kapasitas_baterai" : "3200 mAh",
+                "Sensor" : "Face ID, accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Apple iPhone 14",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "iOS 16",
+                "Chipset" : "Apple A15 Bionic (5 nm)",
+                "Prosesor inti" : "Hexa Core",
+                "RAM" : "6GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "12 + 12MP",
+                "kamera_depan" : "12MP",
+                "Kapasitas_baterai" : "3279 mAh",
+                "Sensor" : "Face ID, accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Apple iPhone 14 Plus",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "iOS 16",
+                "Chipset" : "Apple A15 Bionic (5 nm)",
+                "Prosesor inti" : "Hexa Core",
+                "RAM" : "6GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "12 + 12MP",
+                "kamera_depan" : "12MP",
+                "Kapasitas_baterai" : "4323 mAh",
+                "Sensor" : "Face ID, accelerometer, gyro, proximity, compass, barometer"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Apple iPhone SE (2022)",
+        "Tahun" : "2022",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "iOS 16",
+                "Chipset" : "Apple A15 Bionic (5 nm)",
+                "Prosesor inti" : "Hexa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "12MP",
+                "kamera_depan" : "7MP",
+                "Kapasitas_baterai" : "2018 mAh",
+                "Sensor" : "Fingerprint (front-mounted), accelerometer, proximity, gyro, compass, barometer"
+
+            }
+        ]
+    }
+]
