@@ -1,0 +1,202 @@
+[
+    {
+        "nama_penyakit" : "jantung",
+        "semua_bahan" : [
+            {"bahan" : "daun takokak","jumlah" : 6, "satuan" :"lembar"},
+            {"bahan" : "rimpang kunyit","jumlah" : 1/2, "satuan" :"jari"},
+            {"bahan" : "air matang","jumlah" : 1/2, "satuan" :"gelas"},
+            {"bahan" : "madu","jumlah" : 1, "satuan" :"sdm"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "tumbuk hingga halus, kemudian tambahkan 1/2 gelas air matang"},
+            {"resep" : "peras dan saring untuk diambil airnya"},
+            
+        ],
+        "aturan_pakai" : [
+            {"minum ramuan ini 2x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+    {
+        "nama_penyakit" : "",
+        "semua_bahan" : [
+            {"bahan" : "","jumlah" : , "satuan" :"buah", "cat" : ""},
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : ""},
+            
+        ],
+        "aturan_pakai" : [
+            {" "}
+        ]
+    },
+]
