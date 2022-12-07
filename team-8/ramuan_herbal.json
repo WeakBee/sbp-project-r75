@@ -1,0 +1,259 @@
+[
+    {
+        "nama_penyakit" : "jantung",
+        "semua_bahan" : [
+            {"bahan" : "daun takokak","jumlah" : 6, "satuan" :"lembar"},
+            {"bahan" : "rimpang kunyit","jumlah" : 0.5, "satuan" :"jari"},
+            {"bahan" : "air matang","jumlah" : 0.5, "satuan" :"gelas"},
+            {"bahan" : "madu","jumlah" : 1, "satuan" :"sdm"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "tumbuk hingga halus, kemudian tambahkan 1/2 gelas air matang"},
+            {"resep" : "peras dan saring untuk diambil airnya"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan ini 2x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker kulit",
+        "semua_bahan" : [
+            {"bahan" : "bunga pukul empat","jumlah" : 15, "satuan" :"gr"}, 
+            {"bahan" : "air matang","jumlah" : 0.5, "satuan" :"gelas"}
+
+        ],    
+        "cara_pembuatan" : [
+            {"resep" : "cuci bunga pukul empat hinga bersih"},
+            {"resep": "blender hingga halus bersama dengan air matang"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "kompreskan pada bagian yang sakit, hingga sembuh "}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker perut",
+        "semua_bahan" : [
+            {"bahan" : "tunas/anak batang pohon pisang","jumlah" : 0.25, "satuan" :"buah"},
+            {"bahan" : "tanaman benalu","jumlah" : 1 , "satuan" :"buah"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci kedua bahan hingga bersih"},
+            {"resep" : "parut tunas pisang dan peras airnya, sebanyak 4 gelas"},
+            {"resep" : "rebus bersama benalu sampai mendidih dan tersisa sekitar 2 gelas"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" :"minum ramuan ini 2x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker paru-paru",
+        "semua_bahan" : [
+            {"bahan" : "tanaman ciplukan", "jumlah" : 1, "satuan" :"tanaman"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci tanaman ciplukan hingga bersih, kemudian potong kecil-kecil"},
+            {"resep" : "rebus dengan air matang"},
+            {"resep" : "angkat dan dinginkan"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1 gelas"},
+            {"pemakaian" : "lakukan secara teratur selama 6 bulan"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker payudara",
+        "semua_bahan" : [
+            {"bahan" : "daun sambiloto","jumlah" : 0.5, "satuan" :"genggam"},
+            {"bahan" : "daun secang", "jumlah" : 0.5, "satuan" : "genggam"},
+            {"bahan" : "adas", "jumlah": 1, "satuan" : "biji"},
+            {"bahan" : "umbi kunyit", "jumlah" : 1, "satuan" : "biji"},
+            {"bahan" : "benalu jeruk nipis", "jumlah" : 1, "satuan" : "genggam"},
+            {"bahan" : "air matang", "jumlah" : 8, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "rebus dengan 8 gelas air hingga tersisa 4 gelas"}
+        
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1/2 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker rahim",
+        "semua_bahan" : [
+            {"bahan" : "kunyit putih", "jumlah" : 150 , "satuan" :"gr"},
+            {"bahan" : "kunyit biasa", "jumlah" : 150, "satuan" : "gr"},
+            {"bahan" : "biang kunyit", "jumlah" : 250, "satuan" : "gr"},
+            {"bahan" : "jahe merah", "jumlah" : 25, "satuan" : "gr"},
+            {"bahan" : "jahe", "jumlah" : 100, "satuan" : "gr"},
+            {"bahan" : "temuireng", "jumlah" : 125, "satuan" : "gr"},
+            {"bahan" : "temuputih", "jumlah" : 125, "satuan" : "gr"},
+            {"bahan" : "buah pinang muda", "jumlah" : 3, "satuan" : "buah"},
+            {"bahan" : "daun sirih", "jumlah" : 21, "satuan" : "lembar"},
+            {"bahan" : "asam jawa", "jumlah" : 30, "satuan" : "gr"},
+            {"bahan" : "gula batu", "jumlah" : 3, "satuan" : "sdm"},
+            {"bahan" : "air matang", "jumlah" : 4, "satuan" : "liter"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "kemudian geprek bahan-bahan yang masih segar"},
+            {"resep" : "rebus dengan 4 liter air matang hingga tersisa 2 liter"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1 gelas "}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker hati",
+        "semua_bahan" : [
+            {"bahan" : "akar daruju", "jumlah" : 30, "satuan" :"gr"},
+            {"bahan" : "daging sapi tanpa lemak", "jumlah" : 120, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "rebus dengan 3 gelas air matang, hingga air rebusan tersisa sekitar 1 mangkok"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari secara rutin dan teratur"}
+        ]
+    },
+    {
+        "nama_penyakit" : "leukimia",
+        "semua_bahan" : [
+            {"bahan" : "temuputih", "jumlah" : 2 , "satuan" :"biji"},
+            {"bahan" : "temumangga", "jumlah" : 1, "satuan" : "biji"},
+            {"bahan" : "air matang", "jumlah" : 4, "satuan" : "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kupas, cuci hingga bersih, dan iris kedua bahan tsb"},
+            {"resep" : "rebus dengan 4 gelas air hingga tersisa sekitar 3 gelas"},
+            {"resep" : "angkat,dinginkan,kemudian saring"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 1x sehari setelah makan, masing-masing 2/3 gelas "}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker lambung",
+        "semua_bahan" : [
+            {"bahan" : "suumsum batang bunga matahari", "jumlah" : 30 , "satuan" :"gr"},
+            {"bahan" : "dasar bunga matahari", "jumlah" : 90, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "rebus dengan 3 gelas air, hingga tersisa sekitar 1 gelas"},
+            {"resep" : "angkat kemudian di saring"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan ini sekaligus, selagi masih hangat "}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker ginjal",
+        "semua_bahan" : [
+            {"bahan" : "daun binahong", "jumlah" : 15 , "satuan" :"gr"},
+            {"bahan" : "daun keladi tikus", "jumlah" : 15, "satuan" : "gr"},
+            {"bahan" : "gula aren", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "air matang", "jumlah" : 5, "satuan": "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci kedua bahan, hingga bersih"},
+            {"resep" : "rebus dengan 5 gelas air matang, hingga tersisa 3 gelas"},
+            {"resep" : "tambahkan gula aren secukupnya"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan ini setiap hari secara teratur "}
+        ]
+    },
+    {
+        "nama_penyakit" : "tumor otak",
+        "semua_bahan" : [
+            {"bahan" : "cakar ayam kampung", "jumlah" : 6, "satuan" :"buah"},
+            {"bahan" : "seledri", "jumlah" : 3, "satuan" : "tangkai"},
+            {"bahan" : "bawang putih", "jumlah" : 3, "satuan" : "siung"},
+            {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdt"},
+            {"bahan" : "air matang", "jumlah" : 8, "satuan" : "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci cakar ayam hingga bersih, kemudian potong menjadi 3 bagian"},
+            {"resep" : "rebus bersama bahan-bahan lain dengan 8 gelas air hingga tersisa sekitar 6 gelas"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1/2 gelas "}
+        ]
+    },
+    {
+        "nama_penyakit" : "kanker mulut rahim",
+        "semua_bahan" : [
+            {"bahan" : "biji jali kering", "jumlah" : 60 , "satuan" :"gr"},
+            {"bahan" : "air matang", "jumlah" : 6, "satuan" : "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "rebus biji jali kering dengan 6 gelas air, hingga tersisa sekitar 2 gelas"},
+            {"resep" : "angkat, dinginkan, kemudian di saring"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "batu ginjal",
+        "semua_bahan" : [
+            {"bahan" : "akar pepaya", "jumlah" : 3, "satuan" :"buah"},
+            {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdt"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "liter"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci akar pepaya, hingga bersih"},
+            {"resep" : "rebus dengan 1 liter air sampai mendidih"},
+            {"resep" : "angkat,kemudian saring, dan dinginkan"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan seperti teh dengan dicampurkan madu secukupnya "}
+        ]
+    },
+    {
+        "nama_penyakit" : "gagal ginjal",
+        "semua_bahan" : [
+            {"bahan" : "akar ketapang", "jumlah" : 20, "satuan" :"gr"},
+            {"bahan" : "tebuireng", "jumlah" : 20, "satuan" : "gr"},
+            {"bahan" : "daun kapas", "jumlah" : 20, "satuan" : "gr"},
+            {"bahan" : "sarang burung walet", "jumlah" : 40, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 5, "satuan" : "gelas"}
+            
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan, hngga bersih"},
+            {"resep" : "rebus dengan 5 gelas air, hingga tersisa sekitar 3 gelas "}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x segari, masing-masing 1/2 gelas "}
+        ]
+    },
+    {
+
+    }
+]
