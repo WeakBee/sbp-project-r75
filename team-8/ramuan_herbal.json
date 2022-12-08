@@ -255,5 +255,1121 @@
     },
     {
 
-    }
+    },
+    {
+        "nama_penyakit" : "radang ginjal",
+        "semua_bahan" : [
+            {"bahan" : "nanas", "jumlah" : 0.25, "satuan" :"buah"},
+            {"bahan" : "pisang", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdm"},
+            {"bahan" : "garam", "jumlah" : 0.5, "satuan" : "sdt"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kupas nanas dan pisang kemudian potong kecil-kecil"},
+            {"resep" : "cuci nanas hingga bersih "},
+            {"resep" : "blender hingga halus bersama air secukupnya"},
+            {"resep" : "tambahkan madu dan garam kemudian aduk hingga rata"}
+            
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan secara teratur setiap hari "}
+        ]
+    },
+    {
+        "nama_penyakit" : "hipertensi",
+        "semua_bahan" : [
+            {"bahan" : "belimbing hijau", "jumlah" : 2, "satuan" :"buah"},
+            {"bahan" : "air secukupnya", "jumlah" : 1, "satuan" : "gelas"}        
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci buah belimbing hingga bersih"},
+            {"resep" : "belender bersama air secukupnya"}           
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari, [agi dan sore setelah makan "}
+        ] 
+    },
+    {
+        "nama_penyakit" : "kencing manis",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 3, "satuan" :"buah"},
+            {"bahan" : "garam", "jumlah" : 0.5, "satuan" : "sdt"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "lt"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci kunyit hingga bersih"},
+            {"resep" : "rebus bersama dengan 0.5 sdt garam dalam 1 lt air hingga mendidih"},
+            {"resep" : "angkat kemduian di saring"}           
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x seminggu, masing masing 0.5 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kolesterol tinggi",
+        "semua_bahan" : [
+            {"bahan" : "daun salam", "jumlah" : 15, "satuan" :"lembar"},
+            {"bahan" : "mengkudu matang", "jumlah" : 2, "satuan" : "buah"},
+            {"bahan" : "Air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci daun salam dan buah mengkudu hingga bersih"},
+            {"resep" : "buah mengkudu dipotong potong"},
+            {"resep" : "rebus semua bahan dengan 3 gelas air"},
+            {"resep" : "tunggu hingga air rebusan tersisa 1 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan ini selagi hangat, lakukan sehari sekali"}
+        ]
+    },
+    {
+        "nama_penyakit" : "liver",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 2, "satuan" :"potong"},
+            {"bahan" : "kencur", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "bratawali", "jumlah" : 3, "satuan" : "sdt"},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung"},
+            {"bahan" : "daun kesimbukan", "jumlah" : 1, "satuan" : "genggam"},
+            {"bahan" : "Air panas", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan ditumbuk hingga halus"},
+            {"resep" : "jika ingim diminum ambila 1 sdt ramuan yang sudah ditumbuk, lalu seduhlah dengan secangkir air panas"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 3x sehari, setidaknya selama 7 hari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "Stroke",
+        "semua_bahan" : [
+            {"bahan" : "daun salam", "jumlah" : 7, "satuan" :"lembar"},
+            {"bahan" : "jamur kuping", "jumlah" : 1, "satuan" : "genggam"},
+            {"bahan" : "bawang merah", "jumlah" : 6, "satuan" : "siung"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci daun salam dan buah mengkudu hingga bersih kemudian diiris-iris"},
+            {"resep" : "rebus dengan 6 gelas air hingga mendidih dan air rebusan tersisa 3 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan ini selagi hangat, lakukan 3x sekali. jamurnya bisa dimakan sebagai sayuran"}
+        ]
+    },
+    {
+        "nama_penyakit" : "Asma",
+        "semua_bahan" : [
+            {"bahan" : "kencur", "jumlah" : 1, "satuan" :"buah"},
+            {"bahan" : "madu murni", "jumlah" : 2, "satuan" : "sdt"},
+            {"bahan" : "tekur ayam kampung", "jumlah" : 1, "satuan" : "butir"},
+            {"bahan" : "jeruk nipis", "jumlah" : 0.25, "satuan" :"buah"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci kencur hingga bersih, kemudian diparut hingga halus"},
+            {"resep" : "peras dan campurkan airnya dengan madu dan telur ayam"},
+            {"resep" : "tambahkan perasan air jeruk nipis kemudian aduk hingga rata"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari, pada sore dan malam hari menjelang tidur"}
+        ]
+    },
+    {
+        "nama_penyakit" : "TBC",
+        "semua_bahan" : [
+            {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung"},
+            {"bahan" : "daun lidah buaya", "jumlah" : 100, "satuan" : "gr"},
+            {"bahan" : "jamur putih kering", "jumlah" : 20, "satuan" : "gr"},
+            {"bahan" : "umbi bunga lili kering", "jumlah" : 30, "satuan" :"gr"},
+            {"bahan" : "kurma tiongkok", "jumlah" :10, "satuan" : "butir"},
+            {"bahan" : "air matang", "jumlah" : 3.5, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "memamarkan bawang putih"},
+            {"resep" : "kupas daun lidah buaya"},
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "rebus bahan dengan 3.5 air matang dan tunggu hingga air rebusan tersisa 1.5 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari masing masing 0.5 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "Demam Berdarah",
+        "semua_bahan" : [
+            {"bahan" : "jambu biji", "jumlah" : 2, "satuan" :"buah"},
+            {"bahan" : "kunyit", "jumlah" : 100, "satuan" : "gr"},
+            {"bahan" : "temulawak", "jumlah" : 10, "satuan" : "gr"},
+            {"bahan" : "Air matang", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "masukan belender bersama air secukupnya"},
+            {"resep" : "belender hingga halus kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari dengan takaran yang sama"}
+        ]
+    },
+    {
+        "nama_penyakit" : "tifus",
+        "semua_bahan" : [
+            {"bahan" : "air kelapa muda", "jumlah" : 100, "satuan" :"gr"},
+            {"bahan" : "kunyit", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "telur ayam kampung diambil kuningnya saja", "jumlah" : 1, "satuan" : "butir"},
+            {"bahan" : "madu", "jumlah" : 3, "satuan" : "sdm"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "tumbuk daun dadap dengan kunyit bersamaan hingga halus"},
+            {"resep" : "kemudian peras dan saring"},
+            {"resep" : "agar banyak air yang keluar tambahkan air kelapa muda sedikit saja"},
+            {"resep" : "peras sampai kira kira diperoleh 0.5 gelas"},
+            {"resep" : "tambahkan kuning telur dan madu lalu aduk sampai rata"},
+            {"resep" : "[penuhi sampai satu gelas dengan mendambahkan kelapa muda"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan sehari sekali saja selama sakit"}
+        ]
+    },
+    {
+        "nama_penyakit" : "darah rendah",
+        "semua_bahan" : [
+            {"bahan" : "wortel", "jumlah" : 250, "satuan" :"gr"},
+            {"bahan" : "bayam", "jumlah" : 100, "satuan" : "gr"},
+            {"bahan" : "seledri", "jumlah" : 150, "satuan" : "gr"},
+            {"bahan" : "bit", "jumlah" : 200, "satuan" : "gr"},
+            {"bahan" : "mentimun", "jumlah" : 150, "satuan" : "gr"},
+            {"bahan" : "kelapa", "jumlah" : 150, "satuan" : "gr"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci semua bahan hingga bersih"},
+            {"resep" : "satukan dalam satu wadah kemudian haluskan"},
+            {"resep" : "peras dan ambil sarinya"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan secara rutin setiap pagi"}
+        ]
+    },
+    {
+        "nama_penyakit" : "usus buntu",
+        "semua_bahan" : [
+            {"bahan" : "sambiloto kering", "jumlah" : 15, "satuan" :"gr"},
+            {"bahan" : "daun lidah buaya", "jumlah" : 15, "satuan" : "gr"},
+            {"bahan" : "rumput lidah ular", "jumlah" : 30, "satuan" : "gr"},
+            {"bahan" : "Air matang", "jumlah" : 4, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "lidah buaya dikupas kulit luarnya dan dipotong kecil-kecil"},
+            {"resep" : "lalu semua bahan dikumpulkan dan masukan kedalam wadah yang tertutup"},
+            {"resep" : "rebus dengan 4 gelas air hingga tersisa 2 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 2x sehari, masing masing 1 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "batu empedu",
+        "semua_bahan" : [
+            {"bahan" : "temulawak", "jumlah" : 20, "satuan" :"gr"},
+            {"bahan" : "kapulaga", "jumlah" : 20, "satuan" : "gr"},
+            {"bahan" : "daun meniran", "jumlah" : 10, "satuan" : "gr"},
+            {"bahan" : "kumis kucing", "jumlah" : 40, "satuan" : "gelas"},
+            {"bahan" : "gempur watu", "jumlah" : 10, "satuan" :"gr"},
+            {"bahan" : "dringo", "jumlah" : 10, "satuan" : "gr"},
+            {"bahan" : "air jeruk nipis", "jumlah" : 10, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "rebus dengan 1 gelas air hingga mendidih"},
+            {"resep" : "angkat dinginkan, kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan 1x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "perut kembung",
+        "semua_bahan" : [
+            {"bahan" : "temulawak", "jumlah" : 25, "satuan" :"gr"},
+            {"bahan" : "jahe", "jumlah" : 15, "satuan" : "gr"},
+            {"bahan" : "kulit jeruk mandarinn", "jumlah" : 7, "satuan" : "gr"},
+            {"bahan" : "gula aren", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "temulawak dan jahe diiris tipis tipis"},
+            {"resep" : "rebus dengan 3 gelas air"},
+            {"resep" : "tunggu hingga air rebusan tersisa 1.5 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan dalam keadaan hangat 3x sehari, masing masing 0.5 gelas "}
+        ]
+    },
+    {
+        "nama_penyakit" : "sakit telinga",
+        "semua_bahan" : [
+            {"bahan" : "daun kembang telang", "jumlah" : 10, "satuan" :"lembar"},
+            {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdm"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "cuci bersih daUn kembang telang"},
+            {"resep" : "tumbuyk hingga halus kemudian peras"},
+            {"resep" : "tambahkan garam dalam air perasan"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "oleskan ramuan kesekitar telinga yang sakit. lakukan 2x sehari "}
+        ]
+    },
+    {
+        "nama_penyakit" : "sakit pinggang",
+        "semua_bahan" : [
+            {"bahan" : "jahe merah", "jumlah" : 25, "satuan" :"gr"},
+            {"bahan" : "temu hitam", "jumlah" : 25, "satuan" : "gr"},
+            {"bahan" : "akar sawi langit", "jumlah" : 30, "satuan" : "gr"},
+            {"bahan" : "daun dewa", "jumlah" : 30, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "rebus dengan 3 gelas air"},
+            {"resep" : "tunggu hingga air rebusan tersisa 1.5 gelas"},
+            {"resep" : "angkat kemudian saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan dalam keadaan hangat 3x sehari, masing masing 0.5 gelas "}
+        ]
+    },
+    {
+        "nama_penyakit" : "asam urat",
+        "semua_bahan" : [
+            {"bahan" : "daun sambiloto", "jumlah" : 15, "satuan" :"gr"},
+            {"bahan" : "kumis kucing", "jumlah" : 15, "satuan" : "gr"},
+            {"bahan" : "jahe merah", "jumlah" : 20, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 800, "satuan" : "cc"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicuci hingga bersih"},
+            {"resep" : "rebus dengan 800 cc air hingga menjadi 400 cc"},
+            {"resep" : "setelah itu air rebusan di saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan pada pagi dan sore hari masing masing 1 gelas"}
+        ]
+    },
+    {
+        "nama_penyakit" : "mata pegal",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 1, "satuan" :"buah"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kencur dibelah menjadi 2 bagian"},
+            {"resep" : "permukaan yang basah dipakai untuk menggosok pelupuk mata"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "gosokkan pada pelupuk mata selama merasa pegal"}
+        ]
+    },
+    {
+        "nama_penyakit" : "memperlancar haid",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 2, "satuan" :"buah"},
+            {"bahan" : "daun trengguli", "jumlah" : 1, "satuan" : "lembar"},
+            {"bahan" : "cengkeh tua", "jumlah" : 1, "satuan" : "biji"},
+            {"bahan" : "adas pulawarsa", "jumlah" : 5, "satuan" : "lembar"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kencur diiris kemudian dicampur dengan bahan yang lain"},
+            {"resep" : "direbus dengan 3 gelas airsampai mendidih"},
+            {"resep" : "sampai air tersisa 2 gelas, kemudian di saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "dimunum satu kali sehari masing masing 2 cangkir"}
+        ]
+    },
+    {
+        "nama_penyakit" : "batuk berdarah",
+        "semua_bahan" : [
+            {"bahan" : "daun waru muda", "jumlah" : 3, "satuan" :"lembar"},
+            {"bahan" : "daun bayam tanah", "jumlah" : 3, "satuan" : "lembar"},
+            {"bahan" : "daun melati", "jumlah" : 3, "satuan" : "lembar"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan ditumbuk halus"},
+            {"resep" : "kemudian disaring lalu diminum"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum ramuan setiap pagi"}
+        ]
+    },
+    {
+        "nama_penyakit" : "muntah berak",
+        "semua_bahan" : [
+            {"bahan" : "air kelapa muda", "jumlah" : 0.5, "satuan" :"gelas"},
+            {"bahan" : "garam", "jumlah" : 0.5, "satuan" : "sdm"},
+            {"bahan" : "air matang", "jumlah" : 0.5, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "campur semua bahan, kemudian aduk hingga rata"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "diminum setiap 2 jam sekali sampai sakit berkurang. apabila sudah membaik lakukan setiap 4 jam sekali"}
+        ]
+    },
+    {
+        "nama_penyakit" : "kadas",
+        "semua_bahan" : [
+            {"bahan" : "daun asam", "jumlah" : 3, "satuan" :"genggam"},
+            {"bahan" : "tawas", "jumlah" : 1, "satuan" : "biji"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "rebus daun asam 3 genggam"},
+            {"resep" : "setelah mendidih masukan tawas 1 biji. lalu airnya digunakan untuk mencuci luka"},
+            {"resep" : "bakar tawas dan ditumbuk halus lalu usapkan pada luka"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "diusapkan pada luka hingga sembuh"}
+        ]
+    },
+    {
+        "nama_penyakit" : "keseleo",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 1, "satuan" :"buah"},
+            {"bahan" : "beras yang sudah direndam", "jumlah" : 15, "satuan" : "gr"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan ditumbuk dengan air secukupnya"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "dioleskan pada bagian yang keseleo sebagai bedak"}
+        ]
+    },
+    {
+        "nama_penyakit" : "radang lambung",
+        "semua_bahan" : [
+            {"bahan" : "kencur", "jumlah" : 2, "satuan" :"buah"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kencur dikupas hingga bersih dan dikunyah"},
+            {"resep" : "ditelan airnya, lalu ampasnya dibuang"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "dengan meminum air kencur dan satu gelas air putih"}
+        ]
+    },
+    {
+        "nama_penyakit" : "susah buang air kecil",
+        "semua_bahan" : [
+            {"bahan" : "rumah lebar tutur", "jumlah" : 1, "satuan" :"buah"},
+            {"bahan" : "sampiyo", "jumlah" : 1, "satuan" : "buah"},
+            {"bahan" : "bawang putih", "jumlah" : 1, "satuan" : "butir"},
+            {"bahan" : "air cuka", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan direbus dengan air cuka"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ramuan dioleskan dibawah pusar"}
+        ]
+    },
+    {
+        "nama_penyakit" : "susah buang air besar",
+        "semua_bahan" : [
+            {"bahan" : "temulawak", "jumlah" : 3, "satuan" :"iris"},
+            {"bahan" : "bawang merah", "jumlah" : 5, "satuan" : "siung"},
+            {"bahan" : "moster", "jumlah" : 1, "satuan" : "rimpang"},
+            {"bahan" : "rasuk angin", "jumlah" : 3, "satuan" : "biji"},
+            {"bahan" : "asam", "jumlah" : 5, "satuan" : "buah"},
+            {"bahan" : "arang pucuk sujen", "jumlah" : 1, "satuan" : "biji"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan ditumbuk halus"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ditempelkan di perut"}
+        ]
+    },
+    {
+        "nama_penyakit" : "menyapih bayi",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 1, "satuan" :"rimpang"},
+            {"bahan" : "kapur sirih", "jumlah" : 1, "satuan" : "biji"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "rimpang kunyit dan kapur sirih ditumbuk halus"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ramuan dioleskan pada payudara"}
+        ]
+    },
+    {
+        "nama_penyakit" : "terlambat haid",
+        "semua_bahan" : [
+            {"bahan" : "kunyit", "jumlah" : 15, "satuan" :"biji"},
+            {"bahan" : "daun sriganding", "jumlah" : 15, "satuan" : "gr"},
+            {"bahan" : "biji pala", "jumlah" : 10, "satuan" : "gr"},
+            {"bahan" : "kapulaga", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "ketumbar", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "jinten hitam", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "cengkeh", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dipotong potong, lalu idrebus hingga tersisa 1 gelas"},
+            {"resep" : "angkat kemudian di saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ramuan diminum 3x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "ayan",
+        "semua_bahan" : [
+            {"bahan" : "minyak salmoniak", "jumlah" : 2, "satuan" :"tetes"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan dicampur dengan air 1 sdm"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ramuan diminum saat kambuh"}
+        ]
+    },
+    {
+        "nama_penyakit" : "lepra",
+        "semua_bahan" : [
+            {"bahan" : "daun pacar jawa", "jumlah" : 10, "satuan" :"lembar"},
+            {"bahan" : "air matang", "jumlah" : 2, "satuan" : "lt"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan direbus hingga mendidih"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "minum air rebusan setiap hari selama 40 hari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "campak",
+        "semua_bahan" : [
+            {"bahan" : "asam jawa", "jumlah" : 2, "satuan" :"gr"},
+            {"bahan" : "kunyit", "jumlah" : 2, "satuan" : "rimpang"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "kunyit diparut, ditambahkan bauh asam jawa. lalu campur sampai merata"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "duguanakan sebagai bedak atau obat gososk"}
+        ]
+    },
+    {
+        "nama_penyakit" : "menurunkan kolesterol",
+        "semua_bahan" : [
+            {"bahan" : "asam jawa", "jumlah" : 12, "satuan" :"gr"},
+            {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "daun asam jawa dicuci hingga bersih, lalu didihkan dalam air selama 15 menit"},
+            {"resep" : "setelah dingin kemudian di saring"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "ramuan diminum 2x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "difteri",
+        "semua_bahan" : [
+            {"bahan" : "asam jawa", "jumlah" : 5, "satuan" :"gr"},
+            {"bahan" : "lobak", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "bawang merah", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "kencur", "jumlah" : 5, "satuan" : "gr"},
+            {"bahan" : "daun pepaya", "jumlah" : 10, "satuan" : "gr"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "selain asam jawa, semua bahan ditumbuk lalu diberi air dan diperas"},
+            {"resep" : "tambahkan asam yang sudah diseduh dengan air panas, lalu aduk hingga merata"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "selagi masih hangat, gunakan untuk kumur-kumur. gunakan 3x sehari"}
+        ]
+    },
+    {
+        "nama_penyakit" : "sakit pada uluh hati",
+        "semua_bahan" : [
+            {"bahan" : "manis jangan yang sudah dibakar", "jumlah" : 1, "satuan" :"biji"},
+            {"bahan" : "kesumba", "jumlah" : 5, "satuan" : "biji"},
+            {"bahan" : "kencur yang sudah dibakar", "jumlah" : 3, "satuan" : "iris"},
+            {"bahan" : "bawang merah", "jumlah" : 3, "satuan" :"siung"},
+            {"bahan" : "secang", "jumlah" : 6, "satuan" : "biji"},
+            {"bahan" : "pala", "jumlah" : 1, "satuan" : "biji"},
+            {"bahan" : "beras", "jumlah" : 0.5, "satuan" :"gelas"},
+            {"bahan" : "gula jawa", "jumlah" : 1, "satuan" : "biji"},
+            {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdt"}
+        ],
+        "cara_pembuatan" : [
+            {"resep" : "semua bahan direbus hingga mendidih"}
+        ],
+        "aturan_pakai" : [
+            {"pemakaian" : "air rebusan diminum ketika sedang kambuh"}
+        ]
+    },
+    {
+                "nama_penyakit" : "batuk rejan",
+                 "semua_bahan" : [
+                    {"bahan" : "umbi bidara upas matang", "jumlah" : 0.5, "satuan" :"buah"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "sdm"},
+                    {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdm"}
+                   
+                ],
+                "cara_pembuatan" : [
+                    {"resep" : "cuci umbi bidara upas, hingga bersih kemudian parut"},
+                    {"resep" : "campurkan dengan 2 sdm air matang dan 1 sdm madu"},
+                    {"resep" : "peras dan saring untuk diambil airnya"}
+                   
+                ],
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan sekaligus, lakukan 2x sehari di pagi dan sore hari"}
+                ]
+    },
+                {
+                 "nama_penyakit" : "batuk kering",
+                 "semua_bahan" : [
+                    {"bahan" : "jeruk nipis" , "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "madu", "jumlah" : 2, "satuan" : "sdm"}
+            
+                ],
+                 "cara_pembuatan" : [
+                    {"resep" : "cuci jerruk nipis, hingga bersih"},
+                    {"resep" : "belah kemudian peras airnya"},
+                    {"resep" : "tambahkan 2 sdm madu dan aduk hingga rata"}
+                
+                ],
+                 "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan 2x sehari, pagi dan sore"}
+            
+                ]
+            },
+                {
+                "nama_penyakit" : "batuk berdahak",
+                "semua_bahan" : [
+                    {"bahan" : "jahe", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "kunyit", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "jeruk nipis", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdm"},
+                    {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+            
+                ],
+                "cara_pembuatan" : [
+                    {"resep" : "cuci jahe dan kunyit, hingga bersih kemudian parut secara terpisah"},
+                    {"resep" : "campurkan sedikit air"},
+                    {"resep" : "saring airnya masing-masing 2 sdm"},
+                    {"resep" : "peras 1 buah jeruk nipis dan saring kedalam gelas"},
+                    {"resep" : "campurkan dengan air perasan jahe dan kunyit"},
+                    {"resep" : "tambahkan 1 sdm madu kemudian aduk rata"}
+                ],
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan 3x sehari, hingga sembuh"}
+                ]
+            },
+                { 
+                "nama_penyakit" : "sakit kepala",
+                "semua_bahan" : [
+                    {"bahan" : "air teh kental", "jumlah" : 0.75, "satuan" : "gelas"},
+                    {"bahan" : "air jeruk nipis", "jumlah" : 1, "satuan" : "sdt"},
+                    {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "campurkan ketiga bahan"},
+                    {"resep" : "aduk hingga rata"}
+                ], 
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan sekaligus, lakukan 2-3 kali sehari"}
+                ]
+            },
+
+                {
+
+                "nama_penyakit" : "sakit gigi",
+                "semua_bahan" : [
+                    {"bahan" : "daun sirih", "jumlah" : 7, "satuan" : "lembar"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci bersih daun sirih"},
+                    {"resep" : "rebuskan dengan 2 gelas air"},
+                    {"resep" : "angkat dan dinginkan"}
+                ],
+                "aturan_pakai" : [
+                    {"pemakaian" : "gunakan air rebusan untuk berkumu"},
+                    {"pemakaian" : "lakukan 2x sehari"}
+                ]
+            },
+
+                {
+
+                "nama_penyakit" : "demam",
+                "semua_bahan" : [
+                    {"bahan" : "rimpang bangle segar", "jumlah" : 15, "satuan" : "gr"},
+                    {"bahan" : "air panas", "jumlah" : 0.5, "satuan" : "gelas"},
+                    {"bahan" : "madu", "jumlah" : 1, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci rimpang bangle hingga bersih, lalu diparut"},
+                    {"resep" : "tambahkan 1/2 gelas air panas dan 1 sdm madu"},
+                    {"resep" : "aduk hingga rata lalu diperas dan disaring"}
+            
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan 2x sehari dengan dosis yang sama"}
+                ]
+            },
+
+                {
+
+                "nama_penyakit" : "panas dalam",
+                "semua_bahan" : [
+                    {"bahan" : "kacang hijau", "jumlah" : 2, "satuan" : "genggam"},
+                    {"bahan" : "jahe", "jumlah" : 2, "satuan" : "gr"},
+                    {"bahan" : "gula batu", "jumlah" : 1, "satuan" : "sdm"},
+                    {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "kacang hijau di rebus dengan air"},
+                    {"resep" : "lalu tambahkan 2 gr jahe dan gula batu secukupnya"},
+                    {"resep" : "tunggu hingga benar-benar matang"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "makan bubur kacang hijau tersebut, 2x sehari"}
+                ]
+            },
+
+                {
+
+                "nama_penyakit" : "pegal linu",
+                "semua_bahan" : [
+                    {"bahan" : "merica", "jumlah" : 15, "satuan" : "biji"},
+                    {"bahan" : "cengkeh", "jumlah" : 10, "satuan" : "buah"},
+                    {"bahan" : "daun belimbing wuluh yang masih muda", "jumlah" : 30, "satuan" : "gr"},
+                    {"bahan" : "cuka", "jumlah" : 1, "satuan" : "sdt"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "semua bahan dicuci hingga bersih"},
+                    {"resep" : "kemudian giling semua bahan hingga halus"},
+                    {"resep" : "tambahkan cuka secukupnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "balurkan ramuan ini pada bagian yang sakit"}
+                ]
+            },
+                {
+                "nama_penyakit" : "rematik",
+                "semua_bahan" : [
+                    {"bahan" : "lengkuas", "jumlah" : 3, "satuan" : "gr"},
+                    {"bahan" : "bubuk merica", "jumlah" :0.5, "satuan" : "sdt"},
+                    {"bahan" : "gula merah", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "santan", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "rebus semua bahan hingga mendidih"},
+                    {"resep" : "tunggu air rebusan hingga tersisa 1 gelas"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minumlah sedikit demi sedikit"},
+                    {"pemakaian" : "lakukan selama 1 minggu secara teratur"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "sariawan",
+                "semua_bahan" : [
+                    {"bahan" : "jahe", "jumlah" : 800, "satuan" : "gr"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci jahe hingga bersih"},
+                    {"resep" : "rebus hingga mendidih dengan air secukupnya"}
+                ],
+                "aturan_pakai" : [
+                    {"pemakaian" : "gunakan air rebusan yang masih hangat untuk berkumur"},
+                    {"pemakaian" : "lakukan 2-3 kali sehari"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "sembelit",
+                "semua_bahan" : [
+                    {"bahan" : "umbi bawang putih", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "bawang merah", "jumlah" : 5, "satuan" : "buah"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "semua bahan ditumbuk halus"},
+                    {"resep" : "tambahkan air secukupnya, kemudian di peras dan disaring"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : " minum ramuan 2x sehari"}
+            
+                ]
+            },
+                {
+                "nama_penyakit" : "panu",
+                "semua_bahan" : [
+                    {"bahan" : "umbi lengkuas", "jumlah" : 2, "satuan" : "buah"},
+                    {"bahan" : "kapur sirih", "jumlah" : 1, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci umbi lengkuas hingga bersih"},
+                    {"resep" : "kedua bahan ditumbuk hingga halus"}
+                ], 
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "gosokan pada kulit yang terkena panu, digunakan setiap pagi dan sore"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "diare",
+                "semua_bahan" : [
+                    {"bahan" : "kencur", "jumlah" : 2, "satuan" : "buah"},
+                    {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdm"},
+                    {"bahan" : "air hangat", "jumlah" : 1, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci kencur hingga bersih, kemudian parut"},
+                    {"resep" : "tambahkan 1 gelas air hangat dan garam secukupnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "oleskan ramuan pada perut"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "bisul",
+                "semua_bahan" : [
+                    {"bahan" : "daun bayam duri", "jumlah" : 1, "satuan" : "gr"},
+                    {"bahan" : "daun kangkung", "jumlah" : 10, "satuan" : "gr"},
+                    {"bahan" : "asam kawak", "jumlah" : 5, "satuan" : "gr"},
+                    {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "daun bayam, daun kangkung dan asam kawak di tumbuk hingga halus"},
+                    {"resep" : "campurkan dengan garam secukupnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "tempelkan ramuan ini pada bisul"},
+                    {"pemakaian" : "lakukan secara rutin hingga bisul lekas masak dan pecah sampai segera sembuh"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "eksem",
+                "semua_bahan" : [
+                    {"bahan" : "kunyit yang tua", "jumlah" : 3, "satuan" : "buah"},
+                    {"bahan" : "air kapur", "jumlah" : 1, "satuan" : "sdt"},
+                    {"bahan" : " air jeruk nipis", "jumlah" : 0.5, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "kunyit dicuci sampai bersih, lalu di parut"},
+                    {"resep" : "tambahkan air kapur sirih dan perasan air jeruk nipis"},
+                    {"resep" : "aduk sampai rata"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "ramuan ini di oleskan pada bagian kulit yang kena eksem"}
+                ]
+            },
+
+                {
+                "nama_penyakit" : "jerawat",
+                "semua_bahan" : [
+                    {"bahan" : "kunyit", "jumlah" : 4, "satuan" : "buah"},
+                    {"bahan" : "susu", "jumlah" : 2, "satuan" : "sdt"},
+                    {"bahan" : "minyak zaitun", "jumlah" : 5, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci kunyit hingga bersih,lalu di parut"},
+                    {"resep" : "campurkan kunyit yang sudah di parut dengan susu dan minyak zaitun"}
+            
+                ],
+                "aturan_pakai" : [
+                    {"pemakaian" : "oleskan pada wajah dan diamkan selama 15 menit, kemudian bilas dengan air hangat"}
+            
+                ]
+            },
+                {
+                "nama_penyakit" : "keputihan",
+                "semua_bahan" : [
+                    {"bahan" : "daun beluntas", "jumlah" : 10, "satuan" : "lembar"},
+                    {"bahan" : "kayu rapat jenis pulasari 6 cm", "jumlah" : 1, "satuan" : "batang"},
+                    {"bahan" : "temukunci", "jumlah" : 1, "satuan" : "batang"},
+                    {"bahan" : "kunyit", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "temulawak", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "mangkuk"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "semua bahan dicuci sampai bersih lalu dirajang"},
+                    {"resep" : "temukunci, temulawak, dan kunyit diiris tipis-tipis"},
+                    {"resep" : "semua bahan disatukan lalu di rebus dengan 2 mangkuk air"},
+                    {"resep" : "tunggu hingga air tersisa 1/3 mangkuk"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "air rebusan diminum selagi hangat"},
+                    {"pemakaian" : "lakukan sehari sekali teratur selama 10 hari"}
+                ]
+            },
+                {
+                "nama_penyakit" : "nyeri haid",
+                "semua_bahan" : [
+                    {"bahan" : "kunyit", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "jahe", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "kencur", "jumlah" : 0.5, "satuan" : "buah"},
+                    {"bahan" : "air jeruk nipis", "jumlah" : 0.25, "satuan" : "gelas"},
+                    {"bahan" : "air panas", "jumlah" : 0.5, "satuan" : "gelas"},
+                    {"bahan" : "garam", "jumlah" : 1, "satuan": "sdm"},
+                    {"bahan" : "gula", "jumlah" : 1, "satuan" : "sdm"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci bersih semua bahan, lalu di parut"},
+                    {"resep" : "peras untuk diambil airnya"},
+                    {"resep" : "tambahkan air perasan jeruk nipis, kemudian seduh dengan 0.5 gelas air panas dan disaring"},
+                    {"resep" : "tambahkan gula dan garam secukupnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan pada hari pertama haid atau saat merasa nyeri di perut"}
+                ]
+            },
+                {
+                "nama_penyakit" : "magh",
+                "semua_bahan" : [
+                    {"bahan" : "temulawak", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "air matang", "jumlah" : 7, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci bersih temulak, kemudian diiris tipis dan diangin-anginkan sebentar"},
+                    {"resep" : "rebus dengan air 7 gelas"},
+                    {"resep" : "angkat kemudian disaring"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minumlah ramuan 1x sehari, 1 gelas"}
+                ]
+            },
+                {
+                "nama_penyakit" : "wasir",
+                "semua_bahan" : [
+                    {"bahan" : "tomat", "jumlah" : 8, "satuan" : "buah"},
+                    {"bahan" : "minyak kelapa", "jumlah" : 0.25, "satuan" : "liter"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "rebus beberapa buah tomat yang sudah dimasak dengan minyak kelapa, sekitar 10 menit"},
+                    {"resep" : "lalu, saring menggunakan kain"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "ramuan ini dioleskan pada wasir ketika sudah dingin"}
+            
+                ]
+            },
+                {
+                "nama_penyakit" : "sakit perut",
+                "semua_bahan" : [
+                    {"bahan" : "gula aren", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "asem", "jumlah" : 1, "satuan" : "gr"},
+                    {"bahan" : "air hangat", "jumlah" : 1, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "campurkan semua bahan dan aduk rata"},
+                    {"resep" : "kemudian saring untuk diambil airnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan sekaligus, lakukan 2x sehari"}
+                
+                ]
+            },
+                {
+                "nama_penyakit" : "bronkitis",
+                "semua_bahan" : [
+                    {"bahan" : "daun sirih", "jumlah" : 7, "satuan" : "lembar"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"},
+                    {"bahan" : "gula batu", "jumlah" : 1, "satuan" : "buah"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci bersih daun sirih, kemudian iris hingga halus"},
+                    {"resep" : "rebus hingga mendidih bersama gula batu dengan 2 gelas air hingga tersisa 1 gelas"},
+                    {"resep" : "angkat kemudian saring"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : " minum ramuan 3x sehari, masing-masing 3 sendok makan"}
+                ]
+            },
+                {
+                "nama_penyakit" : "cacar air",
+                "semua_bahan" : [
+                    {"bahan" : "kunyit", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "daun asam", "jumlah" : 6, "satuan" : "lembar"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "kedua bahan dicuci bersih"},
+                    {"resep" : "setelah itu, tumbuk hingga halus"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "balurkan ramuan pada ruam dan kulit yang terkena cacar"}
+                ]
+            },
+                {
+                "nama_penyakit" : "cacingan",
+                "semua_bahan" : [
+                    {"bahan" : "nanas muda", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "kupas buah nanas kemudian dicuci bersih"},
+                    {"resep" : "bilas dengan air matang, kemudian parut dan peras"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan sedikit demi sedikit"}
+                ]
+            },
+                {
+                "nama_penyakit" : "disentri",
+                "semua_bahan" : [
+                    {"bahan" : "akar pare", "jumlah" : 30, "satuan" : "gr"},
+                    {"bahan" : "gula", "jumlah" : 1, "satuan" : "sdm"},
+                    {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci akar pare hingga bersih, kemudian potong-potong"},
+                    {"resep" : "rebus dengan 3 gelas air hingga tersisa 1 gelas"},
+                    {"resep" : "angkat, dinginkan kemudian saring"},
+                    {"resep" : "tambahkan gula pasir secukupnya"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1/2 gelas"}
+                ]
+            },
+                {
+                "nama_penyakit" : "mimisan",
+                "semua_bahan" : [
+                    {"bahan" : "daun sirih berukuran sedang", "jumlah" : 2, "satuan" : "lembar"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci bersih daun sirih"},
+                    {"resep" : "pegang diatas nyala api beberapa saat"},
+                    {"resep" : "gulung daun dan remas ujungnya yang akan di masukan ke dalam lubang hidung"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "masukan daun yang sudah di gulung, ke dalam lubang hidung yang mimisan"}
+                ]
+            },
+                {
+                "nama_penyakit" : "influenza",
+                "semua_bahan" : [
+                    {"bahan" : "kelapa", "jumlah" : 0.25, "satuan" : "buah"},
+                    {"bahan" : "kencur", "jumlah" : 1, "satuan" : "buah"},
+                    {"bahan" : "air matang", "jumlah" : 1, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci semua bahan kemudian di parut"},
+                    {"resep" : "campurkan kedua bahan hingga rata, kemudian tambahkan air dan peras"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan sekaligus, sampai sehat kembali"}
+            
+                ]
+            },
+                {
+                "nama_penyakit" : "sakit mata",
+                "semua_bahan" : [
+                    {"bahan" : "daun sirih", "jumlah" : 7, "satuan" : "lembar"},
+                    {"bahan" : "air matang", "jumlah" : 3, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci daun sirih sampai bersih"},
+                    {"resep" : "rebus dengan 3 gelas air"},
+                    {"resep" : "angkat kemudian dinginkan"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "gunakan ramuan untuk mata yang sakit, lakukan 3x sehari"}
+                ]
+            },
+                {
+                "nama_penyakit" : "masuk angin",
+                "semua_bahan" : [
+                    {"bahan" : "kencur", "jumlah" : 25, "satuan" : "gr"},
+                    {"bahan" : "jahe", "jumlah" : 15, "satuan" : "gr"},
+                    {"bahan" : "kapulaga", "jumlah" : 3, "satuan" : "biji"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+
+                "cara_pembuatan" : [
+                    {"resep" : "cuci semua bahan hingga bersih"},
+                    {"resep" : "rebus dengan 2 gelas air matang"},
+                    {"resep" : "tunggu hingga air rebusan tersisa 1 gelas"},
+                    {"resep" : "angkat, kemudian di saring"}
+                ],
+
+                "aturan_pakai" : [
+                    {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1 gelas"}
+                ]
+            
+                
+                
+
+            
+            
+            
+            
+            
+            
+            
+            
+                }
+            
 ]
