@@ -1,0 +1,242 @@
+[
+    {   
+        "SUBGENRE" : "POP NEWWAVE",
+        "Band"  : "Duran Duran",
+        "Album" : "Self Titled",
+        "Judul" : "Planet Earth",
+        "Tahun" : "1981"
+            
+    },
+	{
+        "SUBGENRE" : "POP NEWWAVE",
+        "Band"  : "The Upstair",
+        "Album" : "Matraman",
+        "Judul" : "Matraman",
+        "Tahun" : "2004"
+			
+	},
+	{
+        "SUBGENRE" : "POP NEWWAVE",
+        "Band"  : " The Smith",
+        "Album" : "Hatful Of Hollow",
+        "Judul" : "Heaven Knows I'm Miserable Now",
+        "Tahun" : "1984"
+			
+	},
+	{   
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "bon jovi",
+        "Album" : "keep the faith",
+        "Judul" : "Bed of roses",
+        "Tahun" : "1992" 
+            
+    },
+	{
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "Coldplay",
+        "Album" : "Parachutes",
+        "Judul" : "yellow",
+        "Tahun" : "2000" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "Hoobastank",
+        "Album" : "The Reason|single|",
+        "Judul" : "The Reason",
+        "Tahun" : "2004" 
+			
+	},
+	{   
+        "SUBGENRE" : "Disco",
+        "Band"  : "Madonna",
+        "Album" : "Celebration",
+        "Judul" : "Material Girl",
+        "Tahun" : "2009" 
+            
+    },
+	{
+        "SUBGENRE" : "Disco",
+        "Band"  : "Michael Joseph Jackson",
+        "Album" : "off the wall",
+        "Judul" : "Don’t Stop ’til You Get Enough",
+        "Tahun" : "1979" 
+			
+	},
+	{
+        "SUBGENRE" : "Disco",
+        "Band"  : "Black Box",
+        "Album" : "Dreamland",
+        "Judul" : "Ride On Time",
+        "Tahun" : "1990" 
+			
+	},
+	{   
+        "SUBGENRE" : "Pop Ballads",
+        "Band"  : "sam smith",
+        "Album" : "In the lonely hour",
+        "Judul" : "i'm not the only one",
+        "Tahun" : "2014" 
+            
+    },
+	{
+        "SUBGENRE" : "Pop Ballads",
+        "Band"  : "Ellie Goulding",
+        "Album" : "Delirium",
+        "Judul" : "Love Me Like You Do",
+        "Tahun" : "2015" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Ballads",
+        "Band"  : "Ed Sheeran",
+        "Album" : "X",
+        "Judul" : "Thinking Out Loud",
+        "Tahun" : "2014" 
+			
+	},
+	{   
+        "SUBGENRE" : "Dream pop",
+        "Band"  : "Lana Del Rey",
+        "Album" : "Ultraviolence",
+        "Judul" : "Brooklyn Baby",
+        "Tahun" : "2014" 
+            
+    },
+	{
+        "SUBGENRE" : "Dream pop",
+        "Band"  : "Danilla",
+        "Album" : "Telisik",
+        "Judul" : "Berdistraksi",
+        "Tahun" : "2014" 
+			
+	},
+	{
+        "SUBGENRE" : "Dream pop",
+        "Band"  : "Reality Club",
+        "Album" : "Anything You Wan",
+        "Judul" : "Anything You Wan",
+        "Tahun" : "2022" 
+			
+	},
+	{   
+        "SUBGENRE" : "Synth-Pop",
+        "Band"  : "Taylor Swift",
+        "Album" : "1989",
+        "Judul" : "Style",
+        "Tahun" : "2014" 
+            
+    },
+	{
+        "SUBGENRE" : "Synth-Pop",
+        "Band"  : "Katy Perry",
+        "Album" : "witness",
+        "Judul" : "Tsunami",
+        "Tahun" : "2017" 
+			
+	},
+	{
+        "SUBGENRE" : "Synth-Pop",
+        "Band"  : "M83",
+        "Album" : "Hurry Up , We Are Dreaming",
+        "Judul" : "Midnight City",
+        "Tahun" : "2011" 
+			
+	},
+	{   
+        "SUBGENRE" : "Dance Pop",
+        "Band"  : "The chainsmokers ft Coldplay",
+        "Album" : "Memories…Do not open",
+        "Judul" : "Something just like this",
+        "Tahun" : "2017" 
+            
+    },
+	{
+        "SUBGENRE" : "Dance Pop",
+        "Band"  : "Martin Garrix ft Dua Lipa",
+        "Album" : "Scared To Be Lonely|single|",
+        "Judul" : "Scared To Be Lonely",
+        "Tahun" : "2017" 
+			
+	},
+	{
+        "SUBGENRE" : "Dance Pop",
+        "Band"  : "Justin Bieber",
+        "Album" : "Purpose",
+        "Judul" : "Sorry",
+        "Tahun" : "2015" 
+			
+	},
+	{   
+        "SUBGENRE" : "Britpop",
+        "Band"  : "Oasis",
+        "Album" : "|What's The Story| Morning Glory?",
+        "Judul" : "Wonderwall",
+        "Tahun" : "1995" 
+            
+    },
+	{
+        "SUBGENRE" : "Britpop",
+        "Band"  : "Blur",
+        "Album" : "Blur",
+        "Judul" : "song 2",
+        "Tahun" : "1997" 
+			
+	},
+	{
+        "SUBGENRE" : "Britpop",
+        "Band"  : "Morrissey",
+        "Album" : "UViva Hate",
+        "Judul" : "suedehead",
+        "Tahun" : "1988" 
+			
+	},
+	{   
+        "SUBGENRE" : "Psychedelic Pop",
+        "Band"  : "Fur",
+        "Album" : "If You Know That I'm Lonely |single|",
+        "Judul" : "If You Know That I'm Lonely",
+        "Tahun" : "2017"
+            
+    },
+	{
+        "SUBGENRE" : "Psychedelic Pop",
+        "Band"  : "The beatles",
+        "Album" : "Revolver",
+        "Judul" : "For No One",
+        "Tahun" : "1966" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Pop",
+        "Band"  : "Mini Mansions",
+        "Album" : "The Great Prentenders",
+        "Judul" : "Heart Of Stone",
+        "Tahun" : "2015" 
+			
+	},
+	{   
+        "SUBGENRE" : "Pop Punk",
+        "Band"  : "Blink-182",
+        "Album" : "Enema Of The State",
+        "Judul" : "All The Small Things",
+        "Tahun" : "1999"
+            
+    },
+	{
+        "SUBGENRE" : "Pop Punk",
+        "Band"  : "Green Day",
+        "Album" : "Dookie",
+        "Judul" : "Basket case",
+        "Tahun" : "1994" 
+			
+	},
+	{
+         "SUBGENRE" : "Pop Punk",
+        "Band"  : "Paramore",
+        "Album" : "Paramore",
+        "Judul" : "Still into you",
+        "Tahun" : "2013" 
+		
+    }		
+]
