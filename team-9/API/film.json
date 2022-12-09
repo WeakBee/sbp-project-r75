@@ -5,14 +5,172 @@
         "produser" : "Frederica",
         "sutradara" : "Hanung Bramantyo",
         "penulis" : "Alim Studio",
-        "tahun" : "",
+        "tahun" : "2022",
         "sinopsis" : "Dodo Rozak (Vino G. Bastian) hanya ingin menjadi ayah yang baik bagi anaknya, Kartika (Graciella Abigail/Mawar De Jongh), sekalipun kecerdasannya terbatas, bertingkah dan berperilaku seperti anak-anak. Pada kenyataannya, Kartika yang lebih sering menjaga dan merawat ayahnya. Keduanya hidup bahagia. Kartika bangga pada ayahnya yang berjualan balon sehari-harinya. Tapi, kebahagiaan mereka tidak berlangsung lama. Dodo ditangkap atas tuduhan memperkosa dan membunuh seorang gadis kecil. Dodo dimasukkan ke penjara, ke sel No.7 yang dihuni napi-napi beringas. Setelah berbagai peristiwa, Dodo berhasil mendapatkan bantuan untuk menyelundupkan Kartika ke dalam selnya. Kedekatan Dodo dan Kartika menularkan kebahagiaan bagi napi dan sipir di penjara. Mereka mulai ragu apakah pria penyayang seperti Dodo, tega membunuh seorang gadis kecil.",
+        "pemain" : [
+            "Vino G Bastian",
+            "Graciella Abigail",
+            "Mawar Eva De Jongh",
+            "Indro Warkop",
+            "Tora Sudiro",
+            "Rigen Rakelna",
+            "Indra Jegel",
+            "Bryan Domani",
+            "Denny Sumargo"
+        ],
         "funfact" : [
             "Penghargaan Festival Wartawan Indonesia 2022 (Aktor Utama Terbaik, Aktor Pendukung Terbaik)",
             "Penghargaan Festival Film Indonesia 2022 (Aktor Terfavorit Pilihan Penonton)",
             "Perubahan inti konflik di film yang berbeda dari versi korea dan termasuk film Indonesia ke-10 yang bisa tembus satu juta penonton."
-        ],
+        ]
+    },{
+        "judul" : "Keluarga Cemara 2",
+        "genre" : "Drama",
+        "produser" : "Anggia Kharisma",
+        "sutradara" : "Ismail Basbeth",
+        "penulis" : "M Irfan Ramly",
+        "sinopsis" : "Ara menjadi kesepian ketika Keluarga Cemara tumbuh. Abah mendapat pekerjaan baru, sehingga cukup sibuk mengurusi pekerjaannya dan tak setiap hari bisa antar jemput. Emak mencari sampingan untuk agar keluarganya punya pendapatan tambahan dan juga tabungan. Sedangkan Euis masuk masa pubernya. Ia ingin punya privacy dan tak mau sekamar lagi dengan Ara. Perjalanan Abah, Emak, Euis, Ara, dan Agil menemukan makna keluarga.",
+        "tahun" : "2022",
         "pemain" : [
+            "Widuri Puteri",
+            "Ringgo Agus Rahman",
+            "Nirina Zubir",
+            "Adhisty Zara"
+        ],
+        "funfact" : [
+            "Penghargaan Indonesia Movie Actors Awards 2022 (Pemeran Anak-anak Terbaik)"
+        ]
+    },{
+        "judul" : "Gundala : Negeri Ini Butuh Patriot",
+        "genre" : "Action",
+        "produser" : "Bismarka Kurniawan",
+        "sutradara" : "Joko Anwar",
+        "penulis" : "Joko Anwar",
+        "sinopsis" : "Sancaka (Abimana Aryasatya) hidup di jalanan sejak ditinggal ayah dan ibunya. Menghadapi hidup yang keras, Sancaka belajar untuk bertahan hidup dengan tidak peduli pada orang lain dan hanya mencoba untuk mendapatkan tempat yang aman bagi dirinya sendiri. Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus membuat keputusan berat: tetap hidup di zona amannya atau keluar sebagai Gundala untuk membela orang-orang yang ditindas.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Abimana Aryasatya",
+            "Tara Basro",
+            "Bront Palarae",
+            "Ario Bayu"
+        ],
+        "funfact" : [
+            "Penghargaan Festival Film Indonesia 2019 (Sinematografi Terbaik, Tata Suara Terbaik, Efek Visual Terbaik)",
+            "Penghargaan Piala Maya 2019 (Aktor Utama Remaja Terpilih, Tata Suara Terpilih)",
+            "Memproduksi Kostum diproduksi di tempat yang sama dengan Marvel dan Menggunakan 70 lokasi shooting berbeda"
+        ]
+    },{
+        "judul" : "Hit & Run",
+        "genre" : "Action",
+        "produser" : "Sukhdev Singh",
+        "sutradara" : "Ody C Harahap",
+        "penulis" : "Upi",
+        "sinopsis" : "Tegar Saputra (Joe Taslim), seorang polisi selebriti yang kemana-mana selalu diikuti kamera karena memiliki acara reality show-nya sendiri. Tegar ditugaskan untuk menangkap Coki (Yayan Ruhian), seorang gembong narkoba yang baru kabur dari penjara. Sayangnya, kali ini Tegar yang individualis harus dipasangkan dengan Lio (Chandra Liow), seorang tukang tipu. Tegar yang terbiasa beraksi sendirian kini harus berusaha menyelesaikan misinya bersama Lio yang justru membuat susah. Aksi Tegar dan Lio mencari Coki ditemani Meisa (Tatjana Saphira), penyanyi, dan Jefri (Jefri Nichol).",
+        "tahun" : "2019",
+        "pemain" : [
+            "Joe Taslim",
+            "Chandra Liow",
+            "Tatjana Saphira",
+            "Jefri Nichol",
+            "Nadya Arina",
+            "Yayan Ruhian"
+        ],
+        "funfact" : [
+            "Penghargaan Festival Film Bandung 2019 (Sutradara Terpuji Film Bioskop)"
+        ]
+    },{
+        "judul" : "Pertaruhan",
+        "genre" : "Action",
+        "produser" : "Adianto Sumardjono",
+        "sutradara" : "Krishto Damar Alam",
+        "penulis" : "Upi Avianto",
+        "sinopsis" : "Empat bersaudara, Ibra (Adipati Dolken), Elzan (Jefri Nichol), Amar (Aliando Syarief), dan Ical (Giulio Parengkuan), hidup sederhana bersama ayah mereka, Musa (Tio Pakusadewo) yang bekerja sebagai satpam di sebuah bank. Keluarga ini sudah kehilangan ibu sejak Ical dilahirkan. Kehilangan istri yang biasa mengurus rumah dan anak-anak membuat Musa gamang dalam membesarkan anak-anaknya. Hubungan antara dirinya dan ketiga anaknya yang remaja menjadi tidak harmonis. Suatu hari Musa diberhentikan dari pekerjaannya dan penyakit paru-parunya semakin parah. Ibra, anak pertama, mengumpulkan adik-adikya untuk mencari dana untuk penyembuhan ayah mereka. Mereka tidak sanggup membayar biaya pengobatan ayah. Selalu menemui jalan buntu, akhirnya mereka mengambil keputusan nekat demi ayah.",
+        "tahun" : "2017",
+        "pemain" : [
+            "Tyo Pakusadewo",
+            "Adipati Dolken",
+            "Aliando Syarief",
+            "Jefri Nichol",
+            "Giulio Parengkuan",
+            "Widika Sidmore"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "Sayap-Sayap Patah",
+        "genre" : "Drama",
+        "produser" : "Yoen K",
+        "sutradara" : "Rudi Soedjarwo",
+        "penulis" : "Monty Tiwa",
+        "sinopsis" : "Aji (Nicholas Saputra), anggota Densus 88, yang selalu berada di depan dalam memberantas terorisme membuat Nani (Ariel Tatum), istrinya, yang sedang hamil tua khawatir. Rasa cemas ini membuat kandungannya bermasalah, sehingga Nani harus mengungsi ke rumah ibunya di Jakarta. Kabar gembira datang: Aji dipindah ke Jakarta hingga bisa kembali bersama istrinya. Sayangnya, ketika dia bertugas di hari pertamanya, penjara tempat para teroris ditahan jebol. Aji termasuk salah satu petugas yang disandera, sedangkan Nani berjuang dengan kelahiran anak pertamanya.",
+        "tahun" : "2022",
+        "pemain" : [
+            "Nicholas Saputra",
+            "Ariel Tatum"
+        ],
+        "funfact" : [
+            "Film ini diangkat berdasarkan kerusuhan berdarah di Mako Brimob, Kelapa Dua, Depok, 8 Mei 2018. 155 narapidana terorisme membobol rutan Mako Brimob. Lima anggota Densus 88 gugur."
+        ]
+    },{
+        "judul" : "Mencuri Raden Saleh",
+        "genre" : "Drama",
+        "produser" : "Cristian Imanuell",
+        "sutradara" : "Angga Dwimas Sasongko",
+        "penulis" : "Angga Dwimas Sasongko",
+        "sinopsis" : "Piko (Iqbaal Ramadhan), mahasiswa seni rupa yang mencari uang dengan memalsukan lukisan untuk membebaskan sang ayah dari penjara tiba-tiba mendapat tawaran mencuri karya maestro Raden Saleh yang dijaga ketat di Istana Negara. Mengikuti rencana, Piko membentuk tim yang berisi Ucup (Angga Yunanda, hacker), Sarah (Aghniny Haque, atlet bela diri), Gofar (Umay Shahab, mekanik), Tuktuk (Ari Irham, pembalap liar) dan Fella (Rachel Amanda, bandar judi kampus). Masing-masing mengincar uang imbalan dari pencurian tersebut. Pelaksanaan rencana mereka dihadapkan dengan begitu banyak rintangan yang berpeluang merenggut hal-hal berharga: hubungan percintaan, persahabatan, hingga keluarga mereka. Di tengah upaya melancarkan misi pencurian penuh risiko tersebut, mereka tidak tahu bahwa ada ancaman besar di balik pencurian lukisan tersebut.",
+        "tahun" : "2022",
+        "pemain" : [
+            "Iqbaal Ramadhan",
+            "Angga Yunanda",
+            "Rachel Amanda",
+            "Umay Shahab",
+            "Aghniny Haque",
+            "Ari Irham"
+        ],
+        "funfact" : [
+            "Penghargaan Festival Film Indonesia 2022 (Film Terfavorit Pilihan Penonton)",
+            "Penghargaan Indonesia Movie Actors Awards 2022 (Film Terfavorit)",
+            "Penghargaan Jakarta Film Week 2022 (Direction Award)"
+        ]
+    },{
+        "judul" : "Comic 8: Casino Kings part 1",
+        "genre" : "Action",
+        "produser" : "Frederica",
+        "sutradara" : "Anggy Umbara",
+        "penulis" : "Anggy Umbara",
+        "sinopsis" : "Delapan agen rahasia di bawah pimpinan Indro Warkop ditugaskan untuk menyamar menjadi komika demi mencari seorang komika yang menjadi penghubung ke master kriminal yang bernama The King, pemilik kasino paling spektakuler di Asia. Untuk mencari kasino tersebut dan menangkap The King, kedelapan comic tersebut harus melewati banyak proses dan hambatan: menghindari kejaran Interpol dan kepolisian karena peristiwa perampokan bank dalam misi sebelumnya, sampai harus menghadapi pasukan pembunuh, kelompok preman dan penjahat cap kampak.",
+        "tahun" : "2015",
+        "pemain" : [
+            "Mongol Stres",
+            "Ernest Prakasa",
+            "Kemal Palevi",
+            "Bintang Timur",
+            "Babe Cabiita",
+            "Fico Fachriza",
+            "Arie Kriting",
+            "Ge Pamungkas",
+            "Indro Warkop"
+        ],
+        "funfact" : [
+            "Penghargaan Indonesia Box Office Movie Awards 2016 (Poster Film Terbaik, Trailer Film Terbaik, Original Soundtrack Film Terbaik)"
+        ]
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
             "",
             "",
             ""
@@ -25,12 +183,30 @@
         "penulis" : "",
         "sinopsis" : "",
         "tahun" : "",
-        "funfact" : [
+        "pemain" : [
             "",
             "",
             ""
         ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
         "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
             "",
             "",
             ""
