@@ -1,0 +1,463 @@
+[
+    {   
+        "SUBGENRE" : "Groove",
+        "Band"  : "Joyce Cooling",
+        "Album" : "Third Wish",
+        "Judul" : "Daddy-O",
+        "Tahun" : "2001"
+            
+    },
+	{
+         "SUBGENRE" : "Groove",
+        "Band"  : "Chuck Loeb",
+        "Album" : "eBop",
+        "Judul" : "eBop",
+        "Tahun" : "2003"
+			
+	},
+	{
+         "SUBGENRE" : "Groove",
+        "Band"  : " Joe Sample",
+        "Album" : "Old Places",
+        "Judul" : "Hippies on a Corner",
+        "Tahun" : "1996"
+			
+	},
+	{   
+        "SUBGENRE" : "Swing",
+        "Band"  : "Dean Martin",
+        "Album" : "Everybody Loves Somebody",
+        "Judul" : "Everybody Loves Somebody",
+        "Tahun" : "1964"
+            
+    },
+	{
+         "SUBGENRE" : "Swing",
+        "Band"  : "The Ink Spots",
+        "Album" : "The Ink Spots in Hi-Fi",
+        "Judul" : "I'm Making Believe",
+        "Tahun" : "1957"
+			
+	},
+	{
+         "SUBGENRE" : "Swing",
+        "Band"  : "Bobby Martin",
+        "Album" : "Dream Lover",
+        "Judul" : "Dream Lover",
+        "Tahun" : "1959"
+			
+	},
+	{   
+        "SUBGENRE" : "Fusion Jazz",
+        "Band"  : "Tom Misch",
+        "Album" : "Geography",
+        "Judul" : "Isn't She Lovely",
+        "Tahun" : "2018"
+            
+    },
+	{
+         "SUBGENRE" : "Fusion Jazz",
+        "Band"  : "Utha Likumahuwa",
+        "Album" : "Perjalanan",
+        "Judul" : "Sesaat Kau Hadir",
+        "Tahun" : "1990"
+			
+	},
+	{
+         "SUBGENRE" : "Fusion Jazz",
+        "Band"  : "Erwin Gutawa",
+        "Album" : "Dahaga",
+        "Judul" : "Dahaga",
+        "Tahun" : "2022"
+			
+	},
+	{   
+        "SUBGENRE" : "Ragtime",
+        "Band"  : "Scoot Joplin Alexander Peskanov",
+        "Album" : "Paragon Rag",
+        "Judul" : "Paragon Rag",
+        "Tahun" : "1909"
+            
+    },
+	{
+         "SUBGENRE" : "Ragtime",
+        "Band"  : "Tom Brier",
+        "Album" : "Constellation",
+        "Judul" : "Balderdash",
+        "Tahun" : "2012"
+			
+	},
+	{
+         "SUBGENRE" : "Ragtime",
+        "Band"  : "Art Tatum",
+        "Album" : "Tiger Rag",
+        "Judul" : "Tiger Rag",
+        "Tahun" : "1990"
+			
+	},
+
+    {   
+        "SUBGENRE" : "Bossa Nova",
+        "Band"  : "João Gilberto",
+        "Album" : "Chega de Saudade",
+        "Judul" : "Desafinado",
+        "Tahun" : "1959"
+            
+    },
+	{
+         "SUBGENRE" : "Bossa Nova",
+        "Band"  : "João Donato",
+        "Album" : "A Bossa Muito Modema de Donato",
+        "Judul" : "Bluchanga",
+        "Tahun" : "1963"
+			
+	},
+	{
+         "SUBGENRE" : "Bossa Nova",
+        "Band"  : " Chico Buarque",
+        "Album" : "Chico Buarque de Hollanda Volume 4",
+        "Judul" : "Gente Humilde",
+        "Tahun" : "1970"
+			
+	},
+	{   
+        "SUBGENRE" : "Mainstream",
+        "Band"  : "Bliss",
+        "Album" : "Monas Verden",
+        "Judul" : "Kissing",
+        "Tahun" : "2001"
+            
+    },
+	{
+         "SUBGENRE" : "Mainstream",
+        "Band"  : "Mariah Carey",
+        "Album" : "Daydream",
+        "Judul" : "Underneath the Stars",
+        "Tahun" : "1995"
+			
+	},
+	{
+         "SUBGENRE" : "Mainstream",
+        "Band"  : "George Benson",
+        "Album" : "20 20",
+        "Judul" : "I just Wanna Hang Around You",
+        "Tahun" : "1985"
+			
+	},
+	{   
+        "SUBGENRE" : "Soul Jazz",
+        "Band"  : "Jonny P",
+        "Album" : "Good To You",
+        "Judul" : "Good To You",
+        "Tahun" : "2016"
+            
+    },
+	{
+         "SUBGENRE" : "Soul Jazz",
+        "Band"  : "Maliq & DEssentials",
+        "Album" : "Mata Hati Telinga",
+        "Judul" : "Coba Katakan",
+        "Tahun" : "2009"
+			
+	},
+	{
+         "SUBGENRE" : "Soul Jazz",
+        "Band"  : "Terrace Martin",
+        "Album" : "Dinner Party",
+        "Judul" : "Sleepless Nights",
+        "Tahun" : "2020"
+			
+	},
+	{   
+        "SUBGENRE" : "Vocalese",
+        "Band"  : "Norah Jones",
+        "Album" : "Come Away With Me",
+        "Judul" : "Come Away With Me",
+        "Tahun" : "2002"
+            
+    },
+	{
+         "SUBGENRE" : "Vocelse",
+        "Band"  : "Alicia Keys",
+        "Album" : "As I Am",
+        "Judul" : "No One",
+        "Tahun" : "2007"
+			
+	},
+	{
+         "SUBGENRE" : "Vocalese",
+        "Band"  : "Stevie Wonder",
+        "Album" : "Stevie Wonders Original Musiquarium I",
+        "Judul" : "Ribbon In The Sky",
+        "Tahun" : "1982"
+			
+	},
+
+    {   
+        "SUBGENRE" : "Classic Jazz",
+        "Band"  : "The Platters",
+        "Album" : "Ill Never Smile Again",
+        "Judul" : "Ill Never Smile Again",
+        "Tahun" : "1961"
+            
+    },
+	{
+         "SUBGENRE" : "Classic Jazz",
+        "Band"  : "Dinah Washington",
+        "Album" : "Teach Me Tonight",
+        "Judul" : "Teach Me Tonight",
+        "Tahun" : "1954"
+			
+	},
+	{
+         "SUBGENRE" : "Classic Jazz",
+        "Band"  : " Etta Jones",
+        "Album" : "Dont Go To Strangers",
+        "Judul" : "Dont Go To Strangers",
+        "Tahun" : "1960"
+			
+	},
+	{   
+        "SUBGENRE" : "Hard Bop",
+        "Band"  : "Sonny Clark",
+        "Album" : "Cool Struttin",
+        "Judul" : "Cool Struttin",
+        "Tahun" : "1958"
+            
+    },
+	{
+         "SUBGENRE" : "Hard Bop",
+        "Band"  : "Tina Brooks",
+        "Album" : "True Blue",
+        "Judul" : "True Blue",
+        "Tahun" : "1960"
+			
+	},
+	{
+         "SUBGENRE" : "Hard Bop",
+        "Band"  : "Art Blakey",
+        "Album" : "Sweet n Sour",
+        "Judul" : "Sweet n Sour",
+        "Tahun" : "1962"
+			
+	},
+	{   
+        "SUBGENRE" : "Cool Jazz",
+        "Band"  : "Vince Guaraldi Trio",
+        "Album" : "Moon River",
+        "Judul" : "Moon River",
+        "Tahun" : "1962"
+            
+    },
+	{
+         "SUBGENRE" : "Cool Jazz",
+        "Band"  : "Jim Hall",
+        "Album" : "Jazz Guitar",
+        "Judul" : "Thanks For The Memory",
+        "Tahun" : "1957"
+			
+	},
+	{
+         "SUBGENRE" : "Cool Jazz",
+        "Band"  : "Ahmad Jamal",
+        "Album" : "The Awakening",
+        "Judul" : "Dolphine Dance",
+        "Tahun" : "1970"
+			
+	},
+	{   
+        "SUBGENRE" : "Afro-Cuban Jazz",
+        "Band"  : "Trio Matamoros",
+        "Album" : "Éxitos del Trio Matamoros",
+        "Judul" : "Son De La Loma",
+        "Tahun" : "1975"
+            
+    },
+	{
+         "SUBGENRE" : "Afro-Cuban Jazz",
+        "Band"  : "Astrud Gilberto",
+        "Album" : "A Certain Smile m, a Certain Sadness",
+        "Judul" : "Tu Mi Delirio",
+        "Tahun" : "1966"
+			
+	},
+	{
+         "SUBGENRE" : "Afri-Cuban Jazz",
+        "Band"  : "Cabao, Cachao Y Su Ritmo Caliente",
+        "Album" : "Cuban Jam Session In Miniature",
+        "Judul" : "Descarga Cubana",
+        "Tahun" : "1957"
+			
+	},
+
+    {   
+        "SUBGENRE" : "Bebop",
+        "Band"  : "Seatbelts",
+        "Album" : "Cowboy Bebop Tank! THE! BEST!",
+        "Judul" : "Diamonds",
+        "Tahun" : "2004"
+            
+    },
+	{
+         "SUBGENRE" : "Bebop",
+        "Band"  : "Wynton Kelly",
+        "Album" : "Someday My Prince Will Come, The Complete Sessions",
+        "Judul" : "Someday My Prince Will Come",
+        "Tahun" : "1961"
+			
+	},
+	{
+         "SUBGENRE" : "Bebop",
+        "Band"  : " ",
+        "Album" : "",
+        "Judul" : "",
+        "Tahun" : ""
+			
+	},
+	{   
+        "SUBGENRE" : "European Jazz",
+        "Band"  : "Pomplamoose",
+        "Album" : "En Français",
+        "Judul" : "Les Yeux Noirs",
+        "Tahun" : "2020"
+            
+    },
+	{
+         "SUBGENRE" : "European Jazz",
+        "Band"  : "Jerry Vale",
+        "Album" : "Arrivederci, Roma",
+        "Judul" : "Al- Di- là",
+        "Tahun" : "1962"
+			
+	},
+	{
+         "SUBGENRE" : "European Jazz",
+        "Band"  : "Jean Sablon",
+        "Album" : "Vous Qui Passez Sanz Me Voir",
+        "Judul" : "Vous Qui Passez Sanz Me Voir",
+        "Tahun" : "1936"
+			
+	},
+	{   
+        "SUBGENRE" : "Kansas Style",
+        "Band"  : "Chris Stapoeton",
+        "Album" : "Starting Over",
+        "Judul" : "You Should Probably Leave",
+        "Tahun" : "2020"
+            
+    },
+	{
+         "SUBGENRE" : "Kansas Style",
+        "Band"  : "Marcus King",
+        "Album" : "Carolina Confessions",
+        "Judul" : "Goodbye Carolina",
+        "Tahun" : "2018"
+			
+	},
+	{
+         "SUBGENRE" : "Kansas Style",
+        "Band"  : "Alan Jackson",
+        "Album" : "Where Have You Gone",
+        "Judul" : "The Older I Get",
+        "Tahun" : "2021"
+			
+	},
+	{   
+        "SUBGENRE" : "Free Jazz",
+        "Band"  : "Albert Ayler",
+        "Album" : "Swing Low Sweet Spiritual",
+        "Judul" : "Deep River",
+        "Tahun" : "1964"
+            
+    },
+	{
+         "SUBGENRE" : "Free Jazz",
+        "Band"  : "Naruyoshi Kikuchi",
+        "Album" : "Mobile Suit Gundam Thunderbolt Original Soundtrack",
+        "Judul" : "Yes Girl",
+        "Tahun" : "2016"
+			
+	},
+	{
+         "SUBGENRE" : "Free Jazz",
+        "Band"  : "Cortex",
+        "Album" : "Troupeau Blue",
+        "Judul" : "Go Round",
+        "Tahun" : "1976"
+			
+	},
+
+    {   
+        "SUBGENRE" : "Chicago Style",
+        "Band"  : "Rahaan Patterson",
+        "Album" : "Wisnes & Spirits",
+        "Judul" : "Stop Breaking My Heart",
+        "Tahun" : "2007"
+            
+    },
+	{
+         "SUBGENRE" : "Chicago Style",
+        "Band"  : "Bj The Chicago Kid",
+        "Album" : "In My Mind",
+        "Judul" : "Turnin' Me Up",
+        "Tahun" : "2016"
+			
+	},
+	{
+         "SUBGENRE" : "Chicago Style",
+        "Band"  : " George Howard",
+        "Album" : "Do I Ever Cross Your Mind",
+        "Judul" : "Cross Your Mind",
+        "Tahun" : "1992"
+			
+	},
+	{   
+        "SUBGENRE" : "Acid Jazz",
+        "Band"  : "Apartement Upstairs",
+        "Album" : "4 Years Escalators",
+        "Judul" : "I'll Be With You",
+        "Tahun" : "2021"
+            
+    },
+	{
+         "SUBGENRE" : "Acid Jazz",
+        "Band"  : "Mother Earth",
+        "Album" : "The People Tree",
+        "Judul" : "Apple Green",
+        "Tahun" : "1993"
+			
+	},
+	{
+         "SUBGENRE" : "Acid Jazz",
+        "Band"  : "Amnesty",
+        "Album" : "Free Your Mind",
+        "Judul" : "We Have Love",
+        "Tahun" : "2007"
+			
+	},
+	{   
+        "SUBGENRE" : "Gypsy Jazz",
+        "Band"  : "The Lost Fingers",
+        "Album" : "Lost in the 80's",
+        "Judul" : "Part-Time Lover",
+        "Tahun" : "2009"
+            
+    },
+	{
+         "SUBGENRE" : "Gypsy Jazz",
+        "Band"  : "Django Reinhardt",
+        "Album" : "Nuages",
+        "Judul" : "Nuages",
+        "Tahun" : "1953"
+			
+	},
+	{
+         "SUBGENRE" : "Gypsy Jaz",
+        "Band"  : "Havana Swing",
+        "Album" : "Django Festival 5",
+        "Judul" : "Les Croquants",
+        "Tahun" : "2007"
+			
+	}
+]
+	

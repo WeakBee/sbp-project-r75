@@ -1,0 +1,762 @@
+[
+    {   
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "Radiohead",
+        "Album" : "Pablo Honey",
+        "Judul" : "Creep",
+        "Tahun" : "1993" 
+            
+    },
+	{
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "U2",
+        "Album" : "The Joshua Tree",
+        "Judul" : "With Or Without You",
+        "Tahun" : "1987" 
+			
+	},
+	{
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "Barefood",
+        "Album" : "Sullen",
+        "Judul" : "Sullen",
+        "Tahun" : "2013" 
+			
+	},
+	{
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "Weezer",
+        "Album" : "Wezeer (Green Album)",
+        "Judul" : "Island In The Sun",
+        "Tahun" : "2001" 
+			
+	},
+	{
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "Gascoigne",
+        "Album" : "Bond Electric",
+        "Judul" : "Paint It Over",
+        "Tahun" : "2019" 
+			
+	},
+	{
+        "SUBGENRE" : "Alternative Rock",
+        "Band"  : "The Cure",
+        "Album" : "Three Imaginary Boys",
+        "Judul" : "Boys Don’t Cry",
+        "Tahun" : "1979" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "Guns N’ Roses",
+        "Album" : "Appetite For Destruction",
+        "Judul" : "Sweet Child O’ Mine",
+        "Tahun" : "1987" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "Rolling Stones",
+        "Album" : "Aftermath",
+        "Judul" : "Paint It, Black",
+        "Tahun" : "1966" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "AC/DC",
+        "Album" : "Highway to Hell",
+        "Judul" : "Highway to Hell",
+        "Tahun" : "1979" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "Slank",
+        "Album" : "Kampungan",
+        "Judul" : "Nggak Rock N’Roll",
+        "Tahun" : "1991" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "The Flowers",
+        "Album" : "17 Th Keatas",
+        "Judul" : "(Tolong) Bu Dokter",
+        "Tahun" : "1997" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "The Brandals",
+        "Album" : "Brandalisme",
+        "Judul" : "100% Kontrol",
+        "Tahun" : "2007" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "The Sigit",
+        "Album" : "Visible Idea of Perfection",
+        "Judul" : "All The Time",
+        "Tahun" : "2006" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "The Changcuters",
+        "Album" : "Mencoba Sukses Kembali",
+        "Judul" : "Racun Dunia ",
+        "Tahun" : "2008" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock ‘n’ Roll",
+        "Band"  : "The Hydrants",
+        "Album" : "Lokananta",
+        "Judul" : "My Music is Rock ‘n’ Roll",
+        "Tahun" : "2015" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "Gugun Blues Shelter",
+        "Album" : "Gugun Blues Shelter",
+        "Judul" : "When I See You Again ",
+        "Tahun" : "2010" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "Rama Satria Claproth ",
+        "Album" : "Say Your Prayer (EP)",
+        "Judul" : "Say Your Prayer",
+        "Tahun" : "2022" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "The Allman Brothers ",
+        "Album" : "The Allman Brothers Band (Deluxe)",
+        "Judul" : "Whipping Post",
+        "Tahun" : "1969" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "ZZ Top",
+        "Album" : "Tres Hombres",
+        "Judul" : "La Grange",
+        "Tahun" : "1973" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "The Doors",
+        "Album" : "L.A. Women ",
+        "Judul" : "Riders On The Storm",
+        "Tahun" : "1971" 
+			
+	},
+	{
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "Lynyrd Skynyrd",
+        "Album" : "Second Helping ",
+        "Judul" : "Sweet Home Alabama",
+        "Tahun" : "1974" 
+			
+	},
+	{
+        "SUBGENRE" : "Progressive Rock",
+        "Band"  : "Shark Move",
+        "Album" : "Ghede Chokra’s",
+        "Judul" : "Evil War",
+        "Tahun" : "1971" 
+			
+	},
+	{
+        "SUBGENRE" : "Progressive Rock",
+        "Band"  : "King Crimson",
+        "Album" : "In the Count of the Crimson King",
+        "Judul" : "21st Century Schizoid Man",
+        "Tahun" : "1969" 
+			
+	},
+	{
+        "SUBGENRE" : "Progressive Rock",
+        "Band"  : "Pink Floyd",
+        "Album" : "The Dark Side of The Moon",
+        "Judul" : "Us and Them",
+        "Tahun" : "1973" 
+			
+	},
+	{
+        "SUBGENRE" : "Progressive Rock",
+        "Band"  : "Rush",
+        "Album" : "Moving Picture",
+        "Judul" : "Tom Sawyer",
+        "Tahun" : "1981" 
+        
+    },
+    {
+        "SUBGENRE" : "Progressive Rock",
+        "Band"  : "Genesis",
+        "Album" : "Invisible Touch",
+        "Judul" : "Invisible Touch",
+        "Tahun" : "1986" 
+		
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "The Smith",
+        "Album" : "The Queen is Dead",
+        "Judul" : "There is a Light That Never Goes Out",
+        "Tahun" : "1986" 
+			
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "Texpack",
+        "Album" : "Spin Your Wheels ",
+        "Judul" : "Heartless Stoic Boy",
+        "Tahun" : "2019" 
+			
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "R.E.M.",
+        "Album" : "Out Of Time ",
+        "Judul" : "Losing My Religion ",
+        "Tahun" : "1991" 
+			
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "Pixies",
+        "Album" : "Surfer Rosa ",
+        "Judul" : "Where is My Mind",
+        "Tahun" : "1988" 
+			
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "Sonic Youth",
+        "Album" : "Daydream Nation",
+        "Judul" : "Teen Age Riot ",
+        "Tahun" : "1988" 
+			
+	},
+	{
+        "SUBGENRE" : "Indie Rock",
+        "Band"  : "Arctic Monkeys  ",
+        "Album" : "AM",
+        "Judul" : "Do I Wanna Know?",
+        "Tahun" : "2013" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "Pink Floyd",
+        "Album" : "The Piper at the Gates of Dawn",
+        "Judul" : "Astronomy Domine",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "Cream",
+        "Album" : "Disraeli Gears ",
+        "Judul" : "Sunshine Of Your Love",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "13th Floor Elevators",
+        "Album" : "The Psychedelic Sounds of the 13th Floor Elevators",
+        "Judul" : "You’re Gonna Miss Me",
+        "Tahun" : "1966" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "King Gizzard and the Lizard Wizard",
+        "Album" : "Ice, Death, Planets, Lungs, Mushrooms, And Lava",
+        "Judul" : "Magma",
+        "Tahun" : "2022" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "The Beatles",
+        "Album" : "Magical Mystery Tour",
+        "Judul" : "Strawberry Fields Foreve",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "Psychedelic Porn Crumpets",
+        "Album" : "High Viscreal, Pt. 1",
+        "Judul" : "Cornflake",
+        "Tahun" : "2016" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "The Jimi Hendrix Experience",
+        "Album" : "Are You Experienced",
+        "Judul" : "Purple Haze",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "The Doors",
+        "Album" : "The Doors",
+        "Judul" : "Light My FIre",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "Syd Barrett",
+        "Album" : "The Madcap Laughs",
+        "Judul" : "Octopus",
+        "Tahun" : "1970" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "SAS GROUP",
+        "Album" : "Baby Rock",
+        "Judul" : "Baby Rock",
+        "Tahun" : "1976" 
+			
+	},
+	{
+        "SUBGENRE" : "Psychedelic Rock",
+        "Band"  : "Tame Impala",
+        "Album" : "Currents",
+        "Judul" : "The Less I Know The Better",
+        "Tahun" : "2015" 
+			
+	},
+	{
+        "SUBGENRE" : "Acid Rock",
+        "Band"  : "The Beatles",
+        "Album" : "Abbey Road (Remastered)",
+        "Judul" : "Come Together",
+        "Tahun" : "2009" 
+			
+	},
+	{
+        "SUBGENRE" : "Acid Rock",
+        "Band"  : "The Dirty Mac",
+        "Album" : "The Rolling Stones Rock And Roll Circus",
+        "Judul" : "Yer blues (remastered 2018)",
+        "Tahun" : "2019" 
+			
+	},
+	{
+        "SUBGENRE" : "Acid Rock",
+        "Band"  : "The Doors",
+        "Album" : "Marrison Hotel",
+        "Judul" : "Blue Sunday",
+        "Tahun" : "1970" 
+			
+	},
+	{
+        "SUBGENRE" : "Glam Rock",
+        "Band"  : "Queen",
+        "Album" : "A Night At The Opera",
+        "Judul" : "Bohemian Rhapsody",
+        "Tahun" : "1975" 
+			
+	},
+	{
+        "SUBGENRE" : "Glam Rock",
+        "Band"  : "David Bowie",
+        "Album" : "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+        "Judul" : "Ziggy Stardust",
+        "Tahun" : "1972" 
+			
+	},
+	{
+        "SUBGENRE" : "Glam Rock",
+        "Band"  : "Kiss",
+        "Album" : "Kiss",
+        "Judul" : "Strutter",
+        "Tahun" : "1974" 
+			
+	},
+	{
+        "SUBGENRE" : "Roots Rock",
+        "Band"  : "Bob Dylan",
+        "Album" : "Planet Waves",
+        "Judul" : "On A Night Like This",
+        "Tahun" : "1974" 
+			
+	},
+	{
+        "SUBGENRE" : "Roots Rock",
+        "Band"  : "George Harrison",
+        "Album" : "Thirty Three & 1/3",
+        "Judul" : "Beautiful Girl",
+        "Tahun" : "1976" 
+			
+	},
+	{
+        "SUBGENRE" : "Roots Rock",
+        "Band"  : "Original Love",
+        "Album" : "Eyes",
+        "Judul" : "I WISH",
+        "Tahun" : "2007" 
+			
+	},
+	{
+        "SUBGENRE" : "Folk Rock",
+        "Band"  : "The Beatles ",
+        "Album" : "Rubber Soul",
+        "Judul" : "In My Life",
+        "Tahun" : "1965" 
+			
+	},
+	{
+        "SUBGENRE" : "Folk Rock",
+        "Band"  : "Kelompok Penerbang Roket",
+        "Album" : "Teriakan Bocah",
+        "Judul" : "TO",
+        "Tahun" : "2015" 
+			
+	},
+	{
+        "SUBGENRE" : "Folk Rock",
+        "Band"  : "George Harrison",
+        "Album" : "All Things Must Pass",
+        "Judul" : "All Things Must Pass",
+        "Tahun" : "1970" 
+			
+	},
+	{
+        "SUBGENRE" : "Arena Rock",
+        "Band"  : "The Sigit",
+        "Album" : "Visible Idea Of Perfection",
+        "Judul" : "Black Amplifier",
+        "Tahun" : "2006 " 
+			
+	},
+	{
+        "SUBGENRE" : "Arena Rock",
+        "Band"  : "Aerosmith",
+        "Album" : "Get A Grip",
+        "Judul" : "Crazy",
+        "Tahun" : "1993" 
+			
+	},
+	{
+        "SUBGENRE" : "Arena Rock",
+        "Band"  : "Queen",
+        "Album" : "A Day At The Races",
+        "Judul" : "Somebody To Love",
+        "Tahun" : "1976" 
+			
+	},
+	{
+        "SUBGENRE" : "Soft Rock",
+        "Band"  : "Nazareth",
+        "Album" : "Hair Of The Dog",
+        "Judul" : "Love Hurts",
+        "Tahun" : "2010" 
+			
+	},
+	{
+        "SUBGENRE" : "Soft Rock",
+        "Band"  : "Scorpions",
+        "Album" : "Deadly Sting: The Mercury Years",
+        "Judul" : "Wind Of Change",
+        "Tahun" : "1997" 
+			
+	},
+	{
+        "SUBGENRE" : "Soft Rock",
+        "Band"  : "Deep Purple",
+        "Album" : "Stormbringer",
+        "Judul" : "Soldier Of Fortune",
+        "Tahun" : "1974" 
+			
+	},
+	{
+        "SUBGENRE" : "Art Rock",
+        "Band"  : "Barasuara",
+        "Album" : "Pikiran Dan Perjalanan",
+        "Judul" : "Guna Manusia",
+        "Tahun" : "2019" 
+			
+	},
+	{
+        "SUBGENRE" : "Art Rock",
+        "Band"  : ".Feast",
+        "Album" : "Beberapa Orang Memaafkan (EP)",
+        "Judul" : "Padi Milik Rakyat",
+        "Tahun" : "2018" 
+			
+	},
+	{
+        "SUBGENRE" : "Art Rock",
+        "Band"  : "Muse",
+        "Album" : "Showbiz",
+        "Judul" : "Unintended",
+        "Tahun" : "1999" 
+			
+	},
+	{
+        "SUBGENRE" : "Stoner Rock",
+        "Band"  : "Jimi Hendrix",
+        "Album" : "Are You Experienced",
+        "Judul" : "Purple Haze",
+        "Tahun" : "1967" 
+			
+	},
+	{
+        "SUBGENRE" : "Stoner Rock",
+        "Band"  : "Electric Wizard",
+        "Album" : "Dopethrone",
+        "Judul" : "Barbarian",
+        "Tahun" : "2000" 
+			
+	},
+	{
+        "SUBGENRE" : "Stoner Rock",
+        "Band"  : "Black Sabbath",
+        "Album" : "Master Of Reality",
+        "Judul" : "Sweet Leaf",
+        "Tahun" : "1971" 
+			
+	},
+	{
+        "SUBGENRE" : "Gothic Rock",
+        "Band"  : "The Cure",
+        "Album" : "Bloodflowers",
+        "Judul" : "Maybe Someday",
+        "Tahun" : "2000" 
+			
+	},
+	{
+        "SUBGENRE" : "Gothic Rock",
+        "Band"  : "Joy Division",
+        "Album" : "Unknown Pleasures",
+        "Judul" : "Candidate",
+        "Tahun" : "1979" 
+			
+	},
+	{
+        "SUBGENRE" : "Gothic Rock",
+        "Band"  : "The Smith ",
+        "Album" : "The Queen Is Dead",
+        "Judul" : "I Know It's Over",
+        "Tahun" : "1986" 
+			
+	},
+	{
+        "SUBGENRE" : "Industrial Rock",
+        "Band"  : "Nine inch Nails",
+        "Album" : "With Teeth",
+        "Judul" : "The Head That Feeds",
+        "Tahun" : "2005" 
+			
+	},
+	{
+        "SUBGENRE" : "Industrial Rock",
+        "Band"  : "Ministry",
+        "Album" : "KE*A*H(Psalm 69)",
+        "Judul" : "Jesus Built My Hotrod",
+        "Tahun" : "1992" 
+			
+	},
+	{
+        "SUBGENRE" : "Industrial Rock",
+        "Band"  : "Hate Dept.",
+        "Album" : "Omnipresent",
+        "Judul" : "Bitch",
+        "Tahun" : "1996" 
+			
+	},
+	{
+        "SUBGENRE" : "Geek Rock",
+        "Band"  : "Weezer",
+        "Album" : "Weezer(Red Album)",
+        "Judul" : "Heart Song",
+        "Tahun" : "2008" 
+			
+	},
+	{
+        "SUBGENRE" : "Geek Rock",
+        "Band"  : "Ozma",
+        "Album" : "Spending Time Of The Border Line",
+        "Judul" : "Restart",
+        "Tahun" : "2003" 
+			
+	},
+	{
+        "SUBGENRE" : "Geek Rock",
+        "Band"  : "The Rentals",
+        "Album" : "Return Of The Rentals",
+        "Judul" : "The Love I'm Searching For",
+        "Tahun" : "1995" 
+			
+	},
+	{
+        "SUBGENRE" : "Yacht Rock",
+        "Band"  : "Michael Jackson",
+        "Album" : "Thriller",
+        "Judul" : "The Girl Is mine",
+        "Tahun" : "1982" 
+			
+	},
+	{
+        "SUBGENRE" : "Yacht Rock",
+        "Band"  : "Queen",
+        "Album" : "Hot Space",
+        "Judul" : "Cool Cat",
+        "Tahun" : "1982" 
+			
+	},
+	{
+        "SUBGENRE" : "Yacht Rock",
+        "Band"  : "The Doobie Brothers",
+        "Album" : "Minute By Minute",
+        "Judul" : "Minute By Minute",
+        "Tahun" : "1982" 
+			
+	},
+	{
+        "SUBGENRE" : "Hard Rock",
+        "Band"  : "Bon Jovi",
+        "Album" : "Slippery When Wet",
+        "Judul" : "You Give Love A Bad Name",
+        "Tahun" : "1986" 
+			
+	},
+	{
+        "SUBGENRE" : "Hard Rock",
+        "Band"  : "Ratt",
+        "Album" : "Invasion Of Your Privacy",
+        "Judul" : "Lay It Down",
+        "Tahun" : "1985" 
+			
+	},
+	{
+        "SUBGENRE" : "Hard Rock",
+        "Band"  : "Gun n Roses",
+        "Album" : "Appetite For Destruction",
+        "Judul" : "Paradise City",
+        "Tahun" : "1987" 
+			
+	},
+	{
+        "SUBGENRE" : "Hard Rock",
+        "Band"  : "Cryll",
+        "Album" : "Cross Roads (Single)",
+        "Judul" : "Cross Roads",
+        "Tahun" : "2021" 
+			
+	},
+	{
+        "SUBGENRE" : "Classic Rock",
+        "Band"  : "Deep Purple",
+        "Album" : "Rhino Hi-Five :Deep Purple",
+        "Judul" : "Smoke On The Water",
+        "Tahun" : "2005" 
+			
+	},
+	{
+        "SUBGENRE" : "Classic Rock",
+        "Band"  : "Led Zeppelin",
+        "Album" : "Led Zeppelin III",
+        "Judul" : "Immigrant Song",
+        "Tahun" : "1970" 
+			
+	},
+	{
+        "SUBGENRE" : "Classic Rock",
+        "Band"  : "Queen",
+        "Album" : "The Game",
+        "Judul" : "Another One Bites The Duts",
+        "Tahun" : "1980" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "Dewa 19",
+        "Album" : "Bintang lima",
+        "Judul" : "Cemburu",
+        "Tahun" : "2000" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "Depeche Mode",
+        "Album" : "Violator | The 12 (Single)",
+        "Judul" : "Enjoy The Silence",
+        "Tahun" : "2022" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Rock",
+        "Band"  : "Queen",
+        "Album" : "News Of The World",
+        "Judul" : "We Are The Champions",
+        "Tahun" : "1977" 
+			
+	},
+	{
+        "SUBGENRE" : "New wave",
+        "Band"  : "The Cure",
+        "Album" : "Kiss me Kiss me Kiss me Kiss me",
+        "Judul" : "Just Like Heaven",
+        "Tahun" : "1987" 
+			
+	},
+	{
+        "SUBGENRE" : "New wave",
+        "Band"  : "When In Rome",
+        "Album" : "When In Rome",
+        "Judul" : "The Promise",
+        "Tahun" : "1988" 
+			
+	},
+	{
+        "SUBGENRE" : "New wave",
+        "Band"  : "Rumah Sakit",
+        "Album" : "1+2",
+        "Judul" : "Hilang ",
+        "Tahun" : "2012" 
+			
+	},
+	{
+        "SUBGENRE" : "Grunge",
+        "Band"  : "Nirvana",
+        "Album" : "Nevermind",
+        "Judul" : "Smells Like Teen Spirit",
+        "Tahun" : "1991" 
+			
+	},
+	{
+        "SUBGENRE" : "Grunge",
+        "Band"  : "Pearel Jam",
+        "Album" : "Vs.",
+        "Judul" : "Daughter",
+        "Tahun" : "1993" 
+			
+	},
+	{
+        "SUBGENRE" : "Grunge",
+        "Band"  : "Alice In Chains",
+        "Album" : "Jar of Flies",
+        "Judul" : "Nutshell",
+        "Tahun" : "1994" 
+			
+	}
+]
