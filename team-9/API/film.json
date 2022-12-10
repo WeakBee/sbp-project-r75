@@ -279,7 +279,7 @@
         "produser" : "Frederica",
         "sutradara" : "Rako Prijanto",
         "penulis" : "Anggoro Saronto",
-        "sinopsis" : "Warkop DKI–Dono (Aliando Syarief), Kasino (Adipati Dolken), Indro (Randy Danistha)–kali ini mendapat tugas sebagai agen polisi rahasia. Mereka dibawah komando Komandan Cok (Indro Warkop), yang kehilangan tangankanannya, Karman (Mandra), saat mensinyalir adanya pencucian uang di dunia perfilman Indonesia. Tepatnya di sebuah rumah produksi milik Amir Muka (Ganindra Bimo). Warkop DKI akhirnya bisa masuk dalam dunia film dan terlibat dalam sebuah pembuatan film komedi berpasangan dengan artis sinetron yang hijrah ke dunia film, Inka (Salshabilla Adriani). Warkop DKI malah membuat Inka terjebak bersama mereka di sebuah ruangan. Warkop DKI dan Inka jatuh pingsan. Saat terbangun, Warkop DKI kaget karena berada di padang pasir! Tapi Inka lenyap! Pencarian Warkop DKI mencari jejak Inka menyeret mereka dalam petualangan seru di padang pasir.",
+        "sinopsis" : "Warkop DKI Dono (Aliando Syarief), Kasino (Adipati Dolken), Indro (Randy Danistha) kali ini mendapat tugas sebagai agen polisi rahasia. Mereka dibawah komando Komandan Cok (Indro Warkop), yang kehilangan tangankanannya, Karman (Mandra), saat mensinyalir adanya pencucian uang di dunia perfilman Indonesia. Tepatnya di sebuah rumah produksi milik Amir Muka (Ganindra Bimo). Warkop DKI akhirnya bisa masuk dalam dunia film dan terlibat dalam sebuah pembuatan film komedi berpasangan dengan artis sinetron yang hijrah ke dunia film, Inka (Salshabilla Adriani). Warkop DKI malah membuat Inka terjebak bersama mereka di sebuah ruangan. Warkop DKI dan Inka jatuh pingsan. Saat terbangun, Warkop DKI kaget karena berada di padang pasir! Tapi Inka lenyap! Pencarian Warkop DKI mencari jejak Inka menyeret mereka dalam petualangan seru di padang pasir.",
         "tahun" : "2019",
         "pemain" : [
             "Aliando Syarief",
@@ -1107,23 +1107,450 @@
             "Penghargaan Indonesian Movie Aktors Awards 2019 (Film Terfavorit, Pemeran Pendukung Pria Terfavorit)"
         ]
     },{
-        "judul" : "",
-        "genre" : "",
-        "produser" : "",
-        "sutradara" : "",
-        "penulis" : "",
-        "sinopsis" : "",
-        "tahun" : "",
+        "judul" : "The Hunger Games",
+        "genre" : "Sci-Fi",
+        "produser" : "Nina Jacobson",
+        "sutradara" : "Gary Ross",
+        "penulis" : "Gary Ross",
+        "sinopsis" : "Katniss, berusia 16 tahun yang tinggal bersama ibu dan adik perempuannya di distrik termiskin, Panem, wilayah yang tersisa dari Amerika Serikat. Dahulu distrik melancarkan perang terhadap Capitol dan kalah. Sebagai bagian dari syarat-syarat kapitulasi, setiap distrik diharuskan mengirim satu anak laki-laki dan seorang anak perempuan muncul di acara tahunan di televisi yang disebut, 'The Hunger Games', medan, aturan, dan tingkat partisipasi penonton dapat berubah namun satu hal konstan: membunuh atau dibunuh. Ketika adik Kat terpilih, Kat menawarkan diri untuk menggantikan tempatnya.",
+        "tahun" : "2012",
         "pemain" : [
-            "",
-            "",
-            ""
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Liam Hemsworth",
+            "Woody Harrelson",
+            "Elizabeth Banks",
+            "Lenny Kravitz",
+            "Stanley Tucci",
+            "Donald Sutherland"
+        ],
+        "funfact" : [
+            "People's Choice Award untuk Film Terfavorit 2013",
+            "Nickelodeon Kids' Choice Award untuk Film Favorit 2013",
+            "Teen Choice Award untuk Choice Movie (Sci-Fi/Fantasy) 2012"
+        ]
+    },{
+        "judul" : "Divergent",
+        "genre" : "Action",
+        "produser" : "Douglas Wick",
+        "sutradara" : "Neil Burger",
+        "penulis" : "Evan Daugherty",
+        "sinopsis" : "Beatrice Prior menginjak usia 16 tahun. Para remaja yang sudah berusia 16 tahun akan melakukan tes. Nantinya, hasil tes tersebut akan menentukan mereka akan bergabung di kelompok mana. Penentuan kelompok dilakukan dengan tes kecakapan yang harus dilalui oleh para remaja. Beatrice pun harus mengikuti tes kecakapan tersebut. Pembagian kelompok ini dipercaya dapat menjaga kedamaian dunia. Terdapat lima faksi atau kelompok, yakni Candor yang memiliki sikap jujur, Erudite dengan kepintarannya, Amity pecinta damai, Dauntless dengan sikap pemberaninya, dan Abnegation yang suka menolong tanpa pamrih. Nantinya, para remaja memiliki satu sifat dominan dan sifat itulah yang akan menentukan mereka akan bergabung di kelompok mana. Namun, ada beberapa remaja yang memiliki sifat dominan lebih dari satu, mereka akan disebut Divergent. Divergent dianggap berbahaya dan dapat mengganggu kelompok-kelompok lainnya. Setelah mengikuti tes, ternyata Beatrice memiliki 3 sifat dominan. Penguji Beatrice saat itu memintanya untuk merahasiakan hasil tesnya, karena Beatrice adalah seorang Divergent. Beatrice diminta untuk memilih 1 kelompok dari hasil tesnya dan ia pun memilih kelompok Dauntless. Saat masuk dalam kelompok Dauntless, Beatrice mengubah namanya menjadi Tris. Four (Theo James) yang menjadi mentor Tris ternyata juga seorang Divergent. Pimpinan kelompok Erudite, Jeanine (Kate Winslet) memiliki niat buruk dan akan menimbulkan perpecahan.",
+        "tahun" : "2014",
+        "pemain" : [
+            "Shailene Woodley",
+            "Theo James",
+            "Ansel Elgort",
+            "Tony Goldwyn",
+            "Ashley Judd",
+            "Ray Stevenson",
+            "Kate Winslet",
+            "Jai Courtney",
+            "Zoë Kravitz",
+            "Miles Teller",
+            "Maggie Q",
+            "Kate Winslet",
+        ],
+        "funfact" : [
+            "Teen Choice Award untuk Film Pilihan: Aksi 2014",
+            "People's Choice Award untuk Film Aksi Favorit 2015"
+        ]
+    },{
+        "judul" : "Pixels",
+        "genre" : "Sci-Fi",
+        "produser" : "Adam Sandler",
+        "sutradara" : "Chris Columbus",
+        "penulis" : "Tim Herlihy",
+        "sinopsis" : "Pada tahun 1982 NASA mengirim kapsul waktu ke luar angkasa. Tujuan misi ini adalah berharap dapat melakukan kontak dengan mahluk asing. Di dalam kapsul tersebut terdapat contoh kehidupan dan budaya manusia di bumi. Tujuannya NASA cuma satu, mengirim pesan perdamaian. Namun niat baik NASA di salah artikan saat Alien malah menyerang bumi dengan mengirim kekuatan mematikan dalam bentuk karater dalam video game. Kondisi bumi yang terancam, Presiden Will Cooper (Kevin James) meminta sahabat masa kecilnya Sam Brenner (Adam Sandler) untuk membantunya. Sam dan timnya kini menjadi pasukan di garis terdepan untuk mengalahkan para alien ini dan menyelamatkan bumi.",
+        "tahun" : "2015",
+        "pemain" : [
+            "Adam Sandler",
+            "Josh Gad",
+            "Kevin James",
+            "Michelle Monaghan",
+            "Peter Dinklage",
+            "Brian Cox"
         ],
         "funfact" : [
             "",
             "",
             ""
         ]
+    },{
+        "judul" : "Spider-Man: No Way Home",
+        "genre" : "Sci-Fi",
+        "produser" : "Kevin Feige",
+        "sutradara" : "Jon Watts",
+        "penulis" : "Chris McKenna",
+        "sinopsis" : "Berlatar setelah keberhasilan Perer Parker mengalahkan Mysterio di mana jati dirinya sebagai Spider-Man terbongkar. Kehidupan remaja Peter yang sudah cukup rumit menjadi semakin rumit karena gagal masuk MIT. Kuliah di MIT bersama Ned dan MJ sangat penting bagi Peter, lebih penting dari masalah global yang bisa muncul akibat ulahnya bermain sihir demi masuk MIT. Ya, Peter meminta bantuan Doctor Strange untuk menghapus ingatan semua orang tentang jati dirinya sebagai Spider-Man agar bisa kuliah di MIT bersama Ned dan MJ. Sayangnya, mantra inilah yang menjadi sumber masalah karena mendatangkan musuh berbahaya yang belum pernah ia lawan.",
+        "tahun" : "2021",
+        "pemain" : [
+            "Tom Holland",
+            "Zendaya, Benedict Cumberbatch",
+            "Jacob Batalon Jon Favreau",
+            "Jamie Foxx",
+            "Willem Dafoe",
+            "Alfred Molina",
+            "Benedict Wong",
+            "Tony Revolori",
+            "Marisa Tomei",
+            "Andrew Garfield",
+            "Tobey Maguire"
+        ],
+        "funfact" : [
+            "MTV Movie & TV Award untuk Film Terbaik 2022",
+            "Nickelodeon Kids' Choice Award untuk Film Favorit 2022"
+        ]
+    },{
+        "judul" : "Godzilla : King of the Monster",
+        "genre" : "Fantasy",
+        "produser" : "Mary Parent",
+        "sutradara" : "Michael Dougherty",
+        "penulis" : "Max Borenstein",
+        "sinopsis" : "Film serial Godzilla ini merupakan kisah baru ini mengikuti upaya heroik agensi crypto-zoological Monarch ketika anggotanya berhadapan dengan monster berukuran dewa, termasuk Godzilla yang perkasa, yang bertabrakan dengan Mothra, Rodan, dan musuh bebuyutannya, Raja berkepala tiga Ghidorah. Ketika superspesies kuno ini, yang dianggap hanya mitos, bangkit kembali, mereka semua bersaing untuk mendapatkan supremasi, meninggalkan keberadaan manusia yang tergantung pada keseimbangan. Sehingga  Tim Monarch mengikuti Godzilla ke Antartika, tempat Jonah bermaksud membebaskan Titan berkepala tiga dengan nama sandi “Monster Zero”. Emma membebaskan dan membangunkan Monster Zero, yang membunuh beberapa anggota Monarch, termasuk Dr. Graham, sebelum bertarung dengan Godzilla.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Kyle Chandler",
+            "Vera Farmiga",
+            "Millie Bobby Brown",
+            "Bradley Whitford",
+            "Sally hawkins",
+            "Charles Dance",
+            "Thomas Middleditch",
+            "O'Shea Jackson Jr",
+            "ken Watanabe",
+            "Zhang Ziyi"
+        ],
+        "funfact" : [
+            "Nominasi Golden Trailer Award kategori Best Summer Blockbuster (Warner Brothers dan Statement Advertising) 2019",
+            "Nominasi Golden Trailer Award kategori Best Fantasy Adventure (Warner Brothers dan Trailer Park) 2019"
+        ]
+    },{
+        "judul" : "Zack Snyder's Justice League",
+        "genre" : "Superhero",
+        "produser" : "Charles Roven",
+        "sutradara" : "Zack Snyder",
+        "penulis" : "Chris Terrio",
+        "sinopsis" : "Film tersebut menceritakan kisah Bruce Wayne/Batman dan Diana Prince/Wonder Woman berusaha untuk mengumpulkan pahlawan super. Mereka harus menghadapi serangan dari luar bumi. Batman dan Wonder Woman mencari Aquaman/Arthur Curry, Cyborg/Victor Stone, dan The Flash/Barry Allen. Sebelum bertemu dengan seluruh manusia super, musuh telah menyerang.Invasi New Gods tersebut dipimpin oleh Darkseid. Namun, sebelum Darkseid datang, Panglima Perang bernama Steppenwolf datang terlebih dahulu bersama pasukannya. Sebagai sutradara, Zack Snyder membuat film tersebut sebagai penebusan dosa karena memperbaiki beberapa yang salah dari versi teatrikalnya. Namun, film tersebut hanya memperbaiki, bukan mengubah versi asli Justice League.",
+        "tahun" : "2021",
+        "pemain" : [
+            "Ben Affleck",
+            "Henry Cavill",
+            "Amy Adams",
+            "Gal Gadot",
+            "Ray Fisher",
+            "Jason Momoa",
+            "Ezra Miller",
+            "Wilem Dafoe",
+            "Jesse Eisenberg",
+            "Jeremy Irons",
+            "Diane Lane",
+            "Connie Nielsen",
+            "J. K. Simmons"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "Pacific Rim",
+        "genre" : "Sci-Fi",
+        "produser" : "Thomas Tull",
+        "sutradara" : "Guillermo del Tor",
+        "penulis" : "Travis Beacham",
+        "sinopsis" : "Selama beberapa tahun, manusia diserang oleh monster raksasa bernama Kaiju yang muncul dari dasar Pasifik. Satu-satunya pertahanan efektif adalah program robot Jaeger yang terhubung dengan saraf pilot. Namun, Kaiju menjadi semakin kuat dan banyak sehiangga manusia harus mengubah taktiknya. Untuk mengakhiri Kaiju, seorang bekas pilot bernama Raleigh Becket bergabung dalam sebuah rencana penghancuran pintu masuk Kaiju, Selain itu, seorang ilmuwan menemukan cara terhubung ke pikiran Kaiju agar bisa mempelajari mereka. Mereka menjadi harapan terakhir manusia untuk melawan serangan monster dari laut.",
+        "tahun" : "2013",
+        "pemain" : [
+            "Charlie Hunnam",
+            "Idris Elba",
+            "Rinko Kikuchi",
+            "Charlie Day",
+            "Robert Kazinsky",
+            "Max Martin",
+            "Ron Perlman"
+        ],
+        "funfact" : [
+            "Annie Award untuk kategori “Outstanding Achievement, Animated Effects in a Live Action Production” dan “Outstanding Achievement, Character Animation in a Live Action Production”.",
+            "Hollywood Film Awards untuk kategori “Best Visual Effects”.",
+            "Las Vegas Film Critics Society untuk kategori “Best Horror/Sci-Fi Film”." 
+    },{
+        "judul" : "A Quiet Place",
+        "genre" : "Horror",
+        "produser" : "Michael Bay",
+        "sutradara" : "John Krasinski",
+        "penulis" : "Bryan Woods",
+        "sinopsis" : "A Quiet Place mengikuti sebuah keluarga yang harus hidup dalam keheningan untuk menghindari makhluk misterius yang berburu melalui suara. Mengetahui bahwa bahkan bisikan atau langkah sekecil apa pun dapat membawa kematian, Evelyn dan Lee bertekad untuk menemukan cara untuk melindungi anak-anak mereka sambil mati-matian mencari cara untuk melawan.",
+        "tahun" : "2018",
+        "pemain" : [
+            "Emily Blunt",
+            "John Krasinski"
+        ],
+        "funfact" : [
+            "Critics' Choice Movie Award untuk Film Horor/Sci-fi Terbaik 2019",
+            "Satellite Award untuk Tata Suara Terbaik 2019",
+            "Festival Film Bandung untuk Film Impor Terpuji 2018"
+    },{
+        "judul" : "The Invisible Guest",
+        "genre" : "Thriller",
+        "produser" : "Mercedes Gamero",
+        "sutradara" : "Oriol Paulo",
+        "penulis" : "Oriol Paulo",
+        "sinopsis" : "Film ini berkisah tentang Adrian Doria, seorang businessman yang tengah menjalani proses hukum untuk kasus pembunuhan Laura Vidal. Adrian mengaku bahwa ia tidak bersalah, bahkan ia justru sangat mencintai Laura yang menjadi kekasih gelapnya. Laura ditemukan meninggal di sebuah kamar hotel, di mana Adrian juga berada di kamar tersebut sehingga membuatnya dicurigai sebagai pembunuh. Demi meyakinkan hakim bahwa ia bukan pembunuh, Adrian menyewa seorang pengacara senior, Virginia Goodman. Menurut Virginia, Adrian harus mengatakan semua hal dengan jujur agar Virginia bisa menyusun strategi agar ia bisa menang di pengadilan.",
+        "tahun" : "2016",
+        "pemain" : [
+            "Mario Casas",
+            "Ana Wagener",
+            "Jose Coronado",
+            "Barbara Lennie"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "Get Out",
+        "genre" : "Thriller",
+        "produser" : "Jason Blum",
+        "sutradara" : "Jordan Peele",
+        "penulis" : "Jordan Peele",
+        "sinopsis" : "Film horor berjudul “Get Out” ini merupakan film yang bercerita tentang perjalanan kekasih berbeda ras, Rose yang berkulit putih dan Chris yang berkulit hitam, ke rumah keluarga Rose. Sesampainya di Armitage House, rumah keluarga Rose, Chris mulai mengalami berbagai kejadian aneh nan menyeramkan maka tak ada jalan lain bagi Chris selain untuk menyelamatkan diri.",
+        "tahun" : "2017",
+        "pemain" : [
+            "Daniel Kaluuya",
+            "Alison Williams",
+            "Bradley Whitford",
+            "Caleb Landry Jones",
+            "Stephen Root",
+            "Lakeith Stanfield",
+            "Catherine Keener"
+        ],
+        "funfact" : [
+            "Critics' Choice Movie Award untuk Film Horor/Sci-fi Terbaik 2018",
+            "Gotham Award untuk Audience Award 2017",
+            "Empire Award untuk Film Horor Terbaik 2018",
+            "Empire Awards for Best Screenplay 2018",
+            "Festival Film Bandung untuk Film Impor Terpuji 2017"
+    },{
+        "judul" : "DeadPool",
+        "genre" : "Action",
+        "produser" : "Simon Kinberg",
+        "sutradara" : "Tim Miller",
+        "penulis" : "Paul Wernick",
+        "sinopsis" : "Film ini bercerita tentang seorang pria bernama Wade Wilson, mantan anggota tentara khusus yang meninggalkan pekerjaan lamanya.  Kini ia lebih memilih untuk berprofesi sebagai tentara bayaran atau lebih tepatnya menjadi tukang pukul bayaran. Wilson memiliki penyakit kronis yang membuatnya cukup putus asa. Hingga ia memutuskan untuk ikut sebuah percobaan ilmiah yang menjanjikannya memiliki kekuatan superhero.",
+        "tahun" : "2016",
+        "pemain" : [
+            "Ryan Reynolds",
+            "Morena Baccarin",
+            "Ed Skrein",
+            "T. J. Miller",
+            "Gina Carano",
+            "Brianna Hildebrand"
+        ],
+        "funfact" : [
+            "Critics' Choice Movie Award untuk Film Komedi Terbaik 2016",
+            "People's Choice Award untuk Film Aksi Favorit 2017",
+            "Empire Awards for Best Screenplay 2017",
+            "Teen Choice Award untuk Film Pilihan: Aksi 2016",
+            "Penghargaan Kerrang! untuk Best Film 2016"
+    },{
+        "judul" : "Jumanji : Welcome to the Jungle",
+        "genre" : "Fantasy",
+        "produser" : "Matt Tolmach",
+        "sutradara" : "Jake Kasdan",
+        "penulis" : "Jake Kasdan",
+        "sinopsis" : "Film ini kembali menceritakan mengenai permainan Jumanji, tapi tidak lagi menggunakan permainan papan melainkan video game, dimana 4 orang anak yang sama-sama dihukum di ruang detensi menemukan konsol game tua yang membawa mereka masuk ke dunia Jumanji, dan harus berjuang untuk melarikan diri dari dunia tersebut.",
+        "tahun" : "2017",
+        "pemain" : [
+            "Dwayne Johnson",
+            "Jack Black",
+            "Kevin Hart",
+            "Karen Gillan",
+            "Nick Jonas",
+            "Bobby Cannavale"
+        ],
+        "funfact" : [
+            "Nickelodeon Kids' Choice Award untuk Film Favorit 2018"
+    },{
+        "judul" : "Free Guy",
+        "genre" : "Sci-Fi",
+        "produser" : "Ryan Reynolds",
+        "sutradara" : "Shawn Levy",
+        "penulis" : "Matt Lieberman",
+        "sinopsis" : "film Free Guy bercerita tentang Guy (Ryan Reynolds), seorang teller bank yang hidupnya sebagai NPC alias Non-Player Character, dalam game komputer. Sebagai NPC, hidupnya dikendalikan kode komputer, bukan manusia. Dia hidup dalam game Free City. Sayangnya, game ini segera ditutup dan Guy yang sadar bahwa dirinya adalah AI, dia justru melawan sang pencipta game, Antwan (Taika Waititi) dengan dibantu karakter player lain.",
+        "tahun" : "2021",
+        "pemain" : [
+            "Ryan Reynolds",
+            "Jodie Corner",
+            "Lil Rel Howery",
+            "Taika Waititi"
+        ],
+        "funfact" : [
+            "People's Choice Award untuk Film Komedi Favorit 2021"
+    },{
+        "judul" : "Johnny English Strikes Again",
+        "genre" : "Comedy",
+        "produser" : "Chris Clark",
+        "sutradara" : "David Kerr",
+        "penulis" : "Robert Wade",
+        "sinopsis" : "Sebuah serangan siber menyebabkan seluruh identitas mata-mata aktif untuk Inggris terbongkar. Ditengah masa pensiunnya, Johnny English kembali dipanggil untuk menjalankan misi rahasia karena hanya ia satu-satunya mata-mata yang identitasnya belum diketahui. Johnny ditugaskan untuk menemukan dalang di balik peretasan yang dilakukan. Namun sebagai mata-mata tua yang tergolong gagap teknologi, Johnny dihadapkan dengan tantangan berupa teknologi yang lebih modern. Mau tak mau, ia harus berusaha menaklukkan tantangan supaya misinya bisa berhasil.",
+        "tahun" : "2018",
+        "pemain" : [
+            "Rowan Atkinson",
+            "Olga Kurylenko",
+            "Ben Miller",
+            "Emma Thompson",
+            "Jake Lacy",
+            "Adam James"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "Happy Death Day 2U",
+        "genre" : "Horror",
+        "produser" : "Jason Blum",
+        "sutradara" : "Christopher Landon",
+        "penulis" : "Christopher Landon",
+        "sinopsis" : "Menceritakan Tree Gelbman yang masuk ke dimensi pararel akibat percobaan sains dari sekelompok mahasiswa. Hal itu menyebabkan dia kembali mengalami kematian yang berulang-ulang dan masuk ke lingkaran waktu yang lebih mengerikan. Tree harus mengungkap identitas sang pembunuh baru. Dia juga harus memilih dimensi kehidupan yang akan dia jalani selamanya.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Jessica Rothe",
+            "Israel Broussard",
+            "Suraj Sharma",
+            "Steve Zissis"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "Zombieland : Double Tap",
+        "genre" : "Comedy",
+        "produser" : "Gavin Polone",
+        "sutradara" : "Ruben Fleischer",
+        "penulis" : "Rhett Reese",
+        "sinopsis" : "Seorang mahasiswa polos yang pergi menuju Ohio, pria bersenjata yang mencari Twinkie, dan dua perempuan bersaudara yang ingin bermain di sebuah taman bermain terkenal yang sama-sama menghindari daerah Amerika yang sudah dipenuhi oleh zombie.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Jesse Eisenberg",
+            "Woody Harrelson",
+            "Emma Stone",
+            "Abigail Breslin"
+        ],
+        "funfact" : [
+            "Golden Schmoes Awards kategori Best Horror Movie of the Year, Most Memorable Scene in a Movie 2009",
+            "San Diego Film Critics Society Awards kategori Special Award 2009",
+            "Scream Awards kategori Best Ensemble, Best Horror Movie, Best Cameo 2010"
+    },{
+        "judul" : "Insidious",
+        "genre" : "Horror",
+        "produser" : "Jason Blum",
+        "sutradara" : "James Wan",
+        "penulis" : "Leigh Whannell",
+        "sinopsis" : "Seorang anak terjatuh hingga koma, namun menurut dokter dia bukan koma karena sakit, melainkan karena hal misterius. Keluarga Lambert pun lari meminta pertolongan pada Elise Rainier, paranormal terkenal.",
+        "tahun" : "2010",
+        "pemain" : [
+            "Patrick Wilson",
+            "Rose Byrne",
+            "Ty Simpkins",
+            "Barbara Hershey",
+            "Lin Shaye",
+            "Andrew Astor",
+            "Leigh Whannell"
+        ],
+        "funfact" : [
+            "Fright Meter Awards 2011 kategori : Best Horror Movie",
+            "IGN People's Choice Award: Best Horror Movie 2011"
+    },{
+        "judul" : "The Invisible Man",
+        "genre" : "Horror",
+        "produser" : "Jason Blum",
+        "sutradara" : "Leigh Whannell",
+        "penulis" : "Leigh Whannell",
+        "sinopsis" : "Cecilia mendengar berita kalau mantan pacarnya yang abusive bunuh diri. Setelah itu, Cecilia mulai membangun kembali kehidupannya. Namun, ia merasa kalau mantan kekasihnya itu tak benar-benar mati, karena ia selalu dihantui olehnya.",
+        "tahun" : "2020",
+        "pemain" : [
+            "Elisabeth Moss",
+            "Aldis Hodge",
+            "Storm Reid",
+            "Harriet Dyer",
+            "Michael Dorman",
+            "Oliver Jackson Cohen"
+        ],
+        "funfact" : [
+            "Penghargaan AACTA untuk Sinematografi Terbaik 2020",
+            "Penghargaan AACTA untuk Penyuaraan Terbaik 2020",
+            "Penghargaan AACTA untuk Penyuntingan Terbaik 2020"
+    },{
+        "judul" : "Birdman : or (The Unexpected Virtue of Ignorance)",
+        "genre" : "Comedy",
+        "produser" : "Alejandro Gonzales Inarritu",
+        "sutradara" : "Alejandro Gonzales Inarritu",
+        "penulis" : "Alejandro Gonzales Inarritu",
+        "sinopsis" : "Riggan Thomson adalah seorang aktor senior. Namanya mencuat setelah membintangi trilogy film Birdman pada tahun 1989 sampai 1992.Walau filmnya sudah lama, Riggan masih ingat kritik terhadap suaranya ketika memerankan Birdman. Terlepas dari itu semua, Riggan masih sering membayangkan menjadi Birdman. Peran itu membuatnya bisa terbang dan melakukan telekinesis. Riggan mulai mencari popularitasnya dalam bidang menulis. Dia juga menyutradarai dan membintangi Broadway. Pertunjukan itu merupakan adaptasi cerita pendek karya Raymond Carver berjudul What We Talk About When We Talk About Love. Tapi suara Birdman masih terdengar oleh Riggan. Suara itu meminta Riggan untuk kembali membintangi film besar.",
+        "tahun" : "2014",
+        "pemain" : [
+            "Michael Keaton",
+            "Zach Galifianakis",
+            "Edward Norton",
+            "Andrea Riseborough",
+            "Emma Stone",
+            "Naomi Watts",
+            "Amy Ryan"
+        ],
+        "funfact" : [
+            "Critics' Choice Movie Award untuk Best Cast 2015",
+            "Penghargaan Golden Eagle untuk Film Berbahasa Asing Terbaik 2016",
+            "Satellite Award untuk Film Terbaik 2015"
+    },{
+        "judul" : "How to Train Your Dragon",
+        "genre" : "Animasi",
+        "produser" : "Bonnie Arnold",
+        "sutradara" : "Chris Sanders",
+        "penulis" : "Dean DeBois",
+        "sinopsis" : "Cerita film ini bersetting di daerah utara pulau Berk, dimana hidup sekawanan viking. Tiap hari, para viking dewasa bertarung melawan naga-naga (dragons), yang selalu berusaha menyerbu desa mereka. Seorang viking muda, Hiccup (Jay Baruchel) ingin ikut bertarung, namun selalu tidak diperbolehkan oleh ayahnya, Stoik (Gerard Butler) karena merasa anaknya belum siap. Namun secara tak sengaja, Hiccup berhasil menangkap satu naga paling berbahaya berjenis Night Fury. Namun setelah itu, Hiccup tidak kuasa untuk membunuhnya. Ia akhirnya malah berteman dengan naga yang ia beri nama Toothless itu. How to Train Your Dragon memang berpusat pada pertemanan Hiccup dan naga Toothless. Karakter yang ada juga terlihat bagus dan unik, baik dari bangsa viking maupun jenis naga-naga yang lucu tapi juga seram. Secara overall, film ini sangat layak ditonton, bukan hanya untuk anak-anak, namun untuk semua pecinta film pada umumnya.",
+        "tahun" : "2010",
+        "pemain" : [
+            "Jay Baruchel",
+            "Gerard Butler",
+            "Craig Ferguson",
+            "America Ferrera",
+            "Jonah Hill",
+            "Christopher Mintz-Plasse",
+            "T.J. Miller",
+            "Kristen Wiig"
+        ],
+        "funfact" : [
+            "Annie Award untuk Film Animasi Terbaik 2011",
+            "VES Award untuk Outstanding Animated Character in an Animated Feature Motion Picture 2010"
+    },{
+        "judul" : "The Spongebob Movie : Sponge on the Run",
+        "genre" : "Animasi",
+        "produser" : "Ryan Harris",
+        "sutradara" : "Tim Hill",
+        "penulis" : "Tim Hill",
+        "sinopsis" : "SpongeBob yang polos kehilangan hewan peliharaannya Gary, sisiput. Ditemani oleh Patrick SpongeBob mencari Gary ke Lost City of Atlantic City. Ternyata Gary diculik oleh raja Poseidon yang membutuhkan siput, untuk merawat wajahnya agar awet muda. Dalam perjalanan tersebut, akan mengungkap bagaimana sahabat-sahabat dekat SpongeBob bertemu dengannya.",
+        "tahun" : "2021",
+        "pemain" : [
+            "Tom Kenny",
+            "Awkwafina",
+            "Matt Berry",
+            "Snoop Dogg",
+            "Bill Fagerbakke",
+            "Clancy Brown",
+            "Tiffany Haddish",
+            "Carolyn Lawrence",
+            "Mr. Lawrence",
+            "Keanu Reeves",
+            "Danny Trejo",
+            "Reggie Watts"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
     },{
         "judul" : "",
         "genre" : "",
@@ -1141,7 +1568,6 @@
             "",
             "",
             ""
-        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1159,7 +1585,6 @@
             "",
             "",
             ""
-        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1177,6 +1602,260 @@
             "",
             "",
             ""
-        ]
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+    },{
+        "judul" : "",
+        "genre" : "",
+        "produser" : "",
+        "sutradara" : "",
+        "penulis" : "",
+        "sinopsis" : "",
+        "tahun" : "",
+        "pemain" : [
+            "",
+            "",
+            ""
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
     }
 ]
