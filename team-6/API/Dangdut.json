@@ -1,0 +1,146 @@
+[
+	{   
+        "SUBGENRE" : "Dangdut Melayu",
+        "Band"  : "Elvy Sukaesih",
+        "Album" : "Dangdut",
+        "Judul" : "Sekuntum Mawar Merah",
+        "Tahun" : "1971" 
+            
+    },
+	{
+        "SUBGENRE" : "Dangdut Melayu",
+        "Band"  : "Mansyur S",
+        "Album" : "SEMARAK DANGDUT MANSYUR S",
+        "Judul" : "Rembulan Bersinar Lagi",
+        "Tahun" : "2007" 
+			
+	},
+	{
+         "SUBGENRE" : "Dangdut Melayu",
+        "Band"  : "Rhoma Irama",
+        "Album" : "Gulali",
+        "Judul" : "Pertemuan",
+        "Tahun" : "1996" 
+		
+    },
+	{   
+        "SUBGENRE" : "Disco Dangdut",
+        "Band"  : "Fahmi Shahab",
+        "Album" : "Kopi Dangdut",
+        "Judul" : "Kopi Dangdut",
+        "Tahun" : "2000" 
+            
+    },
+	{
+        "SUBGENRE" : "Disco Dangdut",
+        "Band"  : "Doel Sumbang",
+        "Album" : "Arti Kehidupan",
+        "Judul" : "Malioboro",
+        "Tahun" : "1988" 
+			
+	},
+	{
+         "SUBGENRE" : "Disco Dangdut",
+        "Band"  : "Mus Mulyadi",
+        "Album" : "Keroncong Mus Mulyadi Cd1",
+        "Judul" : "Dinda Bestari",
+        "Tahun" : "1984" 
+		
+    },
+	{   
+        "SUBGENRE" : "Dangdut Koplo",
+        "Band"  : "Happy Asmara",
+        "Album" : "Sambel Terasi",
+        "Judul" : "Sambel Terasi",
+        "Tahun" : "2020" 
+            
+    },
+	{
+        "SUBGENRE" : "Dangdut Koplo",
+        "Band"  : "Via Vallen",
+        "Album" : "Bunga",
+        "Judul" : "Bunga",
+        "Tahun" : "2020" 
+			
+	},
+	{
+         "SUBGENRE" : "Dangdut Koplo",
+        "Band"  : "Jiham Audy",
+        "Album" : "OM Rosebella The Best Jihan Audy",
+        "Judul" : "Juragan Empang",
+        "Tahun" : "2017" 
+		
+    },
+	{   
+        "SUBGENRE" : "Rock-Dut",
+        "Band"  : "Alam",
+        "Album" : "King Of Metal Dhank dhut",
+        "Judul" : "Embah Dukun",
+        "Tahun" : "2002" 
+            
+    },
+	{
+        "SUBGENRE" : "Rock-Dut",
+        "Band"  : "Ahmad Albar",
+        "Album" : "The Best of Achmad Albar",
+        "Judul" : "Panggung Sandiwara",
+        "Tahun" : "1997" 
+			
+	},
+	{
+        "SUBGENRE" : "Rock-Dut",
+        "Band"  : "Rhoma Irama",
+        "Album" : "Nada-nada Rindu",
+        "Judul" : "Judi",
+        "Tahun" : "1987" 
+		
+    },
+	{   
+        "SUBGENRE" : "Pop Dangdut",
+        "Band"  : "Ikke Nurjanah",
+        "Album" : "Dua Dalam Satu",
+        "Judul" : "Terlena",
+        "Tahun" : "2004" 
+            
+    },
+	{
+        "SUBGENRE" : "Pop Dangdut",
+        "Band"  : "Iis Dahlia",
+        "Album" : "18 Jaipong Dangdut",
+        "Judul" : "Tamu Tak Diundang",
+        "Tahun" : "1990" 
+			
+	},
+	{
+        "SUBGENRE" : "Pop Dangdut",
+        "Band"  : "Iyeth Bustami",
+        "Album" : "Zapin - dut : Laksamana Raja Di Laut",
+        "Judul" : "Cinta Hanya Sekali",
+        "Tahun" : "2003"
+		
+    },
+	{   
+        "SUBGENRE" : "Dangdut Remix",
+        "Band"  : "Lolita",
+        "Album" : "FUNKY KOTA! HOUSE MUSIC from INDONESIA",
+        "Judul" : "Emang Gua Pikirin",
+        "Tahun" : "2009" 
+            
+    },
+	{
+        "SUBGENRE" : "Dangdut Remix",
+        "Band"  : "Keke",
+        "Album" : "Ayo Dance Online Mix",
+        "Judul" : "Godain Kita Dong",
+        "Tahun" : "2008"
+			
+	},
+	{
+         "SUBGENRE" : "Dangdut Remix",
+        "Band"  : "Siti Badriah",
+        "Album" : "Satu Sama",
+        "Judul" : "Brondong Tua",
+        "Tahun" : "2014" 
+		
+    }
+]
