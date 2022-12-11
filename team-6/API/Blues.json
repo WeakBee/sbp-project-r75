@@ -1,0 +1,194 @@
+[
+    {   
+        "SUBGENRE" : "Delta Blues",
+        "Band"  : "Robert Johnson",
+        "Album" : "King Of The Delta Blues Singers",
+        "Judul" : "Cross Road Blue",
+        "Tahun" : "1937"
+            
+    },
+	{
+         "SUBGENRE" : "Delta Blues",
+        "Band"  : "Son House",
+        "Album" : "Preachin 'Blues",
+        "Judul" : "Preachin 'Blues",
+        "Tahun" : "2021"
+			
+	},
+	{
+         "SUBGENRE" : "Delta Blues",
+        "Band"  : " Kid Bailey",
+        "Album" : "Son House & Great Della Blues singers",
+        "Judul" : "Rowdy Blues",
+        "Tahun" : "2000"
+			
+	},
+	{   
+        "SUBGENRE" : "Piedmont Blues",
+        "Band"  : "Frank Stokes",
+        "Album" : "Presenting Frank Stokes",
+        "Judul" : "How Long", 
+        "Tahun" : "1928"
+            
+    },
+	{
+         "SUBGENRE" : "Piedmont Blues",
+        "Band"  : "Michael Roach",
+        "Album" : "Ain't Got Me No Home",
+        "Judul" : "In My Neighborhood",
+        "Tahun" : "1993"
+			
+	},
+	{
+         "SUBGENRE" : "Piedmont Blues",
+        "Band"  : "Tim Sparks",
+        "Album" : "SideWalk Blues",
+        "Judul" : "Amazing Grace",
+        "Tahun" : "2009"
+			
+	},
+	{   
+        "SUBGENRE" : "Jump Blues",
+        "Band"  : "Jay McNeely",
+        "Album" : "Presenting Big Jay McNeely",
+        "Judul" : "Deacon Rides Again",
+        "Tahun" : "1955"
+            
+    },
+	{
+         "SUBGENRE" : "Jump Blues",
+        "Band"  : "Tiny Bradshaw",
+        "Album" : "The EP Collection...Plus",
+        "Judul" : "Soft",
+        "Tahun" : "1999"
+			
+	},
+	{
+         "SUBGENRE" : "Jump Blues",
+        "Band"  : "Lowell Fulson",
+        "Album" : "I'm A Night Owl",
+        "Judul" : "Don't Leave Me Baby",
+        "Tahun" : "2006"
+			
+	},
+	{   
+        "SUBGENRE" : "Chicago Blues",
+        "Band"  : "Lacy Gibson",
+        "Album" : "Living Chicago Blues Vol.3",
+        "Judul" : "Drown In My Own Tears",
+        "Tahun" : "1908"
+            
+    },
+	{
+         "SUBGENRE" : "Chicago Blues",
+        "Band"  : "Johnny B.Moore",
+        "Album" : "Lonesome Blues",
+        "Judul" : "Lonesome Blues",
+        "Tahun" : "1993"
+			
+	},
+	{
+         "SUBGENRE" : "Chicago Blues",
+        "Band"  : "Luther Allison",
+        "Album" : "The Alligator Records Years",
+        "Judul" : "...Should I Wait",
+        "Tahun" : "2013"
+			
+	},
+    {   
+        "SUBGENRE" : "Texas Blues",
+        "Band"  : "Stevie Ray Vaughan",
+        "Album" : "Texas Flood",
+        "Judul" : "Pride and Joy",
+        "Tahun" : "1983"
+            
+    },
+	{
+         "SUBGENRE" : "Texas Blues",
+        "Band"  : "T-Bone Walker",
+        "Album" : "T-Bone Blues",
+        "Judul" : "Mean Old World",
+        "Tahun" : "2005"
+			
+	},
+	{
+         "SUBGENRE" : "Texas Blues",
+        "Band"  : " Jimmie Vaughan",
+        "Album" : "The Essential Jimmie Vaughan",
+        "Judul" : "Six Strings Down",
+        "Tahun" : "2003"
+			
+	},
+	{   
+        "SUBGENRE" : "Country Blues",
+        "Band"  : "B.B.King",
+        "Album" : "Anthology",
+        "Judul" : "The Trill Is Gone",
+        "Tahun" : "2014"
+            
+    },
+	{
+         "SUBGENRE" : "Country Blues",
+        "Band"  : "Stevie Ray Vaughan",
+        "Album" : "The Essential Stevie Ray Vaughan",
+        "Judul" : "Life By The Drop",
+        "Tahun" : "2022"
+			
+	},
+	{
+         "SUBGENRE" : "Country Blues",
+        "Band"  : "John Lee Hooker",
+        "Album" : "Burnin",
+        "Judul" : "Boom Boom",
+        "Tahun" : "1962"
+			
+	},
+	{   
+        "SUBGENRE" : "Blues Rock",
+        "Band"  : "Jimi Hendrix",
+        "Album" : "People, Hell & Angels",
+        "Judul" : "Somewhere",
+        "Tahun" : "2013"
+            
+    },
+	{
+         "SUBGENRE" : "Blues Rock",
+        "Band"  : "John Mayer",
+        "Album" : "Continuum",
+        "Judul" : "I'm Gonna Find Another You",
+        "Tahun" : "2006"
+			
+	},
+	{
+         "SUBGENRE" : "Blues Rock",
+        "Band"  : "Led Zeppenlin",
+        "Album" : "House Of The Holy",
+        "Judul" : "D'yer Mak'er",
+        "Tahun" : "1973"
+			
+	},
+	{   
+        "SUBGENRE" : "Modern Electric Blues",
+        "Band"  : "Gungun Power Trio",
+        "Album" : "Far East Blues Experience",
+        "Judul" : "Turn It On",
+        "Tahun" : "2011"
+            
+    },
+	{
+         "SUBGENRE" : "Modern Electric Blues",
+        "Band"  : "Tas Cu",
+        "Album" : "Drive On",
+        "Judul" : "Save Me",
+        "Tahun" : "2020"
+			
+	},
+    {
+        "SUBGENRE" : "Modern Electric Blues",
+        "Band"  : "Terry Evans",
+        "Album" : "Fire In The Feelings",
+        "Judul" : "What About Me",
+        "Tahun" : "2005"
+			
+    }
+]

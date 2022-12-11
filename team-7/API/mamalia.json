@@ -1,0 +1,63 @@
+[
+    {   
+        "Nama" : "Kuskus Beruang Sulawesi",
+        "Jenis" : "Arboreal / Hidup Dipohonan",
+        "Ukuran" : "60 CM",
+        "Berat" : "< 8KG",
+        "Golongan" :"Herbivora",
+        "Warna" : [
+            "Hitam", 
+            "Coklat", 
+            "Abu Abu"
+    ]
+    },
+    {  
+        "Nama" : "Binturong",
+        "Jenis" : "Arboreal / Hidup Dipohonan",
+        "Ukuran" : "60 CM - 90 CM",
+        "Berat" : "6KG-14KG",
+        "Golongan" :"Karnivora",
+        "Warna" : [
+            "Hitam", 
+            "Coklat", 
+            "Abu Abu",
+            "Kemerahan",
+            "Putih"
+    ]
+    },
+    {   
+        "Nama" : "Pulusan",
+        "Jenis" : "",
+        "Ukuran" : "55 CM - 70 CM",
+        "Berat" : "7KG-14KG",
+        "Golongan" :"Omnivora",
+        "Warna" : [
+            "Kuning", 
+            "Hitam", 
+            "Abu Abu",
+            "Putih"
+    ]
+    },
+    {   
+        "Nama" : "Rusa Bawen",
+        "Jenis" : "",
+        "Ukuran" : "105 CM - 115 CM",
+        "Berat" : "15KG-30KG",
+        "Golongan" :"Herbivora",
+        "Warna" : [
+            "Coklat", 
+            "Putih", 
+            "Merah"
+    ]
+    },
+    {   
+        "Nama" : "Babi Rusa",
+        "Jenis" : "",
+        "Ukuran" : "85 CM - 105 CM",
+        "Berat" : "90KG-100KG",
+        "Golongan" :"Herbivora",
+        "Warna" : [
+            "Abu Abu"
+    ]
+    }
+]
