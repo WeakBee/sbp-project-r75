@@ -52,8 +52,8 @@
     </div>
     <div class="col-md-4">
       <div class="card-body">
-        <h3 class="card-title">Orang Utan</h3>
-        <p class="card-text">Orang utan (bentuk tidak baku: orangutan) atau mawas adalah salah satu jenis kera besar dengan lengan panjang dan berbulu kemerahan atau cokelat, ...</p>
+        <h3 class="card-title">Kucing Hutan</h3>
+        <p class="card-text">Kucing hutan mengacu pada jenis-jenis kucing (anggota suku Felidae) yang hidup liar di hutan, ...</p>
       </div>
     </div>
   </div>
@@ -67,8 +67,8 @@
     </div>
     <div class="col-md-4">
       <div class="card-body">
-        <h3 class="card-title">Orang Utan</h3>
-        <p class="card-text">Orang utan (bentuk tidak baku: orangutan) atau mawas adalah salah satu jenis kera besar dengan lengan panjang dan berbulu kemerahan atau cokelat, ...</p>
+        <h3 class="card-title">Komodo</h3>
+        <p class="card-text">Komodo merupakan spesies terbesar dari familia Varanidae, sekaligus kadal terbesar di dunia, dengan rata-rata panjang 2-3 meter dan beratnya bisa mencapai 100 kg. Komodo merupakan pemangsa puncak di habitatnya...</p>
       </div>
     </div>
   </div>
@@ -82,8 +82,8 @@
     </div>
     <div class="col-md-4">
       <div class="card-body">
-        <h3 class="card-title">Orang Utan</h3>
-        <p class="card-text">Orang utan (bentuk tidak baku: orangutan) atau mawas adalah salah satu jenis kera besar dengan lengan panjang dan berbulu kemerahan atau cokelat, ...</p>
+        <h3 class="card-title">Jalak Bali</h3>
+        <p class="card-text">Jalak Bali (Leucopsar rothschildi) adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25 cm, dari suku Sturnidae. Ia turut dikenali sebagai Curik Ketimbang Jalak....</p>
       </div>
     </div>
   </div>

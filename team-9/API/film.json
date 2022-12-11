@@ -159,7 +159,7 @@
         ]
     },{
         "judul" : "Gendut Siapa Takut?!",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Rajesh Kewalram Jagtiani",
         "sutradara" : "Pritagita Arianegara",
         "penulis" : "Pritagita Arianegara",
@@ -175,7 +175,7 @@
         ]
     },{
         "judul" : "Lara Ati",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Shanty Harmayn",
         "sutradara" : "Bayu Skak",
         "penulis" : "Anissa Pandan Sari",
@@ -255,7 +255,7 @@
         ]
     },{
         "judul" : "Ali & Ratu-Ratu Queens",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Muhammad Zaidy",
         "sutradara" : "Lucky Kuswandi",
         "penulis" : "Gina S Noer",
@@ -275,7 +275,7 @@
         ]
     },{
         "judul" : "Warkop DKI Reborn",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Frederica",
         "sutradara" : "Rako Prijanto",
         "penulis" : "Anggoro Saronto",
@@ -293,7 +293,7 @@
         ]
     },{
         "judul" : "Ivanna",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Kimo Stamboel",
         "penulis" : "Lele Laila",
@@ -311,7 +311,7 @@
         ]
     },{
         "judul" : "KKN Desa Penari",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Awi Suryadi",
         "penulis" : "Lele Laila",
@@ -330,7 +330,7 @@
         ]
     },{
         "judul" : "Menjelang Magrib",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Helfi Kardit",
         "sutradara" : "Helfi Kardit",
         "penulis" : "Helfi Kardit",
@@ -349,7 +349,7 @@
         ]
     },{
         "judul" : "Si Manis Jembatan Ancol",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Raam Punjabi",
         "sutradara" : "Anggy Umbara",
         "penulis" : "Anggy Umbara",
@@ -368,7 +368,7 @@
         ]
     },{
         "judul" : "Perempuan Tanah Jahanam",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Shanty Harmayn",
         "sutradara" : "Joko Anwar",
         "penulis" : "Joko Anwar",
@@ -384,7 +384,7 @@
         ]
     },{
         "judul" : "Makmum",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Dheeraj Kalwani",
         "sutradara" : "Hadrah Daeng Ratu",
         "penulis" : "Alim Studio",
@@ -402,7 +402,7 @@
         ]
     },{
         "judul" : "Suzzanna :  Bernapas dalam Kubur",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Sunil Soraya",
         "sutradara" : "Rocky Soraya",
         "penulis" : "Bene Dion Rajagukguk",
@@ -419,7 +419,7 @@
         ]
     },{
         "judul" : "Pengabdi Setan",
-        "genre" : "Horor",
+        "genre" : "Horror",
         "produser" : "Gope T Samtani",
         "sutradara" : "Joko Anwar",
         "penulis" : "Joko Anwar",
@@ -492,7 +492,7 @@
         ]
     },{
         "judul" : "My Sassy Girl",
-        "genre" : "Romance",
+        "genre" : "Romantis",
         "produser" : "Frederica",
         "sutradara" : "Fajar Bustomi",
         "penulis" : "Titien Wattimena",
@@ -507,7 +507,7 @@
         ]
     },{
         "judul" : "Dear Nathan",
-        "genre" : "Romance",
+        "genre" : "Romantis",
         "produser" : "Gope T Samtani",
         "sutradara" : "Indra Gunawan",
         "penulis" : "Bagus Bramanti",
@@ -523,7 +523,7 @@
         ]
     },{
         "judul" : "Tersanjung the Movie",
-        "genre" : "Romance",
+        "genre" : "Romantis",
         "produser" : "Raam Punjabi",
         "sutradara" : "Hanung Bramantyo",
         "penulis" : "Hanung Bramantyo",
@@ -539,7 +539,7 @@
         ]
     },{
         "judul" : "Supernova",
-        "genre" : "Fantasy",
+        "genre" : "Fantasi",
         "produser" : "Sunil Soraya",
         "sutradara" : "Rizal Mantovani",
         "penulis" : "Donny Dhirgantoro",
@@ -558,7 +558,7 @@
         ]
     },{
         "judul" : "Ambilkan Bulan",
-        "genre" : "Fantasy",
+        "genre" : "Fantasi",
         "produser" : "Putut Widjanarko",
         "sutradara" : "Ifa Isfansyah",
         "penulis" : "Jujur Prananto",
@@ -730,7 +730,7 @@
         ]
     },{
         "judul" : "Kadet 1947",
-        "genre" : "War",
+        "genre" : "Perang",
         "produser" : "Celerina Judisari",
         "sutradara" : "Rahabi Mandra",
         "penulis" : "Rahabi Mandra",
@@ -752,7 +752,7 @@
         ]
     },{
         "judul" : "Merah Putih Memanggil",
-        "genre" : "War",
+        "genre" : "Perang",
         "produser" : "Josie Karjadi",
         "sutradara" : "Mirwan Suwarso",
         "penulis" : "TB Silalahi",
@@ -771,7 +771,7 @@
         ]
     },{
         "judul" : "Pasukan Garuda : I Leave My Heart in Lebanon",
-        "genre" : "War",
+        "genre" : "Perang",
         "produser" : "Zairin Zain",
         "sutradara" : "Benni Setiawan",
         "penulis" : "Benni Setiawan",
@@ -788,7 +788,7 @@
         ]
     },{
         "judul" : "Jenderal Soedirman",
-        "genre" : "War",
+        "genre" : "Perang",
         "produser" : "Handi Ilfat",
         "sutradara" : "Viva Westi",
         "penulis" : "TB Deddy Safiudin",
@@ -817,7 +817,7 @@
         ]
     },{
         "judul" : "Merah Putih",
-        "genre" : "War",
+        "genre" : "Perang",
         "produser" : "Conor Ally",
         "sutradara" : "Yadi Sugandi",
         "penulis" : "Conor Ally",
@@ -1007,7 +1007,7 @@
         ]
     },{
         "judul" : "Nussa",
-        "genre" : "Animation",
+        "genre" : "Animasi",
         "produser" : "Ricky Manoppo",
         "sutradara" : "Bony Wirasmono",
         "penulis" : "Muhamad Nurman Wardi",
@@ -1028,7 +1028,7 @@
         ]
     },{
         "judul" : "Adit Sopo Jarwo the Movie",
-        "genre" : "Animation",
+        "genre" : "Animasi",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Hanung Bramantyo",
         "penulis" : "Anto Malaya",
@@ -1046,7 +1046,7 @@
         ]
     },{
         "judul" : "Si Juki the Movie",
-        "genre" : "Animation",
+        "genre" : "Animasi",
         "produser" : "Frederica",
         "sutradara" : "Faza Meonk",
         "penulis" : "Theo Arnoldy",
@@ -1071,7 +1071,7 @@
         ]
     },{
         "judul" : "Iqro : My Universe",
-        "genre" : "Kids",
+        "genre" : "Anak-anak",
         "produser" : "Budiyati Abiyoga",
         "sutradara" : "Iqbal Alfajri",
         "penulis" : "Aisyah Amirah Nasution",
@@ -1090,7 +1090,7 @@
         ]
     },{
         "judul" : "Koki-koki Cilik",
-        "genre" : "Kids",
+        "genre" : "Anak-anak",
         "produser" : "Rissa Putri",
         "sutradara" : "Ifa Isfansyah",
         "penulis" : "Vera Varidia",
@@ -1149,7 +1149,7 @@
             "Zoë Kravitz",
             "Miles Teller",
             "Maggie Q",
-            "Kate Winslet",
+            "Kate Winslet"
         ],
         "funfact" : [
             "Teen Choice Award untuk Film Pilihan: Aksi 2014",
@@ -1203,7 +1203,7 @@
         ]
     },{
         "judul" : "Godzilla : King of the Monster",
-        "genre" : "Fantasy",
+        "genre" : "Fantasi",
         "produser" : "Mary Parent",
         "sutradara" : "Michael Dougherty",
         "penulis" : "Max Borenstein",
@@ -1274,6 +1274,7 @@
             "Annie Award untuk kategori “Outstanding Achievement, Animated Effects in a Live Action Production” dan “Outstanding Achievement, Character Animation in a Live Action Production”.",
             "Hollywood Film Awards untuk kategori “Best Visual Effects”.",
             "Las Vegas Film Critics Society untuk kategori “Best Horror/Sci-Fi Film”." 
+        ]
     },{
         "judul" : "A Quiet Place",
         "genre" : "Horror",
@@ -1290,6 +1291,7 @@
             "Critics' Choice Movie Award untuk Film Horor/Sci-fi Terbaik 2019",
             "Satellite Award untuk Tata Suara Terbaik 2019",
             "Festival Film Bandung untuk Film Impor Terpuji 2018"
+        ]
     },{
         "judul" : "The Invisible Guest",
         "genre" : "Thriller",
@@ -1308,6 +1310,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "Get Out",
         "genre" : "Thriller",
@@ -1331,6 +1334,7 @@
             "Empire Award untuk Film Horor Terbaik 2018",
             "Empire Awards for Best Screenplay 2018",
             "Festival Film Bandung untuk Film Impor Terpuji 2017"
+        ]
     },{
         "judul" : "DeadPool",
         "genre" : "Action",
@@ -1353,9 +1357,10 @@
             "Empire Awards for Best Screenplay 2017",
             "Teen Choice Award untuk Film Pilihan: Aksi 2016",
             "Penghargaan Kerrang! untuk Best Film 2016"
+        ]
     },{
         "judul" : "Jumanji : Welcome to the Jungle",
-        "genre" : "Fantasy",
+        "genre" : "Fantasi",
         "produser" : "Matt Tolmach",
         "sutradara" : "Jake Kasdan",
         "penulis" : "Jake Kasdan",
@@ -1371,6 +1376,7 @@
         ],
         "funfact" : [
             "Nickelodeon Kids' Choice Award untuk Film Favorit 2018"
+        ]
     },{
         "judul" : "Free Guy",
         "genre" : "Sci-Fi",
@@ -1387,9 +1393,10 @@
         ],
         "funfact" : [
             "People's Choice Award untuk Film Komedi Favorit 2021"
+        ]
     },{
         "judul" : "Johnny English Strikes Again",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Chris Clark",
         "sutradara" : "David Kerr",
         "penulis" : "Robert Wade",
@@ -1407,6 +1414,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "Happy Death Day 2U",
         "genre" : "Horror",
@@ -1425,9 +1433,10 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "Zombieland : Double Tap",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Gavin Polone",
         "sutradara" : "Ruben Fleischer",
         "penulis" : "Rhett Reese",
@@ -1443,6 +1452,7 @@
             "Golden Schmoes Awards kategori Best Horror Movie of the Year, Most Memorable Scene in a Movie 2009",
             "San Diego Film Critics Society Awards kategori Special Award 2009",
             "Scream Awards kategori Best Ensemble, Best Horror Movie, Best Cameo 2010"
+        ]
     },{
         "judul" : "Insidious",
         "genre" : "Horror",
@@ -1463,6 +1473,7 @@
         "funfact" : [
             "Fright Meter Awards 2011 kategori : Best Horror Movie",
             "IGN People's Choice Award: Best Horror Movie 2011"
+        ]
     },{
         "judul" : "The Invisible Man",
         "genre" : "Horror",
@@ -1483,9 +1494,10 @@
             "Penghargaan AACTA untuk Sinematografi Terbaik 2020",
             "Penghargaan AACTA untuk Penyuaraan Terbaik 2020",
             "Penghargaan AACTA untuk Penyuntingan Terbaik 2020"
+        ]
     },{
         "judul" : "Birdman : or (The Unexpected Virtue of Ignorance)",
-        "genre" : "Comedy",
+        "genre" : "Komedi",
         "produser" : "Alejandro Gonzales Inarritu",
         "sutradara" : "Alejandro Gonzales Inarritu",
         "penulis" : "Alejandro Gonzales Inarritu",
@@ -1504,6 +1516,7 @@
             "Critics' Choice Movie Award untuk Best Cast 2015",
             "Penghargaan Golden Eagle untuk Film Berbahasa Asing Terbaik 2016",
             "Satellite Award untuk Film Terbaik 2015"
+        ]
     },{
         "judul" : "How to Train Your Dragon",
         "genre" : "Animasi",
@@ -1525,6 +1538,7 @@
         "funfact" : [
             "Annie Award untuk Film Animasi Terbaik 2011",
             "VES Award untuk Outstanding Animated Character in an Animated Feature Motion Picture 2010"
+        ]
     },{
         "judul" : "The Spongebob Movie : Sponge on the Run",
         "genre" : "Animasi",
@@ -1551,6 +1565,539 @@
             "",
             "",
             ""
+        ]
+    },{
+        "judul" : "Percy Jackson & The Olympians: The Sea of Monsters",
+        "genre" : "Fantasi",
+        "produser" : "Michael Barnathan",
+        "sutradara" : "Thor Freudenthal",
+        "penulis" : "Marc Guggenheim",
+        "sinopsis" : "Saat berada di kemah para half-blood, Percy Jackson menceritakan kisah mengenai pengorbanan Thalia putri dari Zeus. Thalia mengorbankan dirinya untuk menyelamatkan teman-temannya yang dikejar oleh Cyclop. Zeus merubah putrinya Thalia yang bersemayam dan tidak bernyawa ditanah menjadi pohon perisai untuk kemah. Hari berganti Percy Jackson harus menerima dirinya menjadi pecundang karena kalah dari Clarisse La Rue. Hingga tiba-tiba saja Percy dikagetkan dengan kedatangan seorang cyclop bernama Tyson yang ternyata merupakan anak dari ayahnya yaitu Poseidon. Saat sedang menemani adiknya makan, benteng Colchis menyerang kemah, ternyata ini akal-akalan Luke untuk meracuni pohon Thalia. Pohon Thalia semakin lemah dan membuatnya hampir mati untuk kedua kalinya, karena racun Luke sangat mematikan. Annabeth dan Grover mencari cara untuk menyelamatkan pohon Thalia hingga berakhir pada Bulu Domba Emas yang dapat menyembuhkan. Mereka mengatakan hal ini pada Mr. D yang berakhir dengan pencarian.",
+        "tahun" : "2013",
+        "pemain" : [
+            "Logan Lerman",
+            "Brandon T. Jackson",
+            "Alexandra Daddario",
+            "Leven Rambin",
+            "Jake Abel",
+            "Stanley Tucci",
+            "Nathan Fillion"
+        ],
+        "funfact" : [
+            "BMI Film Music Award 2014",
+            "SOCAN Award International Film Music Award 2015"
+        ]
+    },{
+        "judul" : "IT",
+        "genre" : "Horror",
+        "produser" : "Roy Lee",
+        "sutradara" : "Andy Muschietti",
+        "penulis" : "Chase Palmer",
+        "sinopsis" : "IT berkisah mengenai petualangan anggota 'the Losers Club', yaitu sejumlah anak yang menyebut diri mereka sebagai kelompok pecundang di kota kecil bernama Derry. Mengambil latar waktu pada 1989. Filmnya sendiri dibuka dengan tragedi hilangnya Georgie (Jackson Robert Scott), adik dari salah satu anggota mereka bernama Billy. Billy yang sangat menyayangi adiknya tersebut kemudian mengajak teman-temannya untuk ikut melakukan pencarian adiknya. Hilangnya anak-anak yang terjadi di kota Derry memang bukan kali pertama. Jauh sebelumnya terdapat puluhan anak yang dinyatakan hilang secara misterius.",
+        "tahun" : "2017",
+        "pemain" : [
+            "Jaeden Lieberher",
+            "Bill Skarsgard"
+        ],
+        "funfact" : [
+            "2017: Pemenang Fright Meter Award kategori Best Supporting Actor (Bill Skarsgård)",
+            "2017: Pemenang Golden Schmoes Award kategori Best Horror Movie of the Year",
+            "2017: pemenang Golden Trailer Award kategori Best Horror (New Line Cinema dan Buddha Jones)",
+            "2018: Pemenang iHorror Award kategori Best Horror Feature Film",
+            "2018: Pemenang MTV Movie + TV Award kategori Best On-Screen Team"
+        ]
+    },{
+        "judul" : "Beauty and the Beast",
+        "genre" : "Romantis",
+        "produser" : "David Hoberman",
+        "sutradara" : "Bill Condon",
+        "penulis" : "Stephen Chbosky",
+        "sinopsis" : "Di sebuah istana di Prancis, seorang penyihir datang untuk meminta tempat berteduh pada sang pangeran dan menggantinya dengan setangkai mawar. Sang pangeran yang angkuh pun menolaknya. Sang penyihir kemudian mengutuk pangeran menjadi sosok buruk rupa dan semua pelayannya dikutuk menjadi perabotan rumah tangga. Si penyihir kemudian menyimpan mawar tersebut dan mengutuk apabila pangeran tidak bisa belajar mencintai dan dicintai hingga kelopak terakhir mawar itu gugur, maka kutukan tersebut akan berlangsung selamanya. Cerita kemudian beralih ke Desa Villeneuve beberapa tahun kemudian, hiduplah seorang gadis bernama Belle.",
+        "tahun" : "2017",
+        "pemain" : [
+            "Emma Watson",
+            "Dan Stevens",
+            "Luke Evans",
+            "Kevin Kline",
+            "Josh Gad",
+            "Ewan McGregor",
+            "Stanley Tucci",
+            "Gugu Mbatha Raw",
+            "Audra McDonald",
+            "Ian McKellen",
+            "Emma Thompson"
+        ],
+        "funfact" : [
+            "MTV Movie & TV Award untuk Film Terbaik 2017",
+            "Kids' Choice Award Colombia for Favorite Movie 2017",
+            "Teen Choice Award untuk Film Pilihan: Fantasi 2017"
+        ]
+    },{
+        "judul" : "Alice Through the Looking Glass",
+        "genre" : "Fantasi",
+        "produser" : "Joe Roth",
+        "sutradara" : "James Bobin",
+        "penulis" : "Linda Woolverton",
+        "sinopsis" : "Alice kecil selalu terbangun saat tidur karena mimpi anehnya. Ia bermimpi mengenai kelinci berjas, kucing yang tersenyum, ulat biru, dan hal-hal aneh lain. Namun sang ayah selalu menenangkannya. Bertahun-tahun kemudian, Alice telah dewasa dan ia bersama sang ibu mendatangi sebuah pesta. Tanpa sepengetahuan Alice, ibu dan keluarganya merancang pesta itu sebagai pesta pertunangan Alice. Ia kemudian dilamar oleh Hamish, bangsawan yang juga anak dari rekan kerja mendiang ayahnya. Alice yang panik kemudian pergi ke kebun belakang. Ia melihat seekor kelinci mengenakan jas yang mirip di mimpinya masuk ke lubang dan mengikutinya ke lubang tersebut. Alice jatuh ke lubang dan terkurung di sebuah ruangan. Seekor kucing yang bisa menghilang kemudian membawa Alice bertemu dengan Hatter, pembuat topi yang membantunya untuk memahami apa yang terjadi.",
+        "tahun" : "2010",
+        "pemain" : [
+            "Johnny Depp",
+            "Anne Hathaway",
+            "Mia Wasikowska",
+            "Rhys Ifans",
+            "Helena Bonham Carter",
+            "Sacha Baron Cohen",
+            "Alan Rickman",
+            "Stephen Fry",
+            "Michael Sheen",
+            "Timothy Spall"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "Central Intelligence",
+        "genre" : "Action",
+        "produser" : "Michael Fottrell",
+        "sutradara" : "Rawson Marshall Thurber",
+        "penulis" : "Ike Barinholtz",
+        "sinopsis" : "Setelah bertemu kembali dengan teman masa sekolahnya yang sering dirundung, Calvin Joyner terkejut saat mengetahui Bob Stones telah menjadi seorang agen CIA. Keduanya pun bekerja sama untuk mengungkap kejahatan yang menyeret nama Bob.",
+        "tahun" : "2016",
+        "pemain" : [
+            "Dwayne Johnson",
+            "Kevin Hart",
+            "Amy Ryan",
+            "Aaron Paul"
+        ],
+        "funfact" : [
+            "Kids' Choice Awards, USA 2017 - BFFs (Best Friends Forever)",
+            "Teen Choice Awards 2016 - Choice Summer Movie Star: Male"
+        ]
+    },{
+        "judul" : "Now You See Me",
+        "genre" : "Thriller",
+        "produser" : "Bobby Cohen",
+        "sutradara" : "Louis Leterrier",
+        "penulis" : "Ed Solomon",
+        "sinopsis" : "Empat pesulap jalanan yang memiliki kelebihan masing-masing dalam mempertunjukkan trik sulap mereka dikumpulkan bersama oleh seorang misterius lewat sebuah kartu tarot yang mereka terima. Undangan mereka berakhir ke dalam sebuah kamar di apartemen yang kosong. Awalnya, mereka sempat mengira bahwa undangan ini hanya main-main. Namun setelah berhasil memecahkan puzzle yang terdapat di dalam ruangan tersebut, mereka mendapati sebuah rencana pertunjukkan sulap spektakuler yang mampu membawa popularitas bagi nama mereka.",
+        "tahun" : "2013",
+        "pemain" : [
+            "Jesse Eisenberg",
+            "Mark Ruffalo",
+            "Woody Harrelson",
+            "Mélanie Laurent",
+            "Isla Fisher",
+            "Dave Franco",
+            "Michael Caine",
+            "Morgan Freeman",
+            "Michael Kelly"
+        ],
+        "funfact" : [
+            "People's Choice Award untuk Film Thriller Terfavorit 2014"
+        ]
+    },{
+        "judul" : "Assassin's Creed",
+        "genre" : "Sci-Fi",
+        "produser" : "Jean-Julien Baronnet",
+        "sutradara" : "Justin Kurzel",
+        "penulis" : "Bill Collage",
+        "sinopsis" : "Berkat teknologi yang membuka ingatan genetiknya, Callum Lynch menjalani kehidupan leluhurnya, Aguilar de Nerha. Callum ternyata keturunan masyarakat rahasia misterius, Assassins. Ia pun mengumpulkan pengetahuan dan keterampilan untuk menghadapi organisasi Templar.",
+        "tahun" : "2016",
+        "pemain" : [
+            "Michael Fassbender",
+            "Marion Cotillard",
+            "Jeremy Irons",
+            "Brendan Gleeson",
+            "Michael K. Williams"
+        ],
+        "funfact" : [
+            "Golden Trailer Awards 2017 dengan kategori Golden Fleece TV Spot",
+            "Yoga Awards 2017 dengan kategori Most Overexposed Actor"
+        ]
+    },{
+        "judul" : "Home Alone ",
+        "genre" : "Komedi",
+        "produser" : "John Hughes",
+        "sutradara" : "Chris Columbus",
+        "penulis" : "John Hughes",
+        "sinopsis" : "Kevin si bungsu pembuat onar di keluarga McCallister ketinggalan di rumah mereka yang megah ketika seluruh keluarganya pergi liburan ke luar negeri. Saat itu pula ada dua pencuri yang hendak membobol rumah Kevin. Dan tentunya bocah 8 tahun itu beraksi mempertahankan rumahnya.",
+        "tahun" : "1990",
+        "pemain" : [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "John Heard"
+        ],
+        "funfact" : [
+            "Nickelodeon Kids' Choice Award untuk Film Favorit 1991",
+            "British Comedy Award for Best Comedy Film 1991"
+        ]
+    },{
+        "judul" : "Titanic",
+        "genre" : "Romantis",
+        "produser" : "James Cameron",
+        "sutradara" : "James Cameron",
+        "penulis" : "James Cameron",
+        "sinopsis" : "Titanic bercerita tentang kisah nyata tenggelamnya kapal RMS Titanic pada tahun 1912. Seorang wanita dari kalangan kelas atas, Rose DeWitt (Kate Winslet) menjadi penumpang kapal Titanic bersama Ibunya, Ruth DeWitt (Frances Fisher) dan tunangan Rose, Caledon Hockley (Billy Zane). Sementara itu seorang pemuda miskin bernama Jack Dawson (Leonardo DiCaprio) dan temannya Fabrizio DeRossi (Danny Nucci) berhasil memenangkan tiket untuk naik kapal Titanic tersebut. Tanpa diduga, Rose dan Jack saling bertemu dan kemudian saling jatuh cinta.",
+        "tahun" : "1997",
+        "pemain" : [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane",
+            "Kathy Bates",
+            "Gloria Stuart",
+            "Victor Garber"
+        ],
+        "funfact" : [
+            "Nickelodeon Kids' Choice Award untuk Film Favorit 1998",
+            "MTV Movie & TV Award untuk Film Terbaik 1998",
+            "People's Choice Award untuk Film Terfavorit 1999",
+            "People's Choice Award untuk Film Drama Favorit 1999"
+        ]
+    },{
+        "judul" : "UP",
+        "genre" : "Animasi",
+        "produser" : "Jonas Rivera",
+        "sutradara" : "Pete Docter",
+        "penulis" : "Bob Peterson",
+        "sinopsis" : "Film ini bercerita tentang kehidupan Carl Fredricksen (Edward Asner). Ia merupakan seorang lansia berumur 78 tahun yang telah ditinggal istrinya, Ellie (Elie Docter) yang meninggal dunia, dan tidak memiliki anak. Saat Carl akan dibawa ke panti jompo, ia kemudian pergi dengan menerbangkan rumahnya menuju Paradise Falls, air terjun di Venezuela, Amerika Selatan. Paradise Falls merupakan lokasi impian Carl dan Ellie, yang belum sempat dituju saat Ellie masih hidup. Namun petualangan Carl 'diganggu' oleh kehadiran seorang bocah pramuka bernama Russell (Jordan Nagai) yang secara tidak sengaja ikut terangkut. Up juga menghadirkan karakter pendukung lain, seperti Dug (anjing) dan Kevin (burung langka). Film ini menghadirkan sosok penjahat bernama Charles Muntz, yang memiliki pasukan anjing yang bisa berbicara.",
+        "tahun" : "2009",
+        "pemain" : [
+            "Ed Asner",
+            "Christopher Plummer",
+            "Jordan Nagai"
+        ],
+        "funfact" : [
+            "American Film Institute Award untuk Film Terbaik Tahun Ini 2009",
+            "Teen Choice Award untuk Acara Musim Panas Pilihan: Film — Komedi 2009",
+            "Critics' Choice Movie Award untuk Film Animasi Terbaik 2010",
+            "Nickelodeon Kids' Choice Award untuk Film Animasi Terfavorit 2010",
+            "Penghargaan Golden Globe untuk Film dengan Fitur Animasi Terbaik 2010"
+        ]
+    },{
+        "judul" : "Toy Story",
+        "genre" : "Animasi",
+        "produser" : "Bonnie Arnold",
+        "sutradara" : "John Lasseter",
+        "penulis" : "Joss Whedon",
+        "sinopsis" : "Toy Story berkisah tentang kehidupan mainan-mainan yang ternyata bisa hidup jika tidak ada manusia di sekelilingnya. Mainan ini bisa bergerak, berbicara dan melakukan aktivitas lain, asalkan tidak ada manusia di sekelilingnya. Cerita berfokus pada mainan cowboy bernama Woody (Tom Hanks) dan mainan-mainan lain milik seorang anak bernama Andy. Woody merupakan mainan favorit Andy. Namun kehadiran mainan baru yang keren berupa rangers bintang dari luar angkasa, yaitu Buzz Lightyear (Tim Allen), membuat keberadaan Woody sebagai mainan favorit Andy terancam.",
+        "tahun" : "1995",
+        "pemain" : [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles",
+            "Jim Varney",
+            "Wallace Shawn",
+            "John Ratzenberger",
+            "Annie Potts",
+            "John Morris",
+            "Erik von Detten"
+        ],
+        "funfact" : [
+            "Special Achievement Academy Award 1996",
+            "Penghargaan Producers Guild of America untuk Special Award of Merit 1996"
+        ]
+    },{
+        "judul" : "Monsters Inc",
+        "genre" : "Animasi",
+        "produser" : "Darla K. Anderson",
+        "sutradara" : "Pete Docter",
+        "penulis" : "Andrew Stanton",
+        "sinopsis" : "Monsters Inc berkisah tentang kehidupan para monster di kota Monstropolis. Kota monster tersebut mendapat energi untuk kehidupan sehari-hari dengan cara menakuti anak-anak kecil dari dunia manusia. Sebuah perusahaan bernama Monsters, Inc. tiap harinya mengumpulkan teriakan anak-anak manusia dengan mengirim monster terlatih melewati pintu paralel ke dunia manusia. Para monster kemudian mengumpulkan teriakan anak-anak untuk dijadikan energi membangun kota. Meskipun begitu para monster ini harus berhati-hati agar tidak menyentuh anak-anak tersebut karena bisa terkontaminasi. Cerita kemudian berpusat pada monster pembuat teriakan bernama James Sullivan (John Goodman) dan temannya, Mike Wazawski (Billy Crystal). Masalah kemudian muncul saat seorang anak bernama Boo (Mary Gibbs) masuk ke Monstropolis tanpa sengaja dan kemudian menyebabkan kekacauan di seluruh kota. James dan Mike kemudian harus bekerjasama untuk menemukan solusinya.",
+        "tahun" : "2001",
+        "pemain" : [
+            "Jhon Goodman",
+            "Billy Crystal",
+            "Mary Gibbs",
+            "Steve Buscemi",
+            "James Coburn",
+            "Jennifer Tilly"
+        ],
+        "funfact" : [
+            "San Diego Film Critics Society Awards kategori Best Youth DVD 2001",
+            "BAFTA Awards kategori Best Feature Film 2002",
+            "Golden Trailer Awards kategori Best Animation/Family 2002",
+            "Satellite Award untuk Best Youth DVD 2003",
+            "Grammy Awards kategori Best Song Written for a Motion Picture, Television or Other Visual Media 2003"
+        ]
+    },{
+        "judul" : "Spirited Away",
+        "genre" : "Animasi",
+        "produser" : "Toshio Suzuki",
+        "sutradara" : "Hayao Miyazaki",
+        "penulis" : "Hayao Miyazaki",
+        "sinopsis" : "Film ini menceritakan seorang gadis berusia 10 tahun bernama Chihiro Ogini (Rumi Hiiragi) yang pindah ke rumah baru bersama kedua orang tuanya. Namun tanpa sengaja mereka masuk ke dalam dunia roh, yang menyebabkan kedua orang tuanya diubah menjadi seekor babi. Chihiro kemudian harus bekerja di rumah pemandian dari Yubaba (Mari Natsuki) yang merubah kedua orang tuanya, sambil menguak misteri dan mencari cara mengembalikan orang tuanya seperti semula serta kembali ke dunia manusia.",
+        "tahun" : "2001",
+        "pemain" : [
+            "Rumi Hiiragi",
+            "Miyu Irino",
+            "Mari Natsuki",
+            "Takeshi Naito",
+            "Yasuko Sawaguchi",
+            "Tsunehiko Kamijō",
+            "Takehiko Ono",
+            "Bunta Sugawara"
+        ],
+        "funfact" : [
+            "Phoenix Film Critics Society Award for Best Animated Film 2001",
+            "Boston Society of Film Critics Award -- Special Commendation 2002",
+            "Satellite Award untuk Best Motion Picture, Animated or Mixed Media 2003",
+            "Critics' Choice Movie Award untuk Film Animasi Terbaik 2003",
+            "Golden Trailer Award for Best Animation/Family 2003"
+        ]
+    },{
+        "judul" : "Wall-E",
+        "genre" : "Animasi",
+        "produser" : "Jim Morris",
+        "sutradara" : "Andrew Stanton",
+        "penulis" : "Andrew Stanton",
+        "sinopsis" : "Wall-E bercerita di tahun 2805 dimana planet Bumi sudah ditinggalkan oleh manusia karena sudah tidak layak dihuni. Manusia tinggal di pesawat luar angkasa, Axiom, selama beratus-ratus tahun. Di Bumi hanya ditinggali oleh sesosok robot pengangkut sampah bernama Wall-E, yang masih bertahan. Kehidupan robot kecil ini pun berubah saat muncul robot Eve yang bertugas mencari kehidupan di Bumi. Wall-E kemudian menjalani petualangan yang bisa mengubah nasib dan takdir seluruh umat manusia.",
+        "tahun" : "2008",
+        "pemain" : [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Sigourney Weaver",
+            "Jeff Garlin",
+            "Fred Willard",
+            "John Ratzenberger",
+            "Kathy Najimy"
+        ],
+        "funfact" : [
+            "Satellite Award untuk Best Motion Picture, Animated or Mixed Media 2008",
+            "Los Angeles Film Critics Association Award for Best Film 2008",
+            "Academy Award untuk Film Animasi Terbaik 2009",
+            "Critics' Choice Movie Award untuk Film Animasi Terbaik 2009",
+            "People's Choice Award untuk Film Keluarga Terfavorit 2009"
+        ]
+    },{
+        "judul" : "Saw",
+        "genre" : "Thriller",
+        "produser" : "Mark Burg",
+        "sutradara" : "James Wan",
+        "penulis" : "James Wan",
+        "sinopsis" : "Film ini menyoroti pembunuh berantai yang dikenal dengan nama Jigsaw Killer. Ia selalu memasukkan para korbannya ke sebuah tempat tertutup, dan menguji mereka dengan permainan maut. Dalam permainan itu, mereka harus memecahkan teka-teki dengan jebakan mematikan. Mereka juga mesti menyakiti diri sendiri, dan terkadang membunuh satu sama lain agar bisa bertahan hidup.",
+        "tahun" : "2004",
+        "pemain" : [
+            "Leigh Whannell",
+            "Cary Elwes",
+            "Danny Glover"
+        ],
+        "funfact" : [
+            "Brussels International Fantastic Film Festival Pegasus Award 2005"
+        ]
+    },{
+        "judul" : "The Terminal",
+        "genre" : "Komedi",
+        "produser" : "Steven Spielberg",
+        "sutradara" : "Steven Spielberg",
+        "penulis" : "Sacha Gervasi",
+        "sinopsis" : "Filmnya bercerita tentang Viktor Navorski (Tom Hanks) yang berkunjung ke Amerika untuk meminta tanda tangan salah satu bintang jazz Amerika. Namun saat sampai di Amerika, negaranya, yaitu Krakozhia, digulingkan oleh pemberontak. Hal tersebut membuat Viktor kehilangan kewarganegaraan dan tidak bisa masuk ke Amerika atau pulang ke negaranya.",
+        "tahun" : "2004",
+        "pemain" : [
+            "Tom Hanks",
+            "Catherine Zeta-Jones",
+            "Stanley Tucci"
+        ],
+        "funfact" : [
+            "International Film Music Critics Award (IFMCA) - Best Original Score for a Comedy Film 2004",
+            "ADG Excellence in Production Design Award - Film Kontemporer 2005",
+            "BMI Film Music Award 2005",
+            "Nielsen/EDI Gold Reel Awards 2005"
+        ]
+    },{
+        "judul" : "The Human Centipede",
+        "genre" : "Horror",
+        "produser" : "Ilona Six",
+        "sutradara" : "Tom Six",
+        "penulis" : "Tom Six",
+        "sinopsis" : "Seorang ilmuwan gila menculik dan memutilasi trio turis untuk membuat mereka menjadi kelabang manusia. Ilmuwan tersebut mewujudkan ide gilanya dengan menjahit mulut mereka ke dubur satu sama lain.",
+        "tahun" : "2009",
+        "pemain" : [
+            "Dieter Laser",
+            "Ashley C. Williams",
+            "Ashlynn Yennie",
+            "Akihiro Kitamura"
+        ],
+        "funfact" : [
+            "Screamfest - Best Picture 2009",
+            "South African Horrorfest - Best Ensemble Cast 2009",
+            "Fangoria Chainsaw Awards - Best Limited-Release/Direct-to-Video Film 2011",
+            "Scream Awards - Most Memorable Mutilation 2010"
+        ]
+    },{
+        "judul" : "UMMA",
+        "genre" : "Horror",
+        "produser" : "Sam Raimi",
+        "sutradara" : "Iris K. Shim",
+        "penulis" : "Iris K. Shim",
+        "sinopsis" : "Film Umma menceritakan kehidupan Amanda (Sandra Oh), ibu tunggal yang tinggal bersama putrinya di sebuah peternakan terpencil di Amerika Serikat. Rumah itu kelak dihantui mendiang ibunya yang menjadi kisah dari film tersebut.",
+        "tahun" : "2022",
+        "pemain" : [
+            "Sandra Oh",
+            "Fivel Stewart",
+            "Dermot Mulroney",
+            "Odeya Rush",
+            "MeeWha Alana Lee",
+            "Tom Yi"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "Interstellar",
+        "genre" : "Sci-Fi",
+        "produser" : "Emma Thomas",
+        "sutradara" : "Christopher Nolan",
+        "penulis" : "Jonathan Nolan",
+        "sinopsis" : "Ketika sebuah tim penjelajah luar angkasa melakukan perjalanan antar planet untuk menemukan planet baru bagi kelangsungan hidup umat manusia.",
+        "tahun" : "2014",
+        "pemain" : [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Michael Caine"
+        ],
+        "funfact" : [
+            "Academy Award untuk Efek Visual Terbaik 2015",
+            "Critics' Choice Movie Award untuk Film Horor/Sci-fi Terbaik 2015",
+            "British Academy Film Award untuk Efek Visual Terbaik 2015",
+            "Empire Award untuk Film Terbaik 2015"
+        ]
+    },{
+        "judul" : "Tick-tick BOOM",
+        "genre" : "Musical",
+        "produser" : "Brian Grazer",
+        "sutradara" : "Lin-Manuel Miranda",
+        "penulis" : "Steven Levenson",
+        "sinopsis" : "Tick, Tick… Boom! adalah film biografi yang mengangkat perjalanan Jonathan Larson, komposer, penulis lagu dan sutradara teater asal Amerika. Dalam karirnya yang singkat, Jon banyak memasukan isu-isu sosial yang berhubungan dengan kecanduan obat, homophobia, multikulturalisme dan isu-isu sosial lainnya dalam karyanya. Saat mendekati usia yang ke-30, seorang komposer teater berbakat menjalani cinta, persahabatan, dan tekanan untuk menciptakan sesuatu yang hebat sebelum waktu habis.",
+        "tahun" : "2021",
+        "pemain" : [
+            "Andrew Garfield",
+            "Alexandra Shipp",
+            "Robin de Jesús",
+            "Joshua Henry",
+            "Judith Light",
+            "Vanessa Hudgens"
+        ],
+        "funfact" : [
+            "American Film Institute Award untuk Film Terbaik Tahun Ini 2022",
+            "Satellite Award untuk Best Motion Picture, Comedy or Musical 2022",
+            "Satellite Award untuk Tata Suara Terbaik 2022",
+            "Eddie Awards for Best Edited Feature Film Comedy or Musical 2022"
+        ]
+    },{
+        "judul" : "Hacksaw Ridge",
+        "genre" : "Perang",
+        "produser" : "Terry Benedict",
+        "sutradara" : "Mel Gibson",
+        "penulis" : "Andrew Knight",
+        "sinopsis" : "Hacksaw Ridge menampilkan latar tentang perang dunia kedua. Film ini diangkat dari kisah nyata dan hebatnya adalah yang diceritakan bukan tentang taktik perang seperti film perang lainnya. Hacksaw Ridge menunjukan sisi gelap dari perang.",
+        "tahun" : "2016",
+        "pemain" : [
+            "Andrew Garfield",
+            "Vince Vaughn",
+            "Sam Worthington",
+            "Luke Bracey",
+            "Teresa Palmer",
+            "Hugo Weaving",
+            "Rachel Griffiths"
+        ],
+        "funfact" : [
+            "Critics' Choice Movie Award untuk Film Laga Terbaik 2016",
+            "Penghargaan AACTA untuk Aktor Pendukung Terbaik 2016",
+            "Academy Award untuk Tata Suara Terbaik 2017",
+            "British Academy Film Award untuk Penyu 2017"
+        ]
+    },{
+        "judul" : "I Am Legend",
+        "genre" : "Action",
+        "produser" : "Akiva Goldsman",
+        "sutradara" : "Francis Lawrence",
+        "penulis" : "Akiva Goldsman",
+        "sinopsis" : "Sebagai seorang ahli virologi Angkatan Darat AS, Dr. Robert Neville harus hidup sendirian New York. Virus yang awalnya sebagai obat kanker, justru merubah manusia menjadi mutan. Dr. Robert Neville yang hidup sendirian, terus melakukan penelitian pada para mutan. Namun mutan terakhir yang ia jadikan objek penelitian justru mengundang kemarahan muran lainnya.",
+        "tahun" : "2007",
+        "pemain" : [
+            "Will Smith"
+        ],
+        "funfact" : [
+            "2008: Pemenang Saturn Award",
+            "2008: Pemenang ASCAP Film and Television Music Award",
+            "2008: Pemenang MTV Movie + TV Award",
+            "2008: Pemenang Teen Choice Award",
+            "2008: Pemenang Golden Trailer Award"
+        ]
+    },{
+        "judul" : "Knives Out",
+        "genre" : "Mistery",
+        "produser" : "Ram Bergman",
+        "sutradara" : "Rian Johnson",
+        "penulis" : "Rian Johnson",
+        "sinopsis" : "Novelis kriminal yang kaya Harlan Thrombey (Christopher Plummer) mengundang keluarga besarnya ke rumah besar terpencilnya dalam rangka ulang tahunnya yang ke-85 dengan harapan mempersatukan mereka semua. Namun, sehari setelah pesta ulang tahunnya, Harlan ditemukan tewas oleh anggota keluarganya. Detektif berpengalaman Benoit Blanc (Daniel Craig) dipanggil untuk menyelidiki kasus tersebut dan tak lama kemudian, semua anggota keluarganya menjadi tersangka atas kematian Harlan.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Daniel Craig",
+            "Chris Evans",
+            "Ana de Armas",
+            "Jamie Lee Curtis",
+            "Michael Shannon",
+            "Don Johnson",
+            "Toni Collette",
+            "Lakeith Stanfield",
+            "Katherine Langford",
+            "Jaeden Martell",
+            "Christopher Plummer"
+        ],
+        "funfact" : [
+            "Festival Film Bandung untuk Film Impor Terpuji 2020",
+            "Satellite Special Achievement Award untuk Outstanding Motion Picture Ensemble 2020",
+            "Costume Designers Guild Award untuk Excellence in Contemporary Film 2020"
+        ]
+    },{
+        "judul" : "In the Tall Grass",
+        "genre" : "Horror",
+        "produser" : "Vicenzo Natali",
+        "sutradara" : "Steve Hoban",
+        "penulis" : "Vicenzo Natali",
+        "sinopsis" : "Film ini bercerita tentang 5 orang dewasa dan 1 anak kecil yang terjebak dalam satu padang rerumputan tinggi. Di Padang itu pula terdapat batu dengan ukiran seperti prasasti. Selain itu batu itu juga dipercaya memiliki kekuatan magis yang mengatur kehidupan padang rumput tersebut.",
+        "tahun" : "2019",
+        "pemain" : [
+            "Harrison Gilbertson",
+            "Laysla De Oliveira",
+            "Avery Whitted",
+            "Will Buie Jr",
+            "Rachel Wilson",
+            "Patrick Wilson"
+        ],
+        "funfact" : [
+            "",
+            "",
+            ""
+        ]
+    },{
+        "judul" : "Cloverfield",
+        "genre" : "Fantasi",
+        "produser" : "J. J. Abrams, Bryan Burk",
+        "sutradara" : "Matt Reeves",
+        "penulis" : "Drew Goddard",
+        "sinopsis" : "Mengalirlah sebuah cerita mengenai pesta perpisahan bagi pemuda bernama Rob, yang rencannya akan berangkat ke Jepang. Adiknya bernama Jason, dengan pacarnya, Lily, mengatur agar pesta dapat meriah dan akan dikenang terus bagi Rob. Untuk itu, sahabat Rob bernama Hud, merekam seluruh pesta dengan Handycam. Di tengah pesta berlangsung, sebuah guncangan dahsyat menerpa gedung, dan serentak orang–orang yang berada dalam pesta naik ke atap apartemen untuk mencari tahu. Di sana mereka melihat sebuah ledakan yang menghujani kota dengan puing–puing bangunan. Tidak hanya itu, bahkan kepala patung Liberty ikut terlempar ke jalanan. Dalam keadaan panik, Rob, Jason, Hud, Lily, dan temannya Marlena, segera menyelamatkan diri. Hud yang masih memegang Handycam, berusaha merekam seluruh kejadian yang mereka alami. Termasuk merekam aksi-aksi para mahluk aneh yang menyerang kota itu.",
+        "tahun" : "2008",
+        "pemain" : [
+            "Michael Stahl-David",
+            "T. J. Miller",
+            "Jessica Lucas",
+            "Odette Yustman",
+            "Lizzy Caplan",
+            "Mike Vogel"
+        ],
+        "funfact" : [
+            "Best Science Fiction Film dari Academy of Science Fiction, Fantasy & Horror Films",
+            "",
+            ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1568,6 +2115,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1585,6 +2133,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1602,6 +2151,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1619,6 +2169,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1636,6 +2187,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1653,6 +2205,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1670,6 +2223,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1687,6 +2241,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1704,6 +2259,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1721,6 +2277,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1738,6 +2295,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1755,6 +2313,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1772,6 +2331,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1789,6 +2349,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1806,6 +2367,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1823,6 +2385,7 @@
             "",
             "",
             ""
+        ]
     },{
         "judul" : "",
         "genre" : "",
@@ -1840,22 +2403,6 @@
             "",
             "",
             ""
-    },{
-        "judul" : "",
-        "genre" : "",
-        "produser" : "",
-        "sutradara" : "",
-        "penulis" : "",
-        "sinopsis" : "",
-        "tahun" : "",
-        "pemain" : [
-            "",
-            "",
-            ""
-        ],
-        "funfact" : [
-            "",
-            "",
-            ""
+        ]
     }
 ]
