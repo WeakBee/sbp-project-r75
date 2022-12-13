@@ -529,7 +529,7 @@
         ]
     },{
         "judul" : "Tersanjung the Movie",
-        "genre" : "Romantis",
+        "genre" : "Romantis, Drama",
         "produser" : "Raam Punjabi",
         "sutradara" : "Hanung Bramantyo, Pandhu Adjisurya",
         "penulis" : "Hanung Bramantyo, Pandhu Adjisurya",
@@ -604,7 +604,7 @@
         ]
     },{
         "judul" : "5cm",
-        "genre" : "Adventure",
+        "genre" : "Adventure, Romantis, Drama",
         "produser" : "Sunil Soraya, Ram Soraya",
         "sutradara" : "Rizal Mantovani",
         "penulis" : "Donny Dhirgantoro, Sunil Soraya, Hilman Mutasi",
@@ -1344,7 +1344,7 @@
         ]
     },{
         "judul" : "DeadPool",
-        "genre" : "Action, Adventure, Comedy",
+        "genre" : "Action, Adventure, Komedi",
         "produser" : "Simon Kinberg, Ryan Reynolds, Lauren Shuler Donner",
         "sutradara" : "Tim Miller",
         "penulis" : "Paul Wernick",
@@ -1424,7 +1424,7 @@
         ]
     },{
         "judul" : "Happy Death Day 2U",
-        "genre" : "Horror, Komedi, Fantasi,  Mystery, Sci-Fi, Thriller",
+        "genre" : "Horror, Komedi, Fantasi, Mystery, Sci-Fi, Thriller",
         "produser" : "Jason Blum",
         "sutradara" : "Christopher Landon",
         "penulis" : "Christopher Landon",
@@ -2039,7 +2039,7 @@
         ]
     },{
         "judul" : "Knives Out",
-        "genre" : "Mistery, Thriller",
+        "genre" : "Mystery, Thriller",
         "produser" : "Ram Bergman, Rian Johnson",
         "sutradara" : "Rian Johnson",
         "penulis" : "Rian Johnson",
@@ -2521,7 +2521,7 @@
         ]
     },{
         "judul" : "Parasite",
-        "genre" : "Komedi, Mistery",
+        "genre" : "Komedi, Mystery",
         "produser" : "Boong Joon-Ho, Kwak Sin-Ae, Jang Young-Hwan",
         "sutradara" : "Bong Joon-Ho",
         "penulis" : "Bong Joon-Ho, Han Jin-Won",
@@ -2816,7 +2816,7 @@
         ]
     },{
         "judul" : "Oldboy",
-        "genre" : "Drama, Thriller, Mistery",
+        "genre" : "Drama, Thriller, Mystery",
         "produser" : "Lim Seung-Yong",
         "sutradara" : "Park Chan-Wook",
         "penulis" : "Lim Jun-Hyeong, Hwang Jo-Yoon, Park Chan-Wook",
@@ -2857,7 +2857,7 @@
         ]
     },{
         "judul" : "The Wailing ",
-        "genre" : "Thriller, Mistery, Horror",
+        "genre" : "Thriller, Mystery, Horror",
         "produser" : "Suh Dong-Hyun, Kim Ho-Sung",
         "sutradara" : "Na Hong-Jin",
         "penulis" : "Na Hong-Jin",
@@ -2919,7 +2919,7 @@
         ]
     },{
         "judul" : "Missing",
-        "genre" : "Thriller, Mistery",
+        "genre" : "Thriller, Mystery",
         "produser" : "Baek Hyun-Ik, Kim Sung-Woo",
         "sutradara" : "Lee Eon-Hee",
         "penulis" : "Hong Eun-Mi",
@@ -3032,7 +3032,7 @@
         ]
     },{
         "judul" : "The Pirates 2",
-        "genre" : "Adventure, Komedi",
+        "genre" : "Adventure, Komedi,Fantasi",
         "produser" : "Song Yong-Woon",
         "sutradara" : "Kim Jung-Hoon",
         "penulis" : "Chun Sung-II",
