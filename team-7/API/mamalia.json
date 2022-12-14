@@ -1,10 +1,14 @@
 [
     {   
         "Nama" : "Kuskus Beruang Sulawesi",
-        "Jenis" : "Arboreal / Hidup Dipohonan",
-        "Ukuran" : "60 CM",
+        "Habitat" : " Hidup Dipepohonan",
+        "Lokasi": "Sulawesi",
+        "Ukuran Tubuh" : "60 CM",
+        "Panjang Ekor" : "54 CM",
         "Berat" : "< 8KG",
         "Golongan" :"Herbivora",
+        "Tipe Kulit" : "Berbulu",
+        "Gambar" : "",
         "Warna" : [
             "Hitam", 
             "Coklat", 
@@ -13,10 +17,18 @@
     },
     {  
         "Nama" : "Binturong",
-        "Jenis" : "Arboreal / Hidup Dipohonan",
-        "Ukuran" : "60 CM - 90 CM",
+        "Habitat" : "Hidup Dipepohonan",
+        "Lokasi": [
+            "Sumatra",
+            "Jawa",
+            "Kalimantan"
+        ],
+        "Ukuran Tubuh" : "60 CM - 90 CM",
+        "Panjang Ekor": "50 CM - 90 CM",
         "Berat" : "6KG-14KG",
-        "Golongan" :"Karnivora",
+        "Golongan" :"Omnivora",
+        "Tipe Kulit" : "Berbulu",
+        "Gambar":"",
         "Warna" : [
             "Hitam", 
             "Coklat", 
@@ -27,10 +39,14 @@
     },
     {   
         "Nama" : "Pulusan",
-        "Jenis" : "",
-        "Ukuran" : "55 CM - 70 CM",
+        "Habitat" : "Dataran",
+        "Lokasi": "Sumatra",
+        "Ukuran Tubuh" : "55 CM - 70 CM",
+        "Panjang Ekor" : "12 CM - 17 CM",
         "Berat" : "7KG-14KG",
         "Golongan" :"Omnivora",
+        "Tipe Kulit" : "Berbulu",
+        "Gambar" :"",
         "Warna" : [
             "Kuning", 
             "Hitam", 
@@ -40,10 +56,14 @@
     },
     {   
         "Nama" : "Rusa Bawen",
-        "Jenis" : "",
-        "Ukuran" : "105 CM - 115 CM",
+        "Habitat" : "Dataran",
+        "Lokasi" : "Jawa",
+        "Ukuran Tubuh" : "105 CM - 115 CM",
+        "Panjang Ekor" : "20 CM",
         "Berat" : "15KG-30KG",
         "Golongan" :"Herbivora",
+        "Tipe Kulit" : "Berbulu",
+        "Gambar" :"",
         "Warna" : [
             "Coklat", 
             "Putih", 
@@ -52,10 +72,13 @@
     },
     {   
         "Nama" : "Babi Rusa",
-        "Jenis" : "",
-        "Ukuran" : "85 CM - 105 CM",
+        "Habitat" : "Dataran",
+        "Lokasi" : "",
+        "Ukuran Tubuh" : "85 CM - 105 CM",
+        "Panjang Ekor" : "20 CM - 35 CM"
         "Berat" : "90KG-100KG",
         "Golongan" :"Herbivora",
+        "Tipe Kulit" : "Berbulu",
         "Warna" : [
             "Abu Abu"
     ]
