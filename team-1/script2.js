@@ -1,2 +1,0 @@
-$( ".button-lanjut" ).click(function() {
-});
