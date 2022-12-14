@@ -2,6 +2,7 @@
     {
         "judul" : "Miracle In Cell No 7",
         "genre" : "Drama",
+        "durasi" : "132 menit",
         "produser" : "Frederica",
         "sutradara" : "Hanung Bramantyo",
         "penulis" : "Alim Studio",
@@ -27,6 +28,7 @@
     },{
         "judul" : "Keluarga Cemara 2",
         "genre" : "Drama, Family",
+        "durasi" : "114 menit",
         "produser" : "Anggia Kharisma",
         "sutradara" : "Ismail Basbeth",
         "penulis" : "M Irfan Ramly",
@@ -44,6 +46,7 @@
     },{
         "judul" : "Gundala : Negeri Ini Butuh Patriot",
         "genre" : "Drama, Action",
+        "durasi" : "123 menit",
         "produser" : "Bismarka Kurniawan, Sukhdev Singh, Wicky V Olindo",
         "sutradara" : "Joko Anwar",
         "penulis" : "Joko Anwar, Hasmi",
@@ -63,6 +66,7 @@
     },{
         "judul" : "Hit & Run",
         "genre" : "Drama, Action",
+        "durasi" : "114 menit",
         "produser" : "Sukhdev Singh, Wicky V Olindo",
         "sutradara" : "Ody C Harahap",
         "penulis" : "Upi, Fajar Putra S",
@@ -83,6 +87,7 @@
     },{
         "judul" : "Pertaruhan",
         "genre" : "Action, Drama",
+        "durasi" : "106 menit",
         "produser" : "Adianto Sumardjono",
         "sutradara" : "Krishto Damar Alam",
         "penulis" : "Upi Avianto",
@@ -104,6 +109,7 @@
     },{
         "judul" : "Sayap-Sayap Patah",
         "genre" : "Drama, Action",
+        "durasi" : "110 menit",
         "produser" : "Yoen K",
         "sutradara" : "Rudi Soedjarwo",
         "penulis" : "Monty Tiwa, Eric Tiwa, Alim Sudio",
@@ -119,6 +125,7 @@
     },{
         "judul" : "Mencuri Raden Saleh",
         "genre" : "Drama, Action",
+        "durasi" : "154 menit",
         "produser" : "Cristian Imanuell",
         "sutradara" : "Angga Dwimas Sasongko",
         "penulis" : "Angga Dwimas Sasongko, Husein M Atmodjo",
@@ -140,6 +147,7 @@
     },{
         "judul" : "Comic 8: Casino Kings part 1",
         "genre" : "Action, Komedi",
+        "durasi" : "104 menit",
         "produser" : "Frederica",
         "sutradara" : "Anggy Umbara",
         "penulis" : "Anggy Umbara, Fajar Umbara",
@@ -162,6 +170,7 @@
     },{
         "judul" : "Gendut Siapa Takut?!",
         "genre" : "Komedi, Drama",
+        "durasi" : "100 menit",
         "produser" : "Rajesh Kewalram Jagtiani",
         "sutradara" : "Pritagita Arianegara",
         "penulis" : "Pritagita Arianegara, Ilya Aktop, Alnira",
@@ -179,6 +188,7 @@
     },{
         "judul" : "Lara Ati",
         "genre" : "Komedi, Drama, Musical",
+        "durasi" : "116 menit",
         "produser" : "Shanty Harmayn, Tanya Yuson, Aoura Lovenson Chandra, Bayu Skak",
         "sutradara" : "Bayu Skak",
         "penulis" : "Anissa Pandan Sari, Aisyah Ica Nurramadhani",
@@ -202,6 +212,7 @@
     },{
         "judul" : "Mertua vs Menantu",
         "genre" : "Drama, Komedi",
+        "durasi" : "81 menit",
         "produser" : "Raam Punjabi",
         "sutradara" : "Pritagita Arianegar",
         "penulis" : "Muhammad Iqbal Fadly, Adi Nugroho, Amit Jethani",
@@ -220,6 +231,7 @@
     },{
         "judul" : "Ngeri-ngeri Sedap",
         "genre" : "Drama, Komedi",
+        "durasi" : "114 menit",
         "produser" : "Dipa Andika",
         "sutradara" : "Bene Dion Rajagukguk",
         "penulis" : "Bene Dion Rajagukguk",
@@ -241,6 +253,7 @@
     },{
         "judul" : "Srimulat : Hil yang Mustahal Babak Pertama",
         "genre" : "Drama, Komedi",
+        "durasi" : "110 menit",
         "produser" : "Susanti Dewi, Emilka Chaidir",
         "sutradara" : "Fajar Nugros",
         "penulis" : "Fajar Nugros",
@@ -265,6 +278,7 @@
     },{
         "judul" : "Ali & Ratu-Ratu Queens",
         "genre" : "Komedi, Drama",
+        "durasi" : "101 menit",
         "produser" : "Muhammad Zaidy, Meiske Taurisia",
         "sutradara" : "Lucky Kuswandi",
         "penulis" : "Gina S Noer, Muhammad Zaidy",
@@ -285,6 +299,7 @@
     },{
         "judul" : "Warkop DKI Reborn",
         "genre" : "Komedi",
+        "durasi" : "103 menit",
         "produser" : "Frederica",
         "sutradara" : "Rako Prijanto",
         "penulis" : "Anggoro Saronto, Rako Prijanto",
@@ -303,6 +318,7 @@
     },{
         "judul" : "Ivanna",
         "genre" : "Horror",
+        "durasi" : "103 menit",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Kimo Stamboel",
         "penulis" : "Lele Laila, Risa Saraswati",
@@ -321,6 +337,7 @@
     },{
         "judul" : "KKN Desa Penari",
         "genre" : "Horror",
+        "durasi" : "121 menit",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Awi Suryadi",
         "penulis" : "Lele Laila, Gerald Mamahit",
@@ -341,6 +358,7 @@
     },{
         "judul" : "Menjelang Magrib",
         "genre" : "Horror",
+        "durasi" : "102 menit",
         "produser" : "Helfi Kardit, Djonny Chen, Yannie Sukarya",
         "sutradara" : "Helfi Kardit",
         "penulis" : "Helfi Kardit",
@@ -360,6 +378,7 @@
     },{
         "judul" : "Si Manis Jembatan Ancol",
         "genre" : "Horror",
+        "durasi" : "127 menit",
         "produser" : "Raam Punjabi",
         "sutradara" : "Anggy Umbara",
         "penulis" : "Anggy Umbara, Fajar Umbara, Isman HS",
@@ -379,6 +398,7 @@
     },{
         "judul" : "Perempuan Tanah Jahanam",
         "genre" : "Horror",
+        "durasi" : "106 menit",
         "produser" : "Shanty Harmayn, Tia Hasibuan, Aoura Lovenson Chandra, Ben Soebiakto",
         "sutradara" : "Joko Anwar",
         "penulis" : "Joko Anwar",
@@ -395,6 +415,7 @@
     },{
         "judul" : "Makmum",
         "genre" : "Horror",
+        "durasi" : "95 menit",
         "produser" : "Dheeraj Kalwani",
         "sutradara" : "Hadrah Daeng Ratu",
         "penulis" : "Alim Studio, Vidya Talisa Ariestya, Riza Pahlevi",
@@ -413,6 +434,7 @@
     },{
         "judul" : "Suzzanna :  Bernapas dalam Kubur",
         "genre" : "Horror",
+        "durasi" : "125 menit",
         "produser" : "Sunil Soraya",
         "sutradara" : "Rocky Soraya, Anggy Umbara",
         "penulis" : "Bene Dion Rajagukguk, Sunil Soraya, Ferry Lesmana",
@@ -430,6 +452,7 @@
     },{
         "judul" : "Pengabdi Setan",
         "genre" : "Horror",
+        "durasi" : "107 menit",
         "produser" : "Gope T Samtani",
         "sutradara" : "Joko Anwar",
         "penulis" : "Joko Anwar, Subagio Samtani, Sisworo Gautama, Imam Tantowi, Naryono Prayitno",
@@ -449,6 +472,7 @@
     },{
         "judul" : "12 Cerita Glen Anggara",
         "genre" : "Drama, Romantis",
+        "durasi" : "118 menit",
         "produser" : "Frederica, Chand Parwez Servia",
         "sutradara" : "Fajar Bustomi",
         "penulis" : "Alim Studio, Luluk HF",
@@ -470,6 +494,7 @@
     },{
         "judul" : "Noktah Merah Perkawinan",
         "genre" : "Drama, Romantis",
+        "durasi" : "119 menit",
         "produser" : "Gope T Samtani",
         "sutradara" : "Sabrina Rochelle Kalangie",
         "penulis" : "Titien Wattimena, Sabrina Rochelle Kalangie",
@@ -486,6 +511,7 @@
     },{
         "judul" : "Until Tomorrow",
         "genre" : "Drama, Romantis",
+        "durasi" : "105 menit",
         "produser" : "Oswin Bonifanz",
         "sutradara" : "Hadrah Daeng Ratu",
         "penulis" : "Evelyn Afnilia",
@@ -503,6 +529,7 @@
     },{
         "judul" : "My Sassy Girl",
         "genre" : "Romantis, Komedi, Drama",
+        "durasi" : "117 menit",
         "produser" : "Frederica",
         "sutradara" : "Fajar Bustomi",
         "gambar" : "assets/images/blog/poster5.jpg",
@@ -519,6 +546,7 @@
     },{
         "judul" : "Dear Nathan",
         "genre" : "Romantis, Drama",
+        "durasi" : "99 menit",
         "produser" : "Gope T Samtani",
         "sutradara" : "Indra Gunawan",
         "penulis" : "Bagus Bramanti",
@@ -535,6 +563,7 @@
     },{
         "judul" : "Tersanjung the Movie",
         "genre" : "Romantis, Drama",
+        "durasi" : "115 menit",
         "produser" : "Raam Punjabi",
         "sutradara" : "Hanung Bramantyo, Pandhu Adjisurya",
         "penulis" : "Hanung Bramantyo, Pandhu Adjisurya",
@@ -551,6 +580,7 @@
     },{
         "judul" : "Supernova",
         "genre" : "Fantasi",
+        "durasi" : "136 menit",
         "produser" : "Sunil Soraya, Ram Soraya",
         "sutradara" : "Rizal Mantovani",
         "penulis" : "Donny Dhirgantoro, Sunil Soraya, Dewi Lestari",
@@ -570,6 +600,7 @@
     },{
         "judul" : "Ambilkan Bulan",
         "genre" : "Fantasi, Musical, Anak-anak",
+        "durasi" : "90 menit",
         "produser" : "Putut Widjanarko",
         "sutradara" : "Ifa Isfansyah",
         "penulis" : "Jujur Prananto",
@@ -591,6 +622,7 @@
     },{
         "judul" : "Naura & Genk Juara the Movie",
         "genre" : "Adventure, Anak-anak",
+        "durasi" : "103 menit",
         "produser" : "Pax Benedanto, Handoko Hendroyono, Amalia Prabowo",
         "sutradara" : "Eugene Panji",
         "penulis" : "Asaf Antariksa, Bagus Bramanti, Dendie Archenius Hutauruk, Joko Sutrisno",
@@ -610,6 +642,7 @@
     },{
         "judul" : "5cm",
         "genre" : "Adventure, Romantis, Drama",
+        "durasi" : "126 menit",
         "produser" : "Sunil Soraya, Ram Soraya",
         "sutradara" : "Rizal Mantovani",
         "penulis" : "Donny Dhirgantoro, Sunil Soraya, Hilman Mutasi",
@@ -630,6 +663,7 @@
     },{
         "judul" : "Paranoia",
         "genre" : "Thriller",
+        "durasi" : "101 menit",
         "produser" : "Mira Lesmana",
         "sutradara" : "Riri Riza",
         "penulis" : "Jujur Prananto, Mira Lesmana, Riri Riza",
@@ -647,6 +681,7 @@
     },{
         "judul" : "A World Without",
         "genre" : "Thriller",
+        "durasi" : "107 menit",
         "produser" : "Wilza Lubis",
         "sutradara" : "Nia Dinata",
         "penulis" : "Nia Dinata, Lucky Kuswandi",
@@ -667,6 +702,7 @@
     },{
         "judul" : "Target",
         "genre" : "Thriller",
+        "durasi" : "93 menit",
         "produser" : "Sunil Soraya",
         "sutradara" : "Raditya Dika",
         "penulis" : "Raditya Dika",
@@ -691,6 +727,7 @@
     },{
         "judul" : "Hangout",
         "genre" : "Thriller",
+        "durasi" : "101 menit",
         "produser" : "Gope T Samtani",
         "sutradara" : "Raditya Dika",
         "penulis" : "Raditya Dika",
@@ -715,6 +752,7 @@
     },{
         "judul" : "The Raid",
         "genre" : "Thriller, Action",
+        "durasi" : "100 menit",
         "produser" : "Ario Sagantoro",
         "sutradara" : "Gareth H Evans",
         "penulis" : "Gareth H Evans",
@@ -742,6 +780,7 @@
     },{
         "judul" : "Kadet 1947",
         "genre" : "Perang",
+        "durasi" : "90 menit",
         "produser" : "Celerina Judisari, Tesadesrada Ryza",
         "sutradara" : "Rahabi Mandra, Aldo Swastia",
         "penulis" : "Rahabi Mandra, Aldo Swastia",
@@ -764,6 +803,7 @@
     },{
         "judul" : "Merah Putih Memanggil",
         "genre" : "Perang",
+        "durasi" : "121 menit",
         "produser" : "Josie Karjadi",
         "sutradara" : "Mirwan Suwarso",
         "penulis" : "TB Silalahi",
@@ -783,6 +823,7 @@
     },{
         "judul" : "Pasukan Garuda : I Leave My Heart in Lebanon",
         "genre" : "Perang",
+        "durasi" : "93 menit",
         "produser" : "Zairin Zain",
         "sutradara" : "Benni Setiawan",
         "penulis" : "Benni Setiawan, TB Silalahi",
@@ -800,6 +841,7 @@
     },{
         "judul" : "Jenderal Soedirman",
         "genre" : "Perang",
+        "durasi" : "126 menit",
         "produser" : "Handi Ilfat, Sekar Ayu Asmara, M Nolizam, Ratna Syahnakri",
         "sutradara" : "Viva Westi",
         "penulis" : "TB Deddy Safiudin, Viva Westi",
@@ -829,6 +871,7 @@
     },{
         "judul" : "Merah Putih",
         "genre" : "Perang",
+        "durasi" : "109 menit",
         "produser" : "Conor Ally, Gary Hayes",
         "sutradara" : "Yadi Sugandi",
         "penulis" : "Conor Ally, Rob Allyn",
@@ -851,6 +894,7 @@
     },{
         "judul" : "3 Srikandi",
         "genre" : "Sport",
+        "durasi" : "121 menit",
         "produser" : "Raam Punjabi",
         "sutradara" : "Iman Brotoseno",
         "penulis" : "Swastika Nohara, Iman Brotoseno",
@@ -868,6 +912,7 @@
     },{
         "judul" : "Mata Dewa",
         "genre" : "Sport, Romantis",
+        "durasi" : "80 menit",
         "produser" : "Avesina Soebli",
         "sutradara" : "Andibachtiar Yusuf",
         "penulis" : "Andibachtiar Yusuf, Oka Aurora",
@@ -884,6 +929,7 @@
     },{
         "judul" : "Garuda di Dadaku",
         "genre" : "Sport, Anak-anak",
+        "durasi" : "97 menit",
         "produser" : "Shanty Harmayn",
         "sutradara" : "Ifa Isfansyah",
         "penulis" : "Salman Aristo",
@@ -909,6 +955,7 @@
     },{
         "judul" : "Bus Om Bebek",
         "genre" : "Musical, Drama, Anak-anak",
+        "durasi" : "90 menit",
         "produser" : "Aditya Gumay",
         "sutradara" : "Aditya Gumay, Ozan Ruz",
         "penulis" : "Aditya Gumay, Lingga Murti, Ozan Ruz",
@@ -928,6 +975,7 @@
     },{
         "judul" : "Doremi & You",
         "genre" : "Musical, Drama",
+        "durasi" : "99 menit",
         "produser" : "Lexy Mere, Ridla An-Nuur, Arifin Wiguna",
         "sutradara" : "BW Purbanegara",
         "penulis" : "Jujur Prananto, BW Purbanegara",
@@ -948,6 +996,7 @@
     },{
         "judul" : "Coboy Junior The Movie",
         "genre" : "Musical, Drama",
+        "durasi" : "125 menit",
         "produser" : "Frederica",
         "sutradara" : "Anggy Umbara",
         "penulis" : "Hilman Mutasi",
@@ -967,6 +1016,7 @@
     },{
         "judul" : "Love Is U",
         "genre" : "Musical, Drama",
+        "durasi" : "80 menit",
         "produser" : "Dedy Abdurachman",
         "sutradara" : "Hanny R Saputra",
         "penulis" : "Jaumil Aurora",
@@ -991,6 +1041,7 @@
     },{
         "judul" : "Laskar Cilik",
         "genre" : "Musical, Anak-anak",
+        "durasi" : "86 menit",
         "produser" : "Mashal Kishore",
         "sutradara" : "Subakti IS",
         "penulis" : "Shinta Rianasari",
@@ -1019,6 +1070,7 @@
     },{
         "judul" : "Nussa",
         "genre" : "Animasi, Anak-anak",
+        "durasi" : "107 menit",
         "produser" : "Ricky Manoppo, Anggia Kharisma",
         "sutradara" : "Bony Wirasmono",
         "penulis" : "Muhamad Nurman Wardi, Widya Arifianti, Bony Wirasmono, Chrisnawan Martantio, Anggia Kharisma, M Irfan Ramli",
@@ -1040,6 +1092,7 @@
     },{
         "judul" : "Adit Sopo Jarwo the Movie",
         "genre" : "Animasi, Anak-anak",
+        "durasi" : "82 menit",
         "produser" : "Manoj Punjabi",
         "sutradara" : "Hanung Bramantyo, Eki NF",
         "penulis" : "Anto Malaya, Beni Susanto",
@@ -1058,6 +1111,7 @@
     },{
         "judul" : "Si Juki the Movie",
         "genre" : "Animasi, Anak-anak, Drama",
+        "durasi" : "100 menit",
         "produser" : "Frederica",
         "sutradara" : "Faza Meonk",
         "penulis" : "Theo Arnoldy, Faza Meonk, Daryl Wilson",
@@ -1083,6 +1137,7 @@
     },{
         "judul" : "Iqro : My Universe",
         "genre" : "Anak-anak, Drama",
+        "durasi" : "101 menit",
         "produser" : "Budiyati Abiyoga, Tyas Abiyoga",
         "sutradara" : "Iqbal Alfajri",
         "penulis" : "Aisyah Amirah Nasution, Iqbal Alfajri, Budiyati Abiyoga",
@@ -1102,6 +1157,7 @@
     },{
         "judul" : "Koki-koki Cilik",
         "genre" : "Anak-anak, Drama",
+        "durasi" : "91 menit",
         "produser" : "Rissa Putri",
         "sutradara" : "Ifa Isfansyah",
         "penulis" : "Vera Varidia",
@@ -1120,6 +1176,7 @@
     },{
         "judul" : "The Hunger Games",
         "genre" : "Sci-Fi, Action",
+        "durasi" : "142 menit",
         "produser" : "Nina Jacobson, Jon Kilik",
         "sutradara" : "Gary Ross",
         "penulis" : "Gary Ross, Suzzane Collins, Billy Ray",
@@ -1143,6 +1200,7 @@
     },{
         "judul" : "Divergent",
         "genre" : "Action, Romantis, Fantasi, Adventure",
+        "durasi" : "180 menit",
         "produser" : "Douglas Wick, Lucy Fisher, Pouya Shabazian",
         "sutradara" : "Neil Burger",
         "penulis" : "Evan Daugherty, Vanessa Taylor",
@@ -1169,6 +1227,7 @@
     },{
         "judul" : "Pixels",
         "genre" : "Sci-Fi, Action, Komedi",
+        "durasi" : "105 menit",
         "produser" : "Adam Sandler, Jack Giarraputo, Benjamin Darras, Johnny Alves, Matias Boucard",
         "sutradara" : "Chris Columbus",
         "penulis" : "Tim Herlihy, Tim Dowling",
@@ -1190,6 +1249,7 @@
     },{
         "judul" : "Spider-Man: No Way Home",
         "genre" : "Sci-Fi, Action, Adventure, Superhero",
+        "durasi" : "148 menit",
         "produser" : "Kevin Feige, Amy Pascal",
         "sutradara" : "Jon Watts",
         "penulis" : "Chris McKenna, Erik Sommers",
@@ -1216,6 +1276,7 @@
     },{
         "judul" : "Godzilla : King of the Monster",
         "genre" : "Fantasi, Action, Adventure",
+        "durasi" : "132 menit",
         "produser" : "Mary Parent, Alex Garcia, Brian Rogers, Thomas Tull, Jon Jashni",
         "sutradara" : "Michael Dougherty",
         "penulis" : "Max Borenstein, Michael Dougherty, Zach Shields",
@@ -1240,6 +1301,7 @@
     },{
         "judul" : "Zack Snyder's Justice League",
         "genre" : "Superhero, Action, Adventure",
+        "durasi" : "242 menit",
         "produser" : "Charles Roven, Deborah Snyder",
         "sutradara" : "Zack Snyder",
         "penulis" : "Chris Terrio",
@@ -1268,6 +1330,7 @@
     },{
         "judul" : "Pacific Rim",
         "genre" : "Sci-Fi, Action",
+        "durasi" : "132 menit",
         "produser" : "Thomas Tull, Jon Jashni, Guillermo del Toro, Mary Parent",
         "sutradara" : "Guillermo del Tor",
         "penulis" : "Travis Beacham, Guillermo del Tor",
@@ -1290,6 +1353,7 @@
     },{
         "judul" : "A Quiet Place",
         "genre" : "Horror, Thriller, Mystery",
+        "durasi" : "90 menit",
         "produser" : "Michael Bay, Andrew Form, Brad Fuller",
         "sutradara" : "John Krasinski",
         "penulis" : "Bryan Woods, Scott Beck, John Krasinski",
@@ -1307,6 +1371,7 @@
     },{
         "judul" : "The Invisible Guest",
         "genre" : "Thriller, Mystery",
+        "durasi" : "106 menit",
         "produser" : "Mercedes Gamero, Adrian Guerra, Sandra Hermida, Mikel Lejarza, Eneko Lizarraga, Nuria Valls",
         "sutradara" : "Oriol Paulo",
         "penulis" : "Oriol Paulo",
@@ -1326,6 +1391,7 @@
     },{
         "judul" : "Get Out",
         "genre" : "Thriller, Crime, Horror, Mystery, Romantis",
+        "durasi" : "104 menit",
         "produser" : "Jason Blum, Sean McKittrick, Edward H. Hamm Jr, Jordan Peele",
         "sutradara" : "Jordan Peele",
         "penulis" : "Jordan Peele",
@@ -1350,6 +1416,7 @@
     },{
         "judul" : "DeadPool",
         "genre" : "Action, Adventure, Komedi",
+        "durasi" : "180 menit",
         "produser" : "Simon Kinberg, Ryan Reynolds, Lauren Shuler Donner",
         "sutradara" : "Tim Miller",
         "penulis" : "Paul Wernick",
@@ -1373,6 +1440,7 @@
     },{
         "judul" : "Jumanji : Welcome to the Jungle",
         "genre" : "Fantasi, Action, Komedi",
+        "durasi" : "119 menit",
         "produser" : "Matt Tolmach, Willian Teitler",
         "sutradara" : "Jake Kasdan",
         "penulis" : "Jake Kasdan, Chris McKenna, Erik Sommers, Scott Rosenberg, Jeff Pinkner",
@@ -1392,6 +1460,7 @@
     },{
         "judul" : "Free Guy",
         "genre" : "Sci-Fi, Action, Komedi, Adventure, Fantasi",
+        "durasi" : "115 menit",
         "produser" : "Ryan Reynolds, Shawn Levy, Sarah Schecter, Greg Berlanti, Adam Kolbrenner",
         "sutradara" : "Shawn Levy",
         "penulis" : "Matt Lieberman, Zak Penn",
@@ -1409,6 +1478,7 @@
     },{
         "judul" : "Johnny English Strikes Again",
         "genre" : "Komedi, Action, Adventure",
+        "durasi" : "89 menit",
         "produser" : "Chris Clark, Tim Bevan, Eric Fellner, Rowan Atkinson",
         "sutradara" : "David Kerr",
         "penulis" : "Robert Wade",
@@ -1430,6 +1500,7 @@
     },{
         "judul" : "Happy Death Day 2U",
         "genre" : "Horror, Komedi, Fantasi, Mystery, Sci-Fi, Thriller",
+        "durasi" : "100 menit",
         "produser" : "Jason Blum",
         "sutradara" : "Christopher Landon",
         "penulis" : "Christopher Landon",
@@ -1449,6 +1520,7 @@
     },{
         "judul" : "Zombieland : Double Tap",
         "genre" : "Komedi, Horror",
+        "durasi" : "99 menit",
         "produser" : "Gavin Polone",
         "sutradara" : "Ruben Fleischer",
         "penulis" : "Rhett Reese, Paul Wernick, Dave Callaham",
@@ -1468,6 +1540,7 @@
     },{
         "judul" : "Insidious",
         "genre" : "Horror, Mystery, Thriller",
+        "durasi" : "103 menit",
         "produser" : "Jason Blum, Steven Schneider, Oren Peli",
         "sutradara" : "James Wan",
         "penulis" : "Leigh Whannell",
@@ -1489,6 +1562,7 @@
     },{
         "judul" : "The Invisible Man",
         "genre" : "Horror, Mystery, Thriller, Sci-Fi",
+        "durasi" : "124 menit",
         "produser" : "Jason Blum, Kylie du Fresne",
         "sutradara" : "Leigh Whannell",
         "penulis" : "Leigh Whannell",
@@ -1510,6 +1584,7 @@
     },{
         "judul" : "Birdman : or (The Unexpected Virtue of Ignorance)",
         "genre" : "Komedi",
+        "durasi" : "119 menit",
         "produser" : "Alejandro Gonzales Inarritu, John Lesher, Arnon Milchan, James W. Skotchdopole",
         "sutradara" : "Alejandro Gonzales Inarritu",
         "penulis" : "Alejandro Gonzales Inarritu, Nicolas Giacobone, Alexander Dinelaris Jr, Armando Bo",
@@ -1532,6 +1607,7 @@
     },{
         "judul" : "How to Train Your Dragon",
         "genre" : "Animasi, Adventure, Family",
+        "durasi" : "98 menit",
         "produser" : "Bonnie Arnold",
         "sutradara" : "Chris Sanders, Dean DeBlois",
         "penulis" : "Will Davies, Dean DeBois, Chris Sanders",
@@ -1554,6 +1630,7 @@
     },{
         "judul" : "The Spongebob Movie : Sponge on the Run",
         "genre" : "Animasi, Komedi, Adventure",
+        "durasi" : "91 menit",
         "produser" : "Ryan Harris",
         "sutradara" : "Tim Hill",
         "penulis" : "Tim Hill, Jonathan Aibel, Gleen Berger",
@@ -1581,6 +1658,7 @@
     },{
         "judul" : "Percy Jackson & The Olympians: The Sea of Monsters",
         "genre" : "Fantasi, Action, Family",
+        "durasi" : "106 menit",
         "produser" : "Michael Barnathan, Karen Rosenfelt",
         "sutradara" : "Thor Freudenthal",
         "penulis" : "Marc Guggenheim",
@@ -1602,6 +1680,7 @@
     },{
         "judul" : "IT",
         "genre" : "Horror, Adventure, Thriller",
+        "durasi" : "135 menit",
         "produser" : "Roy Lee, Dan Lin, Seth Grahame-Smith, David Katzenberg, Barbara Muschietti",
         "sutradara" : "Andy Muschietti",
         "penulis" : "Chase Palmer, Cary Fukunaga, Gary Dauberman",
@@ -1621,6 +1700,7 @@
     },{
         "judul" : "Beauty and the Beast",
         "genre" : "Romantis, Musical, Drama",
+        "durasi" : "129 menit",
         "produser" : "David Hoberman, Todd Lieberman",
         "sutradara" : "Bill Condon",
         "penulis" : "Stephen Chbosky, Evan Spiliotopoulos",
@@ -1647,6 +1727,7 @@
     },{
         "judul" : "Alice Through the Looking Glass",
         "genre" : "Fantasi, Action, Adventure, Family, Perang",
+        "durasi" : "108 menit",
         "produser" : "Joe Roth, Suzanne Todd, Jennifer Todd, Tim Burton",
         "sutradara" : "James Bobin",
         "penulis" : "Linda Woolverton",
@@ -1672,6 +1753,7 @@
     },{
         "judul" : "Central Intelligence",
         "genre" : "Action, Komedi",
+        "durasi" : "107 menit",
         "produser" : "Michael Fottrell, Peter Principato, Scott Stuber, Paul Young",
         "sutradara" : "Rawson Marshall Thurber",
         "penulis" : "Ike Barinholtz, David Stassen, Rawson Marshall Thurber",
@@ -1690,6 +1772,7 @@
     },{
         "judul" : "Now You See Me",
         "genre" : "Thriller, Crime",
+        "durasi" : "115 menit",
         "produser" : "Bobby Cohen, Alex Kurtzman, Roberto Orci",
         "sutradara" : "Louis Leterrier",
         "penulis" : "Ed Solomon, Boaz Yakin, Edward Ricourt",
@@ -1712,6 +1795,7 @@
     },{
         "judul" : "Assassin's Creed",
         "genre" : "Sci-Fi, Action, Adventure",
+        "durasi" : "115 menit",
         "produser" : "Jean-Julien Baronnet, Patrick Crowley, Michael Fassbender, Frank Marshall, Conor McCaughan, Arnon Milchan",
         "sutradara" : "Justin Kurzel",
         "penulis" : "Bill Collage, Adam Cooper, Scott Frank, Michael Lesslie",
@@ -1731,6 +1815,7 @@
     },{
         "judul" : "Home Alone ",
         "genre" : "Komedi, Adventure, Crime, Family",
+        "durasi" : "103 menit",
         "produser" : "John Hughes",
         "sutradara" : "Chris Columbus",
         "penulis" : "John Hughes",
@@ -1749,6 +1834,7 @@
     },{
         "judul" : "Titanic",
         "genre" : "Romantis, Drama",
+        "durasi" : "194 menit",
         "produser" : "James Cameron, Jon Landau",
         "sutradara" : "James Cameron",
         "penulis" : "James Cameron",
@@ -1771,6 +1857,7 @@
     },{
         "judul" : "UP",
         "genre" : "Animasi, Adventure, Komedi, Family",
+        "durasi" : "96 menit",
         "produser" : "Jonas Rivera",
         "sutradara" : "Pete Docter",
         "penulis" : "Bob Peterson, Pete Docter",
@@ -1791,6 +1878,7 @@
     },{
         "judul" : "Toy Story",
         "genre" : "Animasi, Adventure, Komedi, Family",
+        "durasi" : "81 menit",
         "produser" : "Bonnie Arnold, Ralph Guggenheim",
         "sutradara" : "John Lasseter",
         "penulis" : "Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow",
@@ -1814,6 +1902,7 @@
     },{
         "judul" : "Monsters Inc",
         "genre" : "Animasi, Adventure, Komedi",
+        "durasi" : "92 menit",
         "produser" : "Darla K. Anderson",
         "sutradara" : "Pete Docter",
         "penulis" : "Andrew Stanton, Dan Gerson, Robert L. Baird, Rhett Reese, Jonathan Roberts",
@@ -1836,6 +1925,7 @@
         ]
     },{
         "judul" : "Spirited Away",
+        "durasi" : "125 menit",
         "genre" : "Animasi, Adventure, Fantasi, Family",
         "produser" : "Toshio Suzuki",
         "sutradara" : "Hayao Miyazaki",
@@ -1862,6 +1952,7 @@
     },{
         "judul" : "Wall-E",
         "genre" : "Animasi, Adventure, Sci-Fi",
+        "durasi" : "98 menit",
         "produser" : "Jim Morris, John Lasseter",
         "sutradara" : "Andrew Stanton",
         "penulis" : "Andrew Stanton, Peter Docter, Jim Reardon",
@@ -1886,6 +1977,7 @@
     },{
         "judul" : "Saw",
         "genre" : "Horror, Thriller, Mystery",
+        "durasi" : "102 menit",
         "produser" : "Mark Burg, Gregg Hoffman, Oren Koules",
         "sutradara" : "James Wan",
         "penulis" : "James Wan, Leigh Whannell",
@@ -1902,6 +1994,7 @@
     },{
         "judul" : "The Terminal",
         "genre" : "Komedi, Romantis",
+        "durasi" : "128 menit",
         "produser" : "Steven Spielberg, Laurie MacDonald, Walter F. Parkes",
         "sutradara" : "Steven Spielberg",
         "penulis" : "Sacha Gervasi, Jeff Nathanson",
@@ -1921,6 +2014,7 @@
     },{
         "judul" : "The Human Centipede",
         "genre" : "Horror",
+        "durasi" : "92 menit",
         "produser" : "Ilona Six, Tom Six",
         "sutradara" : "Tom Six",
         "penulis" : "Tom Six",
@@ -1941,6 +2035,7 @@
     },{
         "judul" : "UMMA",
         "genre" : "Horror",
+        "durasi" : "83 menit",
         "produser" : "Sam Raimi, Zainab Azizi",
         "sutradara" : "Iris K. Shim",
         "penulis" : "Iris K. Shim",
@@ -1962,6 +2057,7 @@
     },{
         "judul" : "Interstellar",
         "genre" : "Sci-Fi, Adventure",
+        "durasi" : "169 menit",
         "produser" : "Emma Thomas, Christopher Nolan, Lynda Obst",
         "sutradara" : "Christopher Nolan",
         "penulis" : "Jonathan Nolan, Christopher Nolan",
@@ -1982,6 +2078,7 @@
     },{
         "judul" : "Tick-tick BOOM",
         "genre" : "Musical",
+        "durasi" : "110 menit",
         "produser" : "Brian Grazer, Ron Howard, Julie Oh, Lin-Manuel Miranda",
         "sutradara" : "Lin-Manuel Miranda",
         "penulis" : "Steven Levenson",
@@ -2004,6 +2101,7 @@
     },{
         "judul" : "Hacksaw Ridge",
         "genre" : "Perang",
+        "durasi" : "139 menit",
         "produser" : "Terry Benedict, Paul Currie (sutradara), Bruce Davey, William D. Johnson, Bill Mechanic, Brian Oliver, David Permut",
         "sutradara" : "Mel Gibson",
         "penulis" : "Andrew Knight, Robert Schenkkan",
@@ -2027,6 +2125,7 @@
     },{
         "judul" : "I Am Legend",
         "genre" : "Action, Sci-Fi, Thriller",
+        "durasi" : "101 menit",
         "produser" : "Akiva Goldsman, David Heyman, Erwin Stoff",
         "sutradara" : "Francis Lawrence",
         "penulis" : "Akiva Goldsman, Mark Protosevich",
@@ -2045,6 +2144,7 @@
     },{
         "judul" : "Knives Out",
         "genre" : "Mystery, Thriller",
+        "durasi" : "130 menit",
         "produser" : "Ram Bergman, Rian Johnson",
         "sutradara" : "Rian Johnson",
         "penulis" : "Rian Johnson",
@@ -2071,6 +2171,7 @@
     },{
         "judul" : "In the Tall Grass",
         "genre" : "Horror",
+        "durasi" : "90 menit",
         "produser" : "Vicenzo Natali",
         "sutradara" : "Steve Hoban, Jimmy Miller, M. Riley",
         "penulis" : "Vicenzo Natali",
@@ -2092,6 +2193,7 @@
     },{
         "judul" : "Cloverfield",
         "genre" : "Action, Sci-Fi",
+        "durasi" : "85 menit",
         "produser" : "J. J. Abrams, Bryan Burk",
         "sutradara" : "Matt Reeves",
         "penulis" : "Drew Goddard",
@@ -2113,6 +2215,7 @@
     },{
         "judul" : "Miracle In Cell No. 7",
         "genre" : "Drama, Komedi",
+        "durasi" : "127 menit",
         "produser" : "Kim Min-Ki, Lee Sang-Hun",
         "sutradara" : "Lee Hwan-Kyung",
         "penulis" : "Lee Hwan-Kyung, Yu Young-A, Kim Hwang-Sung, Kim Young-Seok",
@@ -2132,6 +2235,7 @@
     },{
         "judul" : "The Man Standing Next",
         "genre" : "Drama",
+        "durasi" : "114 menit",
         "produser" : "Kim Chul-Yong",
         "sutradara" : "Woo Min-Ho",
         "penulis" : "Kim Choong-Sik",
@@ -2149,6 +2253,7 @@
     },{
         "judul" : "Pawn",
         "genre" : "Drama, Action, Family, Komedi",
+        "durasi" : "113 menit",
         "produser" : "Choi Joon-Ho",
         "sutradara" : "Kang Dae-Kyu",
         "penulis" : "Yoon Je-Kyun",
@@ -2166,6 +2271,7 @@
     },{
         "judul" : "Three Sisters",
         "genre" : "Drama, Family",
+        "durasi" : "115 menit",
         "produser" : "Lee Seung-Wo",
         "sutradara" : " Kim Sang-Su",
         "penulis" : "Lee Seung-Wo",
@@ -2187,6 +2293,7 @@
     },{
         "judul" : "Wedding Dres",
         "genre" : " Drama, Family",
+        "durasi" : "109 menit",
         "produser" : "Choi Sun-Joong",
         "sutradara" : "Kwon Hyung-Jin",
         "penulis" : "Yoo Young-Ah",
@@ -2204,6 +2311,7 @@
     },{
         "judul" : "Canola",
         "genre" : "Drama, Family",
+        "durasi" : "116 menit",
         "produser" : "Kim Jung-Go",
         "sutradara" : "Chang",
         "penulis" : "Chang",
@@ -2222,6 +2330,7 @@
     },{
         "judul" : "Hope",
         "genre" : "Drama, Family, Crime",
+        "durasi" : "123 menit",
         "produser" : "Byun Bong-Hyun, Seong Chang-Yeon, Kim Yong-Dae",
         "sutradara" : "Lee Joon-Ik",
         "penulis" : "Jo Joong-Hoon, Kim Ji-Hye",
@@ -2241,6 +2350,7 @@
     },{
         "judul" : "One Day",
         "genre" : "Drama, Fantasi",
+        "durasi" : "114 menit",
         "produser" : "Lee Dong-Ho, Kim Dong-Hyun",
         "sutradara" : "Lee Yoon-Ki",
         "penulis" : "Kim Sun-Ah",
@@ -2258,6 +2368,7 @@
     },{
         "judul" : "The Preparation",
         "genre" : "Drama, Family ",
+        "durasi" : "114 menit",
         "produser" : "Heo Joong-Wook",
         "sutradara" : "Cho Young-Jun",
         "penulis" : "Cho Young-Jun",
@@ -2275,6 +2386,7 @@
     },{
         "judul" : "Kim ji-joung : born 1982",
         "genre" : "Drama, Kehidupan",
+        "durasi" : "118 menit",
         "produser" : "Mo II-Young",
         "sutradara" : "Kim Do-Young",
         "penulis" : "Yoo Young-Ah",
@@ -2292,6 +2404,7 @@
     },{
         "judul" : "My Brilliant Life",
         "genre" : "Drama, Family",
+        "durasi" : "117 menit",
         "produser" : "Lee Yu-Jin",
         "sutradara" : "E J-Yong",
         "penulis" : "E J-Yong, Oh Hyo-Jin",
@@ -2311,6 +2424,7 @@
     },{
         "judul" : "Last Child",
         "genre" : "Drama, Family",
+        "durasi" : "123 menit",
         "produser" : "Je Jeong-Joo",
         "sutradara" : "Shin Dong-Seok",
         "penulis" : "Shin Dong-Seok",
@@ -2331,6 +2445,7 @@
     },{
         "judul" : "Mother",
         "genre" : "Thriller, Drama, Family",
+        "durasi" : "128 menit",
         "produser" : "Choi Jae-Won, Seo Woo-Sik",
         "sutradara" : "Boong Joon-Ho",
         "penulis" : "Boong Joon-Ho, Park Eun-Kyo",
@@ -2353,6 +2468,7 @@
     },{
         "judul" : "Thread of Lies",
         "genre" : "Drama, Family, Kehidupan",
+        "durasi" : "117 menit",
         "produser" : "Kim Jae-Joong, Noh Bong-Jo, Kim Dong-Woo",
         "sutradara" : "Lee Han",
         "penulis" : "Lee Sook-Yeon, Lee Han",
@@ -2372,6 +2488,7 @@
     },{
         "judul" : "Deliver us From Evil",
         "genre" : "Action, Thriller",
+        "durasi" : "108 menit",
         "produser" : "Kim Chul-Yong",
         "sutradara" : "Hong Won-Chan",
         "penulis" : "Hong Won-Chan",
@@ -2392,6 +2509,7 @@
     },{
         "judul" : "Peninnsula",
         "genre" : "Action, Horror",
+        "durasi" : "116 menit",
         "produser" : "Lee Dong-Ha",
         "sutradara" : "Yeon Sang-Ho",
         "penulis" : "Yeon Sang-Ho, Ryu Yong-Jae",
@@ -2410,6 +2528,7 @@
     },{
         "judul" : "Time to Hunt",
         "genre" : "Action, Crime, Thriller",
+        "durasi" : "134 menit",
         "produser" : "Handae Rhee",
         "sutradara" : "Yoon Sung-Hyun",
         "penulis" : "Yoon Sung-Hyun",
@@ -2430,6 +2549,7 @@
     },{
         "judul" : "Night in Paradise",
         "genre" : "Action, Thriller",
+        "durasi" : "131 menit",
         "produser" : "Park Hoon-Jung",
         "sutradara" : "Park Hoon-Jung",
         "penulis" : "Park Hoon-Jung",
@@ -2448,6 +2568,7 @@
     },{
         "judul" : "A Taxi Driver",
         "genre" : "Drama, Action",
+        "durasi" : "137 menit",
         "produser" : "Park Un-Kyoung, Choi Ki-Sup, Eom Yu-Na",
         "sutradara" : "Jang Hoon",
         "penulis" : "Eom Yu-Na",
@@ -2468,6 +2589,7 @@
     },{
         "judul" : "Pipeline",
         "genre" : "Sci-Fi, Crime",
+        "durasi" : "128 menit",
         "produser" : "Lee Sung-Jin, Yoon Hong-Jun",
         "sutradara" : "Yoo Ha",
         "penulis" : "Yoo Ha",
@@ -2488,6 +2610,7 @@
     },{
         "judul" : "The Thieves",
         "genre" : "Action, Komedi, Crime",
+        "durasi" : "135 menit",
         "produser" : "Ahn Soo-Hyun",
         "sutradara" : "Choi Dong Hoon",
         "penulis" : "Choi Dong-Hoon, Lee Ki-Cheol",
@@ -2507,6 +2630,7 @@
     },{
         "judul" : "Sunny",
         "genre" : "Komedi, Drama",
+        "durasi" : "124 menit",
         "produser" : "Ahn Byeong-Ki, Ahn In-Ki",
         "sutradara" : "Kang Hyeong-Cheol",
         "penulis" : "Kang Hyeong-Cheol",
@@ -2527,6 +2651,7 @@
     },{
         "judul" : "Parasite",
         "genre" : "Komedi, Mystery",
+        "durasi" : "132 menit",
         "produser" : "Boong Joon-Ho, Kwak Sin-Ae, Jang Young-Hwan",
         "sutradara" : "Bong Joon-Ho",
         "penulis" : "Bong Joon-Ho, Han Jin-Won",
@@ -2549,6 +2674,7 @@
     },{
         "judul" : "Little Forest",
         "genre" : "Komedi, Family",
+        "durasi" : "103 menit",
         "produser" : "Jenna Ku",
         "sutradara" : "Yim Soon-Rye",
         "penulis" : "Hwang Seong-Gu",
@@ -2568,6 +2694,7 @@
     },{
         "judul" : "Miss Granny",
         "genre" : "Komedi, Fantasy",
+        "durasi" : "124 menit",
         "produser" : "Jeon Jae-Sun, Park Ji-Seong, Lee Jae-Pil, Im Ji-Young",
         "sutradara" : "Dong Hyuk-Hwang",
         "penulis" : "Shing Dong-Ik, Hong Yun-Jeong, Dong Hee-Seon",
@@ -2588,6 +2715,7 @@
     },{
         "judul" : "Secret Zoo",
         "genre" : "Komedi",
+        "durasi" : "117 menit",
         "produser" : "Kim Sung-Hwan, Park Hyun-Tae",
         "sutradara" : "Song Jae-Gon",
         "penulis" : "Son Jae-Gon, Lee Yong-Jae, Kim Dae-Woo",
@@ -2608,6 +2736,7 @@
     },{
         "judul" : "Train to Busan",
         "genre" : "Horror, Action, Thriller",
+        "durasi" : "118 menit",
         "produser" : "Lee Dong-Ha",
         "sutradara" : "Yeon Sang-Ho",
         "penulis" : "Park Joo-Suk",
@@ -2631,6 +2760,7 @@
     },{
         "judul" : "Hello Ghost",
         "genre" : "Horror, Komedi",
+        "durasi" : "111 menit",
         "produser" : "Lim Sung-Bin, Choi Moon-Soo",
         "sutradara" : "Kim Young-Tak",
         "penulis" : "Kim Young-Tak",
@@ -2647,6 +2777,7 @@
     },{
         "judul" : "The Divine Fury",
         "genre" : "Action, Horror, Thriller",
+        "durasi" : "129 menit",
         "produser" : "Lim Joon-Hyuk, Park A-Hyung",
         "sutradara" : "Kim Joo-Hwan",
         "penulis" : "Kim Joo-Hwan",
@@ -2665,6 +2796,7 @@
     },{
         "judul" : "200 Pounds of Beauty",
         "genre" : "Komedi, Romantis",
+        "durasi" : "120 menit",
         "produser" : "Park Mu-Seung",
         "sutradara" : "Kim Yong-Hwa",
         "penulis" : "Kim Yong-Hwa, Noh Hye-Young, Kim Sun-Jung",
@@ -2683,6 +2815,7 @@
     },{
         "judul" : "My Sassy Girl",
         "genre" : "Romantis, Komedi, Drama",
+        "durasi" : "123 menit",
         "produser" : "Shin Chul",
         "sutradara" : "Kwak Jae-Yong",
         "penulis" : "Kwak Jae-Yong",
@@ -2703,6 +2836,7 @@
     },{
         "judul" : "Sweet and Sour",
         "genre" : "Romantis, Komedi",
+        "durasi" : "101 menit",
         "produser" : "Park Se-Joon",
         "sutradara" : "Lee Gye-Byeok",
         "penulis" : "Kurumi Inui (novel), Lee Gye-Byeok, Sung Da-Som",
@@ -2721,6 +2855,7 @@
     },{
         "judul" : "The Classic",
         "genre" : "Drama, Romantis, Perang",
+        "durasi" : "127 menit",
         "produser" : "Ji Yeong-Jun",
         "sutradara" : "Kwak Jae-Yong",
         "penulis" : "Kwak Jae-Yong",
@@ -2740,6 +2875,7 @@
     },{
         "judul" : "The Beauty Inside",
         "genre" : "Romantis",
+        "durasi" : "127 menit",
         "produser" : "Park Tae-Joon",
         "sutradara" : "Baek Jong-Yeol",
         "penulis" : "Kim Sun-Jung, Park Jung-Ye",
@@ -2763,6 +2899,7 @@
     },{
         "judul" : "20th Century Girl",
         "genre" : "Romantis",
+        "durasi" : "119 menit",
         "produser" : "Im Seung-Yong",
         "sutradara" : "Bang Woo-Ri",
         "penulis" : "Bang Woo-Ri",
@@ -2782,6 +2919,7 @@
     },{
         "judul" : "Be With You",
         "genre" : "Romantis, Fantasy",
+        "durasi" : "132 menit",
         "produser" : "Yang Soo-Jung",
         "sutradara" : "Jang Hoon-Lee",
         "penulis" : "Kang Soo-Jine, Lee Jang-Hoon",
@@ -2800,6 +2938,7 @@
     },{
         "judul" : "Space Sweepers",
         "genre" : "Fantasi, Action",
+        "durasi" : "136 menit",
         "produser" : "Yoon In-Beom, Kim Soo-Jin",
         "sutradara" : "Jo Sung-Hee",
         "penulis" : "Yoon Seung-Min, Yoo-Kang Seo-Ae, Jo Sung-Hee",
@@ -2822,6 +2961,7 @@
     },{
         "judul" : "Oldboy",
         "genre" : "Drama, Thriller, Mystery",
+        "durasi" : "120 menit",
         "produser" : "Lim Seung-Yong",
         "sutradara" : "Park Chan-Wook",
         "penulis" : "Lim Jun-Hyeong, Hwang Jo-Yoon, Park Chan-Wook",
@@ -2843,6 +2983,7 @@
     },{
         "judul" : "Memories of Murder",
         "genre" : "Crime, Mystery, Thriller",
+        "durasi" : "128 menit",
         "produser" : "Cha Seung-Jae",
         "sutradara" : "Boong Joon-Ho",
         "penulis" : "Bong Joon-Ho, Shim Sung-Bo, Kim Kwang-Rim",
@@ -2863,6 +3004,7 @@
     },{
         "judul" : "The Wailing ",
         "genre" : "Thriller, Mystery, Horror",
+        "durasi" : "156 menit",
         "produser" : "Suh Dong-Hyun, Kim Ho-Sung",
         "sutradara" : "Na Hong-Jin",
         "penulis" : "Na Hong-Jin",
@@ -2887,6 +3029,7 @@
     },{
         "judul" : "Ashfall",
         "genre" : "Thriller, Action",
+        "durasi" : "128 menit",
         "produser" : "Lee Hae-Jun, Kim Byung-Seo",
         "sutradara" : "Lee Hae-Jun, Kim Byung-Seo",
         "penulis" : "",
@@ -2907,6 +3050,7 @@
     },{
         "judul" : "Recalled",
         "genre" : "Thriller, Mystery",
+        "durasi" : "99 menit",
         "produser" : "Jeong Hye-On",
         "sutradara" : "Seo Yoo-Min",
         "penulis" : "Seo Yoo-Min",
@@ -2925,6 +3069,7 @@
     },{
         "judul" : "Missing",
         "genre" : "Thriller, Mystery",
+        "durasi" : "100 menit",
         "produser" : "Baek Hyun-Ik, Kim Sung-Woo",
         "sutradara" : "Lee Eon-Hee",
         "penulis" : "Hong Eun-Mi",
@@ -2943,6 +3088,7 @@
     },{
         "judul" : "Ode to My Father",
         "genre" : "Perang, Drama, Family",
+        "durasi" : "130 menit",
         "produser" : "Yoon Je-Kyoon, Park Ji-Seong",
         "sutradara" : "Yoon Je-Kyoon",
         "penulis" : "Park Su-Jin",
@@ -2963,6 +3109,7 @@
     },{
         "judul" : "Seabok",
         "genre" : "Sci-Fi, Action",
+        "durasi" : "114 menit",
         "produser" : "Seo Young-Hee, Kim Kyung-Min, Song Seung-Min",
         "sutradara" : "Lee Yong-Joo",
         "penulis" : "Lee Yong-Joo",
@@ -2981,6 +3128,7 @@
     },{
         "judul" : "Harmony",
         "genre" : "Musical, Drama",
+        "durasi" : "115 menit",
         "produser" : "Kim Nam-Su, Yoon Je-Kyoon, Jeong Jae-Won",
         "sutradara" : "Kang Dae-Kyu",
         "penulis" : "Lee Seung-Yeon, Yoon Je-Kyoon, Kim Hwi",
@@ -2999,6 +3147,7 @@
     },{
         "judul" : "My Annoying Brother",
         "genre" : "Sport, Komedi, Kehidupan, Drama, Family",
+        "durasi" : "110 menit",
         "produser" : "Choi Sun-Hee, Lee Yong-Nam",
         "sutradara" : "Kwon Soo-Kyung",
         "penulis" : "Yoo Young-Ah",
@@ -3018,6 +3167,7 @@
     },{
         "judul" : "Seoul Vibe",
         "genre" : "Adventure, Action, Komedi",
+        "durasi" : "140 menit",
         "produser" : "Moon Hyun-Sung",
         "sutradara" : "Moon Hyun-Sung",
         "penulis" : "Sua Shin",
@@ -3038,6 +3188,7 @@
     },{
         "judul" : "The Pirates 2",
         "genre" : "Adventure, Komedi,Fantasi",
+        "durasi" : "125 menit",
         "produser" : "Song Yong-Woon",
         "sutradara" : "Kim Jung-Hoon",
         "penulis" : "Chun Sung-II",
