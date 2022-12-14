@@ -4,7 +4,8 @@
         "Band"  : "Radiohead",
         "Album" : "Pablo Honey",
         "Judul" : "Creep",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : "" 
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "U2",
         "Album" : "The Joshua Tree",
         "Judul" : "With Or Without You",
-        "Tahun" : "1987" 
+        "Tahun" : "1987",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : "Barefood",
         "Album" : "Sullen",
         "Judul" : "Sullen",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -28,7 +31,8 @@
         "Band"  : "Weezer",
         "Album" : "Wezeer (Green Album)",
         "Judul" : "Island In The Sun",
-        "Tahun" : "2001" 
+        "Tahun" : "2001",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -36,7 +40,8 @@
         "Band"  : "Gascoigne",
         "Album" : "Bond Electric",
         "Judul" : "Paint It Over",
-        "Tahun" : "2019" 
+        "Tahun" : "2019" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -44,7 +49,8 @@
         "Band"  : "The Cure",
         "Album" : "Three Imaginary Boys",
         "Judul" : "Boys Don’t Cry",
-        "Tahun" : "1979" 
+        "Tahun" : "1979" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -52,7 +58,8 @@
         "Band"  : "Guns N’ Roses",
         "Album" : "Appetite For Destruction",
         "Judul" : "Sweet Child O’ Mine",
-        "Tahun" : "1987" 
+        "Tahun" : "1987" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -60,7 +67,8 @@
         "Band"  : "Rolling Stones",
         "Album" : "Aftermath",
         "Judul" : "Paint It, Black",
-        "Tahun" : "1966" 
+        "Tahun" : "1966",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -68,7 +76,8 @@
         "Band"  : "AC/DC",
         "Album" : "Highway to Hell",
         "Judul" : "Highway to Hell",
-        "Tahun" : "1979" 
+        "Tahun" : "1979" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -76,7 +85,8 @@
         "Band"  : "Slank",
         "Album" : "Kampungan",
         "Judul" : "Nggak Rock N’Roll",
-        "Tahun" : "1991" 
+        "Tahun" : "1991",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -84,7 +94,8 @@
         "Band"  : "The Flowers",
         "Album" : "17 Th Keatas",
         "Judul" : "(Tolong) Bu Dokter",
-        "Tahun" : "1997" 
+        "Tahun" : "1997",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -92,7 +103,8 @@
         "Band"  : "The Brandals",
         "Album" : "Brandalisme",
         "Judul" : "100% Kontrol",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -100,7 +112,8 @@
         "Band"  : "The Sigit",
         "Album" : "Visible Idea of Perfection",
         "Judul" : "All The Time",
-        "Tahun" : "2006" 
+        "Tahun" : "2006" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -108,7 +121,8 @@
         "Band"  : "The Changcuters",
         "Album" : "Mencoba Sukses Kembali",
         "Judul" : "Racun Dunia ",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -116,7 +130,8 @@
         "Band"  : "The Hydrants",
         "Album" : "Lokananta",
         "Judul" : "My Music is Rock ‘n’ Roll",
-        "Tahun" : "2015" 
+        "Tahun" : "2015" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -124,7 +139,8 @@
         "Band"  : "Gugun Blues Shelter",
         "Album" : "Gugun Blues Shelter",
         "Judul" : "When I See You Again ",
-        "Tahun" : "2010" 
+        "Tahun" : "2010" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -132,7 +148,8 @@
         "Band"  : "Rama Satria Claproth ",
         "Album" : "Say Your Prayer (EP)",
         "Judul" : "Say Your Prayer",
-        "Tahun" : "2022" 
+        "Tahun" : "2022",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -140,7 +157,8 @@
         "Band"  : "The Allman Brothers ",
         "Album" : "The Allman Brothers Band (Deluxe)",
         "Judul" : "Whipping Post",
-        "Tahun" : "1969" 
+        "Tahun" : "1969" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -148,7 +166,8 @@
         "Band"  : "ZZ Top",
         "Album" : "Tres Hombres",
         "Judul" : "La Grange",
-        "Tahun" : "1973" 
+        "Tahun" : "1973",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -156,7 +175,8 @@
         "Band"  : "The Doors",
         "Album" : "L.A. Women ",
         "Judul" : "Riders On The Storm",
-        "Tahun" : "1971" 
+        "Tahun" : "1971",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -164,7 +184,8 @@
         "Band"  : "Lynyrd Skynyrd",
         "Album" : "Second Helping ",
         "Judul" : "Sweet Home Alabama",
-        "Tahun" : "1974" 
+        "Tahun" : "1974",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -172,7 +193,8 @@
         "Band"  : "Shark Move",
         "Album" : "Ghede Chokra’s",
         "Judul" : "Evil War",
-        "Tahun" : "1971" 
+        "Tahun" : "1971",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -180,7 +202,8 @@
         "Band"  : "King Crimson",
         "Album" : "In the Count of the Crimson King",
         "Judul" : "21st Century Schizoid Man",
-        "Tahun" : "1969" 
+        "Tahun" : "1969",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -188,7 +211,8 @@
         "Band"  : "Pink Floyd",
         "Album" : "The Dark Side of The Moon",
         "Judul" : "Us and Them",
-        "Tahun" : "1973" 
+        "Tahun" : "1973",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -196,7 +220,8 @@
         "Band"  : "Rush",
         "Album" : "Moving Picture",
         "Judul" : "Tom Sawyer",
-        "Tahun" : "1981" 
+        "Tahun" : "1981",
+        "Gambar" : ""  
         
     },
     {
@@ -204,7 +229,8 @@
         "Band"  : "Genesis",
         "Album" : "Invisible Touch",
         "Judul" : "Invisible Touch",
-        "Tahun" : "1986" 
+        "Tahun" : "1986",
+        "Gambar" : ""  
 		
 	},
 	{
@@ -212,7 +238,8 @@
         "Band"  : "The Smith",
         "Album" : "The Queen is Dead",
         "Judul" : "There is a Light That Never Goes Out",
-        "Tahun" : "1986" 
+        "Tahun" : "1986" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -220,7 +247,8 @@
         "Band"  : "Texpack",
         "Album" : "Spin Your Wheels ",
         "Judul" : "Heartless Stoic Boy",
-        "Tahun" : "2019" 
+        "Tahun" : "2019" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -228,7 +256,8 @@
         "Band"  : "R.E.M.",
         "Album" : "Out Of Time ",
         "Judul" : "Losing My Religion ",
-        "Tahun" : "1991" 
+        "Tahun" : "1991",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -236,7 +265,8 @@
         "Band"  : "Pixies",
         "Album" : "Surfer Rosa ",
         "Judul" : "Where is My Mind",
-        "Tahun" : "1988" 
+        "Tahun" : "1988",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -244,7 +274,8 @@
         "Band"  : "Sonic Youth",
         "Album" : "Daydream Nation",
         "Judul" : "Teen Age Riot ",
-        "Tahun" : "1988" 
+        "Tahun" : "1988",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -252,7 +283,8 @@
         "Band"  : "Arctic Monkeys  ",
         "Album" : "AM",
         "Judul" : "Do I Wanna Know?",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -260,7 +292,8 @@
         "Band"  : "Pink Floyd",
         "Album" : "The Piper at the Gates of Dawn",
         "Judul" : "Astronomy Domine",
-        "Tahun" : "1967" 
+        "Tahun" : "1967" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -268,7 +301,8 @@
         "Band"  : "Cream",
         "Album" : "Disraeli Gears ",
         "Judul" : "Sunshine Of Your Love",
-        "Tahun" : "1967" 
+        "Tahun" : "1967",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -276,7 +310,8 @@
         "Band"  : "13th Floor Elevators",
         "Album" : "The Psychedelic Sounds of the 13th Floor Elevators",
         "Judul" : "You’re Gonna Miss Me",
-        "Tahun" : "1966" 
+        "Tahun" : "1966",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -284,7 +319,8 @@
         "Band"  : "King Gizzard and the Lizard Wizard",
         "Album" : "Ice, Death, Planets, Lungs, Mushrooms, And Lava",
         "Judul" : "Magma",
-        "Tahun" : "2022" 
+        "Tahun" : "2022" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -292,7 +328,8 @@
         "Band"  : "The Beatles",
         "Album" : "Magical Mystery Tour",
         "Judul" : "Strawberry Fields Foreve",
-        "Tahun" : "1967" 
+        "Tahun" : "1967" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -300,7 +337,8 @@
         "Band"  : "Psychedelic Porn Crumpets",
         "Album" : "High Viscreal, Pt. 1",
         "Judul" : "Cornflake",
-        "Tahun" : "2016" 
+        "Tahun" : "2016",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -308,7 +346,8 @@
         "Band"  : "The Jimi Hendrix Experience",
         "Album" : "Are You Experienced",
         "Judul" : "Purple Haze",
-        "Tahun" : "1967" 
+        "Tahun" : "1967",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -316,7 +355,8 @@
         "Band"  : "The Doors",
         "Album" : "The Doors",
         "Judul" : "Light My FIre",
-        "Tahun" : "1967" 
+        "Tahun" : "1967",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -324,7 +364,8 @@
         "Band"  : "Syd Barrett",
         "Album" : "The Madcap Laughs",
         "Judul" : "Octopus",
-        "Tahun" : "1970" 
+        "Tahun" : "1970",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -332,7 +373,8 @@
         "Band"  : "SAS GROUP",
         "Album" : "Baby Rock",
         "Judul" : "Baby Rock",
-        "Tahun" : "1976" 
+        "Tahun" : "1976",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -340,7 +382,8 @@
         "Band"  : "Tame Impala",
         "Album" : "Currents",
         "Judul" : "The Less I Know The Better",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -348,7 +391,8 @@
         "Band"  : "The Beatles",
         "Album" : "Abbey Road (Remastered)",
         "Judul" : "Come Together",
-        "Tahun" : "2009" 
+        "Tahun" : "2009" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -356,7 +400,8 @@
         "Band"  : "The Dirty Mac",
         "Album" : "The Rolling Stones Rock And Roll Circus",
         "Judul" : "Yer blues (remastered 2018)",
-        "Tahun" : "2019" 
+        "Tahun" : "2019",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -364,7 +409,8 @@
         "Band"  : "The Doors",
         "Album" : "Marrison Hotel",
         "Judul" : "Blue Sunday",
-        "Tahun" : "1970" 
+        "Tahun" : "1970",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -372,7 +418,8 @@
         "Band"  : "Queen",
         "Album" : "A Night At The Opera",
         "Judul" : "Bohemian Rhapsody",
-        "Tahun" : "1975" 
+        "Tahun" : "1975",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -380,7 +427,8 @@
         "Band"  : "David Bowie",
         "Album" : "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
         "Judul" : "Ziggy Stardust",
-        "Tahun" : "1972" 
+        "Tahun" : "1972" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -388,7 +436,8 @@
         "Band"  : "Kiss",
         "Album" : "Kiss",
         "Judul" : "Strutter",
-        "Tahun" : "1974" 
+        "Tahun" : "1974" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -396,7 +445,8 @@
         "Band"  : "Bob Dylan",
         "Album" : "Planet Waves",
         "Judul" : "On A Night Like This",
-        "Tahun" : "1974" 
+        "Tahun" : "1974" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -404,7 +454,8 @@
         "Band"  : "George Harrison",
         "Album" : "Thirty Three & 1/3",
         "Judul" : "Beautiful Girl",
-        "Tahun" : "1976" 
+        "Tahun" : "1976" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -412,7 +463,8 @@
         "Band"  : "Original Love",
         "Album" : "Eyes",
         "Judul" : "I WISH",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -420,7 +472,8 @@
         "Band"  : "The Beatles ",
         "Album" : "Rubber Soul",
         "Judul" : "In My Life",
-        "Tahun" : "1965" 
+        "Tahun" : "1965",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -428,7 +481,8 @@
         "Band"  : "Kelompok Penerbang Roket",
         "Album" : "Teriakan Bocah",
         "Judul" : "TO",
-        "Tahun" : "2015" 
+        "Tahun" : "2015" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -436,7 +490,8 @@
         "Band"  : "George Harrison",
         "Album" : "All Things Must Pass",
         "Judul" : "All Things Must Pass",
-        "Tahun" : "1970" 
+        "Tahun" : "1970",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -444,7 +499,8 @@
         "Band"  : "The Sigit",
         "Album" : "Visible Idea Of Perfection",
         "Judul" : "Black Amplifier",
-        "Tahun" : "2006 " 
+        "Tahun" : "2006 ",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -452,7 +508,8 @@
         "Band"  : "Aerosmith",
         "Album" : "Get A Grip",
         "Judul" : "Crazy",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -460,7 +517,8 @@
         "Band"  : "Queen",
         "Album" : "A Day At The Races",
         "Judul" : "Somebody To Love",
-        "Tahun" : "1976" 
+        "Tahun" : "1976" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -468,7 +526,8 @@
         "Band"  : "Nazareth",
         "Album" : "Hair Of The Dog",
         "Judul" : "Love Hurts",
-        "Tahun" : "2010" 
+        "Tahun" : "2010" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -476,7 +535,8 @@
         "Band"  : "Scorpions",
         "Album" : "Deadly Sting: The Mercury Years",
         "Judul" : "Wind Of Change",
-        "Tahun" : "1997" 
+        "Tahun" : "1997",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -484,7 +544,8 @@
         "Band"  : "Deep Purple",
         "Album" : "Stormbringer",
         "Judul" : "Soldier Of Fortune",
-        "Tahun" : "1974" 
+        "Tahun" : "1974" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -492,7 +553,8 @@
         "Band"  : "Barasuara",
         "Album" : "Pikiran Dan Perjalanan",
         "Judul" : "Guna Manusia",
-        "Tahun" : "2019" 
+        "Tahun" : "2019" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -500,7 +562,8 @@
         "Band"  : ".Feast",
         "Album" : "Beberapa Orang Memaafkan (EP)",
         "Judul" : "Padi Milik Rakyat",
-        "Tahun" : "2018" 
+        "Tahun" : "2018" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -508,7 +571,8 @@
         "Band"  : "Muse",
         "Album" : "Showbiz",
         "Judul" : "Unintended",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -516,7 +580,8 @@
         "Band"  : "Jimi Hendrix",
         "Album" : "Are You Experienced",
         "Judul" : "Purple Haze",
-        "Tahun" : "1967" 
+        "Tahun" : "1967",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -524,7 +589,8 @@
         "Band"  : "Electric Wizard",
         "Album" : "Dopethrone",
         "Judul" : "Barbarian",
-        "Tahun" : "2000" 
+        "Tahun" : "2000" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -532,7 +598,8 @@
         "Band"  : "Black Sabbath",
         "Album" : "Master Of Reality",
         "Judul" : "Sweet Leaf",
-        "Tahun" : "1971" 
+        "Tahun" : "1971" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -540,7 +607,8 @@
         "Band"  : "The Cure",
         "Album" : "Bloodflowers",
         "Judul" : "Maybe Someday",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -548,7 +616,8 @@
         "Band"  : "Joy Division",
         "Album" : "Unknown Pleasures",
         "Judul" : "Candidate",
-        "Tahun" : "1979" 
+        "Tahun" : "1979",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -556,7 +625,8 @@
         "Band"  : "The Smith ",
         "Album" : "The Queen Is Dead",
         "Judul" : "I Know It's Over",
-        "Tahun" : "1986" 
+        "Tahun" : "1986" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -564,7 +634,8 @@
         "Band"  : "Nine inch Nails",
         "Album" : "With Teeth",
         "Judul" : "The Head That Feeds",
-        "Tahun" : "2005" 
+        "Tahun" : "2005" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -572,7 +643,8 @@
         "Band"  : "Ministry",
         "Album" : "KE*A*H(Psalm 69)",
         "Judul" : "Jesus Built My Hotrod",
-        "Tahun" : "1992" 
+        "Tahun" : "1992" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -580,7 +652,8 @@
         "Band"  : "Hate Dept.",
         "Album" : "Omnipresent",
         "Judul" : "Bitch",
-        "Tahun" : "1996" 
+        "Tahun" : "1996" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -588,7 +661,8 @@
         "Band"  : "Weezer",
         "Album" : "Weezer(Red Album)",
         "Judul" : "Heart Song",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -596,7 +670,8 @@
         "Band"  : "Ozma",
         "Album" : "Spending Time Of The Border Line",
         "Judul" : "Restart",
-        "Tahun" : "2003" 
+        "Tahun" : "2003" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -604,7 +679,8 @@
         "Band"  : "The Rentals",
         "Album" : "Return Of The Rentals",
         "Judul" : "The Love I'm Searching For",
-        "Tahun" : "1995" 
+        "Tahun" : "1995",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -612,7 +688,8 @@
         "Band"  : "Michael Jackson",
         "Album" : "Thriller",
         "Judul" : "The Girl Is mine",
-        "Tahun" : "1982" 
+        "Tahun" : "1982",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -620,7 +697,8 @@
         "Band"  : "Queen",
         "Album" : "Hot Space",
         "Judul" : "Cool Cat",
-        "Tahun" : "1982" 
+        "Tahun" : "1982",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -628,7 +706,8 @@
         "Band"  : "The Doobie Brothers",
         "Album" : "Minute By Minute",
         "Judul" : "Minute By Minute",
-        "Tahun" : "1982" 
+        "Tahun" : "1982",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -636,7 +715,8 @@
         "Band"  : "Bon Jovi",
         "Album" : "Slippery When Wet",
         "Judul" : "You Give Love A Bad Name",
-        "Tahun" : "1986" 
+        "Tahun" : "1986",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -644,7 +724,8 @@
         "Band"  : "Ratt",
         "Album" : "Invasion Of Your Privacy",
         "Judul" : "Lay It Down",
-        "Tahun" : "1985" 
+        "Tahun" : "1985",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -652,7 +733,8 @@
         "Band"  : "Gun n Roses",
         "Album" : "Appetite For Destruction",
         "Judul" : "Paradise City",
-        "Tahun" : "1987" 
+        "Tahun" : "1987" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -660,7 +742,8 @@
         "Band"  : "Cryll",
         "Album" : "Cross Roads (Single)",
         "Judul" : "Cross Roads",
-        "Tahun" : "2021" 
+        "Tahun" : "2021",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -668,7 +751,8 @@
         "Band"  : "Deep Purple",
         "Album" : "Machine Head",
         "Judul" : "Smoke On The Water",
-        "Tahun" : "1972" 
+        "Tahun" : "1972",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -676,7 +760,8 @@
         "Band"  : "Led Zeppelin",
         "Album" : "Led Zeppelin III",
         "Judul" : "Immigrant Song",
-        "Tahun" : "1970" 
+        "Tahun" : "1970" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -684,7 +769,8 @@
         "Band"  : "Queen",
         "Album" : "The Game",
         "Judul" : "Another One Bites The Duts",
-        "Tahun" : "1980" 
+        "Tahun" : "1980" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -692,7 +778,8 @@
         "Band"  : "Dewa 19",
         "Album" : "Bintang lima",
         "Judul" : "Cemburu",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -700,7 +787,8 @@
         "Band"  : "Depeche Mode",
         "Album" : "Violator | The 12 (Single)",
         "Judul" : "Enjoy The Silence",
-        "Tahun" : "2022" 
+        "Tahun" : "2022",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -708,7 +796,8 @@
         "Band"  : "Queen",
         "Album" : "News Of The World",
         "Judul" : "We Are The Champions",
-        "Tahun" : "1977" 
+        "Tahun" : "1977" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -716,7 +805,8 @@
         "Band"  : "The Cure",
         "Album" : "Kiss me Kiss me Kiss me Kiss me",
         "Judul" : "Just Like Heaven",
-        "Tahun" : "1987" 
+        "Tahun" : "1987" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -724,7 +814,8 @@
         "Band"  : "When In Rome",
         "Album" : "When In Rome",
         "Judul" : "The Promise",
-        "Tahun" : "1988" 
+        "Tahun" : "1988",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -732,7 +823,8 @@
         "Band"  : "Rumah Sakit",
         "Album" : "1+2",
         "Judul" : "Hilang ",
-        "Tahun" : "2012" 
+        "Tahun" : "2012",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -740,7 +832,8 @@
         "Band"  : "Nirvana",
         "Album" : "Nevermind",
         "Judul" : "Smells Like Teen Spirit",
-        "Tahun" : "1991" 
+        "Tahun" : "1991",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -748,7 +841,8 @@
         "Band"  : "Pearel Jam",
         "Album" : "Vs.",
         "Judul" : "Daughter",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -756,7 +850,8 @@
         "Band"  : "Alice In Chains",
         "Album" : "Jar of Flies",
         "Judul" : "Nutshell",
-        "Tahun" : "1994" 
+        "Tahun" : "1994",
+        "Gambar" : ""  
 			
 	}
 ]

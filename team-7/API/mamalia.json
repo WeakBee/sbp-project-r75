@@ -3,11 +3,11 @@
         "Nama" : "Kuskus Beruang Sulawesi",
         "Habitat" : " Hidup Dipepohonan",
         "Lokasi": "Sulawesi",
-        "Ukuran Tubuh" : "60 CM",
-        "Panjang Ekor" : "54 CM",
+        "UkuranTubuh" : "60 CM",
+        "PanjangEkor" : "54 CM",
         "Berat" : "< 8KG",
         "Golongan" :"Herbivora",
-        "Tipe Kulit" : "Berbulu",
+        "TipeKulit" : "Berbulu",
         "Gambar" : "",
         "Warna" : [
             "Hitam", 
@@ -23,11 +23,11 @@
             "Jawa",
             "Kalimantan"
         ],
-        "Ukuran Tubuh" : "60 CM - 90 CM",
-        "Panjang Ekor": "50 CM - 90 CM",
+        "UkuranTubuh" : "60 CM - 90 CM",
+        "PanjangEkor": "50 CM - 90 CM",
         "Berat" : "6KG-14KG",
         "Golongan" :"Omnivora",
-        "Tipe Kulit" : "Berbulu",
+        "TipeKulit" : "Berbulu",
         "Gambar":"",
         "Warna" : [
             "Hitam", 
@@ -41,8 +41,8 @@
         "Nama" : "Pulusan",
         "Habitat" : "Dataran",
         "Lokasi": "Sumatra",
-        "Ukuran Tubuh" : "55 CM - 70 CM",
-        "Panjang Ekor" : "12 CM - 17 CM",
+        "UkuranTubuh" : "55 CM - 70 CM",
+        "PanjangEkor" : "12 CM - 17 CM",
         "Berat" : "7KG-14KG",
         "Golongan" :"Omnivora",
         "Tipe Kulit" : "Berbulu",
@@ -58,11 +58,11 @@
         "Nama" : "Rusa Bawen",
         "Habitat" : "Dataran",
         "Lokasi" : "Jawa",
-        "Ukuran Tubuh" : "105 CM - 115 CM",
-        "Panjang Ekor" : "20 CM",
+        "UkuranTubuh" : "105 CM - 115 CM",
+        "PanjangEkor" : "20 CM",
         "Berat" : "15KG-30KG",
         "Golongan" :"Herbivora",
-        "Tipe Kulit" : "Berbulu",
+        "TipeKulit" : "Berbulu",
         "Gambar" :"",
         "Warna" : [
             "Coklat", 
@@ -74,13 +74,83 @@
         "Nama" : "Babi Rusa",
         "Habitat" : "Dataran",
         "Lokasi" : "",
-        "Ukuran Tubuh" : "85 CM - 105 CM",
-        "Panjang Ekor" : "20 CM - 35 CM"
+        "UkuranTubuh" : "85 CM - 105 CM",
+        "PanjangEkor" : "20 CM - 35 CM" ,
         "Berat" : "90KG-100KG",
         "Golongan" :"Herbivora",
-        "Tipe Kulit" : "Berbulu",
+        "TipeKulit" : "Berbulu",
         "Warna" : [
             "Abu Abu"
     ]
+    },
+    {   
+        "Nama" : "Paus Minke Utara",
+        "Habitat" : "Lautan",
+        "Lokasi" : "Samudra Pasifik",
+        "UkuranTubuh" : "5M-5,5M",
+        "PanjangEkor" :"",
+        "Berat" : "< 5600KG",
+        "Golongan" :"Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" : [
+            "Coklat",
+            "Kelabu",
+            "Hitam",
+            "Putih"
+    ]
+    },
+    {   
+        "Nama" : "Paus Biru",
+        "Habitat" : "Lautan",
+        "Lokasi" : "Samudra Hindia",
+        "UkuranTubuh" : "> 33M",
+        "PanjangEkor" : "" ,
+        "Berat" : "> 181TON",
+        "Golongan" :"Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" : [
+            "Biru"
+    ]
+    },
+    {   
+        "Nama" : "Paus Bersirip",
+        "Habitat" : "Lautan",
+        "Lokasi" : "",
+        "UkuranTubuh" : "18M-20M",
+        "PanjangEkor" : "" ,
+        "Berat" : "48TON",
+        "Golongan" :"Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" : [
+            "Abu Abu"
+    ]
+    },
+    {   
+        "Nama" : "Banteng",
+        "Habitat" : "Dataran Rendah",
+        "Lokasi" : ["Jawa",
+        "Madura",
+        "Bali"
+    ],
+        "UkuranTubuh" : "190CM-225CM",
+        "PanjangEkor" : "" ,
+        "Berat" : "600KG-800KG",
+        "Golongan" :"Herbivora",
+        "TipeKulit" : "Berbulu",
+        "Warna" : [
+            "Coklat Gelap",
+            "Coklat Kemerahan"
+    ]
+    },
+    {   
+        "Nama" : "Anoa Dataran Rendah",
+        "Habitat" : "Dataran Rendah",
+        "Lokasi" : "Sulawesi",
+        "UkuranTubuh" : "<150CM",
+        "PanjangEkor" : "" ,
+        "Berat" : "< 300KG",
+        "Golongan" :"Herbivora",
+        "TipeKulit" : "Berbulu",
+        "Warna" : "Coklat"
     }
 ]

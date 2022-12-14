@@ -4,7 +4,8 @@
         "Band"  : "Duran Duran",
         "Album" : "Self Titled",
         "Judul" : "Planet Earth",
-        "Tahun" : "1981"
+        "Tahun" : "1981",
+        "Gambar" : "" 
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "The Upstair",
         "Album" : "Matraman",
         "Judul" : "Matraman",
-        "Tahun" : "2004"
+        "Tahun" : "2004",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : " The Smith",
         "Album" : "Hatful Of Hollow",
         "Judul" : "Heaven Knows I'm Miserable Now",
-        "Tahun" : "1984"
+        "Tahun" : "1984",
+        "Gambar" : "" 
 			
 	},
 	{   
@@ -28,7 +31,8 @@
         "Band"  : "bon jovi",
         "Album" : "keep the faith",
         "Judul" : "Bed of roses",
-        "Tahun" : "1992" 
+        "Tahun" : "1992",
+        "Gambar" : ""  
             
     },
 	{
@@ -36,7 +40,8 @@
         "Band"  : "Coldplay",
         "Album" : "Parachutes",
         "Judul" : "yellow",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -44,7 +49,8 @@
         "Band"  : "Hoobastank",
         "Album" : "The Reason|single|",
         "Judul" : "The Reason",
-        "Tahun" : "2004" 
+        "Tahun" : "2004",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -52,7 +58,8 @@
         "Band"  : "Madonna",
         "Album" : "Celebration",
         "Judul" : "Material Girl",
-        "Tahun" : "2009" 
+        "Tahun" : "2009",
+        "Gambar" : ""  
             
     },
 	{
@@ -60,7 +67,8 @@
         "Band"  : "Michael Joseph Jackson",
         "Album" : "off the wall",
         "Judul" : "Don’t Stop ’til You Get Enough",
-        "Tahun" : "1979" 
+        "Tahun" : "1979",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -68,7 +76,8 @@
         "Band"  : "Black Box",
         "Album" : "Dreamland",
         "Judul" : "Ride On Time",
-        "Tahun" : "1990" 
+        "Tahun" : "1990",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -76,7 +85,8 @@
         "Band"  : "sam smith",
         "Album" : "In the lonely hour",
         "Judul" : "i'm not the only one",
-        "Tahun" : "2014" 
+        "Tahun" : "2014" ,
+        "Gambar" : "" 
             
     },
 	{
@@ -84,7 +94,8 @@
         "Band"  : "Ellie Goulding",
         "Album" : "Delirium",
         "Judul" : "Love Me Like You Do",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -92,7 +103,8 @@
         "Band"  : "Ed Sheeran",
         "Album" : "X",
         "Judul" : "Thinking Out Loud",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -100,7 +112,8 @@
         "Band"  : "Lana Del Rey",
         "Album" : "Ultraviolence",
         "Judul" : "Brooklyn Baby",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
             
     },
 	{
@@ -108,7 +121,8 @@
         "Band"  : "Danilla",
         "Album" : "Telisik",
         "Judul" : "Berdistraksi",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -116,7 +130,8 @@
         "Band"  : "Reality Club",
         "Album" : "Anything You Wan",
         "Judul" : "Anything You Wan",
-        "Tahun" : "2022" 
+        "Tahun" : "2022",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -124,7 +139,8 @@
         "Band"  : "Taylor Swift",
         "Album" : "1989",
         "Judul" : "Style",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
             
     },
 	{
@@ -132,7 +148,8 @@
         "Band"  : "Katy Perry",
         "Album" : "witness",
         "Judul" : "Tsunami",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -140,7 +157,8 @@
         "Band"  : "M83",
         "Album" : "Hurry Up , We Are Dreaming",
         "Judul" : "Midnight City",
-        "Tahun" : "2011" 
+        "Tahun" : "2011",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -148,7 +166,8 @@
         "Band"  : "The chainsmokers ft Coldplay",
         "Album" : "Memories…Do not open",
         "Judul" : "Something just like this",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : ""  
             
     },
 	{
@@ -156,7 +175,8 @@
         "Band"  : "Martin Garrix ft Dua Lipa",
         "Album" : "Scared To Be Lonely|single|",
         "Judul" : "Scared To Be Lonely",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -164,7 +184,8 @@
         "Band"  : "Justin Bieber",
         "Album" : "Purpose",
         "Judul" : "Sorry",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -172,7 +193,8 @@
         "Band"  : "Oasis",
         "Album" : "|What's The Story| Morning Glory?",
         "Judul" : "Wonderwall",
-        "Tahun" : "1995" 
+        "Tahun" : "1995",
+        "Gambar" : ""  
             
     },
 	{
@@ -180,7 +202,8 @@
         "Band"  : "Blur",
         "Album" : "Blur",
         "Judul" : "song 2",
-        "Tahun" : "1997" 
+        "Tahun" : "1997" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -188,7 +211,8 @@
         "Band"  : "Morrissey",
         "Album" : "UViva Hate",
         "Judul" : "suedehead",
-        "Tahun" : "1988" 
+        "Tahun" : "1988",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -196,7 +220,8 @@
         "Band"  : "Fur",
         "Album" : "If You Know That I'm Lonely |single|",
         "Judul" : "If You Know That I'm Lonely",
-        "Tahun" : "2017"
+        "Tahun" : "2017",
+        "Gambar" : "" 
             
     },
 	{
@@ -204,7 +229,8 @@
         "Band"  : "The beatles",
         "Album" : "Revolver",
         "Judul" : "For No One",
-        "Tahun" : "1966" 
+        "Tahun" : "1966",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -212,7 +238,8 @@
         "Band"  : "Mini Mansions",
         "Album" : "The Great Prentenders",
         "Judul" : "Heart Of Stone",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -220,7 +247,8 @@
         "Band"  : "Blink-182",
         "Album" : "Enema Of The State",
         "Judul" : "All The Small Things",
-        "Tahun" : "1999"
+        "Tahun" : "1999",
+        "Gambar" : "" 
             
     },
 	{
@@ -228,7 +256,8 @@
         "Band"  : "Green Day",
         "Album" : "Dookie",
         "Judul" : "Basket case",
-        "Tahun" : "1994" 
+        "Tahun" : "1994",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -236,7 +265,8 @@
         "Band"  : "Paramore",
         "Album" : "Paramore",
         "Judul" : "Still into you",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
 		
     }		
 ]

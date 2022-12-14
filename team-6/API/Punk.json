@@ -4,7 +4,8 @@
         "Band"  : "The Clash",
         "Album" : "The Cost Of Living |EP|",
         "Judul" : "I Fougth The Law",
-        "Tahun" : "2013"
+        "Tahun" : "2013",
+        "Gambar" : "" 
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "Bad Religion",
         "Album" : "Suffer",
         "Judul" : "Suffer",
-        "Tahun" : "1988"
+        "Tahun" : "1988",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : "Sex Pistol",
         "Album" : "Never Mind The Bollocks,Here's The Sex Pistol",
         "Judul" : "God Save The Queen",
-        "Tahun" : "1977" 
+        "Tahun" : "1977",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -28,7 +31,8 @@
         "Band"  : "Bad Brains",
         "Album" : "Bad Brains",
         "Judul" : "Attitude",
-        "Tahun" : "1982" 
+        "Tahun" : "1982",
+        "Gambar" : ""  
             
     },
 	{
@@ -36,7 +40,8 @@
         "Band"  : "Black Flag",
         "Album" : "Demaged",
         "Judul" : "Rise Above",
-        "Tahun" : "1981" 
+        "Tahun" : "1981" ,
+        "Gambar" : "" 
 			
 	},
 	{
@@ -44,7 +49,8 @@
         "Band"  : "Negative Approach",
         "Album" : "Tied Down",
         "Judul" : "Nothing",
-        "Tahun" : "1983" 
+        "Tahun" : "1983",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -52,7 +58,8 @@
         "Band"  : "Toxic Holocaust",
         "Album" : "Chemistry Of Consciosness",
         "Judul" : "Acid Fuzz",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
             
     },
 	{
@@ -60,7 +67,8 @@
         "Band"  : "Anti Cimec",
         "Album" : "Scandinavian Jawbreaker",
         "Judul" : "Only In Dreams",
-        "Tahun" : "2012" 
+        "Tahun" : "2012",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -68,7 +76,8 @@
         "Band"  : "Doom",
         "Album" : "Total Doom ",
         "Judul" : "Police Bastard",
-        "Tahun" : "2002" 
+        "Tahun" : "2002",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -76,7 +85,8 @@
         "Band"  : "Killing Me Inside",
         "Album" : "One Reason",
         "Judul" : "Jangan Pergi",
-        "Tahun" : "2012" 
+        "Tahun" : "2012",
+        "Gambar" : ""  
             
     },
 	{
@@ -84,7 +94,8 @@
         "Band"  : "Green Day",
         "Album" : "Dookie",
         "Judul" : "She",
-        "Tahun" : "1994" 
+        "Tahun" : "1994",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -92,7 +103,8 @@
         "Band"  : "No Use For A Name",
         "Album" : "Leche Con Carne",
         "Judul" : "Soul Mate",
-        "Tahun" : "1995" 
+        "Tahun" : "1995",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -100,7 +112,8 @@
         "Band"  : "Sum 41",
         "Album" : "UnderClass Hero",
         "Judul" : "With Me",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
             
     },
 	{
@@ -108,7 +121,8 @@
         "Band"  : "Paramore",
         "Album" : "Riot!",
         "Judul" : "That's What We Get",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -116,7 +130,8 @@
         "Band"  : "The All-American Rejects",
         "Album" : "Move Along",
         "Judul" : "Move Along",
-        "Tahun" : "2005" 
+        "Tahun" : "2005",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -124,7 +139,8 @@
         "Band"  : "My Chemical Romance",
         "Album" : "the Black Parade",
         "Judul" : "I Don't Love You",
-        "Tahun" : "2006"
+        "Tahun" : "2006",
+        "Gambar" : "" 
             
     },
 	{
@@ -132,7 +148,8 @@
         "Band"  : "Misfits",
         "Album" : "The Devil's Rain",
         "Judul" : "Father",
-        "Tahun" : "2011" 
+        "Tahun" : "2011",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -140,7 +157,8 @@
         "Band"  : "Batu Nisan",
         "Album" : "Cahaya Bidadari |single|",
         "Judul" : "Cahaya Bidadari",
-        "Tahun" : "2022" 
+        "Tahun" : "2022",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -148,7 +166,8 @@
         "Band"  : "The Cure",
         "Album" : "Three Imaginary Boys",
         "Judul" : "Boys Dont Cry",
-        "Tahun" : ""
+        "Tahun" : "1979",
+        "Gambar" : "" 
             
     },
 	{
@@ -156,7 +175,8 @@
         "Band"  : "The Killers",
         "Album" : "Hot Fuss",
         "Judul" : "...Mr.Brightside",
-        "Tahun" : "2004" 
+        "Tahun" : "2004",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -164,7 +184,8 @@
         "Band"  : "Blur",
         "Album" : "Blur",
         "Judul" : "Song 2",
-        "Tahun" : "1997" 
+        "Tahun" : "1997" ,
+        "Gambar" : "" 
 			
 	},
 	{   
@@ -172,7 +193,8 @@
         "Band"  : "Sex Pistol",
         "Album" : "Never Mind The Bollocks,Here's The Sex Pistol",
         "Judul" : "Anarchy In The UK",
-        "Tahun" : "1977" 
+        "Tahun" : "1977",
+        "Gambar" : ""  
             
     },
 	{
@@ -180,7 +202,8 @@
         "Band"  : "Ramones",
         "Album" : "Ramones",
         "Judul" : "Blitzkrieg Bop",
-        "Tahun" : "1976" 
+        "Tahun" : "1976",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -188,7 +211,8 @@
         "Band"  : "Misfits",
         "Album" : "Collection",
         "Judul" : "Green Hell",
-        "Tahun" : "1986" 
+        "Tahun" : "1986" ,
+        "Gambar" : "" 
 			
 	},
 	{   
@@ -196,7 +220,8 @@
         "Band"  : "Uranium Club",
         "Album" : "All Of Them Naturals",
         "Judul" : "….Who Made The Man?",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : ""  
             
     },
 	{
@@ -204,7 +229,8 @@
         "Band"  : "Television",
         "Album" : "Marquee Moon",
         "Judul" : "Prove It",
-        "Tahun" : "1977" 
+        "Tahun" : "1977",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -212,7 +238,8 @@
         "Band"  : "C.C.T.V.",
         "Album" : "Ep",
         "Judul" : "Anxiety",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
 			
 	},
 	{   
@@ -220,7 +247,8 @@
         "Band"  : "The Cure",
         "Album" : "Three Imaginary Boys",
         "Judul" : "10:15 Saturday Night",
-        "Tahun" : "1979" 
+        "Tahun" : "1979" ,
+        "Gambar" : "" 
             
     },
 	{
@@ -228,7 +256,8 @@
         "Band"  : "Joy Divison",
         "Album" : "Atmosphere |single|",
         "Judul" : "Atmosphere",
-        "Tahun" : "1980" 
+        "Tahun" : "1980",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -236,7 +265,8 @@
         "Band"  : "Magazine",
         "Album" : "Magazine…|Where The Power Is|",
         "Judul" : "A Song From Under The Floorboards",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : ""  
 		
     },
 	{   
@@ -244,7 +274,8 @@
         "Band"  : "Haste The Day",
         "Album" : "Dreamer",
         "Judul" : "Autumn",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
             
     },
 	{
@@ -252,7 +283,8 @@
         "Band"  : "MxPx",
         "Album" : "MxPx",
         "Judul" : "All Of It",
-        "Tahun" : "2018" 
+        "Tahun" : "2018",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -260,7 +292,8 @@
         "Band"  : "FM Static",
         "Album" : "Critically Ashamed",
         "Judul" : "Tonight ",
-        "Tahun" : "2006" 
+        "Tahun" : "2006" ,
+        "Gambar" : "" 
 		
     },
 	{   
@@ -268,7 +301,8 @@
         "Band"  : "Black Flag",
         "Album" : "My War",
         "Judul" : "My War ",
-        "Tahun" : "1984" 
+        "Tahun" : "1984",
+        "Gambar" : ""  
             
     },
 	{
@@ -276,7 +310,8 @@
         "Band"  : "Void ",
         "Album" : "side B",
         "Judul" : "Who Are You??",
-        "Tahun" : "2010" 
+        "Tahun" : "2010",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -284,7 +319,8 @@
         "Band"  : "Teen Idles",
         "Album" : "Minor Disturbance",
         "Judul" : "Sneakers",
-        "Tahun" : "1989" 
+        "Tahun" : "1989",
+        "Gambar" : ""  
 		
     },
 	{   
@@ -292,7 +328,8 @@
         "Band"  : "Misfits",
         "Album" : "walk Among Us",
         "Judul" : "I Turned into a Martian",
-        "Tahun" : "1982" 
+        "Tahun" : "1982",
+        "Gambar" : ""  
             
     },
 	{
@@ -300,7 +337,8 @@
         "Band"  : "Kelelawar Malam",
         "Album" : "jalan Gelap",
         "Judul" : "jalan Gelap",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -308,7 +346,8 @@
         "Band"  : "Blitzkid",
         "Album" : "Trace Of A Stranger",
         "Judul" : "Making A Moster",
-        "Tahun" : "2003" 
+        "Tahun" : "2003",
+        "Gambar" : ""  
 		
     },
 	{   
@@ -316,7 +355,8 @@
         "Band"  : "Emarosa",
         "Album" : "Relativity",
         "Judul" : "Preted. Relesse.The Close",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
             
     },
 	{
@@ -324,7 +364,8 @@
         "Band"  : "Neck Deep",
         "Album" : "All Distortions Are Intentional",
         "Judul" : "... Little Dove",
-        "Tahun" : "2020" 
+        "Tahun" : "2020",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -332,7 +373,8 @@
         "Band"  : "For Revenge",
         "Album" : "Second Change",
         "Judul" : "Pulang",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
 		
     },
 	{   
@@ -340,7 +382,8 @@
         "Band"  : "Marjinal",
         "Album" : "Cinta Pembodohan",
         "Judul" : "Cinta Pembodohan",
-        "Tahun" : "2019" 
+        "Tahun" : "2019",
+        "Gambar" : ""  
             
     },
 	{
@@ -348,7 +391,8 @@
         "Band"  : "Navicula",
         "Album" : "Love Bomb",
         "Judul" : "Mafia Hukum",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
 			
 	},
 	{
@@ -356,7 +400,8 @@
         "Band"  : "Monster Squad",
         "Album" : "Strength Through Pain +All Out Of Control |EP|",
         "Judul" : "All Out Of Control",
-        "Tahun" : "2014"
+        "Tahun" : "2014",
+        "Gambar" : "" 
 		
     },
 	{   
@@ -364,7 +409,8 @@
         "Band"  : "Rocket Rockers",
         "Album" : "Better Season",
         "Judul" : "Ingin Hilang Ingatan",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
             
     },
 	{
@@ -372,7 +418,8 @@
         "Band"  : "Blink-182",
         "Album" : "Take Of Your Pants And Jacket",
         "Judul" : "First Date",
-        "Tahun" : "2001"
+        "Tahun" : "2001",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -380,7 +427,8 @@
         "Band"  : "Rancid",
         "Album" : "….And Out Come The Wolves",
         "Judul" : "Olympia WA",
-        "Tahun" : "1995" 
+        "Tahun" : "1995" ,
+        "Gambar" : "" 
 		
     }
 ]

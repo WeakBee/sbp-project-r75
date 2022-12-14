@@ -4,7 +4,8 @@
         "Band"  : "Black Sabbath",
         "Album" : "Master of Reality",
         "Judul" : "Sweet Leaf",
-        "Tahun" : "1971" 
+        "Tahun" : "1971",
+        "Gambar" : "mor1.jpg" 
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "Sleep",
         "Album" : "Sleep’s Holy Mountain",
         "Judul" : "Dragonaut",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : "m2.jpeg" 
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : "Electric Wizard",
         "Album" : "Dopethrone",
         "Judul" : "Funeralopolis",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : "m3.jpg"  
 			
 	},
 	{   
@@ -28,7 +31,8 @@
         "Band"  : "Saint Vitus",
         "Album" : "Born Too Late",
         "Judul" : "Dying Inside",
-        "Tahun" : "1987" 
+        "Tahun" : "1987",
+        "Gambar" : "dm4.jpg"  
             
     },
 	{
@@ -36,517 +40,591 @@
         "Band"  : "Pentagram",
         "Album" : "Relentless",
         "Judul" : "Sign Of The Wolf",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : "dm5.jpg"  
     },
     {
         "SUBGENRE" : "Heavy Metal",
         "Band"  : "Iron Maiden",
         "Album" : "Piece of Mind",
         "Judul" : "The Trooper",
-        "Tahun" : "1983" 
+        "Tahun" : "1983" ,
+        "Gambar" : "" 
     },
     {
         "SUBGENRE" : "Heavy Metal",
         "Band"  : "Anthrax",
         "Album" : "Persistence Of Time",
         "Judul" : "Got The Time",
-        "Tahun" : "1990" 
+        "Tahun" : "1990",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Heavy Metal",
         "Band"  : "Cactus",
         "Album" : "Restrictions",
         "Judul" : "Evil",
-        "Tahun" : "1971" 
+        "Tahun" : "1971" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Thrash Metal",
         "Band"  : "Slayer",
         "Album" : "Reign In Blood",
         "Judul" : "Angel Of Death",
-        "Tahun" : "1986" 
+        "Tahun" : "1986",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Thrash Metal",
         "Band"  : "Sepultura",
         "Album" : "Roots",
         "Judul" : "Roots Bloody Roots",
-        "Tahun" : "1996" 
+        "Tahun" : "1996",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Thrash Metal",
         "Band"  : "Pantera",
         "Album" : "Cowboys from Hell",
         "Judul" : "Cowboys from Hell",
-        "Tahun" : "1990" 
+        "Tahun" : "1990",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Speed Metal",
         "Band"  : "Motorhead",
         "Album" : "Ace of Spades",
         "Judul" : "Ace of Spades",
-        "Tahun" : "1980" 
+        "Tahun" : "1980",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Speed Metal",
         "Band"  : "Iron Maiden",
         "Album" : "The Number of the Beast",
         "Judul" : "Invaders",
-        "Tahun" : "1982" 
+        "Tahun" : "1982" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Speed Metal",
         "Band"  : "Judas Priest",
         "Album" : "British Steel",
         "Judul" : "Breaking the Law",
-        "Tahun" : "1980" 
+        "Tahun" : "1980" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Melodic Metal",
         "Band"  : "Arch Enemy",
         "Album" : "War Eternal",
         "Judul" : "War Eternal",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Melodic Metal",
         "Band"  : "Act of Denial",
         "Album" : "Negative",
         "Judul" : "Controlled",
-        "Tahun" : "2021" 
+        "Tahun" : "2021",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Melodic Metal",
-        "Band"  : "Armageddon",
+        "Band"  : "Children OF Bodom",
         "Album" : "Hatebreeder",
         "Judul" : "Downfall",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Symphonic Metal",
         "Band"  : "Nightwish",
         "Album" : "Imaginaerum",
         "Judul" : "Storytime",
-        "Tahun" : "2011" 
+        "Tahun" : "2011",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Symphonic Metal",
         "Band"  : "Epica",
         "Album" : "The Phantom Agony",
         "Judul" : "Cry for the Moon",
-        "Tahun" : "2003" 
+        "Tahun" : "2003",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Symphonic Metal",
         "Band"  : "Rhapsody of Fire",
         "Album" : "Legendary Years",
         "Judul" : "Dawn of Victory",
-        "Tahun" : "2017" 
+        "Tahun" : "2017" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Black Metal",
         "Band"  : "Mayhem",
         "Album" : "Deathcrush",
         "Judul" : "Deathcrush",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Black Metal",
         "Band"  : "Dark Funeral",
         "Album" : "Let the Devil In",
         "Judul" : "We Are The Apocalypse",
-        "Tahun" : "2022" 
+        "Tahun" : "2022" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Black Metal",
         "Band"  : "Burzum",
         "Album" : "Filosofem",
         "Judul" : "Dunkelheit",
-        "Tahun" : "1996" 
+        "Tahun" : "1996",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Grindcore",
         "Band"  : "Napalm Death",
         "Album" : "Scum",
         "Judul" : "Scum",
-        "Tahun" : "1987" 
+        "Tahun" : "1987",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Grindcore",
         "Band"  : "Cannibal Corpse",
         "Album" : "Tomb Of The Mutilated",
         "Judul" : "Hammer Smashed Face",
-        "Tahun" : "1992" 
+        "Tahun" : "1992" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Grindcore",
         "Band"  : "Suicide Silence",
         "Album" : "The Black Crown",
         "Judul" : "You Only Live Once",
-        "Tahun" : "2012" 
+        "Tahun" : "2012" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Industrial Metal",
         "Band"  : "Ministry",
         "Album" : "KE*A*H**",
         "Judul" : "Jesus Built My Hotrod",
-        "Tahun" : "1992" 
+        "Tahun" : "1992" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Industrial Metal",
         "Band"  : "Static-X",
         "Album" : "Wisconsin Death Trip",
         "Judul" : "Push It",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Industrial Metal",
         "Band"  : "Dope",
         "Album" : "Felons and Revolutionaries",
         "Judul" : "Pig Society",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Groove Metal",
         "Band"  : "Machine Head",
         "Album" : "Burn My Eyes",
         "Judul" : "Davidian",
-        "Tahun" : "1994" 
+        "Tahun" : "1994",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Groove Metal",
         "Band"  : "Sepultura",
         "Album" : "Aries",
         "Judul" : "Aries",
-        "Tahun" : "1991" 
+        "Tahun" : "1991",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Groove Metal",
         "Band"  : "Gojira",
         "Album" : "Magma",
         "Judul" : "Stranded",
-        "Tahun" : "2016" 
+        "Tahun" : "2016",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Slipknot",
         "Album" : "Slipknot",
         "Judul" : "Purity",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Limp Bizkit",
         "Album" : "Result May Vary",
         "Judul" : "Eat You Alive",
-        "Tahun" : "2003" 
+        "Tahun" : "2003",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Korn",
         "Album" : "Follow The Leader",
         "Judul" : "Freak On a Leash",
-        "Tahun" : "1999" 
+        "Tahun" : "1999",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Papa Roach",
         "Album" : "Infest",
         "Judul" : "Last Resort",
-        "Tahun" : "2001" 
+        "Tahun" : "2001",
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Deftones",
         "Album" : "Around the Fur",
         "Judul" : "My Own Summer",
-        "Tahun" : "1997" 
+        "Tahun" : "1997" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "System Of A Down",
         "Album" : "Toxicity",
         "Judul" : "Chop Suey!",
-        "Tahun" : "2001" 
+        "Tahun" : "2001",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Nu Metal",
         "Band"  : "Linkin Park",
         "Album" : "Hybrid Theory",
         "Judul" : "In The End",
-        "Tahun" : "2000" 
+        "Tahun" : "2000" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Progressive Metal",
         "Band"  : "Opeth",
         "Album" : "Damnation",
         "Judul" : "Windowpane",
-        "Tahun" : "2003" 
+        "Tahun" : "2003",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Progressive Metal",
         "Band"  : "Dream Theater",
         "Album" : "Images and Words",
         "Judul" : "Pull Me Under",
-        "Tahun" : "1992" 
+        "Tahun" : "1992",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Progressive Metal",
         "Band"  : "Metallica",
         "Album" : "Master Of Puppets",
         "Judul" : "Master Of Puppets",
-        "Tahun" : "1986" 
+        "Tahun" : "1986",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Deathcore",
         "Band"  : "Chelsea grin",
         "Album" : "Eternal Nightmare",
         "Judul" : "Hostage",
-        "Tahun" : "2018" 
+        "Tahun" : "2018",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Deathcore",
         "Band"  : "Death Vomit",
         "Album" : "Dominion Over Creation",
         "Judul" : "Where the Devil Blessed",
-        "Tahun" : "2020" 
+        "Tahun" : "2020",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Deathcore",
         "Band"  : "Carnivored",
         "Album" : "Revival",
         "Judul" : "Breeding Green",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Deathcore",
         "Band"  : "Bring Me The Horizon",
         "Album" : "Count Your Blessings",
         "Judul" : "Pray For Plagues",
-        "Tahun" : "2006" 
+        "Tahun" : "2006" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Death Metal",
         "Band"  : "Viscral",
         "Album" : "Egocentric Underneath of Horror",
         "Judul" : "Suffer Resurrection",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Death Metal",
         "Band"  : "Behemoth",
         "Album" : "The Satanist ",
         "Judul" : "Blow Your Trumpets Gabriel",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Death Metal",
         "Band"  : "Morbid Angel",
         "Album" : "Altars of Madness",
         "Judul" : "Immortal Rites",
-        "Tahun" : "1989" 
+        "Tahun" : "1989",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Metalcore",
         "Band"  : "Down For Life",
         "Album" : "Himne Perang Akhir Pekan",
         "Judul" : "Pasukan Babi Neraka",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Metalcore",
         "Band"  : "Jasad",
         "Album" : "Rebirth of Jatisunda",
         "Judul" : "Siliwangi",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Metalcore",
         "Band"  : "As I lay Dying",
         "Album" : "An Ocean Between Us",
         "Judul" : "The Sound Of Truth",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Power Metal",
         "Band"  : "Power Metal",
         "Album" : "Power Demons",
         "Judul" : "Timur Tragedi",
-        "Tahun" : "1993" 
+        "Tahun" : "1993",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Power Metal",
         "Band"  : "Kamelot",
         "Album" : "The Black Halo",
         "Judul" : "When the Lights Are Down",
-        "Tahun" : "2005" 
+        "Tahun" : "2005",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Power Metal",
         "Band"  : "Gamma Ray",
         "Album" : "Somewhere out in Space",
         "Judul" : "Valley of the King",
-        "Tahun" : "1997" 
+        "Tahun" : "1997",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Kawaii Metal",
         "Band"  : "Babymetal",
         "Album" : "BABYMETAL",
         "Judul" : "Gimme Chocolate!!",
-        "Tahun" : "2015" 
+        "Tahun" : "2015",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Kawaii Metal",
         "Band"  : "PassCode",
         "Album" : "CLARITY",
         "Judul" : "Taking you out",
-        "Tahun" : "2019" 
+        "Tahun" : "2019",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Kawaii Metal",
         "Band"  : "Ladybaby",
         "Album" : "Haten ni raimei",
         "Judul" : "Haten ni raimei",
-        "Tahun" : "2019" 
+        "Tahun" : "2019",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Romance/Love Metal",
         "Band"  : "Betray-Ed",
         "Album" : "Songs From The Oak Of Wishes",
         "Judul" : "A Call From the Deep Woods",
-        "Tahun" : "2009" 
+        "Tahun" : "2009" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Romance/Love Metal",
         "Band"  : "Paragon of Beauty",
         "Album" : "The Spring",
         "Judul" : " Where the Nights Still Dance",
-        "Tahun" : "1998" 
+        "Tahun" : "1998" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Romance/Love Metal",
         "Band"  : "Evenfall",
         "Album" : "Indigo Skies",
         "Judul" : "Luminous Depths",
-        "Tahun" : "2020" 
+        "Tahun" : "2020" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Romance/Love Metal",
         "Band"  : "How Like a Winter",
         "Album" : "…Beyond My Grey Wake",
         "Judul" : "A Flower That Sears In Silence",
-        "Tahun" : "2002" 
+        "Tahun" : "2002",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Sludge Metal",
         "Band"  : "Godplant",
         "Album" : "Turbulensi",
         "Judul" : "Radikal",
-        "Tahun" : "2018" 
+        "Tahun" : "2018" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Sludge Metal",
         "Band"  : "Eyehategod",
         "Album" : "Take As Needed for Pain",
         "Judul" : "Sister Fucker (Pt. I)",
-        "Tahun" : "2006 (Remastered)" 
+        "Tahun" : "2006 (Remastered)" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Sludge Metal",
         "Band"  : "Neurosis",
         "Album" : "A Sun That Never Sets",
         "Judul" : "Stones From the Sky",
-        "Tahun" : "2001" 
+        "Tahun" : "2001" ,
+        "Gambar" : "" 
     },
 	{
         "SUBGENRE" : "Sludge Metal",
         "Band"  : "Crowbar",
         "Album" : "Odd Fellows Rest ",
         "Judul" : "Planets Collide",
-        "Tahun" : "2003" 
+        "Tahun" : "2003",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Mathcore Metal",
         "Band"  : "The Dillinger Escape Plan",
         "Album" : "Ire Works",
         "Judul" : "Milk Wizard",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Mathcore Metal",
         "Band"  : "Fellsilent",
         "Album" : "The Hidden Words",
         "Judul" : "Void",
-        "Tahun" : "2009" 
+        "Tahun" : "2009",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Mathcore Metal",
         "Band"  : "Textures",
         "Album" : "Phenotype",
         "Judul" : "Timeless",
-        "Tahun" : "2016" 
+        "Tahun" : "2016",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Seringai",
         "Album" : "Taring",
         "Judul" : "Program Party Seringai",
-        "Tahun" : "2012" 
+        "Tahun" : "2012",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Burgerkill",
         "Album" : "Berkarat",
         "Judul" : "Tiga Titik Hitam",
-        "Tahun" : "2004" 
+        "Tahun" : "2004",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Siksakubur",
         "Album" : "Back to Vengeance / The Carnage",
         "Judul" : "Eksekusi Mati",
-        "Tahun" : "2008" 
+        "Tahun" : "2008",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Cannibal Corpse",
         "Album" : "Torture",
         "Judul" : "Scourge of Iron",
-        "Tahun" : "2012" 
+        "Tahun" : "2012",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Carcass",
         "Album" : "Surgical Steel",
         "Judul" : "Unfit For Human Consumption",
-        "Tahun" : "2013" 
+        "Tahun" : "2013",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Gore Metal",
         "Band"  : "Noxa",
         "Album" : "Propaganda",
         "Judul" : "Propaganda",
-        "Tahun" : "2020" 
+        "Tahun" : "2020",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Folk Metal",
         "Band"  : "Eluveitie",
         "Album" : "Origins",
         "Judul" : "The Call of the Mountains",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Folk Metal",
         "Band"  : "Finntroll",
         "Album" : "Nattfodd",
         "Judul" : "Trollhammaren",
-        "Tahun" : "2004" 
+        "Tahun" : "2004",
+        "Gambar" : ""  
     },
 	{
         "SUBGENRE" : "Folk Metal",
         "Band"  : "Korpiklaani",
         "Album" : "Karkelo",
         "Judul" : "Vodka",
-        "Tahun" : "2009" 
+        "Tahun" : "2009",
+        "Gambar" : ""  
     }
 ]
