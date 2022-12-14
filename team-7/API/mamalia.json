@@ -82,5 +82,75 @@
         "Warna" : [
             "Abu Abu"
     ]
-    }
+    },
+    {   
+        "Nama" : "Paus Minke Utara",
+        "Habitat" : "Lautan",
+        "Lokasi" : "Samudra Pasifik",
+        "Ukuran Tubuh" : "5M-5,5M",
+        "Panjang Ekor" :"",
+        "Berat" : "< 5600KG",
+        "Golongan" :"Karnivora",
+        "Tipe Kulit" : "Bersisik",
+        "Warna" : [
+            "Coklat",
+            "Kelabu",
+            "Hitam",
+            "Putih"
+    ]
+    },
+    {   
+        "Nama" : "Paus Biru",
+        "Habitat" : "Lautan",
+        "Lokasi" : "Samudra Hindia",
+        "Ukuran Tubuh" : "> 33M",
+        "Panjang Ekor" : "" ,
+        "Berat" : "> 181TON",
+        "Golongan" :"Karnivora",
+        "Tipe Kulit" : "Bersisik",
+        "Warna" : [
+            "Biru"
+    ]
+    },
+    {   
+        "Nama" : "Paus Bersirip",
+        "Habitat" : "Lautan",
+        "Lokasi" : "",
+        "Ukuran Tubuh" : "18M-20M",
+        "Panjang Ekor" : "" ,
+        "Berat" : "48TON",
+        "Golongan" :"Karnivora",
+        "Tipe Kulit" : "Bersisik",
+        "Warna" : [
+            "Abu Abu"
+    ]
+    },
+    {   
+        "Nama" : "Banteng",
+        "Habitat" : "Dataran Rendah",
+        "Lokasi" : ["Jawa",
+        "Madura",
+        "Bali"
+    ],
+        "Ukuran Tubuh" : "190CM-225CM",
+        "Panjang Ekor" : "" ,
+        "Berat" : "600KG-800KG",
+        "Golongan" :"Herbivora",
+        "Tipe Kulit" : "Berbulu",
+        "Warna" : [
+            "Coklat Gelap",
+            "Coklat Kemerahan"
+    ]
+    },
+    {   
+        "Nama" : "Anoa Dataran Rendah",
+        "Habitat" : "Dataran Rendah",
+        "Lokasi" : "Sulawesi",
+        "Ukuran Tubuh" : "<150CM",
+        "Panjang Ekor" : "" ,
+        "Berat" : "< 300KG",
+        "Golongan" :"Herbivora",
+        "Tipe Kulit" : "Berbulu",
+        "Warna" : "Coklat",
+    },
 ]
