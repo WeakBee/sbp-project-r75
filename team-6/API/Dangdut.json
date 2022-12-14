@@ -4,7 +4,8 @@
         "Band"  : "Elvy Sukaesih",
         "Album" : "Dangdut",
         "Judul" : "Sekuntum Mawar Merah",
-        "Tahun" : "1971" 
+        "Tahun" : "1971",
+        "Gambar" : "dp.jpg"
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "Mansyur S",
         "Album" : "SEMARAK DANGDUT MANSYUR S",
         "Judul" : "Rembulan Bersinar Lagi",
-        "Tahun" : "2007" 
+        "Tahun" : "2007",
+        "Gambar" : ""
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : "Rhoma Irama",
         "Album" : "Gulali",
         "Judul" : "Pertemuan",
-        "Tahun" : "1996" 
+        "Tahun" : "1996",
+        "Gambar" : ""
 		
     },
 	{   
@@ -28,7 +31,8 @@
         "Band"  : "Fahmi Shahab",
         "Album" : "Kopi Dangdut",
         "Judul" : "Kopi Dangdut",
-        "Tahun" : "2000" 
+        "Tahun" : "2000",
+        "Gambar" : "" 
             
     },
 	{
@@ -36,7 +40,8 @@
         "Band"  : "Doel Sumbang",
         "Album" : "Arti Kehidupan",
         "Judul" : "Malioboro",
-        "Tahun" : "1988" 
+        "Tahun" : "1988",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -44,7 +49,8 @@
         "Band"  : "Mus Mulyadi",
         "Album" : "Keroncong Mus Mulyadi Cd1",
         "Judul" : "Dinda Bestari",
-        "Tahun" : "1984" 
+        "Tahun" : "1984",
+        "Gambar" : "" 
 		
     },
 	{   
@@ -52,7 +58,8 @@
         "Band"  : "Happy Asmara",
         "Album" : "Sambel Terasi",
         "Judul" : "Sambel Terasi",
-        "Tahun" : "2020" 
+        "Tahun" : "2020",
+        "Gambar" : "" 
             
     },
 	{
@@ -60,7 +67,8 @@
         "Band"  : "Via Vallen",
         "Album" : "Bunga",
         "Judul" : "Bunga",
-        "Tahun" : "2020" 
+        "Tahun" : "2020",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -68,7 +76,8 @@
         "Band"  : "Jiham Audy",
         "Album" : "OM Rosebella The Best Jihan Audy",
         "Judul" : "Juragan Empang",
-        "Tahun" : "2017" 
+        "Tahun" : "2017",
+        "Gambar" : "" 
 		
     },
 	{   
@@ -76,7 +85,8 @@
         "Band"  : "Alam",
         "Album" : "King Of Metal Dhank dhut",
         "Judul" : "Embah Dukun",
-        "Tahun" : "2002" 
+        "Tahun" : "2002",
+        "Gambar" : ""
             
     },
 	{
@@ -84,7 +94,8 @@
         "Band"  : "Ahmad Albar",
         "Album" : "The Best of Achmad Albar",
         "Judul" : "Panggung Sandiwara",
-        "Tahun" : "1997" 
+        "Tahun" : "1997",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -92,7 +103,8 @@
         "Band"  : "Rhoma Irama",
         "Album" : "Nada-nada Rindu",
         "Judul" : "Judi",
-        "Tahun" : "1987" 
+        "Tahun" : "1987",
+        "Gambar" : ""
 		
     },
 	{   
@@ -100,7 +112,8 @@
         "Band"  : "Ikke Nurjanah",
         "Album" : "Dua Dalam Satu",
         "Judul" : "Terlena",
-        "Tahun" : "2004" 
+        "Tahun" : "2004",
+        "Gambar" : "" 
             
     },
 	{
@@ -108,7 +121,8 @@
         "Band"  : "Iis Dahlia",
         "Album" : "18 Jaipong Dangdut",
         "Judul" : "Tamu Tak Diundang",
-        "Tahun" : "1990" 
+        "Tahun" : "1990",
+        "Gambar" : "" 
 			
 	},
 	{
@@ -116,7 +130,8 @@
         "Band"  : "Iyeth Bustami",
         "Album" : "Zapin - dut : Laksamana Raja Di Laut",
         "Judul" : "Cinta Hanya Sekali",
-        "Tahun" : "2003"
+        "Tahun" : "2003",
+        "Gambar" : ""
 		
     },
 	{   
@@ -124,7 +139,8 @@
         "Band"  : "Lolita",
         "Album" : "FUNKY KOTA! HOUSE MUSIC from INDONESIA",
         "Judul" : "Emang Gua Pikirin",
-        "Tahun" : "2009" 
+        "Tahun" : "2009",
+        "Gambar" : "" 
             
     },
 	{
@@ -132,7 +148,8 @@
         "Band"  : "Keke",
         "Album" : "Ayo Dance Online Mix",
         "Judul" : "Godain Kita Dong",
-        "Tahun" : "2008"
+        "Tahun" : "2008",
+        "Gambar" : ""
 			
 	},
 	{
@@ -140,7 +157,8 @@
         "Band"  : "Siti Badriah",
         "Album" : "Satu Sama",
         "Judul" : "Brondong Tua",
-        "Tahun" : "2014" 
+        "Tahun" : "2014",
+        "Gambar" : ""
 		
     }
 ]
