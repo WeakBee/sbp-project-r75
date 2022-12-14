@@ -87,11 +87,11 @@
         "Nama" : "Paus Minke Utara",
         "Habitat" : "Lautan",
         "Lokasi" : "Samudra Pasifik",
-        "Ukuran Tubuh" : "5M-5,5M",
-        "Panjang Ekor" :"",
+        "UkuranTubuh" : "5M-5,5M",
+        "PanjangEkor" :"",
         "Berat" : "< 5600KG",
         "Golongan" :"Karnivora",
-        "Tipe Kulit" : "Bersisik",
+        "TipeKulit" : "Bersisik",
         "Warna" : [
             "Coklat",
             "Kelabu",
@@ -103,11 +103,11 @@
         "Nama" : "Paus Biru",
         "Habitat" : "Lautan",
         "Lokasi" : "Samudra Hindia",
-        "Ukuran Tubuh" : "> 33M",
-        "Panjang Ekor" : "" ,
+        "UkuranTubuh" : "> 33M",
+        "PanjangEkor" : "" ,
         "Berat" : "> 181TON",
         "Golongan" :"Karnivora",
-        "Tipe Kulit" : "Bersisik",
+        "TipeKulit" : "Bersisik",
         "Warna" : [
             "Biru"
     ]
@@ -116,11 +116,11 @@
         "Nama" : "Paus Bersirip",
         "Habitat" : "Lautan",
         "Lokasi" : "",
-        "Ukuran Tubuh" : "18M-20M",
-        "Panjang Ekor" : "" ,
+        "UkuranTubuh" : "18M-20M",
+        "PanjangEkor" : "" ,
         "Berat" : "48TON",
         "Golongan" :"Karnivora",
-        "Tipe Kulit" : "Bersisik",
+        "TipeKulit" : "Bersisik",
         "Warna" : [
             "Abu Abu"
     ]
@@ -132,11 +132,11 @@
         "Madura",
         "Bali"
     ],
-        "Ukuran Tubuh" : "190CM-225CM",
-        "Panjang Ekor" : "" ,
+        "UkuranTubuh" : "190CM-225CM",
+        "PanjangEkor" : "" ,
         "Berat" : "600KG-800KG",
         "Golongan" :"Herbivora",
-        "Tipe Kulit" : "Berbulu",
+        "TipeKulit" : "Berbulu",
         "Warna" : [
             "Coklat Gelap",
             "Coklat Kemerahan"
@@ -146,11 +146,11 @@
         "Nama" : "Anoa Dataran Rendah",
         "Habitat" : "Dataran Rendah",
         "Lokasi" : "Sulawesi",
-        "Ukuran Tubuh" : "<150CM",
-        "Panjang Ekor" : "" ,
+        "UkuranTubuh" : "<150CM",
+        "PanjangEkor" : "" ,
         "Berat" : "< 300KG",
         "Golongan" :"Herbivora",
-        "Tipe Kulit" : "Berbulu",
-        "Warna" : "Coklat",
-    },
+        "TipeKulit" : "Berbulu",
+        "Warna" : "Coklat"
+    }
 ]
