@@ -1,0 +1,146 @@
+[
+ {
+    "nama_penyakit" : "psioriasis",
+    "gejala_penyakit" : [
+      {"gejala" : "Banyak kemerahan pada kulit"},
+      {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
+      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"}
+    ]
+    },
+    {
+      "nama_penyakit" : "veruca",
+      "gejala_penyakit" : [
+        {"gejala" : "Adanya papula (penonjolan padat berbatas tegas di permukaan kulit dengan diameter < 1 cm) kecil seukuran kepala jarum"},
+        {"gejala" : " Papula tumbuh menonjol"},
+        {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
+      ],
+     }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ],
+   }
+ }
+
+
+
+
+
+
+
+]
