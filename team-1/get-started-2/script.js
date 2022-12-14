@@ -138,35 +138,123 @@ $( ".row" ).delegate( ".kartu-kategori", "click", function() {
     }
 });
 
+// Unique
+function unique(list) {
+    var result = [];
+    $.each(list, function(i, e) {
+        if ($.inArray(e, result) == -1) result.push(e);
+    });
+    return result;
+}
+// Unique
+
 $(".tombol-selesai").click(function(){
     if($(this).hasClass( "nyala" )){
-        $('.row-hasil').empty();
+        $('.sangat-rekomendasi').empty();
+        $('.rekomendasi').empty();
         // Jumlah data
-        var inginbahan = $('.pilih').attr("bahan");
+        var inginbahan = [];
+        let resepumami = [];
+        let reseproyco = [];
+        let rekomendasi = [];
+        let rekomendasi2 = [];
+        let sangatrekomendasi = [];
+        let sangatrekomendasi2 = [];
+        $(".pilih").each(function(i){
+            inginbahan.push($(this).attr("bahan"));
+        });
+
         // Jumlah data
 
+        // UMAMI
         $.getJSON('../API/umami.json', function (data){
-            $.each(data, function(i,data2){
-                $.each(data2.semua_bahan, function(i,data3){
-                    if(data3.bahan == inginbahan.toLowerCase()){
-                        $('.row-hasil').append(`
-                            <li>`+ data2.nama +`</li>
-                        `);
-                    }
+            $.each(data, function(a,data2){
+                $.each(data2.semua_bahan, function(b,data3){
+                    $.each(inginbahan, function(c,ingin_bahan){
+                        if(data3.bahan == ingin_bahan.toLowerCase()){
+                            resepumami.push(data2.nama);
+                        }
+                    });
                 });
             });
         });
+        setTimeout(function() {
+            rekomendasi = resepumami.slice();
+            // AND
+            for (let i = 0; i < resepumami.length; i++) {
+                if(resepumami.length == 1){
+                    sangatrekomendasi.push(resepumami[i]);
+                }
+                if(resepumami[i] == resepumami[i-1]){
+                    sangatrekomendasi.push(resepumami[i]);
+                }
+            }
+            // AND
+        }, 1500);
+        setTimeout(function() {
+            console.log(unique(sangatrekomendasi));
+            console.log(unique(rekomendasi));
+            let uniksangatrekomendasi = unique(sangatrekomendasi);
+            let unikrekomendasi = unique(rekomendasi);
+
+            $.each(uniksangatrekomendasi, function(i,data){
+                $('.sangat-rekomendasi').append(`
+                    <li>`+ data +`</li>
+                `);
+            });
+            $.each(unikrekomendasi, function(i,rekomen){
+                $('.rekomendasi').append(`
+                    <li>`+ rekomen +`</li>
+                `);
+            });
+        }, 2500);
+        // UMAMI
+
+        // ROYCO
         $.getJSON('../API/royco.json', function (data){
-            $.each(data, function(i,data2){
-                $.each(data2.semua_bahan, function(i,data3){
-                    if(data3.bahan == inginbahan.toLowerCase()){
-                        $('.row-hasil').append(`
-                            <li>`+ data2.nama +`</li>
-                        `);
-                    }
+            $.each(data, function(a,data2){
+                $.each(data2.semua_bahan, function(b,data3){
+                    $.each(inginbahan, function(c,ingin_bahan){
+                        if(data3.bahan == ingin_bahan.toLowerCase()){
+                            reseproyco.push(data2.nama);
+                        }
+                    });
                 });
             });
         });
+
+        setTimeout(function() {
+            rekomendasi2 = reseproyco.slice();
+            // AND
+            for (let i = 0; i < reseproyco.length; i++) {
+                if(reseproyco.length == 1){
+                    sangatrekomendasi2.push(reseproyco[i]);
+                }
+                if(reseproyco[i] == reseproyco[i-1]){
+                    sangatrekomendasi2.push(reseproyco[i]);
+                }
+            }
+            // AND
+        }, 1700);
+        setTimeout(function() {
+            console.log(unique(sangatrekomendasi2));
+            console.log(unique(rekomendasi2));
+
+            let uniksangatrekomendasi = unique(sangatrekomendasi2);
+            let unikrekomendasi = unique(rekomendasi2);
+            
+            $.each(uniksangatrekomendasi, function(i,data){
+                $('.sangat-rekomendasi').append(`
+                    <li>`+ data +`</li>
+                `);
+            });
+            $.each(unikrekomendasi, function(i,rekomen){
+                $('.rekomendasi').append(`
+                    <li>`+ rekomen +`</li>
+                `);
+            });
+        }, 2700);
+        // ROYCO
     };
 });
 

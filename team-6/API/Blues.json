@@ -4,7 +4,8 @@
         "Band"  : "Robert Johnson",
         "Album" : "King Of The Delta Blues Singers",
         "Judul" : "Cross Road Blue",
-        "Tahun" : "1937"
+        "Tahun" : "1937",
+        "Gambar" : ""
             
     },
 	{
@@ -12,7 +13,8 @@
         "Band"  : "Son House",
         "Album" : "Preachin 'Blues",
         "Judul" : "Preachin 'Blues",
-        "Tahun" : "2021"
+        "Tahun" : "2021",
+        "Gambar" : ""
 			
 	},
 	{
@@ -20,7 +22,8 @@
         "Band"  : " Kid Bailey",
         "Album" : "Son House & Great Della Blues singers",
         "Judul" : "Rowdy Blues",
-        "Tahun" : "2000"
+        "Tahun" : "2000",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -28,7 +31,8 @@
         "Band"  : "Frank Stokes",
         "Album" : "Presenting Frank Stokes",
         "Judul" : "How Long", 
-        "Tahun" : "1928"
+        "Tahun" : "1928",
+        "Gambar" : ""
             
     },
 	{
@@ -36,7 +40,8 @@
         "Band"  : "Michael Roach",
         "Album" : "Ain't Got Me No Home",
         "Judul" : "In My Neighborhood",
-        "Tahun" : "1993"
+        "Tahun" : "1993",
+        "Gambar" : ""
 			
 	},
 	{
@@ -44,7 +49,8 @@
         "Band"  : "Tim Sparks",
         "Album" : "SideWalk Blues",
         "Judul" : "Amazing Grace",
-        "Tahun" : "2009"
+        "Tahun" : "2009",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -52,7 +58,8 @@
         "Band"  : "Jay McNeely",
         "Album" : "Presenting Big Jay McNeely",
         "Judul" : "Deacon Rides Again",
-        "Tahun" : "1955"
+        "Tahun" : "1955",
+        "Gambar" : ""
             
     },
 	{
@@ -60,7 +67,8 @@
         "Band"  : "Tiny Bradshaw",
         "Album" : "The EP Collection...Plus",
         "Judul" : "Soft",
-        "Tahun" : "1999"
+        "Tahun" : "1999",
+        "Gambar" : ""
 			
 	},
 	{
@@ -68,7 +76,8 @@
         "Band"  : "Lowell Fulson",
         "Album" : "I'm A Night Owl",
         "Judul" : "Don't Leave Me Baby",
-        "Tahun" : "2006"
+        "Tahun" : "2006",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -76,7 +85,8 @@
         "Band"  : "Lacy Gibson",
         "Album" : "Living Chicago Blues Vol.3",
         "Judul" : "Drown In My Own Tears",
-        "Tahun" : "1908"
+        "Tahun" : "1908",
+        "Gambar" : ""
             
     },
 	{
@@ -84,7 +94,8 @@
         "Band"  : "Johnny B.Moore",
         "Album" : "Lonesome Blues",
         "Judul" : "Lonesome Blues",
-        "Tahun" : "1993"
+        "Tahun" : "1993",
+        "Gambar" : ""
 			
 	},
 	{
@@ -92,7 +103,8 @@
         "Band"  : "Luther Allison",
         "Album" : "The Alligator Records Years",
         "Judul" : "...Should I Wait",
-        "Tahun" : "2013"
+        "Tahun" : "2013",
+        "Gambar" : ""
 			
 	},
     {   
@@ -100,7 +112,8 @@
         "Band"  : "Stevie Ray Vaughan",
         "Album" : "Texas Flood",
         "Judul" : "Pride and Joy",
-        "Tahun" : "1983"
+        "Tahun" : "1983",
+        "Gambar" : ""
             
     },
 	{
@@ -108,7 +121,8 @@
         "Band"  : "T-Bone Walker",
         "Album" : "T-Bone Blues",
         "Judul" : "Mean Old World",
-        "Tahun" : "2005"
+        "Tahun" : "2005",
+        "Gambar" : ""
 			
 	},
 	{
@@ -116,7 +130,8 @@
         "Band"  : " Jimmie Vaughan",
         "Album" : "The Essential Jimmie Vaughan",
         "Judul" : "Six Strings Down",
-        "Tahun" : "2003"
+        "Tahun" : "2003",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -124,7 +139,8 @@
         "Band"  : "B.B.King",
         "Album" : "Anthology",
         "Judul" : "The Trill Is Gone",
-        "Tahun" : "2014"
+        "Tahun" : "2014",
+        "Gambar" : ""
             
     },
 	{
@@ -132,7 +148,8 @@
         "Band"  : "Stevie Ray Vaughan",
         "Album" : "The Essential Stevie Ray Vaughan",
         "Judul" : "Life By The Drop",
-        "Tahun" : "2022"
+        "Tahun" : "2022",
+        "Gambar" : ""
 			
 	},
 	{
@@ -140,7 +157,8 @@
         "Band"  : "John Lee Hooker",
         "Album" : "Burnin",
         "Judul" : "Boom Boom",
-        "Tahun" : "1962"
+        "Tahun" : "1962",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -148,7 +166,8 @@
         "Band"  : "Jimi Hendrix",
         "Album" : "People, Hell & Angels",
         "Judul" : "Somewhere",
-        "Tahun" : "2013"
+        "Tahun" : "2013",
+        "Gambar" : ""
             
     },
 	{
@@ -156,7 +175,8 @@
         "Band"  : "John Mayer",
         "Album" : "Continuum",
         "Judul" : "I'm Gonna Find Another You",
-        "Tahun" : "2006"
+        "Tahun" : "2006",
+        "Gambar" : ""
 			
 	},
 	{
@@ -164,7 +184,8 @@
         "Band"  : "Led Zeppenlin",
         "Album" : "House Of The Holy",
         "Judul" : "D'yer Mak'er",
-        "Tahun" : "1973"
+        "Tahun" : "1973",
+        "Gambar" : ""
 			
 	},
 	{   
@@ -172,7 +193,8 @@
         "Band"  : "Gungun Power Trio",
         "Album" : "Far East Blues Experience",
         "Judul" : "Turn It On",
-        "Tahun" : "2011"
+        "Tahun" : "2011",
+        "Gambar" : ""
             
     },
 	{
@@ -180,7 +202,8 @@
         "Band"  : "Tas Cu",
         "Album" : "Drive On",
         "Judul" : "Save Me",
-        "Tahun" : "2020"
+        "Tahun" : "2020",
+        "Gambar" : ""
 			
 	},
     {
@@ -188,7 +211,8 @@
         "Band"  : "Terry Evans",
         "Album" : "Fire In The Feelings",
         "Judul" : "What About Me",
-        "Tahun" : "2005"
+        "Tahun" : "2005",
+        "Gambar" : ""
 			
     }
 ]

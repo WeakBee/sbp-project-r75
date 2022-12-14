@@ -1,0 +1,18 @@
+$.getJSON('./API/film.json', function (data){
+    $.each(data, function(i,data2){
+        $('.rekomendasi').append(`
+        <div class="item mb-5">
+					<div class="media">
+						<img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="`+ data2.gambar +`" alt="image">
+						<div class="media-body">
+							<h3 class="title mb-1"><a href="blog-miracle.html">`+ data2.judul +`</a></h3>
+							<div class="intro">`+ data2.sinopsis +`</div>
+						</div><!--//media-body-->
+					</div><!--//media-->
+				</div><!--//item-->	
+        `);
+    });
+});
+
+
+

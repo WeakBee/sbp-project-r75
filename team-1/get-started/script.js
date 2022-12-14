@@ -1,6 +1,7 @@
 const values = [];
 
 $(".kartu-kategori").click(function(){
+    $(".pilih").removeClass("pilih");
     $(this).toggleClass("pilih");
     if($( ".kartu-kategori" ).hasClass( "pilih" )){
         $( ".tombol-selesai" ).addClass("nyala");
