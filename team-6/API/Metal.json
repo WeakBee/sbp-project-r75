@@ -5,7 +5,7 @@
         "Album" : "Master of Reality",
         "Judul" : "Sweet Leaf",
         "Tahun" : "1971",
-        "Gambar" : "" 
+        "Gambar" : "mor1.jpg" 
             
     },
 	{
@@ -14,7 +14,7 @@
         "Album" : "Sleep’s Holy Mountain",
         "Judul" : "Dragonaut",
         "Tahun" : "1993",
-        "Gambar" : "" 
+        "Gambar" : "m2.jpeg" 
 			
 	},
 	{
@@ -23,7 +23,7 @@
         "Album" : "Dopethrone",
         "Judul" : "Funeralopolis",
         "Tahun" : "2000",
-        "Gambar" : ""  
+        "Gambar" : "m3.jpg"  
 			
 	},
 	{   
@@ -32,7 +32,7 @@
         "Album" : "Born Too Late",
         "Judul" : "Dying Inside",
         "Tahun" : "1987",
-        "Gambar" : ""  
+        "Gambar" : "dm4.jpg"  
             
     },
 	{
@@ -41,7 +41,7 @@
         "Album" : "Relentless",
         "Judul" : "Sign Of The Wolf",
         "Tahun" : "1993",
-        "Gambar" : ""  
+        "Gambar" : "dm5.jpg"  
     },
     {
         "SUBGENRE" : "Heavy Metal",
@@ -133,7 +133,7 @@
     },
 	{
         "SUBGENRE" : "Melodic Metal",
-        "Band"  : "Armageddon",
+        "Band"  : "Children OF Bodom",
         "Album" : "Hatebreeder",
         "Judul" : "Downfall",
         "Tahun" : "1999",
