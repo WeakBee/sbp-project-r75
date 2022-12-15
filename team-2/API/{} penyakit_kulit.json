@@ -11,72 +11,83 @@
       "nama_penyakit" : "veruca",
       "gejala_penyakit" : [
         {"gejala" : "Adanya papula (penonjolan padat berbatas tegas di permukaan kulit dengan diameter < 1 cm) kecil seukuran kepala jarum"},
-        {"gejala" : " Papula tumbuh menonjol"},
+        {"gejala" : "Papula tumbuh menonjol"},
         {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
       ]
      },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "varicella",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Demam"},
+      {"gejala" : "Nyeri perut"},
+      {"gejala" : "Lemas"},
+      {"gejala" : "Perasaan tidak enak dengan vesikel pada kulit"},
+      {"gejala" : "Nafsu makan hilang"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "eksim",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Gatal"},
+      {"gejala" : "Tanda kemerahan pada kulit"},
+      {"gejala" : "Kulit terasa kering"},
+      {"gejala" : "Kulit menebal"},
+      {"gejala" : "Kulit keropeng"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "vitilogi",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Adanya macula hipopigmentasi (kelainan kuit dimana kulit warnanya putih datar tidak meninggi disbanding kulit sehat sekitrnya) pada kulit yang asimtomatik"},
+      {"gejala" : "Timbulnya bercak-bercak halus berwarna putih dikulit"},
+      {"gejala" : "Kulit terlihat bintik-bintik melebar, putih dan licin"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "herpes",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Demam"},
+      {"gejala" : "Menggigil"},
+      {"gejala" : "Sesak nafas"},
+      {"gejala" : "Nyeri dipersendian atau pegal disatu bagian tubuh"},
+      {"gejala" : "Munculnya bitnik kemerahan pada kulit yang akhirnya membentuk sebuah gelembung cair"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "kusta",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Terdapat lesi kulit yang menyeruupai kusta tuberkuloid namun jumlahnya lebih banyak dan tidak beraturan"},
+      {"gejala" : "Bagian yang besar dapat mengganggu seluruh tungkai, dan gangguan saraf tepi dengan kelemahan dan kehilangan rasa rangsang"},
+      {"gejala" : "Satu atau lebih hipopigmentasi makua kulit dan bagian yang tidak berasa (anestetik)"},
+      {"gejala" : " Lesi, nodul, plak kulit sinetris, dermis kulit yang menipis"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "infeksi jamur kandida",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Ditemukannya plak-plak (noda-noda) yang mudah diberihkan yang didapati pada dinding bagian dalam mulut, langit-langit, dan kerongkongan"},
+      {"gejala" : "Kulit mengalami retakk-retak dan nyeri pada kulit di sudut mulut (angular cheilitis)"},
+      {"gejala" : "Menebalnya kuku dan bahkan dapat tanggal sendiri"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "scabies",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Gatal"},
+      {"gejala" : "Rambut rontok disekitar telinga"},
+      {"gejala" : "Rasa gatal disekitar telinga"},
+      {"gejala" : "Dipinggiran daun telinga terlihat ada kerak berwarna putih"},
+      {"gejala" : "Penebalan dan keriput pada kulit ditutupi oleh kerak-kerak berwarna abu-abu kekuningan"}
     ]
    },
    {
-    "nama_penyakit" : "",
+    "nama_penyakit" : "serkarial dermatis",
     "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Gatal"},
+      {"gejala" : "Kemerahan pada kulit"},
+      {"gejala" : "Timbul makula pada kulit dalam 12 jam berikutnya, pada mereka yang kurang sensitive makula akan segera hilang"},
+      {"gejala" : "Edema disekitar kulit yang terkena"},
+      {"gejala" : "Vesikula kemudian dapat menjadi pustula apabila telah terjadi infeksi bakterial sekunder"}
     ]
    },
    {
