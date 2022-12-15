@@ -242,11 +242,257 @@
         ]
     },
     {
-        "nama" : "",
+        "nama" : "Ayam Cordon Blue",
         "gambar" : "",
-        "jenis" : "",
+        "jenis" : ["Lauk"],
         "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
+            {"bahan" : "keju", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "wortel", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "buncis", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "sajiku tepung serbaguna", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
+            {"bahan" : "minyak goreng", "jumlah" : 400, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "mayumi", "jumlah" : 1, "satuan" :"bks", "cat" : "gunakan sesuai selera"}
+        ],
+        "cara" : [
+            {"resep" : "Potong wortel dan keju memanjang"},
+            {"resep" : "Ambil dada ayam beri isian keju, wortel, buncis, dan smoked beef, gulung dengan rapi"},
+            {"resep" : "Buat adonan kering: Masukkan 1 bks Sajiku® Tepung Serbaguna. Buat adonan basah: Masukkan air dan 4 sdm Sajiku® Tepung Serbaguna di wadah terpisah, aduk rata. Masukkan ayam ke adonan basah, gulingkan ke adonan kering, remas sebentar, ketuk-kan"},
+            {"resep" : "Goreng dalam minyak panas hingga matang krispi dan berwarna kuning keemasan, angkat dan tiriskan"}
+        ]
+    },
+    {
+        "nama" : "Ayam Goreng Keju",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 12 bagian"},
+            {"bahan" : "sajiku bumbu ayam goreng", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "gula jawa", "jumlah" : 3, "satuan" :"sdm", "cat" : "sisir"},
+            {"bahan" : "saus tomat", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 500, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "keju bubuk", "jumlah" : 20, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 700, "satuan" :"ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Didihkan 500 ml air, masukkan ayam, gula jawa dan saus tomat."},
+            {"resep" : "Masukan Sajiku® Bumbu Ayam Goreng, aduk rata, masak hingga bumbu meresap, sisihkan."},
+            {"resep" : "Panaskan minyak goreng, goreng ayam hingga matang keemasan."},
+            {"resep" : "Sajikan ayam di atas piring, taburi keju bubuk dan sajikan"}
+        ]
+    },
+    {
+        "nama" : "Tumis Ayam Jagung Manis",
+        "gambar" : "",
+        "jenis" : ["lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 10 bagian"},
+            {"bahan" : "jagung pipil", "jumlah" : 85, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "masako rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : "9 gr"},
+            {"bahan" : "bawang bombay", "jumlah" : 0.5, "satuan" :"buah", "cat" : "potong dadu"},
+            {"bahan" : "cabai merah besar", "jumlah" : 1, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "kecap manis", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "merica bubuk", "jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 700, "satuan" :"ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Panaskan minyak goreng. Goreng ayam hingga setengah matang, angkat dan tiriskan."},
+            {"resep" : "Potong bawang bombay bentuk dadu, iris cabai merah."},
+            {"resep" : "Panaskan 2 sdm minyak goreng di atas wajan. Tumis bawang bombay dan cabai merah hingga harum."},
+            {"resep" : "Masukkan ayam yang telah digoreng, jagung pipil, merica, kecap, air dan Masako® Rasa Ayam, masak hingga bumbu meresap. Sajikan selagi hangat."}
+        ]
+    },
+    {
+        "nama" : "Ayam Panggang Saus Jamur",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam fillet", "jumlah" : 700, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "masako rasa ayam", "jumlah" : 0.5, "satuan" :"bks", "cat" : "10 gr"},
+            {"bahan" : "susu cair", "jumlah" : 350, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "daun peterseli", "jumlah" : 1, "satuan" :"sdm", "cat" : "cincang"},
+            {"bahan" : "merica hitam", "jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 4, "satuan" :"sdm", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Iris jamur kancing dan potong dadu ayam fillet. Sisihkan."},
+            {"resep" : "Panaskan minyak goreng, masukkan ayam fillet, panggang hingga berwarna kecoklatan."},
+            {"resep" : "Tambahkan jamur kancing, aduk rata."},
+            {"resep" : "Masukkan susu cair, daun peterseli cincang, 1/2 bungkus Masako® Rasa Ayam, dan merica hitam. Aduk rata dan masak hingga matang."}
+        ]
+    },
+    {
+        "nama" : "Ayam Goreng Lengkuas",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 8"},
+            {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "biji ketumbar", "jumlah" : 1, "satuan" :"sdm", "cat" : "sangrai"},
+            {"bahan" : "kemiri", "jumlah" : 5, "satuan" :"btr", "cat" : "sangrai"},
+            {"bahan" : "kunyit", "jumlah" : 2, "satuan" :"cm", "cat" : "kupas dan bakar hingga berubah warna"},
+            {"bahan" : "jahe", "jumlah" : 1, "satuan" :"cm", "cat" : "kupas"},
+            {"bahan" : "daun salam", "jumlah" : 4, "satuan" :"lbr", "cat" : ""},
+            {"bahan" : "serai", "jumlah" : 2, "satuan" :"btg", "cat" : "memarkan"},
+            {"bahan" : "lengkuas", "jumlah" : 100, "satuan" :"gr", "cat" : "cuci bersih, parut kasar berikut kulitnya"},
+            {"bahan" : "sajiku bumbu ayam goreng", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 200, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "merica bubuk", "jumlah" : 0.25, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "minyak", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
+        ],
+        "cara" : [
+            {"resep" : "Haluskan bawang putih, biji ketumbar, kemiri, kunyit dan jahe."},
+            {"resep" : "Panaskan minyak dalam wajan dengan api sedang. Tumis bumbu halus hingga harum, tambahkan daun salam, serai dan setengah dari lengkuas parut. Tumis kembali hingga bumbu matang. Tambahkan garam, lada dan sedikit air."},
+            {"resep" : "Masukkan potongan ayam, air, merica bubuk dan Sajiku® Ayam Goreng. Aduk rata dan masak (ungkep) dengan api kecil hingga ayam matang dan bumbu surut. Bolak-balik ayam sesekali. Apabila perlu, tambahkan air selama pemasakan."},
+            {"resep" : "Angkat ayam, tiriskan, dan tinggalkan sisa bumbu dalam wajan. Tambahkan sisa parutan lengkuas ke dalam bumbu. Masak kembali selama 5 menit."},
+            {"resep" : "Panaskan minyak yang cukup untuk menggoreng ayam di dalam wajan bersih. Goreng ayam hingga kematangan dan warna yang diinginkan. Goreng sisa bumbu di dalam minyak sambil diaduk hingga mengering. Angkat dan tiriskan."},
+            {"resep" : "Sajikan ayam goreng dan taburan bumbu lengkuas kering dengan nasi uduk, tempe dan tahu, sambal dan lalapan."}
+        ]
+    },
+    {
+        "nama" : "Sempol Ayam Pedas",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam", "jumlah" : 150, "satuan" :"gr", "cat" : "cincang"},
+            {"bahan" : "sajiku tepung bumbu pedas", "jumlah" : 1, "satuan" :"bks", "cat" : "75 gr"},
+            {"bahan" : "tepung tapioka", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 50, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 500, "satuan" :"ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Masukkan ayam cincang dan tepung tapioka kedalam wadah, aduk rata. Ambil 1 sdm adonan, kepal hingga membentuk lonjong, tusuk dengan tusukan sate. Lakukan hingga adonan habis."},
+            {"resep" : "Buat adonan basah: Campur air dengan 2 sdm Sajiku® Tepung Bumbu Pedas, aduk rata."},
+            {"resep" : "Masukkan sempol ke dalam adonan basah, gulingkan ke adonan kering sambil diremas-remas hingga terbentuk balutan yang keriting."},
+            {"resep" : "Panaskan minyak goreng, masukkan sempol dan goreng hingga matang. Sajikan."}
+        ]
+    },
+    {
+        "nama" : "Sop Ayam Kampung",
+        "gambar" : "",
+        "jenis" : ["Lauk","Sayur"],
+        "semua bahan" : [
+            {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong menjadi 12 bagian"},
+            {"bahan" : "wortel", "jumlah" : 40, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "kacang polong", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "masako rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : "10 gr"},
+            {"bahan" : "bawang merah", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "jahe", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
+            {"bahan" : "daun bawang", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 800, "satuan" :"ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Iris bawang merah, daun bawang, wortel dan geprek jahe, sisihkan."},
+            {"resep" : "Panaskan minyak goreng, masukkan bawang merah dan jahe, tumis hingga harum."},
+            {"resep" : "Masukkan air, wortel, kacang polong , dan ayam."},
+            {"resep" : "Tambahkan Masako® Rasa Ayam , aduk rata, masak hingga ayam empuk."}
+        ]
+    },
+    {
+        "nama" : "Ayam Panggang Lada Hitam",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "potong menjadi 4 bagian"},
+            {"bahan" : "saori saus lada hitam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 150, "satuan" :"ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Panaskan minyak goreng, masukkan ayam, tumis hingga berubah warna."},
+            {"resep" : "Masukkan air dan SAORI® Saus Lada Hitam."},
+            {"resep" : "Ungkep hingga ayam matang."},
+            {"resep" : "Panggang ayam dalam wajan anti lengket hingga matang di kedua sisinya. Angkat dan sajikan."}
+        ]
+    },
+    {
+        "nama" : "Ayam Geprek Sambal Matah",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "ayam potong", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
+            {"bahan" : "air es", "jumlah" : 4, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "cabai merah besar", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "cabai rawit", "jumlah" : 6, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 6, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "sereh", "jumlah" : 2, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "terasi", "jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "garam", "jumlah" : 0.25, "satuan" :"sdt", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Iris cabai merah besar, cabai rawit, bawang merah, dan sereh. Panaskan 3 sdm minyak goreng, tumis irisan cabai merah besar, cabai rawit, bawang merah, dan sereh hingga harum. Sisihkan."},
+            {"resep" : "Buat adonan basah: campur 2 sdm Sajiku® Tepung Bumbu dengan 4 sdm air es. Sisanya digunakan sebagai adonan kering."},
+            {"resep" : "Masukkan ayam ke dalam adonan basah, gulingkan ke adonan kering sambil diremas-remas hingga terbentuk kulit yang keriting, ketuk-ketuk agar sisa tepung hilang."},
+            {"resep" : "Panaskan minyak goreng, goreng ayam hingga kuning kecoklatan. Angkat dan geprek, sajikan bersama sambal matah."}
+        ]
+    },
+    {
+        "nama" : "Kulit Ayam Krispi Saus Telur Asin",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "kulit ayam", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
+            {"bahan" : "air", "jumlah" : 5, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "kuning telur asin", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "mentega", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "gula", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "daun jeruk", "jumlah" : 1, "satuan" :"lbr", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Buat adonan basah: campur 2 sdm Sajiku® Tepung Bumbu dengan 5 sdm air es. Sisanya digunakan sebagai adonan kering."},
+            {"resep" : "Masukkan ayam ke dalam adonan basah, gulingkan ke adonan kering sambil diremas-remas hingga terbentuk kulit yang keriting, ketuk-ketuk agar sisa tepung hilang."},
+            {"resep" : "Panaskan minyak goreng, goreng kulit ayam hingga kuning kecoklatan. Angkat dan tiriskan."},
+            {"resep" : "Buat saus : Panaskan mentega, masukkan kuning telur asin, gula dan daun jeruk, aduk hingga berbuih, angkat. Tuang saus di atas kulit ayam krispi, sajikan."}
+        ]
+    },
+    {
+        "nama" : "Kwetiau Goreng Ayam",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "kwetiau", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "telur", "jumlah" : 2, "satuan" :"buah", "cat" : "kocok"},
+            {"bahan" : "ayam rebus", "jumlah" : 30, "satuan" :"gr", "cat" : "suwir"},
+            {"bahan" : "sajiku bumbu nasi goreng rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "sawi hijau", "jumlah" : 5, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "kol", "jumlah" : 70, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 2, "satuan" :"sdm", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Iris kol dan sawi hijau sisihkan."},
+            {"resep" : "Panaskan minyak, orak-arik telur hingga matang. Sisikan dipinggir wajan."},
+            {"resep" : "Masukkan kol, sawi hijau, ayam suwir. Aduk rata."},
+            {"resep" : "Masukkan kwetiau dan Sajiku® Bumbu Nasi Goreng Rasa Ayam. Aduk rata. Angkat dan sajikan."}
+        ]
+    },
+    {
+        "nama" : "Ayam Krispi Saus Korea",
+        "gambar" : "",
+        "jenis" : ["Lauk"],
+        "semua bahan" : [
+            {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
+            {"bahan" : "sajiku tepung bumbu golden crispy", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
+            {"bahan" : "air", "jumlah" : 5, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "wijen", "jumlah" : 1, "satuan" :"sdm", "cat" : "sangrai"},
+            {"bahan" : "saus sambal", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "cuka apel", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "gula", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "kecap asin", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "larutan maizena", "jumlah" : 2, "satuan" :"sdm", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Buat adonan basah dengan melarutkan 1 Sajiku® Tepung Bumbu Golden Crispy dengan 5 sdm air, aduk rata. Sisa Sajiku® Tepung Bumbu Golden Crispy digunakan sebagai adonan kering"},
+            {"resep" : "Gulingkan ayam ke adonan kering, kemudian celupkan ke adonan basah hingga rata. Lalu gulingkan kembali ke adonan kering sambil diremas-remas hingga terbentuk kulit tepung yang keriting."},
+            {"resep" : "Panaskan minyak goreng. Goreng ayam hingga berwarna kuning kecoklatan. Angkat dan tiriskan."},
+            {"resep" : "Buat saus : Panaskan mentega, masukkan kuning telur asin, gula dan daun jeruk, aduk hingga berbuih, angkat. Tuang saus di atas kulit ayam krispi, sajikan."}
         ]
     },
     {
@@ -255,6 +501,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -263,6 +512,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -271,6 +523,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -279,6 +534,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -287,6 +545,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -295,6 +556,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -303,6 +567,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -311,6 +578,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -319,6 +589,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -327,6 +600,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -335,6 +611,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -343,6 +622,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     },
     {
@@ -351,94 +633,9 @@
         "jenis" : "",
         "semua bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "gambar" : "",
-        "jenis" : "",
-        "semua bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     }
 ]
