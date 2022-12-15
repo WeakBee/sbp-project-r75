@@ -91,6 +91,86 @@
     ]
    },
    {
+    "nama_penyakit" : "jerawat",
+    "gejala_penyakit" : [
+      {"gejala" : "Komedo di sekitar hidung"},
+      {"gejala" : "Benjolan kecil merah disertai nanah"},
+      {"gejala" : "Benjolan padat dan menggembung di kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "alopecia areata",
+    "gejala_penyakit" : [
+      {"gejala" : "Kesemutan pada beberapa bagian kulit kepala"},
+      {"gejala" : "Pigmen rambut menjadi putih bahkan ketika penderita masih muda"},
+      {"gejala" : "Rambut rontok, dengan karakter rambut kecil dan tumbuh meruncing ke atas"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "porfiria",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit menjadi terbakar karena terkena sinar matahari langsung"},
+      {"gejala" : "Kulit melepuh dan sangat gatal"},
+      {"gejala" : "Timbul bercak kemerahan yang parah dan urin berwarna coklat"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "tinea pedis",
+    "gejala_penyakit" : [
+      {"gejala" : "Gatal parah di bagian kaki dan di sekitar sela jari kaki"},
+      {"gejala" : "Gatal parah pada kaki yang sering disertai dengan sensasi terbakar"},
+      {"gejala" : "Jika digaruk bisa menyebabkan borok atau luka basah pada bagian tersebut"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "tinea versicolor",
+    "gejala_penyakit" : [
+      {"gejala" : "terdapat bercak-bercak putih di kulit"},
+      {"gejala" : "terasa gatal saat berkeringat"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "campak",
+    "gejala_penyakit" : [
+      {"gejala" : " ditandai dengan panas tubuh demam"},
+      {"gejala" : "Batuk dan Pilek"},
+      {"gejala" : "timbul bercak pada kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "cacar air",
+    "gejala_penyakit" : [
+      {"gejala" : " sakit kepala atau demam"},
+      {"gejala" : "tidak selera makan"},
+      {"gejala" : "mual-mual dan mudah lelah"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "selulitis",
+    "gejala_penyakit" : [
+      {"gejala" : "peradangan dibawah kulit"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "cantengan",
+    "gejala_penyakit" : [
+      {"gejala" : " kuku yang tumbuh kedalam"},
+      {"gejala" : "Bengkak"},
+      {"gejala" : "Terasa nyeri"}
+    ]
+   },
+   {
     "nama_penyakit" : "",
     "gejala_penyakit" : [
       {"gejala" : ""},
