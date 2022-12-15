@@ -171,6 +171,141 @@
     ]
    },
    {
+    "nama_penyakit" : "ring worm",
+    "gejala_penyakit" : [
+      {"gejala" : "kuraplingkaran dan bercak-bercak putih"},
+      {"gejala" : "Kulit tebal"},
+      {"gejala" : "berair dan gatal-gatal"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "gudik",
+    "gejala_penyakit" : [
+      {"gejala" : "sangat gatal dimalam hari"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "diabetic blisters",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat benjolan"},
+      {"gejala" : "Melepuh"},
+      {"gejala" : "Ruam pada kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "paederus fuscipes",
+    "gejala_penyakit" : [
+      {"gejala" : "timbul peradangan"},
+      {"gejala" : "Terasa Gatal"},
+      {"gejala" : "warna kulit memerah"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "harlequin ichthyosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit Benar-benar Kering"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "lipoma",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat Benjolan"},
+      {"gejala" : " jika ditekan bergesar dan lembek"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "psoriasis pustular",
+    "gejala_penyakit" : [
+      {"gejala" : "Turun Berat badan"},
+      {"gejala" : "Demam tinggi"},
+      {"gejala" : "Gatal-gatal dibagian yang terdampak"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "xanhelasma",
+    "gejala_penyakit" : [
+      {"gejala" : "Timbul di sekitar mata"},
+      {"gejala" : "Warna kekuningan"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "argyria",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit kebiruan dan mengkilap"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "xanthoma",
+    "gejala_penyakit" : [
+      {"gejala" : "Penumpukan lemak di makrofag kekebalan kulit"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "xeroderma pigmentosum (XP)",
+    "gejala_penyakit" : [
+      {"gejala" : "peka terhadap cahaya"},
+      {"gejala" : "Perubahan warna kulit"},
+      {"gejala" : "terasa terbaka saat terkena UV"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "zoonosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat bekas gigitan serangga"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "virus singapura",
+    "gejala_penyakit" : [
+      {"gejala" : "bintil-bintil kecil"},
+      {"gejala" : "luka-luka pada tangan, kaki bahkan mulut"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "epidermodysplasia verruciformis",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit mengeras seperti kulit pohon"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+
+{
+    "nama_penyakit" : "neurofibromatosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Tumbuh benjolan pada seluruh tubuh"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
     "nama_penyakit" : "",
     "gejala_penyakit" : [
       {"gejala" : ""},
