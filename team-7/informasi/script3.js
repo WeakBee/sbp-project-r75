@@ -1,6 +1,6 @@
-$.getJSON('../API/mamalia.json', function (data){
+$.getJSON('../API/ikan.json', function (data){
     $.each(data, function(i,data2){
-        $('.mamalia').append(`
+        $('.ikan').append(`
             <div class="col-4">
                 <div class="card">
                     <img src="`+ data2.Gambar +`" class="card-img-top" alt="...">
@@ -10,10 +10,7 @@ $.getJSON('../API/mamalia.json', function (data){
                         <p class="card-text">Habitat : `+ data2.Habitat +`</p>
                         <p class="card-text">Lokasi : `+ data2.Lokasi +`</p>
                         <p class="card-text">Ukuran Tubuh : `+ data2.UkuranTubuh +`</p>
-                        <p class="card-text">Panjang Ekor : `+ data2.PanjangEkor +`</p>
-                        <p class="card-text">Berat : `+ data2.Berat +`</p>
-                        <p class="card-text">Golongan : `+ data2.Golongan +`</p>
-                        <p class="card-text">Tipe Kulit : `+ data2.TipeKulit +`</p>
+                        <p class="card-text">Banyak Sisik : `+ data2.BanyakSisik +`</p>
                         <p class="card-text">Warna : `+ data2.Warna +`</p>
                         </div>
                         <div class="card-under">
