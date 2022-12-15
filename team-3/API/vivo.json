@@ -1,0 +1,726 @@
+[
+    {  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wmrtC69n87-oTseRuzx_HDJBAkqa3rk0Xg&usqp=CAU",
+        "Brand" : "Vivo V21S",
+        "Tahun" : "2022",
+        "Harga" : "Rp 5.600.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6853 Dimensity 800U (7 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "64 MP",
+                "kamera_depan" : "44 MP",
+                "Kapasitas_baterai" : "4000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]   
+    },
+
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
+        "Brand" : "Vivo V25",
+        "Tahun" : "2022",
+        "Harga" : "Rp 4.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel color"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
+        "Brand" : "Vivo V25 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Rp 5.800.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek Dimensity 1300 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4830 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel color"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrKacjpGMm9SdRKZFvnWNv9f4T8JM1SIaIg&usqp=CAU",
+        "Brand" : "Vivo Y16",
+        "Tahun" : "2022",
+        "Harga" : "Rp 1.650.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2KUHSsd8jx1dVxsY1mlWfeavUfQYpz7Y-g&usqp=CAU",
+        "Brand" : "Vivo Y35",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.200.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y1iBMH2cAefC7fQhMx0VijO5yBGy1s5iz3B96caeoc62Avkm2yPM-k3gGWrLzk-hAmw&usqp=CAU",
+        "Brand" : "Vivo Y22",
+        "Tahun" : "2022",
+        "Harga" : "Rp 2.200.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2XvTOA27F0AzMa5XNXymguz6Z_y7Q4kUdQ&usqp=CAU",
+        "Brand" : "Vivo X80 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Rp 10.300.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 48 + 8 + 12 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, color spectrum"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrDdTae6rARkI7MjPML4Ns1f7o1Rpdnfj5Q&usqp=CAU",
+        "Brand" : "Vivo V25e",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.600.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 2 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel color"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHQhpXOAaAmlzi5UiDdShl75A24SB8bi1wA&usqp=CAU",
+        "Brand" : "Vivo V23 5G",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.300.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek Dimensity 920 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "50 + 8 MP",
+                "Kapasitas_baterai" : "4200 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel when exposed to sunlight"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGksGbHDs7sYyi0tAS-eC_vJxWD_RTZYUpgw&usqp=CAU",
+        "Brand" : "Vivo T1 5G",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 6GB,8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJycujTh0d-VSSiYFMM5BhAckfmTAW-XACQ&usqp=CAU",
+        "Brand" : "Vivo Y22s",
+        "Tahun" : "2022",
+        "Harga" : "Rp 1.700.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk56tkhd33ghWPHQb-Kyxknk8q4onpIL2cHw&usqp=CAU",
+        "Brand" : "Vivo Y02s",
+        "Tahun" : "2022",
+        "Harga" : "Rp 1.700.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iPcIsWcbVA9CPVcwcxYetC4vLxcbE1Dkkg&usqp=CAU",
+        "Brand" : "Vivo X Fold+",
+        "Tahun" : "2022",
+        "Harga" : "Rp 30.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Origin OS Ocean",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "12GB RAM",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 8 + 12 + 48 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4730 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vxJGa2HjorIH5mb3lS5HX6EX2yZluFLzIA&usqp=CAU",
+        "Brand" : "Vivo IQOO 10 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Rp 20.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 14.6 + 50 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu-AduWrkIfclvEhVu8hv4T1_nV3A0CLowg&usqp=CAU",
+        "Brand" : "Vivo T1 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Rp 4.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98odJVXpKUzpsID52EXxnRc9js8Vg1IhUuA&usqp=CAU",
+        "Brand" : "Vivo iQOO Neo 6",
+        "Tahun" : "2022",
+        "Harga" : "Rp 7.500.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB,  256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt4aV7UO6qe7er-B896W_N0U_hXbePD2fAkA&usqp=CAU",
+        "Brand" : "Vivo X80 Lite",
+        "Tahun" : "2022",
+        "Harga" : "Rp 6.600.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel color"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMB_EH90htx562_iZHFLZ0HEmuSX3DogBQyg&usqp=CAU",
+        "Brand" : "Vivo iQOO 9T",
+        "Tahun" : "2022",
+        "Harga" : "Rp 9.400.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 12 + 13 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzXlLMK9175nverzjOwnG3QhVfv8q3AKkRg&usqp=CAU",
+        "Brand" : "Vivo V23 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Rp 5.999.999",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6893 Dimensity 1200 (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "50 + 8 MP",
+                "Kapasitas_baterai" : "4300 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel when exposed to sunlight"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1v8qsEW5tI9zfvY0wCgvZcMPJPqRgBt9WHA&usqp=CAU",
+        "Brand" : "Vivo Y01",
+        "Tahun" : "2022",
+        "Harga" : "Rp 1.300.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11 (Go edition), Funtouch 11.1",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB",
+                "Kamera_belakang" : "13 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted, market/region dependent), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo Y33t",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.399.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo Y75 5G",
+        "Tahun" : "2022",
+        "Harga" : "Rp 4.000.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8 GB",
+                "Penyimpanan" : "128 GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo Y21a",
+        "Tahun" : "2022",
+        "Harga" : "Rp 2.399.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 11.1",
+                "Chipset" : "Android 11, Funtouch 11.1",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo iQOO Z6",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.599.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128 GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo iQOO U5x",
+        "Tahun" : "2022",
+        "Harga" : "Rp 1.999.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Origin OS Ocean",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo Y21G",
+        "Tahun" : "2022",
+        "Harga" : "Rp 2.599.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, Funtouch 11.1",
+                "Chipset" : "Mediatek MT6769 Helio G70 (12 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo Y72t",
+        "Tahun" : "2022",
+        "Harga" : "Rp 3.099.000",
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, OriginOS 11",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "",
+        "Harga" : "",
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+ 
+            }
+        ]
+    }
+]
+
+
+
