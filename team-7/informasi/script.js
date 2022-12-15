@@ -3,7 +3,7 @@ $.getJSON('../API/mamalia.json', function (data){
         $('.mamalia').append(`
             <div class="col-4">
                 <div class="card">
-                    <img src="..." class="card-img-top" alt="...">
+                    <img src="`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.Nama +`</h5>
                         <div class="card-isi">

@@ -3,7 +3,7 @@ $.getJSON('./API/Blues.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagesblues`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagesblues/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -23,7 +23,7 @@ $.getJSON('./API/Dangdut.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagesdangdut`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagesdangdut/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -43,7 +43,7 @@ $.getJSON('./API/Rock.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagesrock`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagesrock/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -63,7 +63,7 @@ $.getJSON('./API/Jazz.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagesjazz`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagesjazz/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -83,7 +83,7 @@ $.getJSON('./API/Metal.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagesmetal`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagesmetal/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -103,7 +103,7 @@ $.getJSON('./API/Pop.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagespop`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagespop/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -123,7 +123,7 @@ $.getJSON('./API/Punk.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imagespunk`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>
@@ -143,7 +143,7 @@ $.getJSON('./API/HipHop.json', function (data){
         $('.kotak-lagu').append(`
             <div class="col-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="./assets/images/imageshiphop`+ data2.Gambar +`" class="card-img-top" alt="...">
+                    <img src="./assets/images/imageshiphop/`+ data2.Gambar +`" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">`+ data2.SUBGENRE +`</h5>
                         <p class="card-text">`+ data2.Band +`</p>

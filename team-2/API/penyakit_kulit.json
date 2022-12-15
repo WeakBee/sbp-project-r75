@@ -1,0 +1,507 @@
+[
+ {
+    "nama_penyakit" : "Psioriasis",
+    "gejala_penyakit" : [
+      {"gejala" : "Banyak kemerahan pada kulit"},
+      {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
+      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"}
+    ]
+    },
+    {
+      "nama_penyakit" : "Veruca",
+      "gejala_penyakit" : [
+        {"gejala" : "Adanya papula (penonjolan padat berbatas tegas di permukaan kulit dengan diameter < 1 cm) kecil seukuran kepala jarum"},
+        {"gejala" : "Papula tumbuh menonjol"},
+        {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
+      ]
+     },
+   {
+    "nama_penyakit" : "Varicella",
+    "gejala_penyakit" : [
+      {"gejala" : "Demam"},
+      {"gejala" : "Nyeri perut"},
+      {"gejala" : "Lemas"},
+      {"gejala" : "Perasaan tidak enak dengan vesikel pada kulit"},
+      {"gejala" : "Nafsu makan hilang"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Eksim",
+    "gejala_penyakit" : [
+      {"gejala" : "Gatal"},
+      {"gejala" : "Tanda kemerahan pada kulit"},
+      {"gejala" : "Kulit terasa kering"},
+      {"gejala" : "Kulit menebal"},
+      {"gejala" : "Kulit keropeng"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Vitilogi",
+    "gejala_penyakit" : [
+      {"gejala" : "Adanya macula hipopigmentasi (kelainan kuit dimana kulit warnanya putih datar tidak meninggi disbanding kulit sehat sekitrnya) pada kulit yang asimtomatik"},
+      {"gejala" : "Timbulnya bercak-bercak halus berwarna putih dikulit"},
+      {"gejala" : "Kulit terlihat bintik-bintik melebar, putih dan licin"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Herpes",
+    "gejala_penyakit" : [
+      {"gejala" : "Demam"},
+      {"gejala" : "Menggigil"},
+      {"gejala" : "Sesak nafas"},
+      {"gejala" : "Nyeri dipersendian atau pegal disatu bagian tubuh"},
+      {"gejala" : "Munculnya bitnik kemerahan pada kulit yang akhirnya membentuk sebuah gelembung cair"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Kusta",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat lesi kulit yang menyeruupai kusta tuberkuloid namun jumlahnya lebih banyak dan tidak beraturan"},
+      {"gejala" : "Bagian yang besar dapat mengganggu seluruh tungkai, dan gangguan saraf tepi dengan kelemahan dan kehilangan rasa rangsang"},
+      {"gejala" : "Satu atau lebih hipopigmentasi makua kulit dan bagian yang tidak berasa (anestetik)"},
+      {"gejala" : "Lesi, nodul, plak kulit sinetris, dermis kulit yang menipis"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Infeksi Jamur Kandida",
+    "gejala_penyakit" : [
+      {"gejala" : "Ditemukannya plak-plak (noda-noda) yang mudah diberihkan yang didapati pada dinding bagian dalam mulut, langit-langit, dan kerongkongan"},
+      {"gejala" : "Kulit mengalami retakk-retak dan nyeri pada kulit di sudut mulut (angular cheilitis)"},
+      {"gejala" : "Menebalnya kuku dan bahkan dapat tanggal sendiri"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Scabies",
+    "gejala_penyakit" : [
+      {"gejala" : "Gatal"},
+      {"gejala" : "Rambut rontok disekitar telinga"},
+      {"gejala" : "Rasa gatal disekitar telinga"},
+      {"gejala" : "Dipinggiran daun telinga terlihat ada kerak berwarna putih"},
+      {"gejala" : "Penebalan dan keriput pada kulit ditutupi oleh kerak-kerak berwarna abu-abu kekuningan"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Serkarial Dermatis",
+    "gejala_penyakit" : [
+      {"gejala" : "Gatal"},
+      {"gejala" : "Kemerahan pada kulit"},
+      {"gejala" : "Timbul makula pada kulit dalam 12 jam berikutnya, pada mereka yang kurang sensitive makula akan segera hilang"},
+      {"gejala" : "Edema disekitar kulit yang terkena"},
+      {"gejala" : "Vesikula kemudian dapat menjadi pustula apabila telah terjadi infeksi bakterial sekunder"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Jerawat",
+    "gejala_penyakit" : [
+      {"gejala" : "Komedo di sekitar hidung"},
+      {"gejala" : "Benjolan kecil merah disertai nanah"},
+      {"gejala" : "Benjolan padat dan menggembung di kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Alopecia Areata",
+    "gejala_penyakit" : [
+      {"gejala" : "Kesemutan pada beberapa bagian kulit kepala"},
+      {"gejala" : "Pigmen rambut menjadi putih bahkan ketika penderita masih muda"},
+      {"gejala" : "Rambut rontok, dengan karakter rambut kecil dan tumbuh meruncing ke atas"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Porfiria",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit menjadi terbakar karena terkena sinar matahari langsung"},
+      {"gejala" : "Kulit melepuh dan sangat gatal"},
+      {"gejala" : "Timbul bercak kemerahan yang parah dan urin berwarna coklat"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Tinea Pedis",
+    "gejala_penyakit" : [
+      {"gejala" : "Gatal parah di bagian kaki dan di sekitar sela jari kaki"},
+      {"gejala" : "Gatal parah pada kaki yang sering disertai dengan sensasi terbakar"},
+      {"gejala" : "Jika digaruk bisa menyebabkan borok atau luka basah pada bagian tersebut"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Tinea Versicolor",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat bercak-bercak putih di kulit"},
+      {"gejala" : "Terasa gatal saat berkeringat"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Campak",
+    "gejala_penyakit" : [
+      {"gejala" : "Ditandai dengan panas tubuh demam"},
+      {"gejala" : "Batuk dan pilek"},
+      {"gejala" : "Timbul bercak pada kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Cacar Air",
+    "gejala_penyakit" : [
+      {"gejala" : "Sakit kepala atau demam"},
+      {"gejala" : "Tidak selera makan"},
+      {"gejala" : "Mual-mual dan mudah lelah"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Selulitis",
+    "gejala_penyakit" : [
+      {"gejala" : "Peradangan dibawah kulit"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Cantengan",
+    "gejala_penyakit" : [
+      {"gejala" : "Kuku yang tumbuh kedalam"},
+      {"gejala" : "Bengkak"},
+      {"gejala" : "Terasa nyeri"}
+    ]
+   },
+   {
+    "nama_penyakit" : "Ring Worm",
+    "gejala_penyakit" : [
+      {"gejala" : "Kurap lingkaran dan bercak-bercak putih"},
+      {"gejala" : "Kulit tebal"},
+      {"gejala" : "Berair dan gatal-gatal"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Gudik",
+    "gejala_penyakit" : [
+      {"gejala" : "Sangat gatal dimalam hari"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Diabetic Blisters",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat benjolan"},
+      {"gejala" : "Melepuh"},
+      {"gejala" : "Ruam pada kulit"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Paederus Fuscipes",
+    "gejala_penyakit" : [
+      {"gejala" : "Timbul peradangan"},
+      {"gejala" : "Terasa gatal"},
+      {"gejala" : "Warna kulit memerah"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Harlequin Ichthyosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit benar-benar kering"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Lipoma",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat benjolan"},
+      {"gejala" : "Jika ditekan bergesar dan lembek"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Psoriasis Pustular",
+    "gejala_penyakit" : [
+      {"gejala" : "Turun berat badan"},
+      {"gejala" : "Demam tinggi"},
+      {"gejala" : "Gatal-gatal dibagian yang terdampak"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Xanhelasma",
+    "gejala_penyakit" : [
+      {"gejala" : "Timbul di sekitar mata"},
+      {"gejala" : "Warna kekuningan"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Argyria",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit kebiruan dan mengkilap"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Xanthoma",
+    "gejala_penyakit" : [
+      {"gejala" : "Penumpukan lemak di makrofag kekebalan kulit"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Xeroderma Pigmentosum (XP)",
+    "gejala_penyakit" : [
+      {"gejala" : "Peka terhadap cahaya"},
+      {"gejala" : "Perubahan warna kulit"},
+      {"gejala" : "Terasa terbaka saat terkena UV"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Zoonosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat bekas gigitan serangga"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Virus Singapura",
+    "gejala_penyakit" : [
+      {"gejala" : "Bintik-bintik kecil"},
+      {"gejala" : "Luka-luka pada tangan, kaki bahkan mulut"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Epidermodysplasia Verruciformis",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit mengeras seperti kulit pohon"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+
+{
+    "nama_penyakit" : "Neurofibromatosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Tumbuh benjolan pada seluruh tubuh"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "Akantosis Nigrikans",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit menjadi hitam"},
+      {"gejala" : "Penebalan Pada Kulit"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Psoriasis Arthritis",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit bersisik"},
+      {"gejala" : "Iritasi"},
+      {"gejala" : "Perubahan warna pada kuku"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Granuloma Annulare",
+    "gejala_penyakit" : [
+      {"gejala" : "Terdapat benjolan kemerahan"},
+      {"gejala" : "Ruam berbentuk lingkaran"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Raunaud",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit jadi pucat berwarna putih atau coklat"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Biang Keringat",
+    "gejala_penyakit" : [
+      {"gejala" : "Menimbulkan rasa gatal-gatal pada kulit"},
+      {"gejala" : "Terdapat bintil-bintil kecil yang mengumpul"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Psoriasis Inverse",
+    "gejala_penyakit" : [
+      {"gejala" : "Ruam merah pada kulit"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Dermatitik Kontak Alergi",
+    "gejala_penyakit" : [
+      {"gejala" : "Muncul ruam"},
+      {"gejala" : "Melepuh"},
+      {"gejala" : "Bintik-bintik merah dan keluar air"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Eritem Infektiosum",
+    "gejala_penyakit" : [
+      {"gejala" : "Demam"},
+      {"gejala" : "Keluar ruam pada wajah dan menyebar keseluruh tubuh"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Moluskum",
+    "gejala_penyakit" : [
+      {"gejala" : "Keluar bintik-bintik kecil"},
+      {"gejala" : "Terasa gatal dan perih"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Karbunkel",
+    "gejala_penyakit" : [
+      {"gejala" : "tumbuh beberapa bisul yang menyatu"},
+      {"gejala" : "Membengkak"},
+      {"gejala" : "Terasa nyeri"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Pedikulosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Terasa gatal pada bagian tertentu"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Hypertrichosis",
+    "gejala_penyakit" : [
+      {"gejala" : "Tumbuh rambut lebat diseluruh tubuh dari kaki sampai kepala"},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Urtikaria",
+    "gejala_penyakit" : [
+      {"gejala" : "Kemunculan bentol-bentol"},
+      {"gejala" : "Terasa terbakar dan perih"},
+      {"gejala" : "Timbul Bercak-bercak Merah"}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Dyshidrotic Eczema",
+    "gejala_penyakit" : [
+      {"gejala" : "Infeksi jamur atau bakteri"},
+      {"gejala" : "Muncul Bintik-bintik kecil berisi cairan"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "Intertigo",
+    "gejala_penyakit" : [
+      {"gejala" : "Kulit terasa gatal"},
+      {"gejala" : "Nyeri bila terjadi gesekan dan berwarna merah"},
+      {"gejala" : ""}
+    ]
+   },
+
+{
+    "nama_penyakit" : "HIV atau AIDS",
+    "gejala_penyakit" : [
+      {"gejala" : "Infeksi Jamur di lidah, mulut, kelamin, dan anus"},
+      {"gejala" : "Pembengkakan kelenjar getah bening, di ketiak, leher, dan selangkangan"},
+      {"gejala" : "Mudah memar atau berdarah"}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   },
+   {
+    "nama_penyakit" : "",
+    "gejala_penyakit" : [
+      {"gejala" : ""},
+      {"gejala" : ""},
+      {"gejala" : ""}
+    ]
+   }
+]
