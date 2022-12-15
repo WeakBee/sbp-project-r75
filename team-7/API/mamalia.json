@@ -8,7 +8,7 @@
         "Berat" : "< 8KG",
         "Golongan" :"Herbivora",
         "TipeKulit" : "Berbulu",
-        "Gambar" : "",
+        "Gambar" : "../assets/mamalia/kuskus_sulawesi.jpg",
         "Warna" : [
             "Hitam", 
             "Coklat", 
@@ -28,7 +28,7 @@
         "Berat" : "6KG-14KG",
         "Golongan" :"Omnivora",
         "TipeKulit" : "Berbulu",
-        "Gambar":"",
+        "Gambar" : "../assets/mamalia/binturong.jpeg",
         "Warna" : [
             "Hitam", 
             "Coklat", 
@@ -46,7 +46,7 @@
         "Berat" : "7KG-14KG",
         "Golongan" :"Omnivora",
         "Tipe Kulit" : "Berbulu",
-        "Gambar" :"",
+        "Gambar" :"../assets/mamalia/pulusan.jpg",
         "Warna" : [
             "Kuning", 
             "Hitam", 
@@ -63,7 +63,7 @@
         "Berat" : "15KG-30KG",
         "Golongan" :"Herbivora",
         "TipeKulit" : "Berbulu",
-        "Gambar" :"",
+        "Gambar" :"../assets/mamalia/rusa_bawen.JPG",
         "Warna" : [
             "Coklat", 
             "Putih", 
@@ -73,12 +73,13 @@
     {   
         "Nama" : "Babi Rusa",
         "Habitat" : "Dataran",
-        "Lokasi" : "",
+        "Lokasi" : "Sulawesi",
         "UkuranTubuh" : "85 CM - 105 CM",
         "PanjangEkor" : "20 CM - 35 CM" ,
         "Berat" : "90KG-100KG",
         "Golongan" :"Herbivora",
         "TipeKulit" : "Berbulu",
+        "Gambar" :"../assets/mamalia/babi_rusa.jpg",
         "Warna" : [
             "Abu Abu"
     ]
