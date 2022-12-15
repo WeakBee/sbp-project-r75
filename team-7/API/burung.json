@@ -1,0 +1,20 @@
+[
+    {   
+        "Nama" : "Cerecet Jawa",
+        "Habitat" : "Pegunungan",
+        "Lokasi": "Jawa",
+        "UkuranTubuh" : "8 CM",
+        "PanjangEkor" : "5 CM",
+        "BentukParuh" : "Segitiga Kecil",
+        "Makanan" :[
+            "Serangga Kecil",
+            "Biji-Bijian"
+        ],
+        "TipeKulit" : "Berbulu",
+        "Gambar" : "",
+        "Warna" : [ 
+            "Abu Abu",
+            "Putih"
+    ]
+    }
+]
