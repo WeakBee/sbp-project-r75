@@ -245,7 +245,7 @@
         "nama" : "Ayam Cordon Blue",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
             {"bahan" : "keju", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
             {"bahan" : "wortel", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
@@ -265,7 +265,7 @@
         "nama" : "Ayam Goreng Keju",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 12 bagian"},
             {"bahan" : "sajiku bumbu ayam goreng", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "gula jawa", "jumlah" : 3, "satuan" :"sdm", "cat" : "sisir"},
@@ -285,7 +285,7 @@
         "nama" : "Tumis Ayam Jagung Manis",
         "gambar" : "",
         "jenis" : ["lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 10 bagian"},
             {"bahan" : "jagung pipil", "jumlah" : 85, "satuan" :"gr", "cat" : ""},
             {"bahan" : "masako rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : "9 gr"},
@@ -307,7 +307,7 @@
         "nama" : "Ayam Panggang Saus Jamur",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam fillet", "jumlah" : 700, "satuan" :"gr", "cat" : ""},
             {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
             {"bahan" : "masako rasa ayam", "jumlah" : 0.5, "satuan" :"bks", "cat" : "10 gr"},
@@ -327,7 +327,7 @@
         "nama" : "Ayam Goreng Lengkuas",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 8"},
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
             {"bahan" : "biji ketumbar", "jumlah" : 1, "satuan" :"sdm", "cat" : "sangrai"},
@@ -355,7 +355,7 @@
         "nama" : "Sempol Ayam Pedas",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 150, "satuan" :"gr", "cat" : "cincang"},
             {"bahan" : "sajiku tepung bumbu pedas", "jumlah" : 1, "satuan" :"bks", "cat" : "75 gr"},
             {"bahan" : "tepung tapioka", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
@@ -373,7 +373,7 @@
         "nama" : "Sop Ayam Kampung",
         "gambar" : "",
         "jenis" : ["Lauk","Sayur"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong menjadi 12 bagian"},
             {"bahan" : "wortel", "jumlah" : 40, "satuan" :"gr", "cat" : ""},
             {"bahan" : "kacang polong", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
@@ -394,7 +394,7 @@
         "nama" : "Ayam Panggang Lada Hitam",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "potong menjadi 4 bagian"},
             {"bahan" : "saori saus lada hitam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "minyak goreng", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
@@ -411,7 +411,7 @@
         "nama" : "Ayam Geprek Sambal Matah",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "ayam potong", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
             {"bahan" : "air es", "jumlah" : 4, "satuan" :"sdm", "cat" : ""},
@@ -434,7 +434,7 @@
         "nama" : "Kulit Ayam Krispi Saus Telur Asin",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "kulit ayam", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
             {"bahan" : "air", "jumlah" : 5, "satuan" :"sdm", "cat" : ""},
@@ -455,7 +455,7 @@
         "nama" : "Kwetiau Goreng Ayam",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "kwetiau", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
             {"bahan" : "telur", "jumlah" : 2, "satuan" :"buah", "cat" : "kocok"},
             {"bahan" : "ayam rebus", "jumlah" : 30, "satuan" :"gr", "cat" : "suwir"},
@@ -475,7 +475,7 @@
         "nama" : "Ayam Krispi Saus Korea",
         "gambar" : "",
         "jenis" : ["Lauk"],
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
             {"bahan" : "sajiku tepung bumbu golden crispy", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
             {"bahan" : "air", "jumlah" : 5, "satuan" :"sdm", "cat" : ""},
@@ -499,7 +499,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -510,7 +510,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -521,7 +521,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -532,7 +532,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -543,7 +543,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -554,7 +554,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -565,7 +565,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -576,7 +576,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -587,7 +587,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -598,7 +598,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -609,7 +609,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -620,7 +620,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
@@ -631,7 +631,7 @@
         "nama" : "",
         "gambar" : "",
         "jenis" : "",
-        "semua bahan" : [
+        "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],
         "cara" : [
