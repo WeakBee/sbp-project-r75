@@ -1,7 +1,6 @@
 [
     {
         "nama" : "Sayur Bayam",
-        "gambar" : "./assets/umami/SayurBayam.webp",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
             {"bahan" : "bayam","jumlah" : 2, "satuan" :"ikat", "cat" : ""},
@@ -23,7 +22,6 @@
     },
     {
         "nama" : "Ayam Goreng Sambal Terasi",
-        "gambar" : "./assets/umami/AyamGorengSambalTerasi.webp",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : ""},
@@ -52,7 +50,6 @@
     },
     {
         "nama" : "Ikan Kembung Sambal Matah",
-        "gambar" : "./assets/umami/IkanKembungSambalMatah.webp",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ikan kembung","jumlah" : 1, "satuan" :"kg", "cat" : "bersihkan lalu sayat"},
@@ -81,7 +78,6 @@
     }, 
     {
         "nama" : "Soto Daging Santan Kuning",
-        "gambar" : "./assets/umami/SotoDagingSantanKuning.webp",
         "jenis" : ["Soto"],
         "semua_bahan" : [
             {"bahan" : "daging","jumlah" : 300, "satuan" :"gr", "cat" : ""},
@@ -116,7 +112,6 @@
     },
     {
         "nama" : "Tuna Sayur Krispi",
-        "gambar" : "./assets/umami/TunaSayurKrispi.webp",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ikan tuna","jumlah" : 170, "satuan" :"gr", "cat" : "cincang kasar"},
@@ -138,7 +133,6 @@
     },
     {
         "nama" : "Sate Ayam Asam Manis",
-        "gambar" : "./assets/umami/SateAyamAsamManis.webp",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam fillet","jumlah" : 350, "satuan" :"gr", "cat" : "Dada atau Paha"},
@@ -169,7 +163,6 @@
     },
     {
         "nama" : "Opor Ayam Khas Solo",
-        "gambar" : "./assets/umami/OporAyamKhasSolo.webp",
         "jenis" : ["Daerah","Lauk"],
         "semua_bahan" : [
             {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : "(potong 10 bagian)"},
@@ -198,7 +191,6 @@
     },
     {
         "nama" : "Tumis Ayam Sayur",
-        "gambar" : "./assets/umami/TumisAyamSayur.webp",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
             {"bahan" : "kembang kol","jumlah" : 100, "satuan" :"gr", "cat" : ""},
@@ -222,7 +214,6 @@
     },
     {
         "nama" : "Ayam Crispy Saus Madu",
-        "gambar" : "./assets/umami/AyamCrispySausMadu.webp",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam fillet","jumlah" : 2, "satuan" :"ptg", "cat" : "paha potong kecil / 3cm"},
@@ -243,7 +234,6 @@
     },
     {
         "nama" : "Ayam Cordon Blue",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
@@ -263,7 +253,6 @@
     },
     {
         "nama" : "Ayam Goreng Keju",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 12 bagian"},
@@ -283,7 +272,6 @@
     },
     {
         "nama" : "Tumis Ayam Jagung Manis",
-        "gambar" : "",
         "jenis" : ["lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 10 bagian"},
@@ -305,7 +293,6 @@
     },
     {
         "nama" : "Ayam Panggang Saus Jamur",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam fillet", "jumlah" : 700, "satuan" :"gr", "cat" : ""},
@@ -325,7 +312,6 @@
     },
     {
         "nama" : "Ayam Goreng Lengkuas",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 8"},
@@ -353,7 +339,6 @@
     },
     {
         "nama" : "Sempol Ayam Pedas",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 150, "satuan" :"gr", "cat" : "cincang"},
@@ -371,7 +356,6 @@
     },
     {
         "nama" : "Sop Ayam Kampung",
-        "gambar" : "",
         "jenis" : ["Lauk","Sayur"],
         "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong menjadi 12 bagian"},
@@ -392,7 +376,6 @@
     },
     {
         "nama" : "Ayam Panggang Lada Hitam",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "potong menjadi 4 bagian"},
@@ -409,7 +392,6 @@
     },
     {
         "nama" : "Ayam Geprek Sambal Matah",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam potong", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
@@ -432,7 +414,6 @@
     },
     {
         "nama" : "Kulit Ayam Krispi Saus Telur Asin",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "kulit ayam", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
@@ -453,7 +434,6 @@
     },
     {
         "nama" : "Kwetiau Goreng Ayam",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "kwetiau", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
@@ -473,7 +453,6 @@
     },
     {
         "nama" : "Ayam Krispi Saus Korea",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
@@ -497,7 +476,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -508,7 +486,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -519,7 +496,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -530,7 +506,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -541,7 +516,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -552,7 +526,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -563,7 +536,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -574,7 +546,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -585,7 +556,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -596,7 +566,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -607,7 +576,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -618,7 +586,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
@@ -629,7 +596,6 @@
     },
     {
         "nama" : "",
-        "gambar" : "",
         "jenis" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}

@@ -158,7 +158,7 @@ function roycoumami(){
             <div class="col-lg-4">
                 <div class="list-resep">
                     <div class="d-flex align-items-center">
-                        <img class="foto-makanan" src="`+ data.gambar +`">
+                        <img class="foto-makanan" src="./assets/umami/`+ data.nama +`.webp">
                         <div> 
                             <p class="fw-bold">`+ data.nama +`</p>
                             <p>Umami</p>
