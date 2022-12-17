@@ -22,14 +22,14 @@
         "nama" : "Sayur Asem",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
-            {"bahan" : "Air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
-            {"bahan" : "Melinjo","jumlah" : 100, "satuan" :"gram", "cat" : "" },
-            {"bahan" : "Kacang Tanah","jumlah" : 100, "satuan" :"gram", "cat" : ""},
-            {"bahan" : "Jagung Manis","jumlah" : 1, "satuan" :"buah", "cat" : "potong potong menjadi bagian"},
-            {"bahan" : "Labu Siam","jumlah" : 1, "satuan" :"buah", "cat" : "kupas potong dadu"},
-            {"bahan" : "Kacang Panjang","jumlah" : 100, "satuan" :"gram", "cat" : "Potong 5cm"},
-            {"bahan" : "Royco Bumbu Komplit Sayur Asem","jumlah" : 1, "satuan" :"bungkus", "cat" : ""},
-            {"bahan" : "Daun Melinjo","jumlah" : 50, "satuan" :"gram", "cat" : ""}
+            {"bahan" : "air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "melinjo","jumlah" : 100, "satuan" :"gram", "cat" : "" },
+            {"bahan" : "kacang tanah","jumlah" : 100, "satuan" :"gram", "cat" : ""},
+            {"bahan" : "jagung manis","jumlah" : 1, "satuan" :"buah", "cat" : "potong potong menjadi bagian"},
+            {"bahan" : "labu siam","jumlah" : 1, "satuan" :"buah", "cat" : "kupas potong dadu"},
+            {"bahan" : "kacang panjang","jumlah" : 100, "satuan" :"gram", "cat" : "Potong 5cm"},
+            {"bahan" : "royco bumbu komplit Sayur Asem","jumlah" : 1, "satuan" :"bungkus", "cat" : ""},
+            {"bahan" : "daun melinjo","jumlah" : 50, "satuan" :"gram", "cat" : ""}
         ],
         "cara" : [
             {"resep" : "Didihkan air di dalam panci. Masukkan buah melinjo, kacang tanah, dan jagung hingga matang."},
@@ -72,11 +72,11 @@
         "nama" : "Nasi Goreng Jamur",
         "jenis" : ["Nasi"],
         "semua_bahan" : [
-            {"bahan" : "Nasi putih", "jumlah" : 600, "satuan" : "gr", "cat" : ""},
-            {"bahan" : "daging ayam giling", "jumlah" : 100, "satuan" : "gr", "cat" : ""},
+            {"bahan" : "nasi putih", "jumlah" : 600, "satuan" : "gram", "cat" : ""},
+            {"bahan" : "daging ayam giling", "jumlah" : 100, "satuan" : "gram", "cat" : ""},
             {"bahan" : "telur ayam", "jumlah" : 2, "satuan" : "btr", "cat" : ""},
-            {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" : "gr", "cat" : "belah dua"},
-            {"bahan" : "Royco bumbu komplit nasi goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
+            {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" : "gram", "cat" : "belah dua"},
+            {"bahan" : "royco bumbu komplit nasi goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
             {"bahan" : "minyak goreng", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
             {"bahan" : "margarin", "jumlah" : 1, "satuan" : "sdm", "cat" : ""}
         ],
@@ -115,6 +115,114 @@
             {"resep" : "Masukkan bakso sapi, aduk rata. Kemudian masukkan semua sayuran, bumbu, Royco Penyedap Serbaguna Rasa Ayam atau Sapi, dan air."},
             {"resep" : "Masak hingga kuah mengental. Angkat."},
             {"resep" : "Sajikan hangat ditemani nasi putih."}
+        ]
+    },
+    {
+        "nama" : "Cumi Tumis Pakcoy",
+        "jenis" : ["Lauk","Sayur"],
+        "semua_bahan" : [
+            {"bahan" : "pakcoy", "jumlah" : 250, "satuan" : "gram", "cat" : ""},
+            {"bahan" : "cumi", "jumlah" : 2, "satuan" : "buah", "cat" : "ukuran 100 gram (sedang),iris tipis"},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" : "buah", "cat" : "cincang"},
+            {"bahan" : "tomat", "jumlah" : 0.5, "satuan" : "buah", "cat" : ""},
+            {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "gula", "jumlah" : 1, "satuan" : "sdt", "cat" : "atau secukupnya"},
+            {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdt", "cat" : "atau secukupnya"},
+            {"bahan" : "minyak wijen", "jumlah" : 0.5, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "saus tiram", "jumlah" : 1, "satuan" : "sdm", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : "Tumis bawang putih."},
+            {"resep" : "Masukkan cumi, aduk rata."},
+            {"resep" : "Masukkan pakcoy dan tomat."},
+            {"resep" : "Beri Royco kaldu ayam, gula, garam minyak wijen, saus tiram."},
+            {"resep" : "Tumis sebentar hingga rata."},
+            {"resep" : "Sajikan selagi hangat."}
+        ]
+    },
+    {
+        "nama" : "Ayam Goreng Lengkuas",
+        "jenis" : ["Lauk"],
+        "semua_bahan" : [
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "(800 g) potong 8 bagian"},
+            {"bahan" : "royco bumbu komplit ayam goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 250, "satuan" : "ml", "cat" : ""},
+            {"bahan" : "lengkuas", "jumlah" : 150, "satuan" : "gram", "cat" : "parut"},
+            {"bahan" : "minyak goreng", "jumlah" : 0, "satuan" : "", "cat" : "secukupnya untuk menggoreng"}
+        ],
+        "cara" : [
+            {"resep" : "Di dalam wajan, masukkan ayam, RBK Ayam Goreng, air, dan lengkuas. Masak diatas api sedang hingga air mengering. Sisihkan lengkuas."},
+            {"resep" : "Panaskan minyak banyak di dalam wajan di atas api sedang. Goreng ayam hingga matang. Angkat, tiriskan. Goreng lengkuas hingga berwarna kecoklatan. Angkat, tiriskan."},
+            {"resep" : "Tata ayam di atas piring saji. Taburi dengan lengkuas yang telah digoreng."}
+        ]
+    },
+    {
+        "nama" : "Tumis Tempe",
+        "jenis" : ["Lauk"],
+        "semua_bahan" : [
+            {"bahan" : "tempe", "jumlah" : 250, "satuan" : "gram", "cat" : "potong 3cm"},
+            {"bahan" : "cabai merah", "jumlah" : 25, "satuan" : "gram", "cat" : "potong, goreng perlahan setengah matang"},
+            {"bahan" : "bawang putih", "jumlah" : 15, "satuan" : "gram", "cat" : "Iris tipis"},
+            {"bahan" : "bawang merah", "jumlah" : 25, "satuan" : "gram", "cat" : "Iris tipis"},
+            {"bahan" : "akar lengkuas", "jumlah" : 4, "satuan" : "gram", "cat" : "kira-kira 2 buah akar lengkuas"},
+            {"bahan" : "daun salam", "jumlah" : 2, "satuan" : "buah", "cat" : ""},
+            {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "kecap manis bango", "jumlah" : 2, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 4, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 200, "satuan" : "ml", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
+        ]
+    },
+    {
+        "nama" : "",
+        "jenis" : [""],
+        "semua_bahan" : [
+            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
+        ]
+    },
+    {
+        "nama" : "",
+        "jenis" : [""],
+        "semua_bahan" : [
+            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
+        ]
+    },
+    {
+        "nama" : "",
+        "jenis" : [""],
+        "semua_bahan" : [
+            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
+        ]
+    },
+    {
+        "nama" : "",
+        "jenis" : [""],
+        "semua_bahan" : [
+            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
+        ]
+    },
+    {
+        "nama" : "",
+        "jenis" : [""],
+        "semua_bahan" : [
+            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+        ],
+        "cara" : [
+            {"resep" : ""}
         ]
     }
 ]
