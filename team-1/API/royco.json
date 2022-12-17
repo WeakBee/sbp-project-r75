@@ -28,7 +28,7 @@
             {"bahan" : "jagung manis","jumlah" : 1, "satuan" :"buah", "cat" : "potong potong menjadi bagian"},
             {"bahan" : "labu siam","jumlah" : 1, "satuan" :"buah", "cat" : "kupas potong dadu"},
             {"bahan" : "kacang panjang","jumlah" : 100, "satuan" :"gram", "cat" : "Potong 5cm"},
-            {"bahan" : "royco bumbu komplit Sayur Asem","jumlah" : 1, "satuan" :"bungkus", "cat" : ""},
+            {"bahan" : "royco bumbu komplit Sayur Asem","jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "daun melinjo","jumlah" : 50, "satuan" :"gram", "cat" : ""}
         ],
         "cara" : [
@@ -126,7 +126,7 @@
             {"bahan" : "bawang putih", "jumlah" : 2, "satuan" : "buah", "cat" : "cincang"},
             {"bahan" : "tomat", "jumlah" : 0.5, "satuan" : "buah", "cat" : ""},
             {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "sdm", "cat" : ""},
-            {"bahan" : "gula", "jumlah" : 1, "satuan" : "sdt", "cat" : "atau secukupnya"},
+            {"bahan" : "gula pasir", "jumlah" : 1, "satuan" : "sdt", "cat" : "atau secukupnya"},
             {"bahan" : "garam", "jumlah" : 1, "satuan" : "sdt", "cat" : "atau secukupnya"},
             {"bahan" : "minyak wijen", "jumlah" : 0.5, "satuan" : "sdm", "cat" : ""},
             {"bahan" : "saus tiram", "jumlah" : 1, "satuan" : "sdm", "cat" : ""}
@@ -176,43 +176,30 @@
         ]
     },
     {
-        "nama" : "",
-        "jenis" : [""],
+        "nama" : "Ayam Kuah Pedas",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
+            {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong (12 bagian)"},
+            {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 6, "satuan" : "siung", "cat" : "iris halus"},
+            {"bahan" : "bawang putih", "jumlah" : 4, "satuan" : "siung", "cat" : "iris halus"},
+            {"bahan" : "cabai merah keriting", "jumlah" : 10, "satuan" : "buah", "cat" : "iris serong halus"},
+            {"bahan" : "lengkuas", "jumlah" : 2, "satuan" : "potong", "cat" : ""},
+            {"bahan" : "daun salam", "jumlah" :2, "satuan" : "lembar", "cat" : ""},
+            {"bahan" : "asam jawa", "jumlah" : 2, "satuan" : "sdm", "cat" : "padatkan lalu bakar hingga kehitaman dan keras"},
+            {"bahan" : "rebung kalengan", "jumlah" : 200, "satuan" : "gr", "cat" : "potong korek api agak besar"},
+            {"bahan" : "air", "jumlah" : 2, "satuan" : "L", "cat" : ""},
+            {"bahan" : "garam", "jumlah" : 2, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "gula pasir", "jumlah" : 2, "satuan" : "sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 4, "satuan" : "sdm", "cat" : "Untuk Menumis"}
         ],
         "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : [""],
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : [""],
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : [""],
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
+            {"resep" : "Rebus air hingga mendidih"},
+            {"resep" : "Tumis bawang merah, bawang putih, lengkuas, daun salam hingga harum dam matang. Tambahkan cabe merah, tumis hingga layu"},
+            {"resep" : "Masukkan ayam, masak hingga berubah warna lalu masukkan kedalam rebusan air."},
+            {"resep" : "Masukkan asam, garam, gula, masak dengan api kecil sekali hingga ayam lunak."},
+            {"resep" : "Tambahkan rebung, masak kembali 15 menit dengan api kecil lalu angkat."},
+            {"resep" : "Lebih lezat disajikan keesokan hari."}
         ]
     },
     {
