@@ -475,73 +475,145 @@
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Goreng Ungkep",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "4 potong"},
+            {"bahan" : "saori saus tiram", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 350, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Haluskan bawang merah dan bawang putih."},
+            {"resep" : "Panaskan 3 sdm minyak goreng, masukkan bumbu halus, tumis hingga harum. Masukkan ayam, air, dan SAORI® Saus Tiram."},
+            {"resep" : "Ungkep ayam hingga empuk dan air meresap dalam daging."},
+            {"resep" : "Panaskan minyak goreng, goreng ayam hingga bagian kulitnya agak kering. Angkat dan sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Tongseng Ayam",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "ayam fillet", "jumlah" : 250, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "sajiku bumbu rendang", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "daun jeruk", "jumlah" : 3, "satuan" :"lbr", "cat" : ""},
+            {"bahan" : "santan encer", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "kecap manis", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "kol", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "tomat", "jumlah" : 1, "satuan" :"buah", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Iris kol dan tomat. Potong ayam bentuk dadu."},
+            {"resep" : "Panaskan minyak goreng. Masukkan ayam, tumis hingga berubah warna"},
+            {"resep" : "Tambahkan santan encer, kecap, daun jeruk, dan Sajiku® Bumbu Rendang. Aduk rata, masak hingga matang."},
+            {"resep" : "Masukkan kol dan tomat. Aduk sebentar, angkat, dan sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Geprek Mayo",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "ayam fillet", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
+            {"bahan" : "mayumi pedas", "jumlah" : 1, "satuan" :"bks", "cat" : "100 gr"},
+            {"bahan" : "air", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "paprika hijau", "jumlah" : 20, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "paprika merah", "jumlah" : 20, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "bawang bombay", "jumlah" : 0.5, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "keju mudah leleh", "jumlah" : 1, "satuan" :"sdm", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Potong dadu kecil paprika merah dan hijau, cincang kasar bawang bombay."},
+            {"resep" : "Campur 2 sdm Sajiku® Tepung Bumbu dengan 3 sdm air es. Sisanya digunakan sebagai adonan kering. Masukkan ayam ke adonan kering kemudian ketuk ketuk. Lalu celupkan ke adonan basah kemudian gulingkan ayam ke adonan kering kembali sambil diremas-remas hingga terbentuk kulit yang keriting, ketuk - ketuk agar sisa tepung hilang. Goreng ayam ke dalam minyak panas sampai berwarna kuning kecoklatan. Angkat dan geprek."},
+            {"resep" : "Panaskan 1 sdm minyak goreng, tumis bawang bombay, paprika merah dan hijau. Angkat & sisihkan."},
+            {"resep" : "Tambahkan Mayumi® Pedas ke dalam wadah yang berisi tumisan, aduk rata.Tuang saus mayo di atas ayam yang sudah digeprek. Sajikan"}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Siomay Ayam Kukus",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "kulit siomay", "jumlah" : 8, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "sajiku bumbu nasi goreng rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "ayam cincang", "jumlah" : 300, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "telor", "jumlah" : 1, "satuan" :"buah", "cat" : "kocok"},
+            {"bahan" : "daun bawang", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "keju mudah leleh", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "wortel rebus", "jumlah" : 20, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "tepung tapioka", "jumlah" : 60, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "wortel parut", "jumlah" : 2, "satuan" :"sdm", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Iris daun bawang, potong wortel ukuran dadu. Sisihkan."},
+            {"resep" : "Campurkan daging cincang, telur, daun bawang, keju, wortel, tepung tapioka dan Sajiku® Bumbu Nasi Goreng Rasa Ayam dalam wadah, aduk rata.Isi kulit siomay dengan adonan isian."},
+            {"resep" : "Kukus selama 30 menit hingga matang, angkat, sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Belutu",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" :"ekor", "cat" : ""},
+            {"bahan" : "sajiku ayam goreng", "jumlah" : 0.5, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "sajiku soto ayam", "jumlah" : 0.5, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "cabai rawit", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "serai", "jumlah" : 4, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 4, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "daun singkong", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "daun pisang", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Iris-iris sereh dan cabai rawit"},
+            {"resep" : "Buat bumbu : Campur ½ bks Sajiku® Ayam Goreng, ½ bks Sajiku® Soto Ayam, serai, cabai rawit dan minyak goreng, aduk rata"},
+            {"resep" : "Bumbui daun singkong dengan ½ campuran bumbu Sajiku® lalu masukkan daun singkong ke dalam perut ayam"},
+            {"resep" : "Lumuri ayam dengan sisa ½ campuran bumbu Sajiku® kemudian bungkus ayam dengan daun pisang. Kukus hingga matang (±45 menit), angkat dan sajikan"}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Hainan Saus Tiram",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "buang tulang besar"},
+            {"bahan" : "saori saos tiram", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : "cincang"},
+            {"bahan" : "air jahe", "jumlah" : 1, "satuan" :"sdm", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Cincang bawang putih"},
+            {"resep" : "Lumuri ayam dengan bawang putih cincang, air jahe dan SAORI® Saus Tiram, ratakan."},
+            {"resep" : "Panaskan kukusan, kukus ayam selama kurang lebih 30 menit hingga matang, angkat sisihkan."},
+            {"resep" : "Lepaskan tulang dari ayam hainan yang sudah dikukus."},
+            {"resep" : "Potong ayam dan tuangkan kuah kukusan ayam, sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Rica-Rica",
+        "jenis" : ["Lauk"],
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "ayam", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong 12 bagian"},
+            {"bahan" : "aji no moto", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "garam", "jumlah" : 0.5, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "daun jeruk", "jumlah" : 2, "satuan" :"lbr", "cat" : ""},
+            {"bahan" : "kemangi", "jumlah" : 1, "satuan" :"ikat", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 4, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 4, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "cabai merah", "jumlah" : 4, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "cabai rawit", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "kunyit", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
+            {"bahan" : "jahe", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
+            {"bahan" : "sereh", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Masukkan bawang merah, bawang putih, cabai merah, cabai rawit, kunyit, jahe, dan air, haluskan, sisihkan"},
+            {"resep" : "Panaskan minyak goreng, tumis bumbu halus"},
+            {"resep" : "Masukkan ayam, daun jeruk, sereh, air, AJI-NO-MOTO® dan garam, masak hingga ayam matang"},
+            {"resep" : "Tambahkan kemangi, aduk sesaat, angkat, dan sajikan"}
         ]
     },
     {
