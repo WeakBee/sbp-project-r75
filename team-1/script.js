@@ -9,7 +9,7 @@ function umami(){
             <div class="col-lg-4">
                 <div class="list-resep">
                     <div class="d-flex align-items-center">
-                        <img class="foto-makanan" src="`+ data.gambar +`">
+                        <img class="foto-makanan" src="./assets/umami/`+ data.nama +`.webp">
                         <div> 
                             <p class="fw-bold">`+ data.nama +`</p>
                             <p>Umami</p>
@@ -60,7 +60,7 @@ function royco(){
             <div class="col-lg-4">
                 <div class="list-resep">
                     <div class="d-flex align-items-center">
-                        <img class="foto-makanan" src="./assets/royco/Sayur Asem.jpg">
+                        <img class="foto-makanan" src="./assets/royco/`+ data.nama +`.webp">
                         <div> 
                             <p class="fw-bold">`+ data.nama +`</p>
                             <p>Royco</p>
@@ -111,7 +111,7 @@ function roycoumami(){
             <div class="col-lg-4">
                 <div class="list-resep">
                     <div class="d-flex align-items-center">
-                        <img class="foto-makanan" src="./assets/royco/Sayur Asem.jpg">
+                        <img class="foto-makanan" src="./assets/royco/`+ data.nama +`.webp">
                         <div> 
                             <p class="fw-bold">`+ data.nama +`</p>
                             <p>Royco</p>

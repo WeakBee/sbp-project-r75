@@ -1,7 +1,6 @@
 [
     {
         "nama" : "Tumis Kangkung",
-        "gambar" : "./assets/royco/Tumis Kangkung.jpg",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
             {"bahan" : "bawang merah","jumlah" : 5, "satuan" :"buah", "cat" : "Cincang Halus"},
@@ -21,7 +20,6 @@
     },
     {
         "nama" : "Sayur Asem",
-        "gambar" : "./assets/royco/Sayur Asem.jpg",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
             {"bahan" : "Air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
@@ -42,7 +40,6 @@
     },
     {
         "nama" : "Opor Ayam",
-        "gambar" : "",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong 8 bagian, buang kulitnya"},
@@ -73,7 +70,6 @@
     },
     {
         "nama" : "Nasi Goreng Jamur",
-        "gambar" : "",
         "jenis" : ["Nasi"],
         "semua_bahan" : [
             {"bahan" : "Nasi putih", "jumlah" : 600, "satuan" : "gr", "cat" : ""},
@@ -94,7 +90,6 @@
     },
     {
         "nama" : "Capcay",
-        "gambar" : "",
         "jenis" : ["Sayur"],
         "semua_bahan" : [
             {"bahan" : "wortel", "jumlah" : 150, "satuan" : "gram", "cat" : "Iris tipis"},

@@ -233,7 +233,7 @@
         ]
     },
     {
-        "nama" : "Ayam Cordon Blue",
+        "nama" : "Ayam Cordon Bleu",
         "jenis" : ["Lauk"],
         "semua_bahan" : [
             {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
