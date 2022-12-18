@@ -20,7 +20,7 @@
         "UkuranTubuh" : "100 CM",
         "PanjangEkor" : "-",
         "Berat" : "30 G",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_misool.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" : ["Kuning",
@@ -34,7 +34,7 @@
         "UkuranTubuh" : "5 M - 6 M",
         "PanjangEkor" : "-",
         "Berat" : "< 1000 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_muara.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Abu-Abu"
@@ -46,7 +46,7 @@
         "UkuranTubuh" : "140 CM",
         "PanjangEkor" : "-",
         "Berat" : "7 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_abuabu.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Hitam Totol Kuning"
@@ -58,7 +58,7 @@
         "UkuranTubuh" : "52CM",
         "PanjangEkor" : "-",
         "Berat" : "30 Gr",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_kerdil.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :[
@@ -73,7 +73,7 @@
         "UkuranTubuh" : "42 CM - 52 CM",
         "PanjangEkor" : "20 CM",
         "Berat" : "-",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_kalimantan.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Coklat"
@@ -85,7 +85,7 @@
         "UkuranTubuh" : "75 CM",
         "PanjangEkor" : "-",
         "Berat" : "45 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/penyu_lekang.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Abu-Abu"
@@ -97,7 +97,7 @@
         "UkuranTubuh" : "120CM",
         "PanjangEkor" : "-",
         "Berat" : " 50 G",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_aru.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Hitam"
@@ -115,7 +115,7 @@
         "UkuranTubuh" : "12M",
         "PanjangEkor" : "-",
         "Berat" : "150 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/sanca_bodo.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Coklat"
@@ -127,7 +127,7 @@
         "UkuranTubuh" : "98 CM",
         "PanjangEkor" : "57 CM",
         "Berat" : " 1.9 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_maluku.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Abu-Abu"
@@ -139,7 +139,7 @@
         "UkuranTubuh" : "61 CM",
         "PanjangEkor" : "-",
         "Berat" : "100 G - 350 G",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_timor.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Abu-Abu"
@@ -151,7 +151,7 @@
         "UkuranTubuh" : "80 CM - 120 CM",
         "PanjangEkor" : "-",
         "Berat" : "1.8 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/biawak_banggai.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" :"Kuning"
@@ -163,7 +163,7 @@
         "UkuranTubuh" : "90 CM - 120 CM",
         "PanjangEkor" : "-",
         "Berat" : "130 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/penyu_hijau.jpg",
         "Golongan" : "Herbivora",
         "TipeKulit" : "Bersisik",
         "Warna" :[
