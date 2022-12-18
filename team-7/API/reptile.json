@@ -1,0 +1,175 @@
+[
+    {   
+        "Nama" : "Komodo",
+        "Habitat" : "Hutan Tropis",
+        "Lokasi": "Nusa Tenggara Timur",
+        "UkuranTubuh" : "1.5 Meter",
+        "PanjangEkor" : "1.6 Meter",
+        "Berat" : "70 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" : ["Kuning",
+        "Hitam"
+]
+    },
+    {   
+        "Nama" : "Biawak Misool",
+        "Habitat" : "Hutan Hujan Tropis",
+        "Lokasi": "Papua",
+        "UkuranTubuh" : "100 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "30 G",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" : ["Kuning",
+        "Hijau"
+]
+    },
+    {   
+        "Nama" : "Buaya Muara",
+        "Habitat" : "Muara Sungai",
+        "Lokasi": "Kalimantan",
+        "UkuranTubuh" : "5 M - 6 M",
+        "PanjangEkor" : "-",
+        "Berat" : "< 1000 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Abu-Abu"
+    },
+    {   
+        "Nama" : "Biawak Abu-Abu",
+        "Habitat" : "Hutan",
+        "Lokasi": "Papua",
+        "UkuranTubuh" : "140 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "7 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Hitam Totol Kuning"
+    },
+    {   
+        "Nama" : "Biawak Kerdil",
+        "Habitat" : "Hutan",
+        "Lokasi": "Papua",
+        "UkuranTubuh" : "52CM",
+        "PanjangEkor" : "-",
+        "Berat" : "30 Gr",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :[
+            "Abu-Abu",
+            "Hitam"
+        ]
+    },
+    {   
+        "Nama" : "Biawak Kalimantan",
+        "Habitat" : "Hutan Tropis",
+        "Lokasi": "Kalimantan",
+        "UkuranTubuh" : "42 CM - 52 CM",
+        "PanjangEkor" : "20 CM",
+        "Berat" : "-",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Coklat"
+    },
+    {   
+        "Nama" : "Penyu Lekang",
+        "Habitat" : "Air Asin",
+        "Lokasi": "Jawa",
+        "UkuranTubuh" : "75 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "45 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Abu-Abu"
+    },
+    {   
+        "Nama" : "Biawak Aru",
+        "Habitat" : "Hutan Tropis",
+        "Lokasi": "Maluku",
+        "UkuranTubuh" : "120CM",
+        "PanjangEkor" : "-",
+        "Berat" : " 50 G",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Hitam"
+    },
+    {   
+        "Nama" : "Sanca Bodo",
+        "Habitat" : "Rawa",
+        "Lokasi": [
+            "Sumatra",
+            "Jawa",
+            "Kalimantan",
+            "Pulau Sumbawa",
+            "Sulawesi"
+        ],
+        "UkuranTubuh" : "12M",
+        "PanjangEkor" : "-",
+        "Berat" : "150 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Coklat"
+    },
+    {   
+        "Nama" : "Biawak Maluku",
+        "Habitat" : "Hutan Hujan Tropis",
+        "Lokasi": "Maluku",
+        "UkuranTubuh" : "98 CM",
+        "PanjangEkor" : "57 CM",
+        "Berat" : " 1.9 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Abu-Abu"
+    },
+    {   
+        "Nama" : "Biawak Timor",
+        "Habitat" : "Hutan",
+        "Lokasi": "Papua",
+        "UkuranTubuh" : "61 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "100 G - 350 G",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Abu-Abu"
+    },
+    {   
+        "Nama" : "Biawak Banggai",
+        "Habitat" : "Hutan Tropis",
+        "Lokasi": "Maluku",
+        "UkuranTubuh" : "80 CM - 120 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "1.8 KG",
+        "Gambar" : "",
+        "Golongan" : "Karnivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :"Kuning"
+    },
+    {   
+        "Nama" : "Penyu Hijau",
+        "Habitat" : "Air Asin",
+        "Lokasi": "Aceh",
+        "UkuranTubuh" : "90 CM - 120 CM",
+        "PanjangEkor" : "-",
+        "Berat" : "130 KG",
+        "Gambar" : "",
+        "Golongan" : "Herbivora",
+        "TipeKulit" : "Bersisik",
+        "Warna" :[
+            "Hijau",
+            "Kuning"
+        ]
+    }
+
+]
