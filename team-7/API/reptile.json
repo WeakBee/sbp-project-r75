@@ -6,7 +6,7 @@
         "UkuranTubuh" : "1.5 Meter",
         "PanjangEkor" : "1.6 Meter",
         "Berat" : "70 KG",
-        "Gambar" : "",
+        "Gambar" : "../assets/reptile/komodo.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" : ["Kuning",

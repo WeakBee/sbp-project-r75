@@ -8,5 +8,23 @@
         "CiriCiri" : "Permukaan Perut Tidak Memiliki Sisik",
         "Gambar" : "",
         "Warna" : "Kuning"
-    }
+    },
+    {   
+        "Nama" : "Pari Kai",
+        "Habitat" : ["Air Tawar",
+                     "Air Payau"
+        ],
+        "Lokasi": "Maluku",
+        "UkuranTubuh" : "23 CM",
+        "BanyakSisik" : "",
+        "CiriCiri" : ["bentuk agak membulat dengan ujung moncong yang tumpul",
+        "Bagian atas tubuh/punggungnya berwarna coklat kekuningan", 
+        "Terdapat lima pasang celah insang yang cukup pendek",
+        "Tidak memiliki sirip punggung namun sirip perutnya pendek dan membulat", 
+        "Ekornya cukup pendek, lebih pendek dari lebar tubuhnya",
+        "Terdapat duri sengat di bagian tengah ekor"
+        ],
+        "Gambar" : "",
+        "Warna" : "Kuning"
+    },
 ]
