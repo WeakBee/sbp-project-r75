@@ -65,7 +65,7 @@ form .button:hover{
     background-position: center;
 } */
 
-.carousel-item img{
-    height: 520px;
-    object-fit: cover;
+
+.card img {
+    height: fit-content;
 }
