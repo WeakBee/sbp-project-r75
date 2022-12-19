@@ -2,6 +2,7 @@
     {
         "nama" : "Tumis Kangkung",
         "jenis" : ["Sayur"],
+        "waktu" : "25 Menit",
         "semua_bahan" : [
             {"bahan" : "bawang merah","jumlah" : 5, "satuan" :"buah", "cat" : "Cincang Halus"},
             {"bahan" : "bawang putih","jumlah" : 3, "satuan" :"siung", "cat" : "Memarkan Cincang Halus" },
@@ -21,6 +22,7 @@
     {
         "nama" : "Sayur Asem",
         "jenis" : ["Sayur"],
+        "waktu" : "20 Menit",
         "semua_bahan" : [
             {"bahan" : "air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
             {"bahan" : "melinjo","jumlah" : 100, "satuan" :"gram", "cat" : "" },
@@ -41,6 +43,7 @@
     {
         "nama" : "Opor Ayam",
         "jenis" : ["Lauk"],
+        "waktu" : "45 Menit",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong 8 bagian, buang kulitnya"},
             {"bahan" : "santan encer", "jumlah" : 1, "satuan" : "L", "cat" : ""},
@@ -71,6 +74,7 @@
     {
         "nama" : "Nasi Goreng Jamur",
         "jenis" : ["Nasi"],
+        "waktu" : "30 Menit",
         "semua_bahan" : [
             {"bahan" : "nasi putih", "jumlah" : 600, "satuan" : "gram", "cat" : ""},
             {"bahan" : "daging ayam giling", "jumlah" : 100, "satuan" : "gram", "cat" : ""},
@@ -91,6 +95,7 @@
     {
         "nama" : "Capcay",
         "jenis" : ["Sayur"],
+        "waktu" : "30 Menit",
         "semua_bahan" : [
             {"bahan" : "wortel", "jumlah" : 150, "satuan" : "gram", "cat" : "Iris tipis"},
             {"bahan" : "kol putih", "jumlah" : 150, "satuan" : "gram", "cat" : "potong potong kecil seukuran gigitan"},
@@ -120,6 +125,7 @@
     {
         "nama" : "Cumi Tumis Pakcoy",
         "jenis" : ["Lauk","Sayur"],
+        "waktu" : "35 Menit",
         "semua_bahan" : [
             {"bahan" : "pakcoy", "jumlah" : 250, "satuan" : "gram", "cat" : ""},
             {"bahan" : "cumi", "jumlah" : 2, "satuan" : "buah", "cat" : "ukuran 100 gram (sedang),iris tipis"},
@@ -143,6 +149,7 @@
     {
         "nama" : "Ayam Goreng Lengkuas",
         "jenis" : ["Lauk"],
+        "waktu" : "30 Menit",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "(800 g) potong 8 bagian"},
             {"bahan" : "royco bumbu komplit ayam goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
@@ -159,6 +166,7 @@
     {
         "nama" : "Tumis Tempe",
         "jenis" : ["Lauk"],
+        "waktu" : "30 Menit",
         "semua_bahan" : [
             {"bahan" : "tempe", "jumlah" : 250, "satuan" : "gram", "cat" : "potong 3cm"},
             {"bahan" : "cabai merah", "jumlah" : 25, "satuan" : "gram", "cat" : "potong, goreng perlahan setengah matang"},
@@ -178,6 +186,7 @@
     {
         "nama" : "Ayam Kuah Pedas",
         "jenis" : ["Lauk"],
+        "waktu" : "60 Menit",
         "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong (12 bagian)"},
             {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
@@ -205,6 +214,7 @@
     {
         "nama" : "",
         "jenis" : [""],
+        "waktu" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
         ],

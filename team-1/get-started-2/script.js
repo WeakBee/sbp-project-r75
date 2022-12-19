@@ -190,24 +190,105 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 1500);
+        }, 1000);
         setTimeout(function() {
-            console.log(unique(sangatrekomendasi));
-            console.log(unique(rekomendasi));
             let uniksangatrekomendasi = unique(sangatrekomendasi);
             let unikrekomendasi = unique(rekomendasi);
 
             $.each(uniksangatrekomendasi, function(i,data){
-                $('.sangat-rekomendasi').append(`
-                    <li>`+ data +`</li>
-                `);
+                $.getJSON('../API/umami.json', function (data2){
+                    // Membuat Kartu
+                    $.each(data2, function(i,data3){
+                        if(data == data3.nama){
+                            $('.sangat-rekomendasi').append(`
+                            <div class="col-lg-4">
+                                <div class="list-resep">
+                                    <div class="d-flex align-items-center">
+                                        <img class="foto-makanan" src="../assets/umami/`+ data3.nama +`.webp">
+                                        <div> 
+                                            <p class="fw-bold">`+ data3.nama +`</p>
+                                            <p>Umami</p>
+                                        </div>
+                                    </div>
+                                    <div class="my-3">
+                                        <p class="mb-3 fw-bold">Bahan Masakan :</p>
+                                        <ul class="semua-bahan resep-umami-sr-`+ i +`">
+                                        </ul>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <button class="mulai-masak">
+                                            Mulai Masak
+                                            <img src="../assets/icon/fire.svg">
+                                        </button>
+                                        <img src="../assets/icon/Time.svg">
+                                        <span class="waktu-masak">15 Menit</span>
+                                    </div>
+                                </div>
+                            </div>
+                            `);
+                        }
+                    });
+                    // Membuat Kartu
+                    // Menambah bahan
+                    $.each(data2, function(a,data3){
+                        if(data == data3.nama){
+                            $.each(data3.semua_bahan, function(i,data4){
+                                $('.resep-umami-sr-'+a).append(`
+                                    <li>`+ data4.bahan +` `+ data4.jumlah +` `+ data4.satuan +`</li>
+                                `);
+                            });
+                        }
+                    });
+                    // Menambah bahan
+                });
             });
-            $.each(unikrekomendasi, function(i,rekomen){
-                $('.rekomendasi').append(`
-                    <li>`+ rekomen +`</li>
-                `);
+            $.each(unikrekomendasi, function(i,data){
+                $.getJSON('../API/umami.json', function (data2){
+                    // Membuat Kartu
+                    $.each(data2, function(i,data3){
+                        if(data == data3.nama){
+                            $('.rekomendasi').append(`
+                            <div class="col-lg-4">
+                                <div class="list-resep">
+                                    <div class="d-flex align-items-center">
+                                        <img class="foto-makanan" src="../assets/umami/`+ data3.nama +`.webp">
+                                        <div> 
+                                            <p class="fw-bold">`+ data3.nama +`</p>
+                                            <p>Umami</p>
+                                        </div>
+                                    </div>
+                                    <div class="my-3">
+                                        <p class="mb-3 fw-bold">Bahan Masakan :</p>
+                                        <ul class="semua-bahan resep-umami-r-`+ i +`"></ul>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <button class="mulai-masak">
+                                            Mulai Masak
+                                            <img src="../assets/icon/fire.svg">
+                                        </button>
+                                        <img src="../assets/icon/Time.svg">
+                                        <span class="waktu-masak">15 Menit</span>
+                                    </div>
+                                </div>
+                            </div>
+                            `);
+                        }
+                    });
+                    // Membuat Kartu
+                    // Menambah bahan
+                    $.each(data2, function(a,data3){
+                        if(data == data3.nama){
+                            $.each(data3.semua_bahan, function(i,data4){
+                                $('.resep-umami-r-'+a).append(`
+                                    <li>`+ data4.bahan +` `+ data4.jumlah +` `+ data4.satuan +`</li>
+                                `);
+                            });
+                        }
+                    });
+                    // Menambah bahan
+                });
             });
-        }, 2500);
+        }, 1500);
         // UMAMI
 
         // ROYCO
@@ -235,25 +316,106 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 1700);
+        }, 1000);
         setTimeout(function() {
-            console.log(unique(sangatrekomendasi2));
-            console.log(unique(rekomendasi2));
-
             let uniksangatrekomendasi = unique(sangatrekomendasi2);
             let unikrekomendasi = unique(rekomendasi2);
             
             $.each(uniksangatrekomendasi, function(i,data){
-                $('.sangat-rekomendasi').append(`
-                    <li>`+ data +`</li>
-                `);
+                $.getJSON('../API/royco.json', function (data2){
+                    // Membuat Kartu
+                    $.each(data2, function(i,data3){
+                        if(data == data3.nama){
+                            $('.sangat-rekomendasi').append(`
+                            <div class="col-lg-4">
+                                <div class="list-resep">
+                                    <div class="d-flex align-items-center">
+                                        <img class="foto-makanan" src="../assets/royco/`+ data3.nama +`.webp">
+                                        <div> 
+                                            <p class="fw-bold">`+ data3.nama +`</p>
+                                            <p>Royco</p>
+                                        </div>
+                                    </div>
+                                    <div class="my-3">
+                                        <p class="mb-3 fw-bold">Bahan Masakan :</p>
+                                        <ul class="semua-bahan resep-royco-sr-`+ i +`">
+                                        </ul>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <button class="mulai-masak">
+                                            Mulai Masak
+                                            <img src="../assets/icon/fire.svg">
+                                        </button>
+                                        <img src="../assets/icon/Time.svg">
+                                        <span class="waktu-masak">`+ data3.waktu +`</span>
+                                    </div>
+                                </div>
+                            </div>
+                            `);
+                        }
+                    });
+                    // Membuat Kartu
+                    // Menambah bahan
+                    $.each(data2, function(a,data3){
+                        if(data == data3.nama){
+                            $.each(data3.semua_bahan, function(i,data4){
+                                $('.resep-royco-sr-'+a).append(`
+                                    <li>`+ data4.bahan +` `+ data4.jumlah +` `+ data4.satuan +`</li>
+                                `);
+                            });
+                        }
+                    });
+                    // Menambah bahan
+                });
             });
-            $.each(unikrekomendasi, function(i,rekomen){
-                $('.rekomendasi').append(`
-                    <li>`+ rekomen +`</li>
-                `);
+            $.each(unikrekomendasi, function(i,data){
+                $.getJSON('../API/royco.json', function (data2){
+                    // Membuat Kartu
+                    $.each(data2, function(i,data3){
+                        if(data == data3.nama){
+                            $('.rekomendasi').append(`
+                            <div class="col-lg-4">
+                                <div class="list-resep">
+                                    <div class="d-flex align-items-center">
+                                        <img class="foto-makanan" src="../assets/royco/`+ data3.nama +`.webp">
+                                        <div> 
+                                            <p class="fw-bold">`+ data3.nama +`</p>
+                                            <p>Royco</p>
+                                        </div>
+                                    </div>
+                                    <div class="my-3">
+                                        <p class="mb-3 fw-bold">Bahan Masakan :</p>
+                                        <ul class="semua-bahan resep-royco-r-`+ i +`">
+                                        </ul>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <button class="mulai-masak">
+                                            Mulai Masak
+                                            <img src="../assets/icon/fire.svg">
+                                        </button>
+                                        <img src="../assets/icon/Time.svg">
+                                        <span class="waktu-masak">`+ data3.waktu +`</span>
+                                    </div>
+                                </div>
+                            </div>
+                            `);
+                        }
+                    });
+                    // Membuat Kartu
+                    // Menambah bahan
+                    $.each(data2, function(a,data3){
+                        if(data == data3.nama){
+                            $.each(data3.semua_bahan, function(i,data4){
+                                $('.resep-royco-r-'+a).append(`
+                                    <li>`+ data4.bahan +` `+ data4.jumlah +` `+ data4.satuan +`</li>
+                                `);
+                            });
+                        }
+                    });
+                    // Menambah bahan
+                });
             });
-        }, 2700);
+        }, 1500);
         // ROYCO
     };
 });
