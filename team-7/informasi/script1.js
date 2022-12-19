@@ -11,7 +11,7 @@ $.getJSON('../API/reptile.json', function (data){
                         <p class="card-text">Lokasi : `+ data2.Lokasi +`</p>
                         <p class="card-text">Ukuran Tubuh : `+ data2.UkuranTubuh +`</p>
                         <p class="card-text">Panjang Ekor : `+ data2.PanjangEkor +`</p>
-                        <p class="card-text">Berat : `+ data2.Berat +`</p>
+                        <p class="card-text">Berat : ` + data2.Berat + ` ` + data2.Satuan + `</p>
                         <p class="card-text">Golongan : `+ data2.Golongan +`</p>
                         <p class="card-text">Tipe Kulit : `+ data2.TipeKulit +`</p>
                         <p class="card-text">Warna : `+ data2.Warna +`</p>
