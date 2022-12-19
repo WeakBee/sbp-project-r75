@@ -170,6 +170,59 @@ p{
 #second .waktu-masak{
     color: #A8A8A8;
 }
+
+
+/* POPUP */
+#popup{
+    position: fixed;
+    z-index: 100;
+    background: rgba(0, 0, 0, 0.247);
+    width: 100vw;
+    height: 100vh;
+}
+#popup .container{
+    background-color: white;
+    border-radius: 15px;
+    padding: 0;
+    overflow: hidden;
+}
+#popup .container img{
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 0 0 15px 15px;
+}
+#popup .judul-deskripsi{
+    font-weight: 700;
+}
+#popup .deskripsi{
+    padding: 25px;
+}
+#popup .deskripsi-resep-kotak-list{
+    max-height: 200px;
+    overflow: auto;
+}
+/* width */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+/* POPUP */
 @media (min-width: 991.98px) {
     .kolom-kategori .kartu-kategori:hover{
         background-color: white;
