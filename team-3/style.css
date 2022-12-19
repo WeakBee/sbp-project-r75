@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,700&display=swap');
+
+:root {
+    --warna1: #1A202C;
+    --warna2: #61D2F2;
+    --warna3: #4299E1;
+    --warna4:  #E8C145;
+    --warna5: #c49b16;
+    --warna6: #22333b;
+    --warna7: #0a0908;
+    --warna8: #252525;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Navbar */
+
+.navbar .container{
+    position: relative;
+    padding-bottom: 15px;
+}
+.navbar-brand {
+    color: var(--warna8);
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+a.nav-link {
+    color: var(--warna8);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+/* Hero Section */
+/* form .button {
+    background: var(--warna4);
+    border-radius: 16px;
+    border-color: var(--warna4);
+    font-weight: 500;
+    width: 30%;
+    border: none;
+}
+
+form .button:hover{
+    background: var(--warna5);
+    border-color: var(--warna5);
+}
+
+.img-hero {
+    height: 100%;
+} */
+
+/* .home{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background:url(./assets/hero-section.webp) ;
+    background-size: cover;
+    background-position: center;
+} */
