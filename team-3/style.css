@@ -36,36 +36,8 @@ a.nav-link {
     font-weight: 400;
 }
 
-
-/* Hero Section */
-/* form .button {
-    background: var(--warna4);
-    border-radius: 16px;
-    border-color: var(--warna4);
-    font-weight: 500;
-    width: 30%;
-    border: none;
-}
-
-form .button:hover{
-    background: var(--warna5);
-    border-color: var(--warna5);
-}
-
-.img-hero {
-    height: 100%;
-} */
-
-/* .home{
-    display: flex;
-    align-items: center;
-    min-height: 100vh;
-    background:url(./assets/hero-section.webp) ;
-    background-size: cover;
-    background-position: center;
-} */
-
-
-.card img {
-    height: fit-content;
+/* Container Rekomendasi */
+.container .card {
+    background-color: #F7F7F7;
+    border-radius: 10px;
 }
