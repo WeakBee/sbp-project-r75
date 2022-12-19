@@ -293,7 +293,7 @@
         "Album" : "The Piper at the Gates of Dawn",
         "Judul" : "Astronomy Domine",
         "Tahun" : "1967" ,
-        "Gambar" : "" 
+        "Gambar" : "1" 
 			
 	},
 	{
@@ -302,7 +302,7 @@
         "Album" : "Disraeli Gears ",
         "Judul" : "Sunshine Of Your Love",
         "Tahun" : "1967",
-        "Gambar" : ""  
+        "Gambar" : "2"  
 			
 	},
 	{
@@ -311,7 +311,7 @@
         "Album" : "The Psychedelic Sounds of the 13th Floor Elevators",
         "Judul" : "You’re Gonna Miss Me",
         "Tahun" : "1966",
-        "Gambar" : ""  
+        "Gambar" : "3"  
 			
 	},
 	{
@@ -320,7 +320,7 @@
         "Album" : "Ice, Death, Planets, Lungs, Mushrooms, And Lava",
         "Judul" : "Magma",
         "Tahun" : "2022" ,
-        "Gambar" : "" 
+        "Gambar" : "4" 
 			
 	},
 	{
@@ -329,16 +329,16 @@
         "Album" : "Magical Mystery Tour",
         "Judul" : "Strawberry Fields Foreve",
         "Tahun" : "1967" ,
-        "Gambar" : "" 
+        "Gambar" : "5" 
 			
 	},
 	{
         "SUBGENRE" : "Psychedelic Rock",
         "Band"  : "Psychedelic Porn Crumpets",
-        "Album" : "High Viscreal, Pt. 1",
+        "Album" : "High Visceral, Pt. 1",
         "Judul" : "Cornflake",
         "Tahun" : "2016",
-        "Gambar" : ""  
+        "Gambar" : "6"  
 			
 	},
 	{
@@ -367,15 +367,7 @@
         "Tahun" : "1970",
         "Gambar" : ""  
 			
-	},
-	{
-        "SUBGENRE" : "Psychedelic Rock",
-        "Band"  : "SAS GROUP",
-        "Album" : "Baby Rock",
-        "Judul" : "Baby Rock",
-        "Tahun" : "1976",
-        "Gambar" : ""  
-			
+	
 	},
 	{
         "SUBGENRE" : "Psychedelic Rock",

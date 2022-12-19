@@ -5,7 +5,7 @@
         "Album" : "Self Titled",
         "Judul" : "Planet Earth",
         "Tahun" : "1981",
-        "Gambar" : "" 
+        "Gambar" : "nw1.jpg" 
             
     },
 	{
@@ -14,7 +14,7 @@
         "Album" : "Matraman",
         "Judul" : "Matraman",
         "Tahun" : "2004",
-        "Gambar" : "" 
+        "Gambar" : "nw2.jpg" 
 			
 	},
 	{
@@ -23,7 +23,7 @@
         "Album" : "Hatful Of Hollow",
         "Judul" : "Heaven Knows I'm Miserable Now",
         "Tahun" : "1984",
-        "Gambar" : "" 
+        "Gambar" : "nw3.jpg" 
 			
 	},
 	{   
@@ -32,7 +32,7 @@
         "Album" : "keep the faith",
         "Judul" : "Bed of roses",
         "Tahun" : "1992",
-        "Gambar" : ""  
+        "Gambar" : "pr1.jpg"  
             
     },
 	{
@@ -41,7 +41,7 @@
         "Album" : "Parachutes",
         "Judul" : "yellow",
         "Tahun" : "2000",
-        "Gambar" : ""  
+        "Gambar" : "pr2.jpg"  
 			
 	},
 	{
@@ -50,7 +50,7 @@
         "Album" : "The Reason|single|",
         "Judul" : "The Reason",
         "Tahun" : "2004",
-        "Gambar" : ""  
+        "Gambar" : "pr3.jpg"  
 			
 	},
 	{   
@@ -59,7 +59,7 @@
         "Album" : "Celebration",
         "Judul" : "Material Girl",
         "Tahun" : "2009",
-        "Gambar" : ""  
+        "Gambar" : "d1.jpg"  
             
     },
 	{
@@ -68,7 +68,7 @@
         "Album" : "off the wall",
         "Judul" : "Don’t Stop ’til You Get Enough",
         "Tahun" : "1979",
-        "Gambar" : ""  
+        "Gambar" : "d2.jpg"  
 			
 	},
 	{
@@ -77,7 +77,7 @@
         "Album" : "Dreamland",
         "Judul" : "Ride On Time",
         "Tahun" : "1990",
-        "Gambar" : ""  
+        "Gambar" : "d3.jpg"  
 			
 	},
 	{   
@@ -86,7 +86,7 @@
         "Album" : "In the lonely hour",
         "Judul" : "i'm not the only one",
         "Tahun" : "2014" ,
-        "Gambar" : "" 
+        "Gambar" : "pb1.jpg" 
             
     },
 	{
@@ -95,7 +95,7 @@
         "Album" : "Delirium",
         "Judul" : "Love Me Like You Do",
         "Tahun" : "2015",
-        "Gambar" : ""  
+        "Gambar" : "pb2.jpg"  
 			
 	},
 	{
@@ -104,7 +104,7 @@
         "Album" : "X",
         "Judul" : "Thinking Out Loud",
         "Tahun" : "2014",
-        "Gambar" : ""  
+        "Gambar" : "pb3.jpg"  
 			
 	},
 	{   
@@ -113,7 +113,7 @@
         "Album" : "Ultraviolence",
         "Judul" : "Brooklyn Baby",
         "Tahun" : "2014",
-        "Gambar" : ""  
+        "Gambar" : "dmp1.jpg"  
             
     },
 	{
@@ -122,7 +122,7 @@
         "Album" : "Telisik",
         "Judul" : "Berdistraksi",
         "Tahun" : "2014",
-        "Gambar" : ""  
+        "Gambar" : "dmp2.jpg"  
 			
 	},
 	{
@@ -131,7 +131,7 @@
         "Album" : "Anything You Wan",
         "Judul" : "Anything You Wan",
         "Tahun" : "2022",
-        "Gambar" : ""  
+        "Gambar" : "dmp3.jpg"  
 			
 	},
 	{   
@@ -140,7 +140,7 @@
         "Album" : "1989",
         "Judul" : "Style",
         "Tahun" : "2014",
-        "Gambar" : ""  
+        "Gambar" : "sp1.jpg"  
             
     },
 	{
@@ -149,7 +149,7 @@
         "Album" : "witness",
         "Judul" : "Tsunami",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "sp2.jpg"  
 			
 	},
 	{
@@ -158,7 +158,7 @@
         "Album" : "Hurry Up , We Are Dreaming",
         "Judul" : "Midnight City",
         "Tahun" : "2011",
-        "Gambar" : ""  
+        "Gambar" : "sp3.jpg"  
 			
 	},
 	{   
@@ -167,7 +167,7 @@
         "Album" : "Memories…Do not open",
         "Judul" : "Something just like this",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "dp1.jpg"  
             
     },
 	{
@@ -176,7 +176,7 @@
         "Album" : "Scared To Be Lonely|single|",
         "Judul" : "Scared To Be Lonely",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "dp2.jpg"  
 			
 	},
 	{
@@ -185,7 +185,7 @@
         "Album" : "Purpose",
         "Judul" : "Sorry",
         "Tahun" : "2015",
-        "Gambar" : ""  
+        "Gambar" : "dp3.jpg"  
 			
 	},
 	{   
@@ -194,7 +194,7 @@
         "Album" : "|What's The Story| Morning Glory?",
         "Judul" : "Wonderwall",
         "Tahun" : "1995",
-        "Gambar" : ""  
+        "Gambar" : "bp1.jpg"  
             
     },
 	{
@@ -203,7 +203,7 @@
         "Album" : "Blur",
         "Judul" : "song 2",
         "Tahun" : "1997" ,
-        "Gambar" : "" 
+        "Gambar" : "bp2.jpg" 
 			
 	},
 	{
@@ -212,7 +212,7 @@
         "Album" : "UViva Hate",
         "Judul" : "suedehead",
         "Tahun" : "1988",
-        "Gambar" : ""  
+        "Gambar" : "bp3.jpg"  
 			
 	},
 	{   
@@ -221,7 +221,7 @@
         "Album" : "If You Know That I'm Lonely |single|",
         "Judul" : "If You Know That I'm Lonely",
         "Tahun" : "2017",
-        "Gambar" : "" 
+        "Gambar" : "ps1.jpg" 
             
     },
 	{
@@ -230,7 +230,7 @@
         "Album" : "Revolver",
         "Judul" : "For No One",
         "Tahun" : "1966",
-        "Gambar" : ""  
+        "Gambar" : "ps2.jpg"  
 			
 	},
 	{
@@ -239,7 +239,7 @@
         "Album" : "The Great Prentenders",
         "Judul" : "Heart Of Stone",
         "Tahun" : "2015",
-        "Gambar" : ""  
+        "Gambar" : "ps3.jpg"  
 			
 	},
 	{   
@@ -248,7 +248,7 @@
         "Album" : "Enema Of The State",
         "Judul" : "All The Small Things",
         "Tahun" : "1999",
-        "Gambar" : "" 
+        "Gambar" : "pp1.jpg" 
             
     },
 	{
@@ -257,7 +257,7 @@
         "Album" : "Dookie",
         "Judul" : "Basket case",
         "Tahun" : "1994",
-        "Gambar" : ""  
+        "Gambar" : "pp2.jpg"  
 			
 	},
 	{
@@ -266,7 +266,7 @@
         "Album" : "Paramore",
         "Judul" : "Still into you",
         "Tahun" : "2013",
-        "Gambar" : ""  
+        "Gambar" : "pp3.jpg"  
 		
     }		
 ]
