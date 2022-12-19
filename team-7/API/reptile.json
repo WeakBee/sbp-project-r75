@@ -86,7 +86,7 @@
     },
     {   
         "Nama" : "Penyu Lekang",
-        "Habitat" : "Air Asin",
+        "Habitat" : "Laut",
         "Lokasi": "Jawa",
         "UkuranTubuh" : "75 CM",
         "PanjangEkor" : "-",
@@ -169,7 +169,7 @@
     },
     {   
         "Nama" : "Penyu Hijau",
-        "Habitat" : "Air Asin",
+        "Habitat" : "Laut",
         "Lokasi": "Aceh",
         "UkuranTubuh" : 120,
         "PanjangEkor" : "-",
