@@ -6,8 +6,7 @@
       {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
       {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"},
     ],
-    "obat"   : ["panadol"]
-  
+    "obat"   : ["Emolien","clobetasol","methotrexate"]
     },
     {
       "nama_penyakit" : "Veruca",
@@ -16,8 +15,7 @@
         {"gejala" : "Papula tumbuh menonjol"},
         {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
       ],
-      "obat"   : ["panadol"]
-
+      "obat"   : ["Callusol","Kutilos","Maddebic Oil De Nature"]
      },
    {
     "nama_penyakit" : "Varicella",
@@ -28,7 +26,7 @@
       {"gejala" : "Perasaan tidak enak dengan vesikel pada kulit"},
       {"gejala" : "Nafsu makan hilang"}
     ],
-    "obat"   : ["panadol"]
+    "obat"   : ["Loratadine","Cetirizine","Fexofenade"]
    },
    {
     "nama_penyakit" : "Eksim",
@@ -39,7 +37,7 @@
       {"gejala" : "Kulit menebal"},
       {"gejala" : "Kulit keropeng"}
     ],
-    "obat"   : ["panadol"]
+    "obat"   : ["Ketoconazole Hexpharm Krim","Atopiclair Lotion","Centabio Gel"]
    },
    {
     "nama_penyakit" : "Vitilogi",
@@ -47,7 +45,8 @@
       {"gejala" : "Adanya macula hipopigmentasi (kelainan kuit dimana kulit warnanya putih datar tidak meninggi disbanding kulit sehat sekitrnya) pada kulit yang asimtomatik"},
       {"gejala" : "Timbulnya bercak-bercak halus berwarna putih dikulit"},
       {"gejala" : "Kulit terlihat bintik-bintik melebar, putih dan licin"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Herpes",
@@ -57,7 +56,8 @@
       {"gejala" : "Sesak nafas"},
       {"gejala" : "Nyeri dipersendian atau pegal disatu bagian tubuh"},
       {"gejala" : "Munculnya bitnik kemerahan pada kulit yang akhirnya membentuk sebuah gelembung cair"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Kusta",
@@ -66,7 +66,8 @@
       {"gejala" : "Bagian yang besar dapat mengganggu seluruh tungkai, dan gangguan saraf tepi dengan kelemahan dan kehilangan rasa rangsang"},
       {"gejala" : "Satu atau lebih hipopigmentasi makua kulit dan bagian yang tidak berasa (anestetik)"},
       {"gejala" : "Lesi, nodul, plak kulit sinetris, dermis kulit yang menipis"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Infeksi Jamur Kandida",
@@ -74,7 +75,8 @@
       {"gejala" : "Ditemukannya plak-plak (noda-noda) yang mudah diberihkan yang didapati pada dinding bagian dalam mulut, langit-langit, dan kerongkongan"},
       {"gejala" : "Kulit mengalami retakk-retak dan nyeri pada kulit di sudut mulut (angular cheilitis)"},
       {"gejala" : "Menebalnya kuku dan bahkan dapat tanggal sendiri"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Scabies",
@@ -84,7 +86,8 @@
       {"gejala" : "Rasa gatal disekitar telinga"},
       {"gejala" : "Dipinggiran daun telinga terlihat ada kerak berwarna putih"},
       {"gejala" : "Penebalan dan keriput pada kulit ditutupi oleh kerak-kerak berwarna abu-abu kekuningan"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Serkarial Dermatis",
@@ -94,7 +97,8 @@
       {"gejala" : "Timbul makula pada kulit dalam 12 jam berikutnya, pada mereka yang kurang sensitive makula akan segera hilang"},
       {"gejala" : "Edema disekitar kulit yang terkena"},
       {"gejala" : "Vesikula kemudian dapat menjadi pustula apabila telah terjadi infeksi bakterial sekunder"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Jerawat",
@@ -102,7 +106,8 @@
       {"gejala" : "Komedo di sekitar hidung"},
       {"gejala" : "Benjolan kecil merah disertai nanah"},
       {"gejala" : "Benjolan padat dan menggembung di kulit"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -111,7 +116,8 @@
       {"gejala" : "Kesemutan pada beberapa bagian kulit kepala"},
       {"gejala" : "Pigmen rambut menjadi putih bahkan ketika penderita masih muda"},
       {"gejala" : "Rambut rontok, dengan karakter rambut kecil dan tumbuh meruncing ke atas"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -120,7 +126,8 @@
       {"gejala" : "Kulit menjadi terbakar karena terkena sinar matahari langsung"},
       {"gejala" : "Kulit melepuh dan sangat gatal"},
       {"gejala" : "Timbul bercak kemerahan yang parah dan urin berwarna coklat"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -129,7 +136,8 @@
       {"gejala" : "Gatal parah di bagian kaki dan di sekitar sela jari kaki"},
       {"gejala" : "Gatal parah pada kaki yang sering disertai dengan sensasi terbakar"},
       {"gejala" : "Jika digaruk bisa menyebabkan borok atau luka basah pada bagian tersebut"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -138,7 +146,8 @@
       {"gejala" : "Terdapat bercak-bercak putih di kulit"},
       {"gejala" : "Terasa gatal saat berkeringat"},
       {"gejala" : "Kulit kering dan bersisik"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -147,7 +156,8 @@
       {"gejala" : "Ditandai dengan panas tubuh demam"},
       {"gejala" : "Batuk dan pilek"},
       {"gejala" : "Timbul bercak pada kulit"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -156,7 +166,8 @@
       {"gejala" : "Sakit kepala atau demam"},
       {"gejala" : "Tidak selera makan"},
       {"gejala" : "Mual-mual dan mudah lelah"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -165,7 +176,8 @@
       {"gejala" : "Peradangan dibawah kulit"},
       {"gejala" : "Kulit kemerahan yang berpotensi menyebar"},
       {"gejala" : "Kulit bernanah atau berair (muncul cairan berwarna kuning atau bening)"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -174,7 +186,8 @@
       {"gejala" : "Kuku yang tumbuh kedalam"},
       {"gejala" : "Bengkak"},
       {"gejala" : "Terasa nyeri"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Ring Worm",
@@ -182,7 +195,8 @@
       {"gejala" : "Kurap lingkaran dan bercak-bercak putih"},
       {"gejala" : "Kulit tebal"},
       {"gejala" : "Berair dan gatal-gatal"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -191,7 +205,8 @@
       {"gejala" : "Sangat gatal dimalam hari"},
       {"gejala" : "Bentukan lesi kulit berbentuk bentolan (blister), terowongan (burrow), borok atau lesi kulit berbentuk krusta pada scabies tipe krustosa"},
       {"gejala" : "Gatal dengan predileksi di sela-sela jari dan pergelangan tangan, permukaan luar siku dan ketiak, perut dan pusar, bokong dan selangkangan, puting susu, garis bra, payudara wanita, serta alat kelamin"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -200,7 +215,8 @@
       {"gejala" : "Terdapat benjolan"},
       {"gejala" : "Melepuh"},
       {"gejala" : "Ruam pada kulit"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -209,7 +225,8 @@
       {"gejala" : "Timbul peradangan"},
       {"gejala" : "Terasa gatal"},
       {"gejala" : "Warna kulit memerah"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -218,7 +235,8 @@
       {"gejala" : "Kulit benar-benar kering"},
       {"gejala" : "Suhu tubuh yang rendah (hipotermia)"},
       {"gejala" : "Sulit bernapas akibat kulit dada yang tidak elastis"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -227,7 +245,8 @@
       {"gejala" : "Terdapat benjolan"},
       {"gejala" : "Jika ditekan bergesar dan lembek"},
       {"gejala" : "Dapat tumbuh menjadi lebih besar, dari sebesar kelereng hingga sebesar bola pingpong"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -236,7 +255,8 @@
       {"gejala" : "Turun berat badan"},
       {"gejala" : "Demam tinggi"},
       {"gejala" : "Gatal-gatal dibagian yang terdampak"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -245,7 +265,8 @@
       {"gejala" : "Timbul di sekitar mata"},
       {"gejala" : "Warna kekuningan"},
       {"gejala" : "Gumpalan yang terjadi pada salah satu mata dapat bertambah seiring berjalannya waktu"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -254,7 +275,8 @@
       {"gejala" : "Kulit kebiruan dan mengkilap"},
       {"gejala" : "Membran konjungtiva pada mata"},
       {"gejala" : "Membran mukosa (lapisan kulit dalam)"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -262,8 +284,9 @@
     "gejala_penyakit" : [
       {"gejala" : "Penumpukan lemak di makrofag kekebalan kulit"},
       {"gejala" : "Gumpalan lemak ini berkembang pada bagian tubuh, seperti lutut, siku, dan tumit"},
-      {"gejala" : "Benjolan-benjolan kecil berukuran 2‒5 mm dengan tepian berwarna merah umumnya muncul pada bokong atau bahu"}
-    ]
+      {"gejala" : "Benjolan-benjolan kecil berukuran 2-5 mm dengan tepian berwarna merah umumnya muncul pada bokong atau bahu"}
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -272,7 +295,8 @@
       {"gejala" : "Peka terhadap cahaya"},
       {"gejala" : "Perubahan warna kulit"},
       {"gejala" : "Terasa terbaka saat terkena UV"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -281,7 +305,8 @@
       {"gejala" : "Terdapat bekas gigitan serangga"},
       {"gejala" : "Kuning pada kulit dan mata"},
       {"gejala" : "Mual dan muntah"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -290,7 +315,8 @@
       {"gejala" : "Bintik-bintik kecil"},
       {"gejala" : "Luka-luka pada tangan, kaki bahkan mulut"},
       {"gejala" : "Demam"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -299,7 +325,8 @@
       {"gejala" : "Kulit mengeras seperti kulit pohon"},
       {"gejala" : "Bercak besar pada kulit yang terangkat dan meradang (plak)"},
       {"gejala" : "Lesi kecil berwarna cokelat yang menyerupai koreng"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 
@@ -309,7 +336,8 @@
       {"gejala" : "Tumbuh benjolan pada seluruh tubuh"},
       {"gejala" : "Bintik di daerah ketiak atau lipatan badan"},
       {"gejala" : "Benjolan di bawah kulit yang lunak, berukuran sebesar kacang polong. Dapat tumbuh di dalam bagian tubuh yang lain"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Akantosis Nigrikans",
@@ -317,7 +345,8 @@
       {"gejala" : "Kulit menjadi hitam"},
       {"gejala" : "Penebalan Pada Kulit"},
       {"gejala" : "Tekstur kulit menjadi kasar atau seperti kain beludru"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -326,7 +355,8 @@
       {"gejala" : "Kulit bersisik"},
       {"gejala" : "Iritasi"},
       {"gejala" : "Perubahan warna pada kuku"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -335,7 +365,8 @@
       {"gejala" : "Terdapat benjolan kemerahan"},
       {"gejala" : "Ruam berbentuk lingkaran"},
       {"gejala" : "Lesi terjadi paling sering pada tangan, kaki, pergelangan tangan dan pergelangan kaki orang dewasa muda"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -344,7 +375,8 @@
       {"gejala" : "Kulit jadi pucat berwarna putih atau coklat"},
       {"gejala" : "Jari tangan atau jari kaki berubah menjadi pucat akibat berkurangnya aliran darah"},
       {"gejala" : "Jari tangan atau jari kaki berubah membiru karena kurangnya pasokan oksigen. Pada tahap ini, jari-jari akan terasa dingin dan mati rasa"}
-      1]
+     ],
+     "obat"   : ["panadol"]
    },
 
 {
@@ -353,7 +385,8 @@
       {"gejala" : "Menimbulkan rasa gatal-gatal pada kulit"},
       {"gejala" : "Terdapat bintil-bintil kecil yang mengumpul"},
       {"gejala" : "Kulit jadi kemerahan"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -362,7 +395,8 @@
       {"gejala" : "Ruam merah pada kulit"},
       {"gejala" : "Munculnya lesi kulit berwarna ungu"},
       {"gejala" : "Kulit yang bersisik, menebal, dan terasa gatal"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -371,7 +405,8 @@
       {"gejala" : "Muncul ruam"},
       {"gejala" : "Melepuh"},
       {"gejala" : "Bintik-bintik merah dan keluar air"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -380,7 +415,8 @@
       {"gejala" : "Demam"},
       {"gejala" : "Keluar ruam pada wajah dan menyebar keseluruh tubuh"},
       {"gejala" : "Nyeri sendi"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -389,7 +425,8 @@
       {"gejala" : "Keluar bintik-bintik kecil"},
       {"gejala" : "Terasa gatal dan perih"},
       {"gejala" : "Ada titik kecil berwarna putih kekuningan di tengah bintil"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -398,7 +435,8 @@
       {"gejala" : "tumbuh beberapa bisul yang menyatu"},
       {"gejala" : "Membengkak"},
       {"gejala" : "Terasa nyeri"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -407,7 +445,8 @@
       {"gejala" : "Terasa gatal pada bagian tertentu"},
       {"gejala" : "Ruam yang disebabkan oleh reaksi alergi terhadap gigitan kutu"},
       {"gejala" : "Tonjolan merah pada kulit"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -416,7 +455,8 @@
       {"gejala" : "Tumbuh rambut lebat diseluruh tubuh dari kaki sampai kepala"},
       {"gejala" : "Hemophilia lipatan nasolabial"},
       {"gejala" : "Pertumbuhan alis yang berlebihan (fusion)"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -425,7 +465,8 @@
       {"gejala" : "Kemunculan bentol-bentol"},
       {"gejala" : "Terasa terbakar dan perih"},
       {"gejala" : "Timbul Bercak-bercak Merah"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -434,7 +475,8 @@
       {"gejala" : "Infeksi jamur atau bakteri"},
       {"gejala" : "Muncul Bintik-bintik kecil berisi cairan"},
       {"gejala" : "Bisa disertai pembengkakan kelenjar getah bening yang ditandai dengan munculnya benjolan di bawah ketiak"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -443,7 +485,8 @@
       {"gejala" : "Kulit terasa gatal"},
       {"gejala" : "Nyeri bila terjadi gesekan dan berwarna merah"},
       {"gejala" : "Sensasi terbakar"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
 
 {
@@ -452,7 +495,8 @@
       {"gejala" : "Infeksi Jamur di lidah, mulut, kelamin, dan anus"},
       {"gejala" : "Pembengkakan kelenjar getah bening, di ketiak, leher, dan selangkangan"},
       {"gejala" : "Mudah memar atau berdarah"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "",
@@ -460,7 +504,8 @@
       {"gejala" : ""},
       {"gejala" : ""},
       {"gejala" : ""}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "",
