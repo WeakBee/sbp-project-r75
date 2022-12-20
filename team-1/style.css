@@ -119,36 +119,6 @@ a{
 #first .kolom-kanan{
     position: relative;
 }
-#first .cooking-image{
-    width: 250px;
-    position: absolute;
-    top: -120px;
-    transform: rotate(20deg);
-    transition: 0.3s;
-}
-#first .cooking-image:hover{
-    transform: scale(1.2);
-}
-#first .cooking-image2{
-    width: 180px;
-    position: absolute;
-    top: 90px;
-    left: 230px;
-    transition: 0.3s;
-}
-#first .cooking-image2:hover{
-    transform: scale(1.2);
-}
-#first .cooking-image3{
-    width: 100px;
-    position: absolute;
-    top: 0px;
-    left: 430px;
-    transition: 0.3s;
-}
-#first .cooking-image3:hover{
-    transform: rotate(-20deg) scale(1.2);
-}
 
 /* First */
 
@@ -172,18 +142,31 @@ a{
     top: -510px;
     width: 100px;
     margin-right: 800px;
+    animation: float 3s ease-in-out infinite;
 }
 #second .img-3{
     top: -400px;
     margin-left: 700px;
+    animation: float 5s ease-in-out infinite;
 }
 #second .img-4{
     top: -300px;
     margin-right: 700px;
+    animation: float 7s ease-in-out infinite;
 }
-#second .images:hover{
-    transform: scale(1.1) rotate(10deg);
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
 }
+
 @media (max-width: 991.98px) {
     #first .kolom-kiri {
         position: relative;
