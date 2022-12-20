@@ -4,8 +4,10 @@
     "gejala_penyakit" : [
       {"gejala" : "Banyak kemerahan pada kulit"},
       {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
-      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"}
-    ]
+      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"},
+    ],
+    "obat"   : ["panadol"]
+  
     },
     {
       "nama_penyakit" : "Veruca",
@@ -13,7 +15,9 @@
         {"gejala" : "Adanya papula (penonjolan padat berbatas tegas di permukaan kulit dengan diameter < 1 cm) kecil seukuran kepala jarum"},
         {"gejala" : "Papula tumbuh menonjol"},
         {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
-      ]
+      ],
+      "obat"   : ["panadol"]
+
      },
    {
     "nama_penyakit" : "Varicella",
@@ -23,7 +27,8 @@
       {"gejala" : "Lemas"},
       {"gejala" : "Perasaan tidak enak dengan vesikel pada kulit"},
       {"gejala" : "Nafsu makan hilang"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Eksim",
@@ -33,7 +38,8 @@
       {"gejala" : "Kulit terasa kering"},
       {"gejala" : "Kulit menebal"},
       {"gejala" : "Kulit keropeng"}
-    ]
+    ],
+    "obat"   : ["panadol"]
    },
    {
     "nama_penyakit" : "Vitilogi",
@@ -131,7 +137,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Terdapat bercak-bercak putih di kulit"},
       {"gejala" : "Terasa gatal saat berkeringat"},
-      {"gejala" : ""}
+      {"gejala" : "Kulit kering dan bersisik"}
     ]
    },
 
@@ -157,8 +163,8 @@
     "nama_penyakit" : "Selulitis",
     "gejala_penyakit" : [
       {"gejala" : "Peradangan dibawah kulit"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Kulit kemerahan yang berpotensi menyebar"},
+      {"gejala" : "Kulit bernanah atau berair (muncul cairan berwarna kuning atau bening)"}
     ]
    },
 
@@ -183,8 +189,8 @@
     "nama_penyakit" : "Gudik",
     "gejala_penyakit" : [
       {"gejala" : "Sangat gatal dimalam hari"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Bentukan lesi kulit berbentuk bentolan (blister), terowongan (burrow), borok atau lesi kulit berbentuk krusta pada scabies tipe krustosa"},
+      {"gejala" : "Gatal dengan predileksi di sela-sela jari dan pergelangan tangan, permukaan luar siku dan ketiak, perut dan pusar, bokong dan selangkangan, puting susu, garis bra, payudara wanita, serta alat kelamin"}
     ]
    },
 
@@ -210,8 +216,8 @@
     "nama_penyakit" : "Harlequin Ichthyosis",
     "gejala_penyakit" : [
       {"gejala" : "Kulit benar-benar kering"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Suhu tubuh yang rendah (hipotermia)"},
+      {"gejala" : "Sulit bernapas akibat kulit dada yang tidak elastis"}
     ]
    },
 
@@ -220,7 +226,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Terdapat benjolan"},
       {"gejala" : "Jika ditekan bergesar dan lembek"},
-      {"gejala" : ""}
+      {"gejala" : "Dapat tumbuh menjadi lebih besar, dari sebesar kelereng hingga sebesar bola pingpong"}
     ]
    },
 
@@ -238,7 +244,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Timbul di sekitar mata"},
       {"gejala" : "Warna kekuningan"},
-      {"gejala" : ""}
+      {"gejala" : "Gumpalan yang terjadi pada salah satu mata dapat bertambah seiring berjalannya waktu"}
     ]
    },
 
@@ -246,8 +252,8 @@
     "nama_penyakit" : "Argyria",
     "gejala_penyakit" : [
       {"gejala" : "Kulit kebiruan dan mengkilap"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Membran konjungtiva pada mata"},
+      {"gejala" : "Membran mukosa (lapisan kulit dalam)"}
     ]
    },
 
@@ -255,8 +261,8 @@
     "nama_penyakit" : "Xanthoma",
     "gejala_penyakit" : [
       {"gejala" : "Penumpukan lemak di makrofag kekebalan kulit"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Gumpalan lemak ini berkembang pada bagian tubuh, seperti lutut, siku, dan tumit"},
+      {"gejala" : "Benjolan-benjolan kecil berukuran 2‒5 mm dengan tepian berwarna merah umumnya muncul pada bokong atau bahu"}
     ]
    },
 
@@ -273,8 +279,8 @@
     "nama_penyakit" : "Zoonosis",
     "gejala_penyakit" : [
       {"gejala" : "Terdapat bekas gigitan serangga"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Kuning pada kulit dan mata"},
+      {"gejala" : "Mual dan muntah"}
     ]
    },
 
@@ -283,7 +289,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Bintik-bintik kecil"},
       {"gejala" : "Luka-luka pada tangan, kaki bahkan mulut"},
-      {"gejala" : ""}
+      {"gejala" : "Demam"}
     ]
    },
 
@@ -291,8 +297,8 @@
     "nama_penyakit" : "Epidermodysplasia Verruciformis",
     "gejala_penyakit" : [
       {"gejala" : "Kulit mengeras seperti kulit pohon"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Bercak besar pada kulit yang terangkat dan meradang (plak)"},
+      {"gejala" : "Lesi kecil berwarna cokelat yang menyerupai koreng"}
     ]
    },
 
@@ -301,8 +307,8 @@
     "nama_penyakit" : "Neurofibromatosis",
     "gejala_penyakit" : [
       {"gejala" : "Tumbuh benjolan pada seluruh tubuh"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Bintik di daerah ketiak atau lipatan badan"},
+      {"gejala" : "Benjolan di bawah kulit yang lunak, berukuran sebesar kacang polong. Dapat tumbuh di dalam bagian tubuh yang lain"}
     ]
    },
    {
@@ -310,7 +316,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Kulit menjadi hitam"},
       {"gejala" : "Penebalan Pada Kulit"},
-      {"gejala" : ""}
+      {"gejala" : "Tekstur kulit menjadi kasar atau seperti kain beludru"}
     ]
    },
 
@@ -328,7 +334,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Terdapat benjolan kemerahan"},
       {"gejala" : "Ruam berbentuk lingkaran"},
-      {"gejala" : ""}
+      {"gejala" : "Lesi terjadi paling sering pada tangan, kaki, pergelangan tangan dan pergelangan kaki orang dewasa muda"}
     ]
    },
 
@@ -336,9 +342,9 @@
     "nama_penyakit" : "Raunaud",
     "gejala_penyakit" : [
       {"gejala" : "Kulit jadi pucat berwarna putih atau coklat"},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
+      {"gejala" : "Jari tangan atau jari kaki berubah menjadi pucat akibat berkurangnya aliran darah"},
+      {"gejala" : "Jari tangan atau jari kaki berubah membiru karena kurangnya pasokan oksigen. Pada tahap ini, jari-jari akan terasa dingin dan mati rasa"}
+      1]
    },
 
 {
@@ -346,7 +352,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Menimbulkan rasa gatal-gatal pada kulit"},
       {"gejala" : "Terdapat bintil-bintil kecil yang mengumpul"},
-      {"gejala" : ""}
+      {"gejala" : "Kulit jadi kemerahan"}
     ]
    },
 
@@ -354,8 +360,8 @@
     "nama_penyakit" : "Psoriasis Inverse",
     "gejala_penyakit" : [
       {"gejala" : "Ruam merah pada kulit"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Munculnya lesi kulit berwarna ungu"},
+      {"gejala" : "Kulit yang bersisik, menebal, dan terasa gatal"}
     ]
    },
 
@@ -373,7 +379,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Demam"},
       {"gejala" : "Keluar ruam pada wajah dan menyebar keseluruh tubuh"},
-      {"gejala" : ""}
+      {"gejala" : "Nyeri sendi"}
     ]
    },
 
@@ -382,7 +388,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Keluar bintik-bintik kecil"},
       {"gejala" : "Terasa gatal dan perih"},
-      {"gejala" : ""}
+      {"gejala" : "Ada titik kecil berwarna putih kekuningan di tengah bintil"}
     ]
    },
 
@@ -399,8 +405,8 @@
     "nama_penyakit" : "Pedikulosis",
     "gejala_penyakit" : [
       {"gejala" : "Terasa gatal pada bagian tertentu"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Ruam yang disebabkan oleh reaksi alergi terhadap gigitan kutu"},
+      {"gejala" : "Tonjolan merah pada kulit"}
     ]
    },
 
@@ -408,8 +414,8 @@
     "nama_penyakit" : "Hypertrichosis",
     "gejala_penyakit" : [
       {"gejala" : "Tumbuh rambut lebat diseluruh tubuh dari kaki sampai kepala"},
-      {"gejala" : ""},
-      {"gejala" : ""}
+      {"gejala" : "Hemophilia lipatan nasolabial"},
+      {"gejala" : "Pertumbuhan alis yang berlebihan (fusion)"}
     ]
    },
 
@@ -427,7 +433,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Infeksi jamur atau bakteri"},
       {"gejala" : "Muncul Bintik-bintik kecil berisi cairan"},
-      {"gejala" : ""}
+      {"gejala" : "Bisa disertai pembengkakan kelenjar getah bening yang ditandai dengan munculnya benjolan di bawah ketiak"}
     ]
    },
 
@@ -436,7 +442,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Kulit terasa gatal"},
       {"gejala" : "Nyeri bila terjadi gesekan dan berwarna merah"},
-      {"gejala" : ""}
+      {"gejala" : "Sensasi terbakar"}
     ]
    },
 
