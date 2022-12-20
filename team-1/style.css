@@ -70,11 +70,19 @@ a{
 
 /* First */
 #first{
-    border-radius: 0 0 40px 40px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
 }
 #first .container{
-    padding-top: 30px;
     padding-bottom: 80px;
+}
+#first .kolom {
+    text-align: center;
 }
 #first h2{
     color: var(--warna1);
@@ -141,10 +149,7 @@ a{
 #first .cooking-image3:hover{
     transform: rotate(-20deg) scale(1.2);
 }
-#first .kolom {
-    text-align: center;
-    padding-top: 100px;
-}
+
 /* First */
 
 #second{
