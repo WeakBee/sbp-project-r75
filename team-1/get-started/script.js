@@ -477,4 +477,3 @@ $( "body" ).delegate( ".mulai-masak", "click", function() {
 $( ".close-popup" ).click(function() {
     $( "#popup" ).hide();
 });
-
