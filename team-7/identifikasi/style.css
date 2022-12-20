@@ -272,3 +272,62 @@ h3.judul-bahan-masakan{
 .kartu-kategori p{
     font-family: monospace;
 }
+
+
+.row-button{
+    justify-content: center;
+    padding: 0 20px;
+}
+.tombol-selesai{
+    padding: 20px 0px;
+    background-color: grey;
+    color: black;
+    border-radius: 15px;
+    font-weight: 700;
+    text-align: center;
+    cursor: no-drop;
+    font-family: monospace;
+}
+.tombol-selesai.nyala{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .container1 ::-webkit-scrollbar {
+    padding-right: 50%;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px transparent;
+    border-radius: 10px;
+  }
+
+  .container1 ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 0px transparent;
+  }
+  
+  
+  /* Handle */
+  .container1 ::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 10px;
+  }
+
+
+  .container1{
+    height: 51vh;
+    overflow-y: scroll;
+    width: 100%;
+  }
+
+  .row-button{
+    margin-top: 20px;
+  }

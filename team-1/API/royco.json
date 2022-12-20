@@ -3,6 +3,7 @@
         "nama" : "Tumis Kangkung",
         "jenis" : ["Sayur"],
         "waktu" : "25 Menit",
+        "deskripsi" : "Kangkung tumis atau kadang disebut tumis kangkung atau cah kangkung adalah hidangan sayur tumis yang lazim ditemukan dalam hidangan Asia. Kangkung digoreng tumis dengan campuran berbagai sayuran, bumbu, dan terkadang daging.",
         "semua_bahan" : [
             {"bahan" : "bawang merah","jumlah" : 5, "satuan" :"buah", "cat" : "Cincang Halus"},
             {"bahan" : "bawang putih","jumlah" : 3, "satuan" :"siung", "cat" : "Memarkan Cincang Halus" },
@@ -23,6 +24,7 @@
         "nama" : "Sayur Asem",
         "jenis" : ["Sayur"],
         "waktu" : "20 Menit",
+        "deskripsi" : "Sayur asam atau sayur asem adalah masakan sejenis sayur yang khas Indonesia. Ada banyak variasi lokal sayur asam seperti sayur asam Jakarta, sayur asam kangkung, dan sayur asam ikan asin.",
         "semua_bahan" : [
             {"bahan" : "air","jumlah" : 500, "satuan" :"ml", "cat" : ""},
             {"bahan" : "melinjo","jumlah" : 100, "satuan" :"gram", "cat" : "" },
@@ -44,6 +46,7 @@
         "nama" : "Opor Ayam",
         "jenis" : ["Lauk"],
         "waktu" : "45 Menit",
+        "deskripsi" : "Opor ayam adalah masakan Indonesia dari Jawa Tengah yang terdiri dari ayam yang dimasak dengan santan. Campuran bumbunya antara lain lengkuas, serai, kayu manis, air asam jawa, gula aren, ketumbar, jinten, kemiri, bawang putih, bawang merah, dan merica.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong 8 bagian, buang kulitnya"},
             {"bahan" : "santan encer", "jumlah" : 1, "satuan" : "L", "cat" : ""},
@@ -75,6 +78,7 @@
         "nama" : "Nasi Goreng Jamur",
         "jenis" : ["Nasi"],
         "waktu" : "30 Menit",
+        "deskripsi" : "Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk.",
         "semua_bahan" : [
             {"bahan" : "nasi putih", "jumlah" : 600, "satuan" : "gram", "cat" : ""},
             {"bahan" : "daging ayam giling", "jumlah" : 100, "satuan" : "gram", "cat" : ""},
@@ -96,6 +100,7 @@
         "nama" : "Capcay",
         "jenis" : ["Sayur"],
         "waktu" : "30 Menit",
+        "deskripsi" : "Capcai atau capcay adalah nama hidangan khas Tionghoa-Indonesia berupa banyak macam sayuran yang dimasak dengan cara direbus atau digoreng tumis. Capcai asal mulanya merupakan variasi dari hidangan khas Fujian. Nama capcai diambil dari dialek Hokkian yang secara harfiah berarti 'aneka ragam sayur'",
         "semua_bahan" : [
             {"bahan" : "wortel", "jumlah" : 150, "satuan" : "gram", "cat" : "Iris tipis"},
             {"bahan" : "kol putih", "jumlah" : 150, "satuan" : "gram", "cat" : "potong potong kecil seukuran gigitan"},
@@ -126,6 +131,7 @@
         "nama" : "Cumi Tumis Pakcoy",
         "jenis" : ["Lauk","Sayur"],
         "waktu" : "35 Menit",
+        "deskripsi" : "Cumi-cumi disantap dalam berbagai hidangan; dalam bahasa Inggris, nama kuliner calamari sering dipakai untuk hidangan -hidangan cumi-cumi selain juga dipakai untuk beberapa hidangan gurita, terutama cumi-cumi/gurita goreng.",
         "semua_bahan" : [
             {"bahan" : "pakcoy", "jumlah" : 250, "satuan" : "gram", "cat" : ""},
             {"bahan" : "cumi", "jumlah" : 2, "satuan" : "buah", "cat" : "ukuran 100 gram (sedang),iris tipis"},
@@ -150,6 +156,7 @@
         "nama" : "Ayam Goreng Lengkuas",
         "jenis" : ["Lauk"],
         "waktu" : "30 Menit",
+        "deskripsi" : "Ayam goreng adalah hidangan Indonesia yang merupakan ayam yang digoreng dalam minyak goreng. Dalam dunia internasional, istilah ayam goreng merujuk kepada cara Indonesia dalam memasak ayam yang digoreng. Kebanyakan ayam goreng khas Nusantara tidak dilapisi tepung, dan memiliki bumbu yang lebih kaya.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" : "ekor", "cat" : "(800 g) potong 8 bagian"},
             {"bahan" : "royco bumbu komplit ayam goreng", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
@@ -167,6 +174,7 @@
         "nama" : "Tumis Tempe",
         "jenis" : ["Lauk"],
         "waktu" : "30 Menit",
+        "deskripsi" : "Tempe atau tempe adalah makanan tradisional Indonesia yang terbuat dari kedelai yang difermentasi. Itu dibuat dengan kultur alami dan proses fermentasi terkontrol yang mengikat kedelai menjadi bentuk kue.",
         "semua_bahan" : [
             {"bahan" : "tempe", "jumlah" : 250, "satuan" : "gram", "cat" : "potong 3cm"},
             {"bahan" : "cabai merah", "jumlah" : 25, "satuan" : "gram", "cat" : "potong, goreng perlahan setengah matang"},
@@ -187,6 +195,7 @@
         "nama" : "Ayam Kuah Pedas",
         "jenis" : ["Lauk"],
         "waktu" : "60 Menit",
+        "deskripsi" : "Ayam adalah spesies ayam hutan peliharaan, dengan atribut spesies liar seperti ayam hutan abu-abu dan Ceylon yang berasal dari Asia Tenggara. Rooster atau ayam jantan adalah sebutan untuk burung jantan dewasa, dan jantan yang lebih muda bisa disebut ayam bujang. Jantan yang dikebiri adalah capon.",
         "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" : "ekor", "cat" : "potong (12 bagian)"},
             {"bahan" : "royco kaldu ayam", "jumlah" : 1, "satuan" : "bks", "cat" : ""},
@@ -215,6 +224,7 @@
         "nama" : "",
         "jenis" : [""],
         "waktu" : "",
+        "deskripsi" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" : "", "cat" : ""}
         ],

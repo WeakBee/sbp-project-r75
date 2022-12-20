@@ -12,7 +12,7 @@ $.getJSON('../API/Golongan.json', function (data){
     });
 });
 
-$.getJSON('../API/Habitat.json', function (data){
+$.getJSON('../API/Habitat1.json', function (data){
     // Membuat Kartu
     $.each(data, function(i,data){
         $('.row-habitat').append(`
@@ -25,7 +25,7 @@ $.getJSON('../API/Habitat.json', function (data){
     });
 });
 
-$.getJSON('../API/Warna.json', function (data){
+$.getJSON('../API/Warna1.json', function (data){
     // Membuat Kartu
     $.each(data, function(i,data){
         $('.row-warna').append(`
@@ -38,6 +38,18 @@ $.getJSON('../API/Warna.json', function (data){
     });
 });
 
+$.getJSON('../API/Tipekulit.json', function (data){
+    // Membuat Kartu
+    $.each(data, function(i,data){
+        $('.row-tipe').append(`
+        <div class="col-4 kolom-kategori">
+            <div class="kartu-kategori" tipe="`+ data.Tipe +`">
+            <p>`+ data.Tipe +`</p>
+            </div>
+        </div>
+        `);
+    });
+});
 
 
 $( ".row" ).delegate( ".kartu-kategori", "click", function() {
