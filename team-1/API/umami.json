@@ -2,6 +2,7 @@
     {
         "nama" : "Sayur Bayam",
         "jenis" : ["Sayur"],
+        "deskripsi" : "Sayur bayam atau sayur bening adalah sup sayur khas Indonesia yang terbuat dari sayuran, terutama bayam, dalam kuah bening yang diberi bumbu temu kunci. Biasanya disiapkan sebagai hidangan utama saat sarapan atau makan siang.",
         "semua_bahan" : [
             {"bahan" : "bayam","jumlah" : 2, "satuan" :"ikat", "cat" : ""},
             {"bahan" : "jagung","jumlah" : 1, "satuan" :"buah", "cat" : ""},
@@ -23,6 +24,7 @@
     {
         "nama" : "Ayam Goreng Sambal Terasi",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam goreng adalah hidangan Indonesia yang merupakan ayam yang digoreng dalam minyak goreng. Dalam dunia internasional, istilah ayam goreng merujuk kepada cara Indonesia dalam memasak ayam yang digoreng. Kebanyakan ayam goreng khas Nusantara tidak dilapisi tepung, dan memiliki bumbu yang lebih kaya.",
         "semua_bahan" : [
             {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : ""},
             {"bahan" : "sajiku bumbu ayam goreng","jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -51,6 +53,7 @@
     {
         "nama" : "Ikan Kembung Sambal Matah",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Kembung adalah nama sekelompok ikan laut yang tergolong ke dalam genus Rastrelliger, famili Scombridae. Meskipun bertubuh kecil, ikan ini masih sekerabat dengan tenggiri, tongkol, tuna, madidihang, dan makerel. Di Sumatra Barat dikenal sebagai ikan Gembolo/gambolo.",
         "semua_bahan" : [
             {"bahan" : "ikan kembung","jumlah" : 1, "satuan" :"kg", "cat" : "bersihkan lalu sayat"},
             {"bahan" : "jeruk limau","jumlah" : 3, "satuan" :"buah", "cat" : ""},
@@ -79,6 +82,7 @@
     {
         "nama" : "Soto Daging Santan Kuning",
         "jenis" : ["Soto"],
+        "deskripsi" : "Soto adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi dan daging ayam, tetapi ada pula yang menggunakan daging babi, daging kuda atau daging kambing.",
         "semua_bahan" : [
             {"bahan" : "daging","jumlah" : 300, "satuan" :"gr", "cat" : ""},
             {"bahan" : "santan","jumlah" : 100, "satuan" :"ml", "cat" : ""},
@@ -113,6 +117,7 @@
     {
         "nama" : "Tuna Sayur Krispi",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Tuna adalah ikan laut pelagik yang termasuk bangsa Thunnini, terdiri dari beberapa spesies dari famili skombride, terutama genus Thunnus. Ikan ini adalah perenang andal. Tidak seperti kebanyakan ikan yang memiliki daging berwarna putih, daging tuna berwarna merah muda sampai merah tua. ",
         "semua_bahan" : [
             {"bahan" : "ikan tuna","jumlah" : 170, "satuan" :"gr", "cat" : "cincang kasar"},
             {"bahan" : "Wortel","jumlah" : 70, "satuan" :"gr", "cat" : "cincang kasar"},
@@ -134,6 +139,7 @@
     {
         "nama" : "Sate Ayam Asam Manis",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi.",
         "semua_bahan" : [
             {"bahan" : "ayam fillet","jumlah" : 350, "satuan" :"gr", "cat" : "Dada atau Paha"},
             {"bahan" : "paprika hijau","jumlah" : 30, "satuan" :"gr", "cat" : ""},
@@ -164,6 +170,7 @@
     {
         "nama" : "Opor Ayam Khas Solo",
         "jenis" : ["Daerah","Lauk"],
+        "deskripsi" : "Opor ayam adalah masakan Indonesia dari Jawa Tengah yang terdiri dari ayam yang dimasak dengan santan. Campuran bumbunya antara lain lengkuas, serai, kayu manis, air asam jawa, gula aren, ketumbar, jinten, kemiri, bawang putih, bawang merah, dan merica.",
         "semua_bahan" : [
             {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : "(potong 10 bagian)"},
             {"bahan" : "santan kental","jumlah" : 300, "satuan" :"ml", "cat" : ""},
@@ -192,6 +199,7 @@
     {
         "nama" : "Tumis Ayam Sayur",
         "jenis" : ["Sayur"],
+        "deskripsi" : "Penumisan adalah teknik memasak cepat dengan menggunakan sedikit minyak dan api besar, biasanya untuk bumbu. Kegiatan ini disebut menumis dan hasilnya disebut sebagai tumisan atau tumis saja. Dalam menumis, bahan yang dimasak dipotong-potong kecil atau dimemarkan terlebih dahulu agar panas cepat masuk. ",
         "semua_bahan" : [
             {"bahan" : "kembang kol","jumlah" : 100, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sawi putih","jumlah" : 150, "satuan" :"gr", "cat" : ""},
@@ -215,6 +223,7 @@
     {
         "nama" : "Ayam Crispy Saus Madu",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam goreng renyah adalah hidangan standar dalam masakan Kanton di Cina selatan dan Hong Kong. Ayamnya digoreng sedemikian rupa sehingga kulitnya sangat renyah, tetapi daging putihnya relatif lembut.",
         "semua_bahan" : [
             {"bahan" : "ayam fillet","jumlah" : 2, "satuan" :"ptg", "cat" : "paha potong kecil / 3cm"},
             {"bahan" : "sajiku tepung serbaguna","jumlah" : 80, "satuan" :"gr", "cat" : "sisihkan 4 sdm dan larutkan dengan 8 sdm air es untuk adonan basah"},
@@ -235,6 +244,7 @@
     {
         "nama" : "Ayam Cordon Bleu",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Cordon bleu atau schnitzel cordon bleu adalah hidangan daging yang dibungkus dengan keju, kemudian dilapisi tepung roti dan digoreng atau digoreng.",
         "semua_bahan" : [
             {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
             {"bahan" : "keju", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
@@ -254,6 +264,7 @@
     {
         "nama" : "Ayam Goreng Keju",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam goreng adalah hidangan Indonesia yang merupakan ayam yang digoreng dalam minyak goreng. Dalam dunia internasional, istilah ayam goreng merujuk kepada cara Indonesia dalam memasak ayam yang digoreng. Kebanyakan ayam goreng khas Nusantara tidak dilapisi tepung, dan memiliki bumbu yang lebih kaya.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 12 bagian"},
             {"bahan" : "sajiku bumbu ayam goreng", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -273,6 +284,7 @@
     {
         "nama" : "Tumis Ayam Jagung Manis",
         "jenis" : ["lauk"],
+        "deskripsi" : "Penumisan adalah teknik memasak cepat dengan menggunakan sedikit minyak dan api besar, biasanya untuk bumbu. Kegiatan ini disebut menumis dan hasilnya disebut sebagai tumisan atau tumis saja. Dalam menumis, bahan yang dimasak dipotong-potong kecil atau dimemarkan terlebih dahulu agar panas cepat masuk. ",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 10 bagian"},
             {"bahan" : "jagung pipil", "jumlah" : 85, "satuan" :"gr", "cat" : ""},
@@ -294,6 +306,7 @@
     {
         "nama" : "Ayam Panggang Saus Jamur",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam panggang adalah daging ayam yang dimasak sebagai hidangan dengan cara dipanggang. Baik dipanggang di dapur rumah, di atas api, atau dengan rotisserie. Umumnya ayam disangrai dengan memanfaatkan lemak dan sarinya sendiri dengan cara memutar daging selama pemanggangan. Karena itu ayam panggang biasanya dimasak dengan api atau panas dengan beberapa jenis panggangan putar agar peredaran lemak dan sari ini seefisien mungkin. Ayam panggang adalah hidangan yang ditemui di seluruh dunia dalam berbagai macam jenis dan variasi.",
         "semua_bahan" : [
             {"bahan" : "ayam fillet", "jumlah" : 700, "satuan" :"gr", "cat" : ""},
             {"bahan" : "jamur kancing", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
@@ -313,6 +326,7 @@
     {
         "nama" : "Ayam Goreng Lengkuas",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam goreng adalah hidangan Indonesia yang merupakan ayam yang digoreng dalam minyak goreng. Dalam dunia internasional, istilah ayam goreng merujuk kepada cara Indonesia dalam memasak ayam yang digoreng. Kebanyakan ayam goreng khas Nusantara tidak dilapisi tepung, dan memiliki bumbu yang lebih kaya.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 8"},
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
@@ -340,6 +354,7 @@
     {
         "nama" : "Sempol Ayam Pedas",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Sempolan atau sempol adalah sejenis gorengan yang terbuat dari tepung tapioka. Nama sempol diambil dari tempat jajanan ini berasal yaitu desa Sempol di wilayah Kecamatan Pagak, Kabupaten Malang, Provinsi Jawa Timur. Sempol banyak dijumpai di daerah Jawa Timur dan Jawa Tengah.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 150, "satuan" :"gr", "cat" : "cincang"},
             {"bahan" : "sajiku tepung bumbu pedas", "jumlah" : 1, "satuan" :"bks", "cat" : "75 gr"},
@@ -357,6 +372,7 @@
     {
         "nama" : "Sop Ayam Kampung",
         "jenis" : ["Lauk","Sayur"],
+        "deskripsi" : "Sup ayam adalah sup yang terbuat dari ayam, yang dicampur dengan berbagai bahan makanan lainnya. Sup ayam klasik terdiri dari kaldu encer, yang dimasukkan potongan ayam atau sayuran; umumnya ditambahkan dengan pasta, dumpling, atau padi-padian seperti nasi dan jelai.",
         "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong menjadi 12 bagian"},
             {"bahan" : "wortel", "jumlah" : 40, "satuan" :"gr", "cat" : ""},
@@ -377,6 +393,7 @@
     {
         "nama" : "Ayam Panggang Lada Hitam",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam panggang adalah daging ayam yang dimasak sebagai hidangan dengan cara dipanggang. Baik dipanggang di dapur rumah, di atas api, atau dengan rotisserie. Umumnya ayam disangrai dengan memanfaatkan lemak dan sarinya sendiri dengan cara memutar daging selama pemanggangan. Karena itu ayam panggang biasanya dimasak dengan api atau panas dengan beberapa jenis panggangan putar agar peredaran lemak dan sari ini seefisien mungkin. Ayam panggang adalah hidangan yang ditemui di seluruh dunia dalam berbagai macam jenis dan variasi.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "potong menjadi 4 bagian"},
             {"bahan" : "saori saus lada hitam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -393,6 +410,7 @@
     {
         "nama" : "Ayam Geprek Sambal Matah",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam geprek adalah makanan ayam goreng tepung khas Indonesia yang diulek atau dilumatkan bersama sambal bajak. Sebagian besar sumber menyebut bahwa ayam geprek berasal dari Kota Yogyakarta. Kini, ayam geprek telah menjadi hidangan populer yang dapat ditemukan di hampir semua kota besar di Indonesia.",
         "semua_bahan" : [
             {"bahan" : "ayam potong", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
@@ -415,6 +433,7 @@
     {
         "nama" : "Kulit Ayam Krispi Saus Telur Asin",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Pada dasarnya salted egg merupakan saus yang terbuat dari telur asin, sedangkan telur asin sendiri sudah menjadi salah satu bumbu lokal di negara asia tenggara. Maka dari itu banyak orang yang menyukai dan mengonsumsi bumbu makanan satu ini.",
         "semua_bahan" : [
             {"bahan" : "kulit ayam", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
@@ -435,6 +454,7 @@
     {
         "nama" : "Kwetiau Goreng Ayam",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Kwetiau goreng adalah kwetiau yang digoreng yang merupakan masakan Tionghoa Indonesia, itu adalah hidangan mie yang digoreng yang beraroma dan pedas yang umum dijumpai di Indonesia.",
         "semua_bahan" : [
             {"bahan" : "kwetiau", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
             {"bahan" : "telur", "jumlah" : 2, "satuan" :"buah", "cat" : "kocok"},
@@ -454,6 +474,7 @@
     {
         "nama" : "Ayam Krispi Saus Korea",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam Krispi Saus Korea terdiri dari banyak hidangan ayam goreng yang diciptakan di Korea Selatan, termasuk huraideu-chicken dan ayam goreng berbumbu pedas yangnyeom chicken. Makanan ini dikomsumsi sebagai makanan utama, makanan cepat saji di bar, atau sebagai makanan ringan setelah makan di Korea.",
         "semua_bahan" : [
             {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
             {"bahan" : "sajiku tepung bumbu golden crispy", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
@@ -477,6 +498,7 @@
     {
         "nama" : "Ayam Goreng Ungkep",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ungkep ayam adalah cara mengolah ayam dengan diungkep atau direbus menggunakan api kecil dengan tujuan agar bumbunya lebih meresap hingga airnya habis. Ini membuat bumbu lebih bisa meresap hingga ke dalam alih-alih hanya dimasak biasa.",
         "semua_bahan" : [
             {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "4 potong"},
             {"bahan" : "saori saus tiram", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -495,6 +517,7 @@
     {
         "nama" : "Tongseng Ayam",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Tongseng adalah sejenis gulai dengan bumbu yang lebih tajam. Perbedaan yang lebih jelas adalah pada penggunaan dagingnya. Tongseng dibuat dengan menggunakan daging yang masih melekat pada tulang, terutama tulang iga dan tulang belakang.",
         "semua_bahan" : [
             {"bahan" : "ayam fillet", "jumlah" : 250, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku bumbu rendang", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -515,6 +538,7 @@
     {
         "nama" : "Ayam Geprek Mayo",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam geprek adalah makanan ayam goreng tepung khas Indonesia yang diulek atau dilumatkan bersama sambal bajak. Sebagian besar sumber menyebut bahwa ayam geprek berasal dari Kota Yogyakarta. Kini, ayam geprek telah menjadi hidangan populer yang dapat ditemukan di hampir semua kota besar di Indonesia.",
         "semua_bahan" : [
             {"bahan" : "ayam fillet", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
@@ -536,6 +560,7 @@
     {
         "nama" : "Siomay Ayam Kukus",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Siomai adalah salah satu jenis dimsum. Dalam bahasa Mandarin, makanan ini disebut shaomai, sementara dalam bahasa Kanton disebut siu maai. Dalam dialek Beijing, makanan ini juga ditulis sebagai 燒麥, dan juga dibaca shaomai. Kulit siomai serupa dengan kulit pangsit. Makanan ini konon berasal dari Mongolia Dalam.",
         "semua_bahan" : [
             {"bahan" : "kulit siomay", "jumlah" : 8, "satuan" :"buah", "cat" : ""},
             {"bahan" : "sajiku bumbu nasi goreng rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -554,8 +579,9 @@
         ]
     },
     {
-        "nama" : "Ayam Belutu",
+        "nama" : "Ayam Betutu",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Betutu merupakan jenis makanan tradisional daerah Bali yang bahan mentahnya berupa karkas utuh itik dan ayam.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"ekor", "cat" : ""},
             {"bahan" : "sajiku ayam goreng", "jumlah" : 0.5, "satuan" :"bks", "cat" : ""},
@@ -576,6 +602,7 @@
     {
         "nama" : "Ayam Hainan Saus Tiram",
         "jenis" : ["Lauk"],
+        "deskripsi" : "ayam Hainan merupakan masakan Tionghoa yang sering dikaitkan dengan masakan Malaysia atau Singapura, dan juga ditemui di negara tetangga Thailand, serta juga di wilayah Hainan, Tiongkok.",
         "semua_bahan" : [
             {"bahan" : "ayam kampung", "jumlah" : 1, "satuan" :"ekor", "cat" : "buang tulang besar"},
             {"bahan" : "saori saos tiram", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -593,6 +620,7 @@
     {
         "nama" : "Ayam Rica-Rica",
         "jenis" : ["Lauk"],
+        "deskripsi" : "Ayam rica-rica adalah salah satu makanan khas Manado, Sulawesi Utara. Kata rica berasal dari bahasa Manado yang berarti 'pedas' atau 'cabai'. Resep untuk membuat ayam rica-rica sangat beragam, begitu pula cara memasaknya, persamaannya hanya terletak pada rasanya yang pedas.",
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"ekor", "cat" : "potong 12 bagian"},
             {"bahan" : "aji no moto", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
@@ -619,56 +647,7 @@
     {
         "nama" : "",
         "jenis" : "",
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : "",
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : "",
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : "",
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : "",
-        "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
-        ],
-        "cara" : [
-            {"resep" : ""}
-        ]
-    },
-    {
-        "nama" : "",
-        "jenis" : "",
+        "deskripsi" : "",
         "semua_bahan" : [
             {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
         ],

@@ -190,7 +190,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 1000);
+        }, 500);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi);
             let unikrekomendasi = unique(rekomendasi);
@@ -216,7 +216,7 @@ $(".tombol-selesai").click(function(){
                                         </ul>
                                     </div>
                                     <div class="d-flex align-items-center">
-                                        <button class="mulai-masak">
+                                        <button class="mulai-masak" pemilik="umami" resepke="`+ i +`">
                                             Mulai Masak
                                             <img src="../assets/icon/fire.svg">
                                         </button>
@@ -262,7 +262,7 @@ $(".tombol-selesai").click(function(){
                                         <ul class="semua-bahan resep-umami-r-`+ i +`"></ul>
                                     </div>
                                     <div class="d-flex align-items-center">
-                                        <button class="mulai-masak">
+                                        <button class="mulai-masak" pemilik="umami" resepke="`+ i +`">
                                             Mulai Masak
                                             <img src="../assets/icon/fire.svg">
                                         </button>
@@ -288,7 +288,7 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 1500);
+        }, 1000);
         // UMAMI
 
         // ROYCO
@@ -316,7 +316,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 1000);
+        }, 500);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi2);
             let unikrekomendasi = unique(rekomendasi2);
@@ -342,7 +342,7 @@ $(".tombol-selesai").click(function(){
                                         </ul>
                                     </div>
                                     <div class="d-flex align-items-center">
-                                        <button class="mulai-masak">
+                                        <button class="mulai-masak" pemilik="royco" resepke="`+ i +`">
                                             Mulai Masak
                                             <img src="../assets/icon/fire.svg">
                                         </button>
@@ -389,7 +389,7 @@ $(".tombol-selesai").click(function(){
                                         </ul>
                                     </div>
                                     <div class="d-flex align-items-center">
-                                        <button class="mulai-masak">
+                                        <button class="mulai-masak" pemilik="royco" resepke="`+ i +`">
                                             Mulai Masak
                                             <img src="../assets/icon/fire.svg">
                                         </button>
@@ -415,9 +415,66 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 1500);
+        }, 1000);
         // ROYCO
     };
 });
 
+$( "body" ).delegate( ".mulai-masak", "click", function() {
+    $('.judul-deskripsi').empty();
+    $('.cara-masak-popup').empty();
+    $('.keteranganresep').empty();
+    $('.deskripsi-resep-kotak-list').empty();
+
+    $("#popup").css("display", "flex");
+
+    let pemilik = $(this).attr("pemilik");
+    let resepke = $(this).attr("resepke");
+    
+    if (pemilik == "royco"){
+        $.getJSON('../API/royco.json', function (data){
+            $.each(data, function(i,data2){
+                if(resepke == i){
+                    $('.judul-deskripsi').append(data2.nama);
+                    $('.keteranganresep').append(data2.deskripsi);
+                    $(".gambar-resep").attr("src",`../assets/royco/`+ data2.nama +`.webp`);
+                    $.each(data2.cara, function(i,data3){
+                        $('.cara-masak-popup').append(`
+                            <li>`+ data3.resep +`</li>
+                        `);
+                    });
+                    $.each(data2.semua_bahan, function(i,data3){
+                        $('.deskripsi-resep-kotak-list').append(`
+                            <li>`+ data3.bahan +` `+ data3.jumlah +` `+ data3.satuan +`</li>
+                        `);
+                    });
+                }
+            });
+        });
+    } else if (pemilik == "umami"){
+        $.getJSON('../API/umami.json', function (data){
+            $.each(data, function(i,data2){
+                if(resepke == i){
+                    $('.judul-deskripsi').append(data2.nama);
+                    $('.keteranganresep').append(data2.deskripsi);
+                    $(".gambar-resep").attr("src",`../assets/umami/`+ data2.nama +`.webp`);
+                    $.each(data2.cara, function(i,data3){
+                        $('.cara-masak-popup').append(`
+                            <li>`+ data3.resep +`</li>
+                        `);
+                    });
+                    $.each(data2.semua_bahan, function(i,data3){
+                        $('.deskripsi-resep-kotak-list').append(`
+                            <li>`+ data3.bahan +` `+ data3.jumlah +` `+ data3.satuan +`</li>
+                        `);
+                    });
+                }
+            });
+        });
+    }
+});
+
+$( ".close-popup" ).click(function() {
+    $( "#popup" ).hide();
+});
 

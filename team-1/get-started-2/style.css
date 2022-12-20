@@ -175,53 +175,82 @@ p{
 /* POPUP */
 #popup{
     position: fixed;
-    z-index: 100;
+    z-index: 99;
     background: rgba(0, 0, 0, 0.247);
     width: 100vw;
     height: 100vh;
+    display: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
+    justify-content: center;
 }
 #popup .container{
+    position: relative;
     background-color: white;
     border-radius: 15px;
     padding: 0;
     overflow: hidden;
 }
-#popup .container img{
+#popup .close-popup{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 30px;
+    transition: 0.3s;
+    cursor: pointer;
+    z-index: 100;
+}
+#popup .close-popup:hover{
+    transform: rotate(180deg);
+}
+#popup .container .gambar-resep{
     width: 100%;
     height: 30vh;
     object-fit: cover;
     border-radius: 0 0 15px 15px;
+    filter: brightness(1.2);
 }
-#popup .judul-deskripsi{
+#popup .judul-deskripsi , #popup .judul-deskripsi-popup{
     font-weight: 700;
 }
 #popup .deskripsi{
-    padding: 25px;
+    padding: 25px 50px;
 }
-#popup .deskripsi-resep-kotak-list{
+#popup .cara-masak-popup{
+    padding-right: 15px;
     max-height: 200px;
     overflow: auto;
 }
+#popup .deskripsi-resep-kotak-list{
+    max-height: 360px;
+    overflow: auto;
+}
 /* width */
-#popup .deskripsi-resep-kotak-list::-webkit-scrollbar {
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar , #popup .cara-masak-popup::-webkit-scrollbar {
     width: 8px;
 }
 
   /* Track */
-#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-track {
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-track , #popup .cara-masak-popup::-webkit-scrollbar-track {
     background: transparent;
 }
 
   /* Handle */
-#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb {
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb , #popup .cara-masak-popup::-webkit-scrollbar-thumb {
     background: var(--warna4);
     border-radius: 10px;
 }
 
   /* Handle on hover */
-#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb:hover {
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb:hover , #popup .cara-masak-popup::-webkit-scrollbar-thumb:hover {
     background: var(--warna5);
 }
+
+#popup .deskripsi-resep-kotak-list li{
+    text-transform: capitalize;
+}
+
 /* POPUP */
 @media (min-width: 991.98px) {
     .kolom-kategori .kartu-kategori:hover{
