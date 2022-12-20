@@ -10,7 +10,7 @@
             {"bahan" : "bawang merah","jumlah" : 7, "satuan" :"buah", "cat" : ""},
             {"bahan" : "bawang putih","jumlah" : 2, "satuan" :"buah", "cat" : ""},
             {"bahan" : "temu kunci","jumlah" : 1, "satuan" :"ruas", "cat" : ""},
-            {"bahan" : "ajinomoto","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "aji no moto","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "garam","jumlah" : 1, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "air","jumlah" : 1500, "satuan" :"ml", "cat" : ""}
         ],
@@ -67,7 +67,7 @@
             {"bahan" : "terasi udang","jumlah" : 1, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "gula","jumlah" : 1, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "garam","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
-            {"bahan" : "ajinomoto","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "aji no moto","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "minyak kelapa","jumlah" : 50, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
@@ -120,7 +120,7 @@
         "deskripsi" : "Tuna adalah ikan laut pelagik yang termasuk bangsa Thunnini, terdiri dari beberapa spesies dari famili skombride, terutama genus Thunnus. Ikan ini adalah perenang andal. Tidak seperti kebanyakan ikan yang memiliki daging berwarna putih, daging tuna berwarna merah muda sampai merah tua. ",
         "semua_bahan" : [
             {"bahan" : "ikan tuna","jumlah" : 170, "satuan" :"gr", "cat" : "cincang kasar"},
-            {"bahan" : "Wortel","jumlah" : 70, "satuan" :"gr", "cat" : "cincang kasar"},
+            {"bahan" : "wortel","jumlah" : 70, "satuan" :"gr", "cat" : "cincang kasar"},
             {"bahan" : "buncis","jumlah" : 3, "satuan" :"buah", "cat" : "potong 1 cm"},
             {"bahan" : "telur","jumlah" : 0.5, "satuan" :"btr", "cat" : "kocok"},
             {"bahan" : "maizena","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
@@ -145,7 +145,7 @@
             {"bahan" : "paprika hijau","jumlah" : 30, "satuan" :"gr", "cat" : ""},
             {"bahan" : "paprika merah","jumlah" : 30, "satuan" :"gr", "cat" : ""},
             {"bahan" : "nanas","jumlah" : 100, "satuan" :"gr", "cat" : ""},
-            {"bahan" : "aji No Moto","jumlah" : 2, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "aji no moto","jumlah" : 2, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "minyak goreng","jumlah" : 3, "satuan" :"sdm", "cat" : "untuk menumis"},
             {"bahan" : "air asam jawa","jumlah" : 2, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "gula jawa","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
@@ -246,7 +246,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "Cordon bleu atau schnitzel cordon bleu adalah hidangan daging yang dibungkus dengan keju, kemudian dilapisi tepung roti dan digoreng atau digoreng.",
         "semua_bahan" : [
-            {"bahan" : "Dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
+            {"bahan" : "dada ayam fillet", "jumlah" : 1, "satuan" :"buah", "cat" : "memarkan"},
             {"bahan" : "keju", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
             {"bahan" : "wortel", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
             {"bahan" : "buncis", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
