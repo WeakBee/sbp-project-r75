@@ -1,6 +1,18 @@
+:root{
+    --warna1 : #FEBD2F;
+    --warna2 : #F5F3EF;
+    --warna3 : #E8E7E3;
+    --warna4 : #333333;
+    --warna5 : #F0BD46;
+    --warna6 : #A8A8A8;
+}
+*{
+    font-family: 'Inter', sans-serif;
+    color: var(--warna4);
+}
 section{
-    width: 100vw;
-    height: 100vh;
+    padding-top: 60px;
+    padding-bottom: 60px;
     background: linear-gradient(311deg, rgba(245,173,15,1) 0%, rgba(252,207,101,1) 100%);
 }
 .container-lg{
@@ -16,7 +28,7 @@ section{
     width: 100%;
 }
 .kolom-kategori{
-    padding: 20px;
+    padding: 5px;
 }   
 .kolom-kategori .kartu-kategori{
     position: relative;
@@ -24,7 +36,6 @@ section{
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 20px;
     padding: 20px;
-    margin: 5px 10px;
     box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.527),
                 5px 5px 7px rgba(0, 0, 0, 0.267);
     cursor: pointer;
@@ -45,15 +56,15 @@ section{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.267);
     transform: rotate(45deg);
 }
-.kolom-kategori .kartu-kategori img{
-    width: 30%;
+.kolom-kategori .kartu-kategori p{
+    text-transform: capitalize;
 }
 
 p{
     margin: 0;
     font-weight: 500;
 }
-h1{
+.judul-bahan-masakan{
     color: white;
     text-shadow: 2px 2px 2px black;
 }
@@ -68,18 +79,179 @@ h1{
     color: rgba(255, 255, 255, 0.37);
     border-radius: 15px;
     font-weight: 700;
-    text-decoration: none;
     text-align: center;
     cursor: no-drop;
-}
-.tombol-selesai:hover{
-    color: rgba(255, 255, 255, 0.37);
 }
 .tombol-selesai.nyala{
     background-color: black;
     color: white;
     cursor: pointer;
 }
+#second{
+    background: var(--warna2);
+}
+#second .col-lg-4{
+    margin-bottom: 15px;
+}
+.kotak-resep{
+    font-weight: 800;
+}
+.sangat-rekomendasi{
+    background-color: var(--warna5);
+    padding-top: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+.judul-rekomendasi{
+    font-weight: 700;
+    font-size: 34px;
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+#second .list-resep{
+    background-color: white;
+    padding: 20px 15px;
+    border-radius: 15px;
+}
+#second .list-resep .foto-makanan{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+#second .list-resep p{
+    margin-bottom: 0;
+}
+#second .semua-bahan{
+    height: 170px;
+    overflow-y: auto;
+}
+/* width */
+#second .semua-bahan::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+#second .semua-bahan::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+#second .semua-bahan::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+#second .semua-bahan::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+#second .semua-bahan li{
+    text-transform: capitalize;
+}
+#second .mulai-masak{
+    border: none;
+    background-color: var(--warna1);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--warna1);
+}
+#second .mulai-masak img{
+    margin-left: 10px;
+}
+#second .mulai-masak:hover{
+    background-color: transparent;
+    border: 1px solid black;
+}
+#second .waktu-masak{
+    color: #A8A8A8;
+}
+
+
+/* POPUP */
+#popup{
+    position: fixed;
+    z-index: 99;
+    background: rgba(0, 0, 0, 0.247);
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
+    justify-content: center;
+}
+#popup .container{
+    position: relative;
+    background-color: white;
+    border-radius: 15px;
+    padding: 0;
+    overflow: hidden;
+}
+#popup .close-popup{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 30px;
+    transition: 0.3s;
+    cursor: pointer;
+    z-index: 100;
+}
+#popup .close-popup:hover{
+    transform: rotate(180deg);
+}
+#popup .container .gambar-resep{
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    border-radius: 0 0 15px 15px;
+    filter: brightness(1.2);
+}
+#popup .judul-deskripsi , #popup .judul-deskripsi-popup{
+    font-weight: 700;
+}
+#popup .deskripsi{
+    padding: 25px 50px;
+}
+#popup .cara-masak-popup{
+    padding-right: 15px;
+    max-height: 200px;
+    overflow: auto;
+}
+#popup .deskripsi-resep-kotak-list{
+    max-height: 360px;
+    overflow: auto;
+}
+/* width */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar , #popup .cara-masak-popup::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-track , #popup .cara-masak-popup::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb , #popup .cara-masak-popup::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+#popup .deskripsi-resep-kotak-list::-webkit-scrollbar-thumb:hover , #popup .cara-masak-popup::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+
+#popup .deskripsi-resep-kotak-list li{
+    text-transform: capitalize;
+}
+
+/* POPUP */
 @media (min-width: 991.98px) {
     .kolom-kategori .kartu-kategori:hover{
         background-color: white;
@@ -91,11 +263,12 @@ h1{
         padding: 5px;
     }
     .kolom-kategori .kartu-kategori {
-        padding: 20px 10px;
+        padding: 0;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         margin: 5px 5px;
-    }
-    .kolom-kategori .kartu-kategori img{
-        width: 70%;
     }
     .kolom-kategori .pilih::after{
         right: -60px;

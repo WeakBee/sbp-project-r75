@@ -9,54 +9,111 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="../assets/font/Inter Web/inter.css">
     <script src="https://kit.fontawesome.com/1a746e98b1.js" crossorigin="anonymous"></script>
-    <title>BisaMasak</title>
+    <title>Bisa Masak</title>
 </head>
 <body>
+    <section id="popup">
+        <div class="container">
+            <img class="close-popup" src="../assets/images/close.svg">
+            <img class="gambar-resep" src="" alt="">
+            <div class="row deskripsi">
+                <div class="col-6">
+                    <p class="judul-deskripsi"></p>
+                    <p class="mb-4 keteranganresep"></p>
+                    <p class="judul-deskripsi-popup">Cara Masak : </p>
+                    <ol class="cara-masak-popup"></ol>
+                </div>
+                <div class="col-6">
+                    <p class="judul-deskripsi-popup">Bahan Masakan : </p>
+                    <ul class="deskripsi-resep-kotak-list"></ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <section>
         <div class="container-lg">
             <div class="row text-center">
-                <h1>Pilih Kategori Resep</h1>
+                <h1 class="judul-bahan-masakan">Pilih Bahan Masakan</h1>
             </div>
-            <div class="row mb-4">
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Sayur">
-                        <img src="../assets/icon/sayur.png">
-                        <p>Sayur</p>
-                    </div>
-                </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Nasi">
-                        <img src="../assets/icon/nasi.png">
-                        <p>Nasi</p>
-                    </div>
-                </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Lauk">
-                        <img src="../assets/icon/lauk.png">
-                        <p>Lauk</p>
-                    </div>
-                </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Mie">
-                        <img src="../assets/icon/mie.png">
-                        <p>Mie</p>
-                    </div>
-                </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Soto">
-                        <img src="../assets/icon/soto.png">
-                        <p>Soto</p>
-                    </div>
-                </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Daerah">
-                        <img src="../assets/icon/daerah.png">
-                        <p>Daerah</p>
-                    </div>
-                </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Sayur Sayuran:</h3>
             </div>
+            <div class="row mb-4 row-sayuran">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Rempah:</h3>
+            </div>
+            <div class="row mb-4 row-rempah">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Daging/Hewan:</h3>
+            </div>
+            <div class="row mb-4 row-hewan">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Buah:</h3>
+            </div>
+            <div class="row mb-4 row-buah">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Minyak:</h3>
+            </div>
+            <div class="row mb-4 row-minyak">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Tepung:</h3>
+            </div>
+            <div class="row mb-4 row-tepung">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Nabati:</h3>
+            </div>
+            <div class="row mb-4 row-nabati">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Saus:</h3>
+            </div>
+            <div class="row mb-4 row-saus">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Penyedap:</h3>
+            </div>
+            <div class="row mb-4 row-penyedap">
+            </div>
+
+            <div class="row">
+                <h3 class="judul-bahan-masakan">Lain - lain:</h3>
+            </div>
+            <div class="row mb-4 row-lainlain">
+            </div>
+
             <div class="row row-button">
-                <a href="../get-started-2/" class="tombol-selesai">Selanjutnya</a>
+                <div class="tombol-selesai">Selanjutnya</div>
+            </div>
+
+        </div>
+    </section>
+    <section id="second">
+        <div class="container">
+            <h1 class="text-center kotak-resep">KOTAK RESEP</h1>
+            <div class="row row-hasil">
+                <h3 class="judul-rekomendasi">Sangat Rekomendasi</h3>
+                <div class="row sangat-rekomendasi">
+
+                </div>
+                <h3 class="judul-rekomendasi">Rekomendasi</h3>
+                <div class="row rekomendasi">
+
+                </div>
             </div>
         </div>
     </section>
