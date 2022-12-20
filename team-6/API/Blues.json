@@ -6,7 +6,7 @@
         "Judul" : "Cross Road Blue",
         "Tahun" : "1937",
         "Gambar" : "db1.jpg"
-            
+        
     },
 	{
          "SUBGENRE" : "Delta Blues",
@@ -59,8 +59,8 @@
         "Album" : "Presenting Big Jay McNeely",
         "Judul" : "Deacon Rides Again",
         "Tahun" : "1955",
-        "Gambar" : "jp1.jpg"
-            
+        "Gambar" : "jp1.jpg",
+        "link" : "https://www.youtube.com/watch?v=5k6IkftDRwE"
     },
 	{
          "SUBGENRE" : "Jump Blues",
@@ -68,7 +68,8 @@
         "Album" : "The EP Collection...Plus",
         "Judul" : "Soft",
         "Tahun" : "1999",
-        "Gambar" : "jp2.jpg"
+        "Gambar" : "jp2.jpg",
+        "link" : "https://www.youtube.com/watch?v=5k6IkftDRwE"
 			
 	},
 	{
@@ -77,7 +78,8 @@
         "Album" : "I'm A Night Owl",
         "Judul" : "Don't Leave Me Baby",
         "Tahun" : "2006",
-        "Gambar" : "jp3.jpg"
+        "Gambar" : "jp3.jpg",
+        "link" : "https://www.youtube.com/watch?v=5k6IkftDRwE"
 			
 	},
 	{   

@@ -8,6 +8,7 @@ function unique(list) {
 }
 // Unique
 let subgenre = [];
+let subgenretrim = [];
 
 $.getJSON('../API/HipHop.json', function (data){
     // Membuat Kartu
@@ -21,7 +22,7 @@ setTimeout(function() {
     let subgenrefilter = unique(subgenre);
     $.each(subgenrefilter, function(i,data){
         $('.link-subgenre').append(`
-                <li><a href="#">`+ data +`</a></li>
+                <li><a href="`+ data.split(" ").join("") +`.html">`+ data +`</a></li>
             `);
     });
-}, 500);
+}, 100);
