@@ -65,7 +65,7 @@ setTimeout(function() {
         </div>
         `);
     });
-}, 100);
+}, 300);
 
 $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
     $(this).toggleClass("pilih");
@@ -173,7 +173,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 100);
+        }, 200);
 
         setTimeout(function() {
             $.each(rekomendasi2, function(i,data){
@@ -181,7 +181,7 @@ $(".tombol-selesai").click(function(){
                     <li>`+ data +`</li>
                 `);
             });
-        }, 200);
+        }, 300);
         
     };
 });
