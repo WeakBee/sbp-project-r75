@@ -6,7 +6,7 @@
       {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
       {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"},
     ],
-    "obat"   : ["Emolien","clobetasol","methotrexate"]
+    "pengobatan"   : ["Emolien","clobetasol","methotrexate"]
     },
     {
       "nama_penyakit" : "Veruca",
@@ -15,7 +15,7 @@
         {"gejala" : "Papula tumbuh menonjol"},
         {"gejala" : "Permukaan kulit menjadi lebih gelap dan hyperkeratosis (kulit menjadi tebal kasar)"}
       ],
-      "obat"   : ["Callusol","Kutilos","Maddebic Oil De Nature"]
+      "pengobatan"   : ["Callusol","Kutilos","Maddebic Oil De Nature"]
      },
    {
     "nama_penyakit" : "Varicella",
@@ -26,7 +26,7 @@
       {"gejala" : "Perasaan tidak enak dengan vesikel pada kulit"},
       {"gejala" : "Nafsu makan hilang"}
     ],
-    "obat"   : ["Loratadine","Cetirizine","Fexofenade"]
+    "pengobatan"   : ["Loratadine","Cetirizine","Fexofenade"]
    },
    {
     "nama_penyakit" : "Eksim",
@@ -37,7 +37,7 @@
       {"gejala" : "Kulit menebal"},
       {"gejala" : "Kulit keropeng"}
     ],
-    "obat"   : ["Ketoconazole Hexpharm Krim","Atopiclair Lotion","Centabio Gel"]
+    "pengobatan"   : ["Ketoconazole Hexpharm Krim","Atopiclair Lotion","Centabio Gel"]
    },
    {
     "nama_penyakit" : "Vitilogi",
@@ -46,7 +46,7 @@
       {"gejala" : "Timbulnya bercak-bercak halus berwarna putih dikulit"},
       {"gejala" : "Kulit terlihat bintik-bintik melebar, putih dan licin"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Kortikosteroid","Tacrolimus","Hydroquinone"]
    },
    {
     "nama_penyakit" : "Herpes",
@@ -57,7 +57,7 @@
       {"gejala" : "Nyeri dipersendian atau pegal disatu bagian tubuh"},
       {"gejala" : "Munculnya bitnik kemerahan pada kulit yang akhirnya membentuk sebuah gelembung cair"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Acyclovir","Valacyclovir","Famciclovir"]
    },
    {
     "nama_penyakit" : "Kusta",
@@ -67,7 +67,7 @@
       {"gejala" : "Satu atau lebih hipopigmentasi makua kulit dan bagian yang tidak berasa (anestetik)"},
       {"gejala" : "Lesi, nodul, plak kulit sinetris, dermis kulit yang menipis"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Rifampicin","Dapsone","Clofazimine"]
    },
    {
     "nama_penyakit" : "Infeksi Jamur Kandida",
@@ -76,7 +76,7 @@
       {"gejala" : "Kulit mengalami retakk-retak dan nyeri pada kulit di sudut mulut (angular cheilitis)"},
       {"gejala" : "Menebalnya kuku dan bahkan dapat tanggal sendiri"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Echinocandin","Fluconazole","Amphotericin B"]
    },
    {
     "nama_penyakit" : "Scabies",
@@ -87,7 +87,7 @@
       {"gejala" : "Dipinggiran daun telinga terlihat ada kerak berwarna putih"},
       {"gejala" : "Penebalan dan keriput pada kulit ditutupi oleh kerak-kerak berwarna abu-abu kekuningan"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Antihistamin","interhistin","cetirizin"]
    },
    {
     "nama_penyakit" : "Serkarial Dermatis",
@@ -98,7 +98,7 @@
       {"gejala" : "Edema disekitar kulit yang terkena"},
       {"gejala" : "Vesikula kemudian dapat menjadi pustula apabila telah terjadi infeksi bakterial sekunder"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["kortikosteroid","losion antigatal","pasta soda kue"]
    },
    {
     "nama_penyakit" : "Jerawat",
@@ -107,7 +107,7 @@
       {"gejala" : "Benjolan kecil merah disertai nanah"},
       {"gejala" : "Benjolan padat dan menggembung di kulit"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["tretinoin","benzoyl peroxide","isotretinoin"]
    },
 
 {
@@ -117,9 +117,8 @@
       {"gejala" : "Pigmen rambut menjadi putih bahkan ketika penderita masih muda"},
       {"gejala" : "Rambut rontok, dengan karakter rambut kecil dan tumbuh meruncing ke atas"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Minoxidil","Kortikosteroid","Anthralin"]
    },
-
 {
     "nama_penyakit" : "Porfiria",
     "gejala_penyakit" : [
@@ -127,9 +126,8 @@
       {"gejala" : "Kulit melepuh dan sangat gatal"},
       {"gejala" : "Timbul bercak kemerahan yang parah dan urin berwarna coklat"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Mengeluarkan darah (flebotomi) secara berkala","Hydroxychloroquine","Chloroquine"]
    },
-
 {
     "nama_penyakit" : "Tinea Pedis",
     "gejala_penyakit" : [
@@ -137,9 +135,8 @@
       {"gejala" : "Gatal parah pada kaki yang sering disertai dengan sensasi terbakar"},
       {"gejala" : "Jika digaruk bisa menyebabkan borok atau luka basah pada bagian tersebut"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Miconazole","Econazole","Clotrimazole"]
    },
-
 {
     "nama_penyakit" : "Tinea Versicolor",
     "gejala_penyakit" : [
@@ -147,9 +144,8 @@
       {"gejala" : "Terasa gatal saat berkeringat"},
       {"gejala" : "Kulit kering dan bersisik"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Terbinafine","Ciclopirox","Natrium tiosulfat"]
    },
-
 {
     "nama_penyakit" : "Campak",
     "gejala_penyakit" : [
@@ -157,9 +153,8 @@
       {"gejala" : "Batuk dan pilek"},
       {"gejala" : "Timbul bercak pada kulit"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Vaksin campak","Paracetamol","Ibuprofen"]
    },
-
 {
     "nama_penyakit" : "Cacar Air",
     "gejala_penyakit" : [
@@ -167,9 +162,8 @@
       {"gejala" : "Tidak selera makan"},
       {"gejala" : "Mual-mual dan mudah lelah"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Vaksin cacar air","Calamine","Mandi dengan air hangat"]
    },
-
 {
     "nama_penyakit" : "Selulitis",
     "gejala_penyakit" : [
@@ -177,9 +171,8 @@
       {"gejala" : "Kulit kemerahan yang berpotensi menyebar"},
       {"gejala" : "Kulit bernanah atau berair (muncul cairan berwarna kuning atau bening)"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Penisilin","Clindamycin","Makrolid"]
    },
-
 {
     "nama_penyakit" : "Cantengan",
     "gejala_penyakit" : [
@@ -187,7 +180,7 @@
       {"gejala" : "Bengkak"},
       {"gejala" : "Terasa nyeri"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Gentamicin","Mupirocin","Bacitracin"]
    },
    {
     "nama_penyakit" : "Ring Worm",
@@ -196,9 +189,8 @@
       {"gejala" : "Kulit tebal"},
       {"gejala" : "Berair dan gatal-gatal"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Minyak Kelapa","Garam","Bawang putih"]
    },
-
 {
     "nama_penyakit" : "Gudik",
     "gejala_penyakit" : [
@@ -206,9 +198,8 @@
       {"gejala" : "Bentukan lesi kulit berbentuk bentolan (blister), terowongan (burrow), borok atau lesi kulit berbentuk krusta pada scabies tipe krustosa"},
       {"gejala" : "Gatal dengan predileksi di sela-sela jari dan pergelangan tangan, permukaan luar siku dan ketiak, perut dan pusar, bokong dan selangkangan, puting susu, garis bra, payudara wanita, serta alat kelamin"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Antihistamin","interhistin","cetirizin"]
    },
-
 {
     "nama_penyakit" : "Diabetic Blisters",
     "gejala_penyakit" : [
@@ -216,9 +207,8 @@
       {"gejala" : "Melepuh"},
       {"gejala" : "Ruam pada kulit"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Meglitinide","Sulfonilurea","Metformin"]
    },
-
 {
     "nama_penyakit" : "Paederus Fuscipes",
     "gejala_penyakit" : [
@@ -226,9 +216,8 @@
       {"gejala" : "Terasa gatal"},
       {"gejala" : "Warna kulit memerah"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Calamine","Aloe vera","Kompres luka dengan air dingin"]
    },
-
 {
     "nama_penyakit" : "Harlequin Ichthyosis",
     "gejala_penyakit" : [
@@ -236,9 +225,8 @@
       {"gejala" : "Suhu tubuh yang rendah (hipotermia)"},
       {"gejala" : "Sulit bernapas akibat kulit dada yang tidak elastis"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Ceramide","Lanolin","Petrolatum"]
    },
-
 {
     "nama_penyakit" : "Lipoma",
     "gejala_penyakit" : [
@@ -246,9 +234,8 @@
       {"gejala" : "Jika ditekan bergesar dan lembek"},
       {"gejala" : "Dapat tumbuh menjadi lebih besar, dari sebesar kelereng hingga sebesar bola pingpong"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Cuka sari apel","Kunyit","Tanaman sage"]
    },
-
 {
     "nama_penyakit" : "Psoriasis Pustular",
     "gejala_penyakit" : [
@@ -256,9 +243,8 @@
       {"gejala" : "Demam tinggi"},
       {"gejala" : "Gatal-gatal dibagian yang terdampak"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Retinoid oral","Cyclosporine","Methotrexate"]
    },
-
 {
     "nama_penyakit" : "Xanhelasma",
     "gejala_penyakit" : [
@@ -266,9 +252,8 @@
       {"gejala" : "Warna kekuningan"},
       {"gejala" : "Gumpalan yang terjadi pada salah satu mata dapat bertambah seiring berjalannya waktu"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Rosuvastatin","Lovastatin","Simvastatin"]
    },
-
 {
     "nama_penyakit" : "Argyria",
     "gejala_penyakit" : [
@@ -276,9 +261,8 @@
       {"gejala" : "Membran konjungtiva pada mata"},
       {"gejala" : "Membran mukosa (lapisan kulit dalam)"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Hindari penggunaan obat apapun yang mengandung perak","Hindari penggunaan kosmetik dengan bahan perak","Gunakan dan aplikasikan tabir surya"]
    },
-
 {
     "nama_penyakit" : "Xanthoma",
     "gejala_penyakit" : [
@@ -286,9 +270,8 @@
       {"gejala" : "Gumpalan lemak ini berkembang pada bagian tubuh, seperti lutut, siku, dan tumit"},
       {"gejala" : "Benjolan-benjolan kecil berukuran 2-5 mm dengan tepian berwarna merah umumnya muncul pada bokong atau bahu"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Antioksidan vitamin","Antioksidan polifenolik","Fitosterol"]
    },
-
 {
     "nama_penyakit" : "Xeroderma Pigmentosum (XP)",
     "gejala_penyakit" : [
@@ -296,9 +279,8 @@
       {"gejala" : "Perubahan warna kulit"},
       {"gejala" : "Terasa terbaka saat terkena UV"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Retinoid oral","Operasi eksisi","Penggunaan tabir surya"]
    },
-
 {
     "nama_penyakit" : "Zoonosis",
     "gejala_penyakit" : [
@@ -306,9 +288,8 @@
       {"gejala" : "Kuning pada kulit dan mata"},
       {"gejala" : "Mual dan muntah"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Fluoroquinolones","Aminoglikosida","Makrolida"]
    },
-
 {
     "nama_penyakit" : "Virus Singapura",
     "gejala_penyakit" : [
@@ -316,9 +297,8 @@
       {"gejala" : "Luka-luka pada tangan, kaki bahkan mulut"},
       {"gejala" : "Demam"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Paracetamol","Ibuprofen","Salep kulit"]
    },
-
 {
     "nama_penyakit" : "Epidermodysplasia Verruciformis",
     "gejala_penyakit" : [
@@ -326,10 +306,8 @@
       {"gejala" : "Bercak besar pada kulit yang terangkat dan meradang (plak)"},
       {"gejala" : "Lesi kecil berwarna cokelat yang menyerupai koreng"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Tidak dapat disembuhkan karena penyakit seumur hidup"]
    },
-
-
 {
     "nama_penyakit" : "Neurofibromatosis",
     "gejala_penyakit" : [
@@ -337,7 +315,7 @@
       {"gejala" : "Bintik di daerah ketiak atau lipatan badan"},
       {"gejala" : "Benjolan di bawah kulit yang lunak, berukuran sebesar kacang polong. Dapat tumbuh di dalam bagian tubuh yang lain"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Gabapentin","Topiramate","Amitriptyline"]
    },
    {
     "nama_penyakit" : "Akantosis Nigrikans",
@@ -346,9 +324,8 @@
       {"gejala" : "Penebalan Pada Kulit"},
       {"gejala" : "Tekstur kulit menjadi kasar atau seperti kain beludru"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Menurunkan berat badan","Menghentikan konsumsi obat atau suplemen","Menjalani operasi"]
    },
-
 {
     "nama_penyakit" : "Psoriasis Arthritis",
     "gejala_penyakit" : [
@@ -356,9 +333,8 @@
       {"gejala" : "Iritasi"},
       {"gejala" : "Perubahan warna pada kuku"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Antiinflamasi nonsteroid","Kortikosteroid","Imunosupresif"]
    },
-
 {
     "nama_penyakit" : "Granuloma Annulare",
     "gejala_penyakit" : [
@@ -366,9 +342,8 @@
       {"gejala" : "Ruam berbentuk lingkaran"},
       {"gejala" : "Lesi terjadi paling sering pada tangan, kaki, pergelangan tangan dan pergelangan kaki orang dewasa muda"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Steroid","Petroleum jelly","Tacrolimus"]
    },
-
 {
     "nama_penyakit" : "Raunaud",
     "gejala_penyakit" : [
@@ -376,9 +351,8 @@
       {"gejala" : "Jari tangan atau jari kaki berubah menjadi pucat akibat berkurangnya aliran darah"},
       {"gejala" : "Jari tangan atau jari kaki berubah membiru karena kurangnya pasokan oksigen. Pada tahap ini, jari-jari akan terasa dingin dan mati rasa"}
      ],
-     "obat"   : ["panadol"]
+     "pengobatan"   : ["Antagonis kalsium","Vasodilator","Botulinum toxin"]
    },
-
 {
     "nama_penyakit" : "Biang Keringat",
     "gejala_penyakit" : [
@@ -386,9 +360,8 @@
       {"gejala" : "Terdapat bintil-bintil kecil yang mengumpul"},
       {"gejala" : "Kulit jadi kemerahan"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Garam epsom","Daun mimba","Soda kue"]
    },
-
 {
     "nama_penyakit" : "Psoriasis Inverse",
     "gejala_penyakit" : [
@@ -396,9 +369,8 @@
       {"gejala" : "Munculnya lesi kulit berwarna ungu"},
       {"gejala" : "Kulit yang bersisik, menebal, dan terasa gatal"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Tacrolimus","Pimecrolimus","Emolien"]
    },
-
 {
     "nama_penyakit" : "Dermatitik Kontak Alergi",
     "gejala_penyakit" : [
@@ -406,9 +378,8 @@
       {"gejala" : "Melepuh"},
       {"gejala" : "Bintik-bintik merah dan keluar air"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Hidrokortison","Antihistamin","Kortikosteroid"]
    },
-
 {
     "nama_penyakit" : "Eritem Infektiosum",
     "gejala_penyakit" : [
@@ -416,9 +387,8 @@
       {"gejala" : "Keluar ruam pada wajah dan menyebar keseluruh tubuh"},
       {"gejala" : "Nyeri sendi"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Chlorpheniramine","Cyproheptadine","Ketotifen"]
    },
-
 {
     "nama_penyakit" : "Moluskum",
     "gejala_penyakit" : [
@@ -426,9 +396,8 @@
       {"gejala" : "Terasa gatal dan perih"},
       {"gejala" : "Ada titik kecil berwarna putih kekuningan di tengah bintil"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Trikloroasetat","Tretinoin","Asam salisilat"]
    },
-
 {
     "nama_penyakit" : "Karbunkel",
     "gejala_penyakit" : [
@@ -436,9 +405,8 @@
       {"gejala" : "Membengkak"},
       {"gejala" : "Terasa nyeri"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Benzocaine","Mupirocin","Gentamicin"]
    },
-
 {
     "nama_penyakit" : "Pedikulosis",
     "gejala_penyakit" : [
@@ -446,9 +414,8 @@
       {"gejala" : "Ruam yang disebabkan oleh reaksi alergi terhadap gigitan kutu"},
       {"gejala" : "Tonjolan merah pada kulit"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Pyrethrins","Permetrin lotion 1%","Malathion 0,5%"]
    },
-
 {
     "nama_penyakit" : "Hypertrichosis",
     "gejala_penyakit" : [
@@ -456,9 +423,8 @@
       {"gejala" : "Hemophilia lipatan nasolabial"},
       {"gejala" : "Pertumbuhan alis yang berlebihan (fusion)"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Waxing","Plucking","Mencukur"]
    },
-
 {
     "nama_penyakit" : "Urtikaria",
     "gejala_penyakit" : [
@@ -466,9 +432,8 @@
       {"gejala" : "Terasa terbakar dan perih"},
       {"gejala" : "Timbul Bercak-bercak Merah"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Antihistamin","Kortikosteroid","Antihistamin H1 dan H2"]
    },
-
 {
     "nama_penyakit" : "Dyshidrotic Eczema",
     "gejala_penyakit" : [
@@ -476,9 +441,8 @@
       {"gejala" : "Muncul Bintik-bintik kecil berisi cairan"},
       {"gejala" : "Bisa disertai pembengkakan kelenjar getah bening yang ditandai dengan munculnya benjolan di bawah ketiak"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Imunosupresan","Lidah buaya","Kortikosteroid"]
    },
-
 {
     "nama_penyakit" : "Intertigo",
     "gejala_penyakit" : [
@@ -486,9 +450,8 @@
       {"gejala" : "Nyeri bila terjadi gesekan dan berwarna merah"},
       {"gejala" : "Sensasi terbakar"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Mikonazol","Clotrimazole 1%","Terbinafine hidroklorida"]
    },
-
 {
     "nama_penyakit" : "HIV atau AIDS",
     "gejala_penyakit" : [
@@ -496,63 +459,6 @@
       {"gejala" : "Pembengkakan kelenjar getah bening, di ketiak, leher, dan selangkangan"},
       {"gejala" : "Mudah memar atau berdarah"}
     ],
-    "obat"   : ["panadol"]
+    "pengobatan"   : ["Belum ada obatnya"]
    },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ],
-    "obat"   : ["panadol"]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   },
-   {
-    "nama_penyakit" : "",
-    "gejala_penyakit" : [
-      {"gejala" : ""},
-      {"gejala" : ""},
-      {"gejala" : ""}
-    ]
-   }
 ]
