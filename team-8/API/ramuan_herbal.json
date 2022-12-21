@@ -41,7 +41,9 @@
             {"pemakaian" : "kompreskan pada bagian yang sakit, hingga sembuh "}
         ],
         "gejala_penyakit" : [
-            {"gejala" : "munculnya benjolan, bercak atau tahi lalat dengan bentuk atau ukuran yang tidak normal"}
+            {"gejala" : "munculnya benjolan"},
+            {"gejala" : "bercak"},
+            {"gejala" : "tahi lalat dengan bentuk atau ukuran yang tidak normal"}
 
         ]
     },
@@ -360,9 +362,6 @@
         ]
     },
     {
-
-    },
-    {
         "nama_penyakit" : "radang ginjal",
         "semua_bahan" : [
             {"bahan" : "nanas", "jumlah" : 0.25, "satuan" :"buah"},
@@ -540,7 +539,7 @@
         ]
     },
     {
-        "nama_penyakit" : "TBC",
+        "nama_penyakit" : "TBC (Tuberkulosis)",
         "semua_bahan" : [
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung"},
             {"bahan" : "daun lidah buaya", "jumlah" : 100, "satuan" : "gr"},
@@ -1966,7 +1965,7 @@
                 ]
             },
                 {            
-                "nama_penyakit" : "Rdang Gusi",
+                "nama_penyakit" : "Radang Gusi",
                 "semua_bahan" : [
                     {"bahan" : "kunyit", "jumlah" : 0.5, "satuan" : "buah"},
                     {"bahan" : "gambir", "jumlah" : 3, "satuan" : "potong"},
@@ -1975,7 +1974,7 @@
     
                 "cara_pembuatan" : [
                     {"resep" : "kunyit dicuci dan diiris tipis-tipis"},
-                     {"resep" : "rebus dengan 3 gelas air bersama gambir hingga tersisa kira kira1 gelas air"}
+                    {"resep" : "rebus dengan 3 gelas air bersama gambir hingga tersisa kira kira1 gelas air"}
                 ],
     
                 "aturan_pakai" : [
