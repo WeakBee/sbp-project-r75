@@ -190,7 +190,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 500);
+        }, 100);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi);
             let unikrekomendasi = unique(rekomendasi);
@@ -288,7 +288,7 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 1000);
+        }, 200);
         // UMAMI
 
         // ROYCO
@@ -316,7 +316,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 500);
+        },100);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi2);
             let unikrekomendasi = unique(rekomendasi2);
@@ -415,7 +415,7 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 1000);
+        }, 200);
         // ROYCO
     };
 });

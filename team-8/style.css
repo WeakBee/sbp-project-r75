@@ -34,3 +34,21 @@ nav .btn:hover {
     color: black;
 }
 
+
+/* carousel */
+.carousel {
+    height: 400px;
+}
+.carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+
+/* Informasi */
+.container .card-title {
+    text-align:center;
+}
+
+.container .card {
+    margin-bottom: 20px;
+}

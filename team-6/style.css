@@ -1,0 +1,32 @@
+.hero-full-container{
+    border: 70px solid #fff;
+    border-style: none none solid none;
+}
+.container-genre{
+    padding: 0;
+}
+.kolom-genre{
+    padding: 15px;
+}
+.kolom-genre div{
+    color: rgb(55, 64, 73);
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    background: transparent;
+    box-shadow: none;
+    border: 5px solid transparent;
+    cursor: pointer;
+}
+.kolom-genre div:hover{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    background: rgb(29, 29, 29);
+    box-shadow: 5px 10px 15px #b8b8b8,
+    -5px -10px 15px #ffffff;
+    border: 5px solid transparent;
+}
