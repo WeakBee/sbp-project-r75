@@ -1439,7 +1439,10 @@
                     {"gejala" : "Kaku pinggang atau leher"},
                     {"gejala" : "Gerakan sendi menjadi terbatas"},
                     {"gejala" : "Nyeri gerak sendi"},
-                    {"gejala" : "Pada penyakit rematik yang bersifat sistemik biasanya disertai gejala, meliputi demam, lemah,bengkak tubuh sesak, radang mata"},
+                    {"gejala" : "demam"},
+                    {"gejala" : "lemah"},
+                    {"gejala" : "bengkak tubuh sesak"},
+                    {"gejala" : "radang mata"},
                     {"gejala" : "Nyeri pada otot"}
                 ]
             },
