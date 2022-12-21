@@ -65,7 +65,7 @@ setTimeout(function() {
         </div>
         `);
     });
-}, 300);
+}, 500);
 
 $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
     $(this).toggleClass("pilih");
@@ -78,6 +78,7 @@ $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
 
 
 $(".tombol-selesai").click(function(){
+    $('.row-rekomendasi').empty();
     if($(this).hasClass( "nyala" )){
         $('.list-rekomendasi').empty();
         // Jumlah data
@@ -176,12 +177,46 @@ $(".tombol-selesai").click(function(){
         }, 200);
 
         setTimeout(function() {
-            $.each(rekomendasi2, function(i,data){
-                $('.list-rekomendasi').append(`
-                    <li>`+ data +`</li>
-                `);
+            let rekomendasi3 = unique(rekomendasi2);
+            $.each(rekomendasi3, function(i,data){
+                $.getJSON('../API/film.json', function (data2){
+                    $.each(data2, function(a,data3){
+                        if(data === data3.judul){
+                            $('.row-rekomendasi').append(`
+                                <div class="col-4 d-flex justify-content-center px-1 py-3">
+                                    <div class="card" style="width: 100%">
+                                        <img src="../`+ data3.gambar +`" class="gambar-kartu card-img-top" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">`+ data3.judul +`</h5>
+                                            <h6 class="card-subtitle">`+ data3.durasi +` menit</h6>
+                                            <p class="card-text">`+ data3.sinopsis +`</p>
+                                        </div>
+                                        <ul class="list-group list-group-flush">
+                                            <li class="list-group-item">Produser : `+ data3.produser +` </li>
+                                            <li class="list-group-item">Sutradata : `+ data3.sutradara +`</li>
+                                            <li class="list-group-item">Penulis : `+ data3.penulis +`</li>
+                                            <li class="list-group-item">Pemain :
+                                                <ul class="pemainfilmke-`+a+`">
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            `);
+                        }
+                    });
+                    
+                    $.each(data2, function(a,data3){
+                        if(data == data3.judul){
+                            $.each(data3.pemain, function(i,data4){
+                                $('.pemainfilmke-'+a).append(`
+                                    <li>`+ data4 +`</li>
+                                `);
+                            });
+                        }
+                    });
+                });
             });
         }, 300);
-        
     };
 });

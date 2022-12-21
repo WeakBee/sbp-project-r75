@@ -4,7 +4,7 @@
     "gejala_penyakit" : [
       {"gejala" : "Banyak kemerahan pada kulit"},
       {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
-      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"},
+      {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"}
     ],
     "pengobatan"   : ["Emolien","clobetasol","methotrexate"]
     },
@@ -460,5 +460,5 @@
       {"gejala" : "Mudah memar atau berdarah"}
     ],
     "pengobatan"   : ["Belum ada obatnya"]
-   },
+   }
 ]

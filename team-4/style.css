@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root {
-    --warna1: #00FFFF;
-    --warna2: #7FFFD4;
-    --warna3: #454B1B;
-    --warna4:  #088F8F;
-    --warna5: #AAFF00;
+    --warna1: #a30b37;
+    --warna2: #a30b37;
+    --warna3: #bbb6df;
+    --warna4:  #C6C8EE;
+    --warna5: #FCFCFF;
     --warna6: #5F9EA0;
     --warna7: #097969;
     --warna8: #AFE1AF;
@@ -19,6 +19,10 @@ body{
 }
 h1{
     font-weight: 700;
+    color: var(--warna5);
+}
+h3{
+    color: var(--warna4);
 }
 p{
     margin-bottom: 0;
@@ -31,7 +35,7 @@ p{
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.5);
     font-weight: 700;
-    color: var(--warna4);
+    color: var(--warna1);
     border-radius: 20px;
     padding: 20px;
     box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.527),
@@ -70,14 +74,18 @@ p{
     cursor: pointer;
 }
 
-
-.kotak-film{
+#second{
+    background: var(--warna2);
+}
+#second .col-lg-4{
+    margin-bottom: 15px;
+}
+.kotak-resep{
     font-weight: 800;
 }
 .rekomendasi{
     background-color: var(--warna4);
     padding-top: 25px;
-    padding-bottom: 25px;
     border-radius: 15px;
     margin-bottom: 25px;
 }
@@ -86,33 +94,65 @@ p{
     font-size: 34px;
     margin-bottom: 25px;
 }
-
-
-.card-text{
-    max-height: 150px;
-    overflow: auto;
+#second .list-resep{
+    background-color: white;
+    padding: 20px 15px;
+    border-radius: 15px;
 }
-
-.card-text::-webkit-scrollbar {
+#second .list-resep .foto-makanan{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+#second .list-resep p{
+    margin-bottom: 0;
+}
+#second .semua-bahan{
+    height: 170px;
+    overflow-y: auto;
+}
+/* width */
+#second .semua-bahan::-webkit-scrollbar {
     width: 8px;
 }
 
   /* Track */
-  .card-text::-webkit-scrollbar-track {
+#second .semua-bahan::-webkit-scrollbar-track {
     background: transparent;
 }
 
   /* Handle */
-  .card-text::-webkit-scrollbar-thumb {
+#second .semua-bahan::-webkit-scrollbar-thumb {
     background: var(--warna4);
     border-radius: 10px;
 }
 
   /* Handle on hover */
-  .card-text::-webkit-scrollbar-thumb:hover {
+#second .semua-bahan::-webkit-scrollbar-thumb:hover {
     background: var(--warna5);
 }
-.gambar-kartu{
-    height: 200px;
-    object-fit: cover;
+#second .semua-bahan li{
+    text-transform: capitalize;
+}
+#second .mulai-masak{
+    border: none;
+    background-color: var(--warna1);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--warna1);
+}
+#second .mulai-masak img{
+    margin-left: 10px;
+}
+#second .mulai-masak:hover{
+    background-color: transparent;
+    border: 1px solid black;
+}
+#second .waktu-masak{
+    color: #A8A8A8;
 }
