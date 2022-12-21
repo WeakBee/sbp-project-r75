@@ -151,7 +151,7 @@
         ]
     },{
         "judul" : "Comic 8: Casino Kings part 1",
-    "genre" : ["Action", "Komedi"],
+        "genre" : ["Action", "Komedi"],
         "durasi" : 104,
         "produser" : "Frederica",
         "sutradara" : "Anggy Umbara",
@@ -1893,7 +1893,7 @@
         ]
     },{
         "judul" : "Home Alone ",
-        "genre" : "Komedi, Adventure, Crime, Family",
+        "genre" : ["Komedi", "Adventure", "Crime", "Family"],
         "durasi" : 103,
         "produser" : "John Hughes",
         "sutradara" : "Chris Columbus",
@@ -3330,7 +3330,7 @@
         ]
     },{
         "judul" : "The Pirates 2",
-        "genre" : ["Adventure", "Komedi","Fantasi"],
+        "genre" : ["Adventure","Komedi","Fantasi"],
         "durasi" : 125,
         "produser" : "Song Yong-Woon",
         "sutradara" : "Kim Jung-Hoon",
