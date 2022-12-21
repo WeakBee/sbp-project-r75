@@ -18,7 +18,7 @@
             overflow: hidden;
         }
     </style>
-    <title>Jump Blues</title>
+    <title>Modern Electric Blues</title>
 </head>
 <body>
     <div class="container">
@@ -35,7 +35,7 @@
         $.getJSON('../API/Blues.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Jump Blues"){
+                if(data2.SUBGENRE == "Modern Electric Blues"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagesblues/`+ data2.Gambar +`" class="card-img-top" alt="...">

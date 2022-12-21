@@ -5,7 +5,7 @@
         "Album" : "Pablo Honey",
         "Judul" : "Creep",
         "Tahun" : "1993",
-        "Gambar" : "" 
+        "Gambar" : "alrock1.jpg" 
             
     },
 	{
@@ -14,7 +14,7 @@
         "Album" : "The Joshua Tree",
         "Judul" : "With Or Without You",
         "Tahun" : "1987",
-        "Gambar" : ""  
+        "Gambar" : "alrock2.jpg"  
 			
 	},
 	{
@@ -23,7 +23,7 @@
         "Album" : "Sullen",
         "Judul" : "Sullen",
         "Tahun" : "2013",
-        "Gambar" : ""  
+        "Gambar" : "alrock3.jpg"  
 			
 	},
 	{
@@ -32,7 +32,7 @@
         "Album" : "Wezeer (Green Album)",
         "Judul" : "Island In The Sun",
         "Tahun" : "2001",
-        "Gambar" : ""  
+        "Gambar" : "alrock4.png"  
 			
 	},
 	{
@@ -41,7 +41,7 @@
         "Album" : "Bond Electric",
         "Judul" : "Paint It Over",
         "Tahun" : "2019" ,
-        "Gambar" : "" 
+        "Gambar" : "alrock5.jpeg" 
 			
 	},
 	{
@@ -50,7 +50,7 @@
         "Album" : "Three Imaginary Boys",
         "Judul" : "Boys Don’t Cry",
         "Tahun" : "1979" ,
-        "Gambar" : "" 
+        "Gambar" : "alrock6.jpg" 
 			
 	},
 	{
@@ -59,7 +59,7 @@
         "Album" : "Appetite For Destruction",
         "Judul" : "Sweet Child O’ Mine",
         "Tahun" : "1987" ,
-        "Gambar" : "" 
+        "Gambar" : "rnr1.jpg" 
 			
 	},
 	{
@@ -68,7 +68,7 @@
         "Album" : "Aftermath",
         "Judul" : "Paint It, Black",
         "Tahun" : "1966",
-        "Gambar" : ""  
+        "Gambar" : "rnr2.jpeg"  
 			
 	},
 	{
@@ -77,7 +77,7 @@
         "Album" : "Highway to Hell",
         "Judul" : "Highway to Hell",
         "Tahun" : "1979" ,
-        "Gambar" : "" 
+        "Gambar" : "rnr3.jpg" 
 			
 	},
 	{
@@ -86,7 +86,7 @@
         "Album" : "Kampungan",
         "Judul" : "Nggak Rock N’Roll",
         "Tahun" : "1991",
-        "Gambar" : ""  
+        "Gambar" : "rnr4.jpg"  
 			
 	},
 	{
@@ -95,7 +95,7 @@
         "Album" : "17 Th Keatas",
         "Judul" : "(Tolong) Bu Dokter",
         "Tahun" : "1997",
-        "Gambar" : ""  
+        "Gambar" : "rnr5.jpeg"  
 			
 	},
 	{
@@ -104,7 +104,7 @@
         "Album" : "Brandalisme",
         "Judul" : "100% Kontrol",
         "Tahun" : "2007",
-        "Gambar" : ""  
+        "Gambar" : "rnr6.jpg"  
 			
 	},
 	{
@@ -113,7 +113,7 @@
         "Album" : "Visible Idea of Perfection",
         "Judul" : "All The Time",
         "Tahun" : "2006" ,
-        "Gambar" : "" 
+        "Gambar" : "rnr7.jpg" 
 			
 	},
 	{
@@ -122,7 +122,7 @@
         "Album" : "Mencoba Sukses Kembali",
         "Judul" : "Racun Dunia ",
         "Tahun" : "2008",
-        "Gambar" : ""  
+        "Gambar" : "rnr8.jpeg"  
 			
 	},
 	{
@@ -131,7 +131,7 @@
         "Album" : "Lokananta",
         "Judul" : "My Music is Rock ‘n’ Roll",
         "Tahun" : "2015" ,
-        "Gambar" : "" 
+        "Gambar" : "rnr9.jpeg" 
 			
 	},
 	{
@@ -140,7 +140,7 @@
         "Album" : "Gugun Blues Shelter",
         "Judul" : "When I See You Again ",
         "Tahun" : "2010" ,
-        "Gambar" : "" 
+        "Gambar" : "bluerok1.jpg" 
 			
 	},
 	{
@@ -149,7 +149,7 @@
         "Album" : "Say Your Prayer (EP)",
         "Judul" : "Say Your Prayer",
         "Tahun" : "2022",
-        "Gambar" : ""  
+        "Gambar" : "bluerok2.jpeg"  
 			
 	},
 	{
@@ -158,7 +158,7 @@
         "Album" : "The Allman Brothers Band (Deluxe)",
         "Judul" : "Whipping Post",
         "Tahun" : "1969" ,
-        "Gambar" : "" 
+        "Gambar" : "bluerok3.jpeg" 
 			
 	},
 	{
@@ -167,7 +167,7 @@
         "Album" : "Tres Hombres",
         "Judul" : "La Grange",
         "Tahun" : "1973",
-        "Gambar" : ""  
+        "Gambar" : "bluerok4.jpg"  
 			
 	},
 	{
@@ -176,7 +176,7 @@
         "Album" : "L.A. Women ",
         "Judul" : "Riders On The Storm",
         "Tahun" : "1971",
-        "Gambar" : ""  
+        "Gambar" : "bluerok5.jpg"  
 			
 	},
 	{
@@ -185,7 +185,7 @@
         "Album" : "Second Helping ",
         "Judul" : "Sweet Home Alabama",
         "Tahun" : "1974",
-        "Gambar" : ""  
+        "Gambar" : "bluerok6.jpg"  
 			
 	},
 	{
@@ -194,7 +194,7 @@
         "Album" : "Ghede Chokra’s",
         "Judul" : "Evil War",
         "Tahun" : "1971",
-        "Gambar" : ""  
+        "Gambar" : "prorok1.jpeg"  
 			
 	},
 	{
@@ -203,7 +203,7 @@
         "Album" : "In the Count of the Crimson King",
         "Judul" : "21st Century Schizoid Man",
         "Tahun" : "1969",
-        "Gambar" : ""  
+        "Gambar" : "prorok2.jpeg"  
 			
 	},
 	{
@@ -212,7 +212,7 @@
         "Album" : "The Dark Side of The Moon",
         "Judul" : "Us and Them",
         "Tahun" : "1973",
-        "Gambar" : ""  
+        "Gambar" : "prorok3.jpeg"  
 			
 	},
 	{
@@ -221,7 +221,7 @@
         "Album" : "Moving Picture",
         "Judul" : "Tom Sawyer",
         "Tahun" : "1981",
-        "Gambar" : ""  
+        "Gambar" : "prorok4.jpg"  
         
     },
     {
@@ -230,7 +230,7 @@
         "Album" : "Invisible Touch",
         "Judul" : "Invisible Touch",
         "Tahun" : "1986",
-        "Gambar" : ""  
+        "Gambar" : "prorok5.jpeg"  
 		
 	},
 	{
@@ -239,7 +239,7 @@
         "Album" : "The Queen is Dead",
         "Judul" : "There is a Light That Never Goes Out",
         "Tahun" : "1986" ,
-        "Gambar" : "" 
+        "Gambar" : "inrok1.png" 
 			
 	},
 	{
@@ -248,7 +248,7 @@
         "Album" : "Spin Your Wheels ",
         "Judul" : "Heartless Stoic Boy",
         "Tahun" : "2019" ,
-        "Gambar" : "" 
+        "Gambar" : "inrok2.jpg" 
 			
 	},
 	{
@@ -257,7 +257,7 @@
         "Album" : "Out Of Time ",
         "Judul" : "Losing My Religion ",
         "Tahun" : "1991",
-        "Gambar" : ""  
+        "Gambar" : "inrok3.jpg"  
 			
 	},
 	{
@@ -266,7 +266,7 @@
         "Album" : "Surfer Rosa ",
         "Judul" : "Where is My Mind",
         "Tahun" : "1988",
-        "Gambar" : ""  
+        "Gambar" : "inrok4.jpg"  
 			
 	},
 	{
@@ -275,7 +275,7 @@
         "Album" : "Daydream Nation",
         "Judul" : "Teen Age Riot ",
         "Tahun" : "1988",
-        "Gambar" : ""  
+        "Gambar" : "inrok5.jpeg"  
 			
 	},
 	{
@@ -284,7 +284,7 @@
         "Album" : "AM",
         "Judul" : "Do I Wanna Know?",
         "Tahun" : "2013",
-        "Gambar" : ""  
+        "Gambar" : "inrok6.jpg"  
 			
 	},
 	{
@@ -293,7 +293,7 @@
         "Album" : "The Piper at the Gates of Dawn",
         "Judul" : "Astronomy Domine",
         "Tahun" : "1967" ,
-        "Gambar" : "1" 
+        "Gambar" : "psyrock1.jpeg" 
 			
 	},
 	{
@@ -302,7 +302,7 @@
         "Album" : "Disraeli Gears ",
         "Judul" : "Sunshine Of Your Love",
         "Tahun" : "1967",
-        "Gambar" : "2"  
+        "Gambar" : "psyrock2.jpeg"  
 			
 	},
 	{
@@ -311,7 +311,7 @@
         "Album" : "The Psychedelic Sounds of the 13th Floor Elevators",
         "Judul" : "You’re Gonna Miss Me",
         "Tahun" : "1966",
-        "Gambar" : "3"  
+        "Gambar" : "psyrock3.jpeg"  
 			
 	},
 	{
@@ -320,7 +320,7 @@
         "Album" : "Ice, Death, Planets, Lungs, Mushrooms, And Lava",
         "Judul" : "Magma",
         "Tahun" : "2022" ,
-        "Gambar" : "4" 
+        "Gambar" : "psyrock4.jpeg" 
 			
 	},
 	{
@@ -329,7 +329,7 @@
         "Album" : "Magical Mystery Tour",
         "Judul" : "Strawberry Fields Foreve",
         "Tahun" : "1967" ,
-        "Gambar" : "5" 
+        "Gambar" : "psyrock5.jpeg" 
 			
 	},
 	{
@@ -338,7 +338,7 @@
         "Album" : "High Visceral, Pt. 1",
         "Judul" : "Cornflake",
         "Tahun" : "2016",
-        "Gambar" : "6"  
+        "Gambar" : "psyrock6.jpeg"  
 			
 	},
 	{
@@ -347,7 +347,7 @@
         "Album" : "Are You Experienced",
         "Judul" : "Purple Haze",
         "Tahun" : "1967",
-        "Gambar" : ""  
+        "Gambar" : "psyrock7.jpg"  
 			
 	},
 	{
@@ -356,7 +356,7 @@
         "Album" : "The Doors",
         "Judul" : "Light My FIre",
         "Tahun" : "1967",
-        "Gambar" : ""  
+        "Gambar" : "psyrock8.jpg"  
 			
 	},
 	{
@@ -365,7 +365,7 @@
         "Album" : "The Madcap Laughs",
         "Judul" : "Octopus",
         "Tahun" : "1970",
-        "Gambar" : ""  
+        "Gambar" : "psyrock9.jpeg"  
 			
 	
 	},
@@ -375,7 +375,7 @@
         "Album" : "Currents",
         "Judul" : "The Less I Know The Better",
         "Tahun" : "2015",
-        "Gambar" : ""  
+        "Gambar" : "psyrock10.png"  
 			
 	},
 	{
@@ -384,7 +384,7 @@
         "Album" : "Abbey Road (Remastered)",
         "Judul" : "Come Together",
         "Tahun" : "2009" ,
-        "Gambar" : "" 
+        "Gambar" : "acrok1.jpg" 
 			
 	},
 	{
@@ -393,7 +393,7 @@
         "Album" : "The Rolling Stones Rock And Roll Circus",
         "Judul" : "Yer blues (remastered 2018)",
         "Tahun" : "2019",
-        "Gambar" : ""  
+        "Gambar" : "acrok2.jpeg"  
 			
 	},
 	{
@@ -402,7 +402,7 @@
         "Album" : "Marrison Hotel",
         "Judul" : "Blue Sunday",
         "Tahun" : "1970",
-        "Gambar" : ""  
+        "Gambar" : "acrok3.jpeg"  
 			
 	},
 	{
@@ -411,7 +411,7 @@
         "Album" : "A Night At The Opera",
         "Judul" : "Bohemian Rhapsody",
         "Tahun" : "1975",
-        "Gambar" : ""  
+        "Gambar" : "glamrok1.jpg"  
 			
 	},
 	{
@@ -420,7 +420,7 @@
         "Album" : "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
         "Judul" : "Ziggy Stardust",
         "Tahun" : "1972" ,
-        "Gambar" : "" 
+        "Gambar" : "glamrok2.jpg" 
 			
 	},
 	{
@@ -429,7 +429,7 @@
         "Album" : "Kiss",
         "Judul" : "Strutter",
         "Tahun" : "1974" ,
-        "Gambar" : "" 
+        "Gambar" : "glamrok3.jpg" 
 			
 	},
 	{
@@ -438,7 +438,7 @@
         "Album" : "Planet Waves",
         "Judul" : "On A Night Like This",
         "Tahun" : "1974" ,
-        "Gambar" : "" 
+        "Gambar" : "rotrok1.jpg" 
 			
 	},
 	{
@@ -447,7 +447,7 @@
         "Album" : "Thirty Three & 1/3",
         "Judul" : "Beautiful Girl",
         "Tahun" : "1976" ,
-        "Gambar" : "" 
+        "Gambar" : "rotrok2.jpg" 
 			
 	},
 	{
@@ -456,7 +456,7 @@
         "Album" : "Eyes",
         "Judul" : "I WISH",
         "Tahun" : "2007",
-        "Gambar" : ""  
+        "Gambar" : "rotrok3.jpeg"  
 			
 	},
 	{
@@ -465,7 +465,7 @@
         "Album" : "Rubber Soul",
         "Judul" : "In My Life",
         "Tahun" : "1965",
-        "Gambar" : ""  
+        "Gambar" : "folkrok1.jpg"  
 			
 	},
 	{
@@ -474,7 +474,7 @@
         "Album" : "Teriakan Bocah",
         "Judul" : "TO",
         "Tahun" : "2015" ,
-        "Gambar" : "" 
+        "Gambar" : "folkrok2.jpg" 
 			
 	},
 	{
@@ -483,7 +483,7 @@
         "Album" : "All Things Must Pass",
         "Judul" : "All Things Must Pass",
         "Tahun" : "1970",
-        "Gambar" : ""  
+        "Gambar" : "folkrok3.jpeg"  
 			
 	},
 	{
@@ -492,7 +492,7 @@
         "Album" : "Visible Idea Of Perfection",
         "Judul" : "Black Amplifier",
         "Tahun" : "2006 ",
-        "Gambar" : ""  
+        "Gambar" : "arenarok1.jpg"  
 			
 	},
 	{
@@ -501,7 +501,7 @@
         "Album" : "Get A Grip",
         "Judul" : "Crazy",
         "Tahun" : "1993",
-        "Gambar" : ""  
+        "Gambar" : "arenarok2.jpg"  
 			
 	},
 	{
@@ -510,7 +510,7 @@
         "Album" : "A Day At The Races",
         "Judul" : "Somebody To Love",
         "Tahun" : "1976" ,
-        "Gambar" : "" 
+        "Gambar" : "arenarok3.jpg" 
 			
 	},
 	{
@@ -519,7 +519,7 @@
         "Album" : "Hair Of The Dog",
         "Judul" : "Love Hurts",
         "Tahun" : "2010" ,
-        "Gambar" : "" 
+        "Gambar" : "soft rok.jpg" 
 			
 	},
 	{
@@ -528,7 +528,7 @@
         "Album" : "Deadly Sting: The Mercury Years",
         "Judul" : "Wind Of Change",
         "Tahun" : "1997",
-        "Gambar" : ""  
+        "Gambar" : "softrok2.jpeg"  
 			
 	},
 	{
@@ -537,7 +537,7 @@
         "Album" : "Stormbringer",
         "Judul" : "Soldier Of Fortune",
         "Tahun" : "1974" ,
-        "Gambar" : "" 
+        "Gambar" : "softrok3.jpg" 
 			
 	},
 	{
@@ -546,7 +546,7 @@
         "Album" : "Pikiran Dan Perjalanan",
         "Judul" : "Guna Manusia",
         "Tahun" : "2019" ,
-        "Gambar" : "" 
+        "Gambar" : "artrok1.jpeg" 
 			
 	},
 	{
@@ -555,7 +555,7 @@
         "Album" : "Beberapa Orang Memaafkan (EP)",
         "Judul" : "Padi Milik Rakyat",
         "Tahun" : "2018" ,
-        "Gambar" : "" 
+        "Gambar" : "artrok2.jpg" 
 			
 	},
 	{
@@ -564,7 +564,7 @@
         "Album" : "Showbiz",
         "Judul" : "Unintended",
         "Tahun" : "1999",
-        "Gambar" : ""  
+        "Gambar" : "artrok3.jpg"  
 			
 	},
 	{
@@ -573,7 +573,7 @@
         "Album" : "Are You Experienced",
         "Judul" : "Purple Haze",
         "Tahun" : "1967",
-        "Gambar" : ""  
+        "Gambar" : "stonrok1.jpg"  
 			
 	},
 	{
@@ -582,7 +582,7 @@
         "Album" : "Dopethrone",
         "Judul" : "Barbarian",
         "Tahun" : "2000" ,
-        "Gambar" : "" 
+        "Gambar" : "stonrok2.jpeg" 
 			
 	},
 	{
@@ -591,7 +591,7 @@
         "Album" : "Master Of Reality",
         "Judul" : "Sweet Leaf",
         "Tahun" : "1971" ,
-        "Gambar" : "" 
+        "Gambar" : "stonrok3.jpeg" 
 			
 	},
 	{
@@ -600,7 +600,7 @@
         "Album" : "Bloodflowers",
         "Judul" : "Maybe Someday",
         "Tahun" : "2000",
-        "Gambar" : ""  
+        "Gambar" : "gotrok1.jpeg"  
 			
 	},
 	{
@@ -609,7 +609,7 @@
         "Album" : "Unknown Pleasures",
         "Judul" : "Candidate",
         "Tahun" : "1979",
-        "Gambar" : ""  
+        "Gambar" : "gotrok2.jpg"  
 			
 	},
 	{
@@ -618,7 +618,7 @@
         "Album" : "The Queen Is Dead",
         "Judul" : "I Know It's Over",
         "Tahun" : "1986" ,
-        "Gambar" : "" 
+        "Gambar" : "gotrok3.png" 
 			
 	},
 	{
@@ -627,7 +627,7 @@
         "Album" : "With Teeth",
         "Judul" : "The Head That Feeds",
         "Tahun" : "2005" ,
-        "Gambar" : "" 
+        "Gambar" : "inrok1.png" 
 			
 	},
 	{
@@ -636,7 +636,7 @@
         "Album" : "KE*A*H(Psalm 69)",
         "Judul" : "Jesus Built My Hotrod",
         "Tahun" : "1992" ,
-        "Gambar" : "" 
+        "Gambar" : "inrok2.jpeg" 
 			
 	},
 	{
@@ -645,7 +645,7 @@
         "Album" : "Omnipresent",
         "Judul" : "Bitch",
         "Tahun" : "1996" ,
-        "Gambar" : "" 
+        "Gambar" : "inrok3.jpeg" 
 			
 	},
 	{
@@ -654,7 +654,7 @@
         "Album" : "Weezer(Red Album)",
         "Judul" : "Heart Song",
         "Tahun" : "2008",
-        "Gambar" : ""  
+        "Gambar" : "geekrok1.jpg"  
 			
 	},
 	{
@@ -663,7 +663,7 @@
         "Album" : "Spending Time Of The Border Line",
         "Judul" : "Restart",
         "Tahun" : "2003" ,
-        "Gambar" : "" 
+        "Gambar" : "geekrok2.jpeg" 
 			
 	},
 	{
@@ -672,7 +672,7 @@
         "Album" : "Return Of The Rentals",
         "Judul" : "The Love I'm Searching For",
         "Tahun" : "1995",
-        "Gambar" : ""  
+        "Gambar" : "geekrok3.jpg"  
 			
 	},
 	{
@@ -681,7 +681,7 @@
         "Album" : "Thriller",
         "Judul" : "The Girl Is mine",
         "Tahun" : "1982",
-        "Gambar" : ""  
+        "Gambar" : "yatrok1.png"  
 			
 	},
 	{
@@ -690,7 +690,7 @@
         "Album" : "Hot Space",
         "Judul" : "Cool Cat",
         "Tahun" : "1982",
-        "Gambar" : ""  
+        "Gambar" : "yatrok2.png"  
 			
 	},
 	{
@@ -699,7 +699,7 @@
         "Album" : "Minute By Minute",
         "Judul" : "Minute By Minute",
         "Tahun" : "1982",
-        "Gambar" : ""  
+        "Gambar" : "yatrok3.jpg"  
 			
 	},
 	{
@@ -708,7 +708,7 @@
         "Album" : "Slippery When Wet",
         "Judul" : "You Give Love A Bad Name",
         "Tahun" : "1986",
-        "Gambar" : ""  
+        "Gambar" : "hardrok1.jpg"  
 			
 	},
 	{
@@ -717,7 +717,7 @@
         "Album" : "Invasion Of Your Privacy",
         "Judul" : "Lay It Down",
         "Tahun" : "1985",
-        "Gambar" : ""  
+        "Gambar" : "hardrok2.jpeg"  
 			
 	},
 	{
@@ -726,7 +726,7 @@
         "Album" : "Appetite For Destruction",
         "Judul" : "Paradise City",
         "Tahun" : "1987" ,
-        "Gambar" : "" 
+        "Gambar" : "hardrok3.jpeg" 
 			
 	},
 	{
@@ -735,7 +735,7 @@
         "Album" : "Cross Roads (Single)",
         "Judul" : "Cross Roads",
         "Tahun" : "2021",
-        "Gambar" : ""  
+        "Gambar" : "hardrok4.jpg"  
 			
 	},
 	{
@@ -744,7 +744,7 @@
         "Album" : "Machine Head",
         "Judul" : "Smoke On The Water",
         "Tahun" : "1972",
-        "Gambar" : ""  
+        "Gambar" : "klasikrok1.jpeg"  
 			
 	},
 	{
@@ -753,7 +753,7 @@
         "Album" : "Led Zeppelin III",
         "Judul" : "Immigrant Song",
         "Tahun" : "1970" ,
-        "Gambar" : "" 
+        "Gambar" : "klasikrok2.jpeg" 
 			
 	},
 	{
@@ -762,7 +762,7 @@
         "Album" : "The Game",
         "Judul" : "Another One Bites The Duts",
         "Tahun" : "1980" ,
-        "Gambar" : "" 
+        "Gambar" : "klasikrok3.jpeg" 
 			
 	},
 	{
@@ -771,7 +771,7 @@
         "Album" : "Bintang lima",
         "Judul" : "Cemburu",
         "Tahun" : "2000",
-        "Gambar" : ""  
+        "Gambar" : "poprock1.jpg"  
 			
 	},
 	{
@@ -780,7 +780,7 @@
         "Album" : "Violator | The 12 (Single)",
         "Judul" : "Enjoy The Silence",
         "Tahun" : "2022",
-        "Gambar" : ""  
+        "Gambar" : "poprock2.jpeg"  
 			
 	},
 	{
@@ -789,7 +789,7 @@
         "Album" : "News Of The World",
         "Judul" : "We Are The Champions",
         "Tahun" : "1977" ,
-        "Gambar" : "" 
+        "Gambar" : "poprock3.png" 
 			
 	},
 	{
@@ -798,7 +798,7 @@
         "Album" : "Kiss me Kiss me Kiss me Kiss me",
         "Judul" : "Just Like Heaven",
         "Tahun" : "1987" ,
-        "Gambar" : "" 
+        "Gambar" : "newwave1.jpeg" 
 			
 	},
 	{
@@ -807,7 +807,7 @@
         "Album" : "When In Rome",
         "Judul" : "The Promise",
         "Tahun" : "1988",
-        "Gambar" : ""  
+        "Gambar" : "newwave2.jpg"  
 			
 	},
 	{
@@ -816,7 +816,7 @@
         "Album" : "1+2",
         "Judul" : "Hilang ",
         "Tahun" : "2012",
-        "Gambar" : ""  
+        "Gambar" : "newwave3.jpg"  
 			
 	},
 	{
@@ -825,7 +825,7 @@
         "Album" : "Nevermind",
         "Judul" : "Smells Like Teen Spirit",
         "Tahun" : "1991",
-        "Gambar" : ""  
+        "Gambar" : "grunge1.jpeg"  
 			
 	},
 	{
@@ -834,7 +834,7 @@
         "Album" : "Vs.",
         "Judul" : "Daughter",
         "Tahun" : "1993",
-        "Gambar" : ""  
+        "Gambar" : "grunge2.jpeg"  
 			
 	},
 	{
@@ -843,7 +843,7 @@
         "Album" : "Jar of Flies",
         "Judul" : "Nutshell",
         "Tahun" : "1994",
-        "Gambar" : ""  
+        "Gambar" : "grunge3.jpeg"  
 			
 	}
 ]

@@ -18,7 +18,7 @@
             overflow: hidden;
         }
     </style>
-    <title>Jump Blues</title>
+    <title>Rock Dut</title>
 </head>
 <body>
     <div class="container">
@@ -32,13 +32,13 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 
     <script>
-        $.getJSON('../API/Blues.json', function (data){
+        $.getJSON('../API/Dangdut.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Jump Blues"){
+                if(data2.SUBGENRE == "Rock-Dut"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
-                            <img src="../assets/images/imagesblues/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <img src="../assets/images/imagesdangdut/`+ data2.Gambar +`" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">`+ data2.Judul +`</h5>
                                 <p class="card-text">`+ data2.Band +`</p>
