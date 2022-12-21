@@ -45,6 +45,11 @@ nav .btn:hover {
 }
 
 /* Informasi */
+
+.container h3 {
+    text-transform: uppercase;
+}
+
 .container .card-title {
     text-align:center;
 }
