@@ -1,0 +1,25 @@
+.kotak-film{
+    font-weight: 800;
+}
+.rekomendasi{
+    background-color: var(--warna4);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+.judul-rekomendasi{
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+.card-text{
+    max-height: 150px;
+    overflow: auto;
+}
+
+.gambar-kartu{
+    height: 200px;
+    object-fit: cover;
+}
