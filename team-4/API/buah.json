@@ -1,603 +1,597 @@
 [
         {
                 "nama" : "Anggur",
-                "kandungan" : ["A","B1","B2","B6","B12","C"],
+                "vitamin" : ["A","B1","B2","B6","B12","C"],
                 "deskripsi" : "Anggur merupakan tanaman buah berupa perdu merambat yang termasuk ke dalam keluarga Vitaceae. Buah ini biasanya digunakan untuk membuat jus anggur, jelly, minuman anggur, minyak biji anggur dan kismis, atau dimakan langsung. Anggur diduga berasal dari sekitar Laut Hitam dan Laut Kaspi kemudian menyebar ke Amerika Utara, Amerika Selatan, Eropa, dan selanjutnya ke Asia termasuk Indonesia.",
-                "nutrisi": {
-                    "karbohidrat": 18.1,
-                    "protein": 0.72,
-                    "lemak": 0.16,
-                    "kalori": 69,
-                    "gula": 16
-                }
+                "karbohidrat": 18.1,
+                "protein": 0.72,
+                "lemak": 0.16,
+                "kalori": 69,
+                "gula": 16
         },
         {
                 "nama" : "Apel",
-                "kandungan" : ["A","B6","C"],
+                "vitamin" : ["A","B6","C"],
                 "deskripsi" : "Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan, namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya. Apel pertama kali ditanam di Asia Tengah, kemudian berkembang luas wilayah yang lebih dingin.",
-                "nutrisi": {
-                    "karbohidrat": 11.4,
-                    "protein": 0.3,
-                    "lemak": 0.4,
-                    "kalori": 52,
-                    "gula": 10.3
-                }
+                "karbohidrat": 11.4,
+                "protein": 0.3,
+                "lemak": 0.4,
+                "kalori": 52,
+                "gula": 10.3
         },
         {
                 "nama" : "Aprikot",
-                "kandungan" : ["A"],
+                "vitamin" : ["A"],
                 "deskripsi" : "Abrikos atau aprikot merupakan nama dari buah atau pohon dari beberapa tumbuhan yang tergabung dalam marga Prunus. Kebanyakan buah ini didapat dari jenis pohon P. armeniaca, tetapi jenis-jenis seperti P. brigantina, P. mandshurica, P. mume, P. zhengheensis and P. sibirica yang berkerabat dekat juga menghasilkan buah yang serupa yang kadang dinamai pula Abrikos. Abrikos diduga berasal dari kawasan Media yang terletak di perbatasan Iran dan Azerbaijan, namun pendapat lain menyebutkan bahwa sebenarnya Abrikos memiliki persebaran asli yang luas mulai dari Armenia, Kaukasus, Himalaya, Tiongkok, sampai ke Jepang.",
-                "nutrisi": {
+                
                     "karbohidrat": 3.9,
                     "protein": 0.5,
                     "lemak": 0.1,
                     "kalori": 15,
-                    "gula": 3.2
-                }
-        },
+                    "gula": 3.2}
+                
+        ,
         {
                 "nama" : "Belimbing",
-                "kandungan" : ["A","B3","B9","C"],
+                "vitamin" : ["A","B3","B9","C"],
                 "deskripsi" : "Belimbing / Belimbing Manis adalah tumbuhan penghasil buah berbentuk khas yang berasal dari Indonesia, India, dan Sri Lanka. Saat ini, belimbing telah tersebar ke penjuru Asia Tenggara, Republik Dominika, Brasil, Peru, Ghana, Guyana, Tonga, dan Polinesia. Belimbing merupakan tanaman buah berupa pohon yang berasal dari kawasan Malaysia, kemudian menyebar luas ke berbagai negara yang beriklim tropis lainnya di dunia termasuk Indonesia.",
-                "nutrisi": {
+                
                     "karbohidrat": 8.8,
                     "protein": 0.4,
                     "lemak": 0.4,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Bengkuang",
-                "kandungan" : ["C"],
+                "vitamin" : ["C"],
                 "deskripsi" : "Bengkuang atau bengkoang dikenal dari umbi putihnya yang bisa dimakan sebagai komponen rujak dan asinan atau dijadikan masker untuk menyegarkan wajah dan memutihkan kulit. Tumbuhan yang berasal dari Benua Amerika ini termasuk dalam suku polong-polongan atau Fabaceae. Tingginya mencapai 2 sampai 6 meter dan diameter akar tunggang sekitar 5-30 cm, serta memiliki batang berbulu. Bengkoang berdaun majemuk, dengan 3 anak daun dan bertulang daun menyirip. Tanaman ini juga menghasilkan bunga dengan kelopak berwarna biru atau putih serta buah legum yang berbulu ketika muda.",
-                "nutrisi": {
+                
                     "karbohidrat": 8.8,
                     "protein": 0.7,
                     "lemak": 0,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Bluberi",
-                "kandungan" : ["A","C","E"],
+                "vitamin" : ["A","C","E"],
                 "deskripsi" : "Bluberi atau beri biru adalah tanaman berbunga dalam genus Vaccinium, bagian Cyanococcus. Spesies ini tumbuh di Amerika Utara. Berupa semak yang ukurannya mulai 10 cm hingga 4 m; spesies terkecil dikenal sebagai 'bluberry semak rendah', dan spesies terbesar adalah 'bluberi semak tinggi'.",
-                "nutrisi": {
+                
                     "karbohidrat": 5.5,
                     "protein": 0,
                     "lemak": 0.4,
                     "kalori": 29,
                     "gula": 5.4
-                }
         },
         {
                 "nama" : "Buni",
-                "kandungan" : ["A","B1","B2","C","E"],
+                "vitamin" : ["A","B1","B2","C","E"],
                 "deskripsi" : "Buah buni dalam pengertian botani adalah buah berdaging yang terbentuk dari bakal buah tunggal. Secara morfologi, semua lapisan pembungkusnya lunak: lapisan terluar tipis dan lunak, lapisan dalamnya tebal, lunak, dan berair. Rasa buah tersebut khas, asam dengan sedikit sepet, menyerupai rasa buah jamblang. Buah wuni lebih banyak dikonsumsi dengan sambal gula untuk rujak. Jika ingin rasanya tak terlalu sepet, makan setelah warnanya ungu gelap.",
-                "nutrisi": {
-                    "karbohidrat": 0,
+                
+                    "karbohidrat": 0,                   
                     "protein": 0.75,
                     "lemak": 0,
                     "kalori": 0.04,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Cempedak",
-                "kandungan" : ["B1","B2"],
+                "vitamin" : ["B1","B2"],
                 "deskripsi" : "Cempedak adalah tanaman buah-buahan dari famili Moraceae. Bentuk buah, rasa dan keharumannya seperti nangka, meski aromanya kerap kali menusuk kuat mirip buah durian. Tanaman ini berasal dari Asia Tenggara, dan menyebar luas mulai dari wilayah Tenasserim di Burma, Malaysia, Thailand, dan sebagian Kepulauan Nusantara: Sumatra, Borneo, Sulawesi, Maluku hingga ke Papua. Juga banyak didapati di Jawa bagian barat.",
-                "nutrisi": {
+                
                     "karbohidrat": 25,
                     "protein": 2.5,
                     "lemak": 0.4,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Ceplukan",
-                "kandungan" : ["A","C","K","E"],
+                "vitamin" : ["A","C","K","E"],
                 "deskripsi" : "Ceplukan adalah nama sejenis buah kecil, yang ketika masak tertutup oleh perbesaran kelopak bunga. Buah ini juga dikenal dengan berbagai nama daerah seperti cecenet atau cecendet , yor-nyèoran dan kopok-kopokan.",
-                "nutrisi": {
+                
                     "karbohidrat": 0,
-                    "protein": 1.9,
-                    "lemak": 0.7,
-                    "kalori": 0,
-                    "gula": 0
-                }
-        },
+                   "protein": 1.9,
+                   "lemak": 0.7,
+                   "kalori": 0,
+                   "gula": 0},
+                
         {
                 "nama" : "Cermai",
-                "kandungan" : ["A","B","C"],
+                "vitamin" : ["A","B","C"],
                 "deskripsi" : "Cermai, ceremai, cereme, atau cerme adalah nama sejenis pohon dengan buahnya sekali. Buah yang masam ini dikenal pula dengan nama-nama lain seperti ceureumoe, chermai, karmay, mayom, dan lain-lain. Dalam bahasa Inggris dinamai Otaheite gooseberry, Malay gooseberry, dan beberapa sebutan yang lain.",
-                "nutrisi": {
+                
                     "karbohidrat": 15,
                     "protein": 1,
                     "lemak": 0,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Ceri",
-                "kandungan" : ["A","C","E"],
+                "vitamin" : ["A","C","E"],
                 "deskripsi" : "Ceri adalah subgenus tumbuhan dari Prunus, dengan ciri-ciri memiliki bunga corymbs kecil majemuk (tidak sendiri-sendiri, atau dalam racemes), dan memiliki buah yang halus dengan hanya alur lemah di satu sisi, atau tidak ada alur. Subgenus adalah tanaman asli daerah beriklim belahan bumi utara, dengan dua spesies di Amerika, tiga di Eropa, dan sisanya di Asia.",
-                "nutrisi": {
+                
                     "karbohidrat": 12,
                     "protein": 1,
                     "lemak": 0.3,
                     "kalori": 50,
-                    "gula": 8
-                }
-        },
+                    "gula": 8}
+                
+        ,
         {
                 "nama" : "Cokelat/kakao",
-                "kandungan" : ["A1","B1","B2","C","D","E"],
+                "vitamin" : ["A1","B1","B2","C","D","E"],
                 "deskripsi" : "Cokelat adalah biji buah pohon kakao (Theobroma cacao) yang telah melalui proses fermentasi dan pengeringan dan siap diolah.[2] Biji kakao merupakan bahan dasar dari pembuatan coklat dan masakan tradisional Mesoamerika seperti tejate.",
-                "nutrisi": {
+                
                     "karbohidrat": 58,
                     "protein": 20,
                     "lemak": 14,
                     "kalori": 228,
-                    "gula": 2
-                }
-        },
+                    "gula": 2}
+                
+        ,
         {
                 "nama" : "Delima",
-                "kandungan" : ["C","E","K","B"],
+                "vitamin" : ["C","E","K","B"],
                 "deskripsi" : "Delima berasal dari Timur Tengah, tersebar di daerah subtropik sampai tropik, dari dataran rendah sampai di bawah 1.000 mdpl. Tumbuhan ini menyukai tanah gembur yang tidak terendam air, dengan air tanah yang tidak dalam. Delima sering ditanam di kebun-kebun sebagai tanaman hias, tumbuhan obat, atau karena buahnya yang dapat dimakan.",
-                "nutrisi": {
+                
                     "karbohidrat": 19,
                     "protein": 1.7,
                     "lemak": 1.2,
                     "kalori": 82,
-                    "gula": 14
-                }
-        },
+                    "gula": 14}
+                
+        ,
         {
                 "nama" : "Duku",
-                "kandungan" : ["C"],
+                "vitamin" : ["C"],
                 "deskripsi" : "Duku adalah jenis buah-buahan dari anggota suku Meliaceae. Tanaman yang berasal dari Asia Tenggara sebelah barat ini memiliki kemiripan dengan buah langsat, kokosan, pisitan, celoring dan lain-lain dengan berbagai variasinya. Nama-nama yang beraneka ragam ini sekaligus menunjukkan adanya aneka kultivar yang tercermin dari bentuk buah dan pohon yang berbeda-beda.",
-                "nutrisi": {
+                
                     "karbohidrat": 16.1,
                     "protein": 1,
                     "lemak": 0.2,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Durian",
-                "kandungan" : ["B1","B2"],
+                "vitamin" : ["B1","B2"],
                 "deskripsi" : "Durian adalah nama tumbuhan tropis yang berasal dari wilayah Asia Tenggara, sekaligus nama buahnya yang bisa dimakan. Nama ini diambil dari ciri khas kulit buahnya yang keras dan berlekuk-lekuk tajam sehingga menyerupai duri.",
-                "nutrisi": {
+                
                     "karbohidrat": 66,
                     "protein": 4,
                     "lemak": 13,
                     "kalori": 357,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Jambu batu",
-                "kandungan" : ["C"],
+                "vitamin" : ["C"],
                 "deskripsi" : "Jambu atau sering juga disebut jambu batu, jambu siki dan jambu klutuk adalah tanaman tropis yang berasal dari Brasil, disebarkan ke Indonesia melalui Thailand. Jambu batu memiliki buah yang berwarna hijau dengan daging buah berwarna putih atau merah dan berasa asam-manis. Buah jambu batu dikenal mengandung banyak vitamin C.",
-                "nutrisi": {
+                
                     "karbohidrat": 14,
                     "protein": 2.6,
                     "lemak": 0.3,
                     "kalori": 68,
-                    "gula": 9
-                }
-        },
+                    "gula": 9}
+                
+        ,
         {
                 "nama" : "Jambu bol",
-                "kandungan" : ["C","B1"],
+                "vitamin" : ["C","B1"],
                 "deskripsi" : "Jambu bol adalah pohon buah kerabat jambu-jambuan. Buah jambu ini memiliki tekstur daging yang lebih lembut dan lebih padat dibandingkan dengan jambu air. Tidak begitu jelas mengapa namanya demikian karena bol (bahasa Melayu) atau bool (bahasa Betawi) yang berarti 'pantat'.",
-                "nutrisi": {
+                
                     "karbohidrat": 0,
-                    "protein": 0.5,
+                   "protein": 0.5,
                     "lemak": 0.2,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Jambu mete",
-                "kandungan" : ["A","C"],
+                "vitamin" : ["A","C"],
                 "deskripsi" : "Jambu monyet atau jambu mede (Anacardium occidentale) adalah sejenis tanaman dari suku Anacardiaceae yang berasal dari Brasil dan memiliki 'buah' yang dapat dimakan. Yang lebih terkenal dari jambu mede adalah kacang mede, kacang mete atau kacang mente; bijinya yang biasa dikeringkan dan digoreng untuk dijadikan berbagai macam penganan.",
-                "nutrisi": {
+                
                     "karbohidrat": 30,
                     "protein": 18,
                     "lemak": 44,
                     "kalori": 553,
-                    "gula": 6
-                }
-        },
+                    "gula": 6}
+                
+        ,
         {
                 "nama" : "Jeruk nipis",
-                "kandungan" : ["B1","B3","C"],
+                "vitamin" : ["B1","B3","C"],
                 "deskripsi" : "Jeruk nipis merupakan jenis tumbuhan yang masuk ke dalam suku jeruk-jerukan, tersebar di Asia dan Amerika Tengah, dikenal juga sebagai jeruk pecel. Pohon jeruk nipis dapat mencapai tinggi 3–6 meter, bercabang banyak dan berduri, daun lonjong, tangkai daun bersayap kecil.",
-                "nutrisi": {
+                
                     "karbohidrat": 11,
-                    "protein": 0.7,
-                    "lemak": 0.2,
+                   "protein": 0.7,
+                   "lemak": 0.2,
                     "kalori": 30,
-                    "gula": 1.7
-                }
-        },
+                    "gula": 1.7}
+                
+        ,
         {
                 "nama" : "Jeruk keprok",
-                "kandungan" : ["A","B","C"],
+                "vitamin" : ["A","B","C"],
                 "deskripsi" : "Jeruk keprok atau jeruk mandarin merupakan sebuah jeruk yang dapat tumbuh di daerah tropis dan subtropis. Pohon jeruk ini memiliki ukuran yang relatif lebih kecil dibandingkan jeruk lainnya. Bunganya dapat diserbuki dengan bantuan lebah, penyerbukan sendiri, atau secara partenokarpi.",
-                "nutrisi": {
+                
                     "karbohidrat": 13,
                     "protein": 0.8,
                     "lemak": 0.3,
                     "kalori": 53,
-                    "gula": 11
-                }
-        },
+                    "gula": 11}
+                
+        ,
         {
                 "nama" : "Kedondong",
-                "kandungan" : ["A","C","B1"],
+                "vitamin" : ["A","C","B1"],
                 "deskripsi" : "Kedondong adalah tanaman buah yang tergolong ke dalam suku mangga-manggaan. Kedondong ini merupakan tanaman buah yang umumnya banyak sekali terdapat di seluruh daerah tropis dan termasuk kedalam angiospermae. Biasanya dalam bahasa Inggris menyebutnya dengan Ambarella, Ataheitte apple / Great hot plum.",
-                "nutrisi": {
+                
                     "karbohidrat": 12,
                     "protein": 1,
                     "lemak": 0.1,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Kelapa",
-                "kandungan" : ["C"],
+                "vitamin" : ["C"],
                 "deskripsi" : "Kelapa (Cocos nucifera) adalah anggota tunggal dalam marga Cocos dari suku aren-arenan atau Arecaceae. Tumbuhan ini dimanfaatkan hampir semua bagiannya oleh manusia sehingga dianggap sebagai tumbuhan serbaguna, terutama bagi masyarakat pesisir. Kelapa juga adalah sebutan untuk buah yang dihasilkan tumbuhan ini.",
-                "nutrisi": {
+                
                     "karbohidrat": 15,
                     "protein": 3.3,
                     "lemak": 33,
                     "kalori": 354,
-                    "gula": 6
-                }
-        },
+                    "gula": 6}
+                
+        ,
         {
                 "nama" : "Kelengkeng",
-                "kandungan" : ["A","B"],
+                "vitamin" : ["A","B"],
                 "deskripsi" : "Lengkeng, kelengkeng, mata kucing, atau dalam Bahasa Inggris disebut longan, adalah salah satu tanaman yang termasuk kedalam suku lerak-lerakan atau Sapindaceae. tanaman buah-buahan ini berasal dari daratan Asia Tenggara.",
-                "nutrisi": {
+                
                     "karbohidrat": 15.14,
                     "protein": 1.31,
                     "lemak": 0.1,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Kesemek",
-                "kandungan" : ["A","C"],
+                "vitamin" : ["A","C"],
                 "deskripsi" : "Kesemek adalah nama sejenis buah-buahan dari marga Diospyros. Tanaman ini dikenal pula dengan sebutan buah kaki, atau dalam bahasa Inggris dinamai Oriental (Chinese/Japanese) persimmon. Nama ilmiahnya adalah Diospyros kaki. ('Kaki', bahasa Jepang, adalah nama zat tanin yang dihasilkan buah ini).",
-                "nutrisi": {
+                
                     "karbohidrat": 34,
                     "protein": 0.8,
                     "lemak": 0.4,
                     "kalori": 126,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Kiwi",
-                "kandungan" : ["C","K","E"],
+                "vitamin" : ["C","K","E"],
                 "deskripsi" : "Kiwi atau Gosberi China adalah nama yang diberikan kepada buah beri yang bisa dimakan dari beberapa jenis tanaman kayu merambat dalam genus 'Actinidia'. Actinidia asli berasal dari Shaanxi, Tiongkok. Kelompok kultivar Buah kiwi yang paling umum.berbentuk oval, kira-kira sebesar telur ayam panjangnya.",
-                "nutrisi": {
+                
                     "karbohidrat": 15,
                     "protein": 1.1,
                     "lemak": 0.5,
                     "kalori": 60,
-                    "gula": 9
-                }
-        },
+                    "gula": 9}
+                
+        ,
         {
                 "nama" : "Kurma",
-                "kandungan" : ["A","K"],
+                "vitamin" : ["A","K"],
                 "deskripsi" : "Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara.",
-                "nutrisi": {
+                
                     "karbohidrat": 75,
                     "protein": 2.5,
                     "lemak": 0.4,
                     "kalori": 281,
-                    "gula": 63
-                }
-        },
+                    "gula": 63}
+                
+        ,
         {
                 "nama" : "Leci",
-                "kandungan" : ["C","B","B2","B3","B6"],
+                "vitamin" : ["C","B","B2","B3","B6"],
                 "deskripsi" : "Leci adalah buah yang mengandung vitamin dan antioksidan yang sehat sehingga sangat sayang untuk dilewatkan manfaatnya. Manfaat leci salah satunya adalah membantu menjaga kesehatan dan mengendalikan berat badan. Leci juga merupakan salah satu buah sehat dengan rasa enak.",
-                "nutrisi": {
+                
                     "karbohidrat": 16.5,
                     "protein": 0.8,
                     "lemak": 0.4,
                     "kalori": 66,
-                    "gula": 15.2
-                }
-        },
+                    "gula": 15.2}
+                
+        ,
         {
                 "nama" : "Lemon",
-                "kandungan" : ["C","B6"],
+                "vitamin" : ["C","B6"],
                 "deskripsi" : "Sitrun, jeruk sitrun, atau limun, limau, atau lemon adalah sejenis jeruk yang buahnya biasa dipakai sebagai penyedap dan penyegar dalam banyak seni boga dunia. Pohon berukuran sedang ini dapat mencapai 6 m dan tumbuh di daerah beriklim tropis dan sub-tropis serta tidak tahan akan cuaca dingin.",
-                "nutrisi": {
+                
                     "karbohidrat": 9,
                     "protein": 1.1,
                     "lemak": 0.3,
                     "kalori": 28,
-                    "gula": 2.5
-                }
-        },
+                    "gula": 2.5}
+                
+        ,
         {
                 "nama" : "Mangga",
-                "kandungan" : ["A","C","K"],
+                "vitamin" : ["A","C","K"],
                 "deskripsi" : "Mangga atau mempelam adalah nama sejenis buah, demikian pula nama pohonnya. Mangga termasuk ke dalam genus Mangifera, yang terdiri dari 35-40 anggota dari famili Anacardiaceae. Nama 'mangga' berasal dari bahasa Tamil, mankay, yang berarti man 'pohon mangga' + kay 'buah'.",
-                "nutrisi": {
+                
                     "karbohidrat": 15,
                     "protein": 0.8,
                     "lemak": 0.4,
                     "kalori": 59,
-                    "gula": 14
-                }
-        },
+                    "gula": 14}
+                
+        ,
         {
                 "nama" : "Manggis",
-                "kandungan" : ["C","B2"],
+                "vitamin" : ["C","B2"],
                 "deskripsi" : "Manggis adalah sejenis pohon hijau abadi dari daerah tropika yang diyakini berasal dari Semenanjung Malaya dan menyebar ke Kepulauan Nusantara. Tumbuh hingga mencapai 7 sampai 25 meter. Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah.",
-                "nutrisi": {
+                
                     "karbohidrat": 35.1,
                     "protein": 1,
                     "lemak": 1,
                     "kalori": 143,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Markisa",
-                "kandungan" : ["A","C","B6"],
+                "vitamin" : ["A","C","B6"],
                 "deskripsi" : "Markisa adalah buah dari tanaman tropis yang dikenal sebagai Passiflora. Tanaman ini tumbuh di negara beriklim hangat seperti Australia, India, dan Indonesia. Ada dua jenis markisa yang banyak ditemukan di Indonesia, yaitu markisa ungu dan kuning.",
-                "nutrisi": {
+                
                     "karbohidrat": 23,
-                    "protein": 2.2,
+                   "protein": 2.2,
                     "lemak": 0.7,
                     "kalori": 97,
-                    "gula": 11
-                }
-        },
+                    "gula": 11}
+                
+        ,
         {
                 "nama" : "Melon",
-                "kandungan" : ["A","B1","C"],
+                "vitamin" : ["A","B1","C"],
                 "deskripsi" : "Melon merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buahnya biasanya dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah.",
-                "nutrisi": {
+                
                     "karbohidrat": 8,
                     "protein": 0.8,
                     "lemak": 0.2,
                     "kalori": 33,
-                    "gula": 8
-                }
-        },
+                    "gula": 8}
+                
+        ,
         {
                 "nama" : "Mengkudu",
-                "kandungan" : ["C","E","A"],
+                "vitamin" : ["C","E","A"],
                 "deskripsi" : "Mengkudu atau keumeudee; pace, kemudu, kudu; cangkudu; koddhu', pacè; tibah berasal daerah Asia Tenggara, tergolong dalam famili Rubiaceae. Nama lain untuk tanaman ini adalah noni, mengkudu, nono, nonu, ungcoikan, dan ach. Tanaman ini tumbuh di dataran rendah hingga pada ketinggian 1500 m.",
-                "nutrisi": {
+                
                     "karbohidrat": 51.67,
                     "protein": 0.75,
                     "lemak": 1.50,
                     "kalori": 167,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Mentimun",
-                "kandungan" : ["C","K"],
+                "vitamin" : ["C","K"],
                 "deskripsi" : "Mentimun adalah salah satu jenis sayuran buah banyak dikonsumsi oleh masyarakat Indonesia dalam bentuk segar. Nilai gizi mentimun cukup baik karena sayuran buah ini merupakan sumber vitamin dan mineral.",
-                "nutrisi": {
+                
                     "karbohidrat": 11,
                     "protein": 2,
                     "lemak": 0,
                     "kalori": 45,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Naga",
-                "kandungan" : ["C","B"],
+                "vitamin" : ["C","B"],
                 "deskripsi" : "Naga adalah buah dari beberapa jenis kaktus dari genus Hylocereus dan Selenicereus. Buah ini berasal dari Meksiko, Amerika Tengah dan Amerika Selatan namun sekarang juga dibudidayakan di negara-negara Asia seperti Taiwan, Vietnam, Filipina, Indonesia dan Malaysia.",
-                "nutrisi": {
+                
                     "karbohidrat": 9.1,
                     "protein": 1.7,
                     "lemak": 3.1,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Nanas",
-                "kandungan" : ["C","A"],
+                "vitamin" : ["C","A"],
                 "deskripsi" : "Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.[4] Nanas adalah tumbuhan asli Amerika Selatan, dan telah dibudidayakan disana selama berabad-abad.",
-                "nutrisi": {
+                
                     "karbohidrat": 13,
                     "protein": 0.5,
                     "lemak": 0.1,
                     "kalori": 50,
-                    "gula": 10
-                }
-        },
+                    "gula": 10}
+                
+        ,
         {
                 "nama" : "Nangka",
-                "kandungan" : ["A","B", "C"],
+                "vitamin" : ["A","B", "C"],
                 "deskripsi" : "Nangka adalah nama sejenis pohon, sekaligus buahnya. Pohon nangka termasuk ke dalam suku Moraceae.",
-                "nutrisi": {
+                
                     "karbohidrat": 27.6,
                     "protein": 1.2,
                     "lemak": 0.3,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Pepaya",
-                "kandungan" : ["C","A"],
+                "vitamin" : ["C","A"],
                 "deskripsi" : "Pepaya adalah tumbuhan yang diperkirakan berasal dari Meksiko bagian selatan dan bagian utara dari Amerika Selatan. Pepaya kini telah menyebar luas dan banyak ditanam di seluruh daerah tropis untuk diambil buahnya. C. papaya adalah satu-satunya jenis dalam genus Carica.",
-                "nutrisi": {
+                
                     "karbohidrat": 11,
                     "protein": 0,
                     "lemak": 0.4,
                     "kalori": 43,
-                    "gula": 1
-                }
-        },
+                    "gula": 1}
+                
+        ,
         {
                 "nama" : "Persik",
-                "kandungan" : ["C"],
+                "vitamin" : ["C"],
                 "deskripsi" : "Persik adalah tanaman tanaman berbuah dari famili Rosaceae. Buah ini disebut juga sebagai buah táo dalam bahasa Mandarin dan momo dalam bahasa Jepang. Buah persik, kadang disebut nektarina, memiliki daging berwarna kuning dengan aroma harum dan memiliki satu biji yang keras.",
-                "nutrisi": {
+                
                     "karbohidrat": 10,
                     "protein": 0.9,
                     "lemak": 0,
                     "kalori": 39,
-                    "gula": 8
-                }
-        },
+                    "gula": 8}
+                
+        ,
         {
                 "nama" : "Pisang",
-                "kandungan" : ["A","C","B6"],
+                "vitamin" : ["A","C","B6"],
                 "deskripsi" : "Pisang adalah nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai. Batang pisang bersifat lunak karena terbentuk dari lapisan pelepah yang lunak dan panjang. Batang yang agak keras berada di bagian permukaan tanah.",
-                "nutrisi": {
+                
                     "karbohidrat": 22,
                     "protein": 1,
                     "lemak": 0.2,
                     "kalori": 96,
-                    "gula": 17.2
-                }
-        },
+                    "gula": 17.2}
+                
+        ,
         {
                 "nama" : "Pir salju",
-                "kandungan" : ["C","A","K"],
+                "vitamin" : ["C","A","K"],
                 "deskripsi" : "Pir salju atau granita adalah makanan penutup atau camilan musim panas. Kalori yang sedikit membuatnya cocok untuk coeliac atau diet pengatur berat badan.",
-                "nutrisi": {
+                
                     "karbohidrat": 15,
                     "protein": 0.4,
                     "lemak": 0.1,
                     "kalori": 57,
-                    "gula": 10
-                }
-        },
+                    "gula": 10}
+                
+        ,
         {
                 "nama" : "Rambutan",
-                "kandungan" : ["C","A"],
+                "vitamin" : ["C","A"],
                 "deskripsi" : "Rambutan merupakan tanaman tropis yang termasuk ke dalam suku lerak-lerakan atau Sapindaceae, berasal dari daerah kepulauan di Asia Tenggara. Kata 'rambutan' berasal dari Bahasa Indonesia yang berakar dari kata 'rambut' karena bentuk buahnya yang mempunyai kulit menyerupai rambut.",
-                "nutrisi": {
+                
                     "karbohidrat": 31.3,
                     "protein": 1,
                     "lemak": 0.3,
                     "kalori": 123,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Salak",
-                "kandungan" : ["C","B2"],
+                "vitamin" : ["C","B2"],
                 "deskripsi" : "Salak adalah sejenis palma dengan buah yang biasa dimakan. Ia dikenal juga sebagai sala. Dalam bahasa Inggris disebut salak atau snake fruit, sementara nama ilmiahnya adalah Salacca zalacca. Buah ini disebut snake fruit karena kulitnya mirip dengan sisik ular.",
-                "nutrisi": {
+                
                     "karbohidrat": 20.9,
                     "protein": 0.4,
                     "lemak": 0,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Sawit",
-                "kandungan" : ["E","K"],
+                "vitamin" : ["E","K"],
                 "deskripsi" : "Kelapa sawit merupakan tumbuhan monokotil yang tidak memiliki akar tunggang. Radikula (bakal akar) pada bibit terus tumbuh memanjang ke arah bawah selama enam bulan terus-menerus dan panjang akarnya mencapai 15 meter. Tanaman kelapa sawit umumnya memiliki batang yang tidak bercabang.",
-                "nutrisi": {
+                
                     "karbohidrat": 0,
                     "protein": 0,
                     "lemak": 0,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Sawo",
-                "kandungan" : ["C","A","B"],
+                "vitamin" : ["C","A","B"],
                 "deskripsi" : "Sawo manila adalah pohon buah yang berumur panjang. Pohon dan buahnya dikenal dengan beberapa nama seperti sawo, sauh atau sauh manila, atau ciku. Sawo manila merupakan tanaman buah yang termasuk dalam suku sawo-sawoan yang berasal dari Amerika Tengah dan Meksiko",
-                "nutrisi": {
+                
                     "karbohidrat": 20,
                     "protein": 0.4,
                     "lemak": 1.1,
                     "kalori": 82,
-                    "gula": 0
-                }
-        },
+                   "gula": 0}
+                
+        ,
         {
                 "nama" : "Srikaya",
-                "kandungan" : ["C","B"],
+                "vitamin" : ["C","B"],
                 "deskripsi" : "Srikaya, adalah tanaman yang tergolong ke dalam genus Annona yang berasal dari daerah tropis. Buah srikaya berbentuk bulat dengan kulit bermata banyak. Daging buahnya berwarna putih. Termasuk semak semi-hijau abadi atau pohon yang meranggas mencapai 8 m tingginya.",
-                "nutrisi": {
+                
                     "karbohidrat": 14.9,
                     "protein": 1.1,
                     "lemak": 0.5,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Stroberi",
-                "kandungan" : ["C","B6","B9"],
+                "vitamin" : ["C","B6","B9"],
                 "deskripsi" : "Stroberi merupakan tanaman buah berupa herba yang ditemukan pertama kali di Chili, Amerika. Salah satu spesies tanaman strawberry yaitu Fragaria chiloensis L. menyebar ke berbagai negara antara lain Amerika, Eropa dan Asia. Stroberi merupakan tanaman buah pada daerah sub tropik.",
-                "nutrisi": {
+                
                     "karbohidrat": 5.5,
                     "protein": 0.8,
                     "lemak": 0.4,
                     "kalori": 29,
-                    "gula": 5.4
-                }
-        },
+                    "gula": 5.4}
+                
+        ,
         {
                 "nama" : "Sukun",
-                "kandungan" : ["C","B1","B5"],
+                "vitamin" : ["C","B1","B5"],
                 "deskripsi" : "Sukun, keluih, kulur, ketimbul atau timbul adalah nama sejenis pohon yang berbuah. Buah sukun tidak berbiji dan memiliki bagian yang empuk, yang mirip roti setelah dimasak atau digoreng. Karena itu, orang-orang Eropa mengenalnya sebagai 'buah roti'.",
-                "nutrisi": {
+                
                     "karbohidrat": 24.5,
                     "protein": 1.6,
                     "lemak": 0.2,
                     "kalori": 0,
-                    "gula": 0
-                }
-        },
+                    "gula": 0}
+                
+        ,
         {
                 "nama" : "Terung",
-                "kandungan" : ["A","C","B6"],
+                "vitamin" : ["A","C","B6"],
                 "deskripsi" : "Terung ialah tumbuhan pangan yang ditanam untuk buahnya. Asal-usul budidayanya berada di bagian selatan dan timur Asia sejak zaman prasejarah, tetapi baru dikenal di dunia Barat tidak lebih awal dari sekitar tahun 1500. Buahnya mempunyai berbagai warna, terutama ungu, hijau, dan putih.",
-                "nutrisi": {
+                
                     "karbohidrat": 6,
                     "protein": 1,
-                    "lemak": 0.2,
-                    "kalori": 24,
-                    "gula": 4.5
-                }
-        },
+                   "lemak": 0.2,
+                   "kalori": 24,
+                    "gula": 4.5}
+                
+        ,
         {
                 "nama" : "Tomat",
-                "kandungan" : ["C","K1","B9"],
+                "vitamin" : ["C","K1","B9"],
                 "deskripsi" : "Tomat merupakan tumbuhan yang pertama kali ditemukan di Amerika Selatan, nasih berkerabat dengan terung, kentang dan paprika.Tomat termasuk buah karena strukturnya mempunyai daging dan biji yang aman apabila tertelan.",
-                "nutrisi": {
+                
                     "karbohidrat": 3.9,
                     "protein": 0.9,
                     "lemak": 0.2,
                     "kalori": 74,
                     "gula": 2.6
-                }
+                
             }
         
         ]
