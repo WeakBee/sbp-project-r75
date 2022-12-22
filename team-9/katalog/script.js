@@ -174,7 +174,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 200);
+        }, 400);
 
         setTimeout(function() {
             let rekomendasi3 = unique(rekomendasi2);
@@ -217,6 +217,6 @@ $(".tombol-selesai").click(function(){
                     });
                 });
             });
-        }, 300);
+        }, 600);
     };
 });
