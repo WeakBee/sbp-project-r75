@@ -79,10 +79,16 @@ $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
 
 $(".tombol-selesai").click(function(){
     if($(this).hasClass( "nyala" )){
-        $(".loading-circle").css("display", "flex");
+        $('.row-rekomendasi').empty();
+        $('.row-rekomendasi').append(`
+            <div class="loading-circle">
+                <div class="loading-inside"></div>
+                <div class="circle-inside"></div>
+            </div>
+        `);
         setTimeout(function() {
             $('.row-rekomendasi').empty();
-        }, 2900);
+        }, 1900);
         
         // Jumlah data
         var ingingenre = [];
@@ -177,7 +183,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 1500);
+        }, 1000);
 
         setTimeout(function() {
             let rekomendasi3 = unique(rekomendasi2);
@@ -228,6 +234,6 @@ $(".tombol-selesai").click(function(){
                     });
                 });
             });
-        }, 3000);
+        }, 2000);
     };
 });

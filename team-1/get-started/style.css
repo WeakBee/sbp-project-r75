@@ -118,6 +118,7 @@ p{
     background-color: rgba(255, 255, 255, 0.281);
     width: 40px;
     height: 40px;
+    display: flex;
     justify-content: center;
     align-items: center;
     top: 90px;
@@ -125,7 +126,7 @@ p{
     right: 50%;
     border-radius: 50%;
     overflow: hidden;
-    display: none;
+    
 }
 .loading-inside{
     position: absolute;

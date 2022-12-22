@@ -150,10 +150,17 @@ function unique(list) {
 
 $(".tombol-selesai").click(function(){
     if($(this).hasClass( "nyala" )){
-        $(".loading-circle").css("display", "flex");
+        $('.sangat-rekomendasi').empty();
+        $('.rekomendasi').empty();
+        $('.sangat-rekomendasi').append(`
+        <div class="loading-circle">
+            <div class="loading-inside"></div>
+            <div class="circle-inside"></div>
+        </div>
+        `);
         setTimeout(function() {
             $('.sangat-rekomendasi').empty();
-            $('.rekomendasi').empty();
+            
         }, 900);
         
         // Jumlah data
