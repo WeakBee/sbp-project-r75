@@ -1,26 +1,13 @@
+let penyakit = [];
+
 $.getJSON('./API/penyakit_kulit.json', function (data){
     // Membuat Kartu
     $.each(data, function(i,data2){
         $.each(data2.gejala_penyakit, function(i,data3){
-            $('.row-gejala').append(`
-            <div class="col-6 kolom-kategori">
-                <div class="kartu-kategori kartu-kategori-gejala" gejala="`+ data3.gejala +`">
-                    <p>`+ data3.gejala +`</p>
-                </div>
-            </div>
-            `);
+            penyakit.push(data3.gejala);
         });
     });
     // Membuat Kartu
-});
-
-$( ".row" ).delegate( ".kartu-kategori-gejala", "click", function() {
-    $(this).toggleClass("pilih");
-    if($( ".kartu-kategori-gejala" ).hasClass( "pilih" )){
-        $( ".tombol-selesai" ).addClass("nyala");
-    } else{
-        $( ".tombol-selesai" ).removeClass("nyala")
-    }
 });
 
 // Unique
@@ -32,6 +19,28 @@ function unique(list) {
     return result;
 }
 // Unique
+
+setTimeout(function() {
+    let gejalaunik = unique(penyakit);
+    $.each(gejalaunik, function(i,data){
+        $('.row-gejala').append(`
+        <div class="col-6 kolom-kategori">
+            <div class="kartu-kategori kartu-kategori-gejala" gejala="`+ data +`">
+                <p>`+ data +`</p>
+            </div>
+        </div>
+        `);
+    });
+}, 700);
+
+$( ".row" ).delegate( ".kartu-kategori-gejala", "click", function() {
+    $(this).toggleClass("pilih");
+    if($( ".kartu-kategori-gejala" ).hasClass( "pilih" )){
+        $( ".tombol-selesai" ).addClass("nyala");
+    } else{
+        $( ".tombol-selesai" ).removeClass("nyala")
+    }
+});
 
 $(".tombol-selesai").click(function(){
     if($(this).hasClass( "nyala" )){
