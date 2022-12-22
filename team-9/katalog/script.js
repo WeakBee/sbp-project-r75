@@ -65,7 +65,7 @@ setTimeout(function() {
         </div>
         `);
     });
-}, 500);
+}, 1000);
 
 $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
     $(this).toggleClass("pilih");
