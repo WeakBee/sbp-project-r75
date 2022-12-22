@@ -116,3 +116,11 @@ p{
     height: 200px;
     object-fit: cover;
 }
+.pemain{
+    height: 100px;
+    overflow: auto;
+}
+.genre{
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 14px;
+}

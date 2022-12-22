@@ -190,13 +190,14 @@ $(".tombol-selesai").click(function(){
                                             <h5 class="card-title">`+ data3.judul +`</h5>
                                             <h6 class="card-subtitle">`+ data3.durasi +` menit</h6>
                                             <p class="card-text">`+ data3.sinopsis +`</p>
+                                            <p class="card-subtitle genre genreke-`+ a +`"></p>
                                         </div>
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">Produser : `+ data3.produser +` </li>
                                             <li class="list-group-item">Sutradata : `+ data3.sutradara +`</li>
                                             <li class="list-group-item">Penulis : `+ data3.penulis +`</li>
                                             <li class="list-group-item">Pemain :
-                                                <ul class="pemainfilmke-`+a+`">
+                                                <ul class="pemain pemainfilmke-`+ a +`">
                                                 </ul>
                                             </li>
                                         </ul>
@@ -212,6 +213,13 @@ $(".tombol-selesai").click(function(){
                                 $('.pemainfilmke-'+a).append(`
                                     <li>`+ data4 +`</li>
                                 `);
+                            });
+                        }
+                    });
+                    $.each(data2, function(a,data3){
+                        if(data == data3.judul){
+                            $.each(data3.genre, function(i,data4){
+                                $('.genreke-'+a).append(data4 +` * `);
                             });
                         }
                     });

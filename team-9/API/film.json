@@ -549,23 +549,6 @@
             ""
         ]
     },{
-        "judul" : "My Sassy Girl",
-        "genre" : ["Romantis", "Komedi", "Drama"],
-        "durasi" : 117,
-        "produser" : "Frederica",
-        "sutradara" : "Fajar Bustomi",
-        "gambar" : "assets/images/blog/MySassyGirlIND.jpg",
-        "penulis" : "Titien Wattimena, Jae-young Kwak",
-        "sinopsis" : "Gian (Jefri Nichol) seharusnya pergi ke rumah tantenya karena sang tante ingin menjodohkan Gian dengan mantan kekasih almarhum anaknya. Namun sejak di stasiun hingga di dalam gerbong kereta, Gian terjebak dalam situasi harus mengurus gadis mabuk bernama Sisi (Tiara Andini) hingga harus membawanya ke hotel. Terjadi kesalahpahaman antara Gian dan Sisi namun justru kesalahpahaman itulah yang membawa mereka ke dalam pertemuan demi pertemuan selanjutnya, membentuk sebuah kebersamaan di mana Gian menemukan dirinya tak bisa dan tak mau lepas lagi dari Sisi meski Sisi seringkali membullynya. Sisi yang punya sisi muram akibat masa lalunya pun menemukan kebahagiaan setiap kali bersama Gian. Sayangnya Sisi selalu merasa ia tidak pantas berbahagia sementara Gian selalu berusaha menuruti kemauan Sisi, seaneh apapun permintaan Sisi, demi bisa membawa Sisi lepas dari kesedihan yang kerap Gian temukan di antara segala tingkah Sisi yang konyol.",
-        "tahun" : 2022,
-        "pemain" : [
-            "Tiara Andini",
-            "Jefri Nichol"
-        ],
-        "funfact" : [
-            "Produksi ulang dari film korea berjudul sama karya Jae Young Kwak"
-        ]
-    },{
         "judul" : "Dear Nathan",
         "genre" : ["Romantis", "Drama"],
         "durasi" : 99 ,
@@ -2937,28 +2920,6 @@
             "Chunsa Film Art Awards 2007 (Best Actress, Best Cinematography, Best Editing, Technical Award)",
             "Grand Bell Awards 2007 (Best Actress, Best Cinematography, Best Music)",
             "Korea Movie Star Awards 2007 (Best New Actress, Best Couple Award, Best Special Appearance)"
-        ]
-    },{
-        "judul" : "My Sassy Girl",
-        "genre" : ["Romantis", "Komedi", "Drama"],
-        "durasi" : 123,
-        "produser" : "Shin Chul",
-        "sutradara" : "Kwak Jae-Yong",
-        "penulis" : "Kwak Jae-Yong",
-        "gambar" : "assets/images/blog/MySassyGirlKOR.jpg",
-        "sinopsis" : "Film My Sassy Girl mengisahkan Gyun-Woo (diperankan oleh Cha Tae-Hyun) adalah seorang mahasiswa, lebih tertarik untuk memilih para gadis-gadis, minum dengan teman-temannya dan menghindari ibunya yang mengomel bila memungkinkan. Saat naik kereta bawah tanah, seorang gadis (diperankan oleh Jun Ji Hyun) kemudian mengubah nasibnya selamanya. Dia hampir tidak sadarkan diri di kereta dan muntah pada pria yang lebih tua. Dia kemudian membungkuk ke Gyun-Woo dan semua orang menganggap dia adalah pacarnya! Gyun-Woo segera menemukan dirinya dalam hubungan yang tidak dia minta, tetapi segera tidak dapat melupakan gadis lancang ini.",
-        "tahun" : 2001,
-        "pemain" : [
-            "Cha Tae-Hyun",
-            "Jun Ji-Hyun",
-            ""
-        ],
-        "funfact" : [
-            "Grand Bell Awards 2002 (Best Actress, Best Adapted Screenplay, Popularity Award)",
-            "Golden Cinematography Awards 2002 (Best New Actor)",
-            "Hong Kong Film Awards 2003 (Best Asian Film)",
-            "Hochi Film Awards 2003 (Best Foreign Language Film)",
-            "Fant-Asia Film Festival 2003 (Most Popular Film)"
         ]
     },{
         "judul" : "Sweet and Sour",
