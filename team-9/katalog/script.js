@@ -82,7 +82,7 @@ $(".tombol-selesai").click(function(){
         $(".loading-circle").css("display", "flex");
         setTimeout(function() {
             $('.row-rekomendasi').empty();
-        }, 1400);
+        }, 2900);
         
         // Jumlah data
         var ingingenre = [];
@@ -177,7 +177,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 1000);
+        }, 1500);
 
         setTimeout(function() {
             let rekomendasi3 = unique(rekomendasi2);
@@ -228,6 +228,6 @@ $(".tombol-selesai").click(function(){
                     });
                 });
             });
-        }, 1500);
+        }, 3000);
     };
 });
