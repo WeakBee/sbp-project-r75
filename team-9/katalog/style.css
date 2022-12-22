@@ -75,11 +75,48 @@ p{
     font-weight: 800;
 }
 .rekomendasi{
+    position: relative;
     background-color: var(--warna4);
     padding-top: 25px;
+    min-height: 300px;
     padding-bottom: 25px;
     border-radius: 15px;
     margin-bottom: 25px;
+}
+.loading-circle{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.281);
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    left: 49%;
+    right: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    display: none;
+}
+.loading-inside{
+    position: absolute;
+    height: 40px;
+    width: 20px;
+    background-color: white;
+    animation-name: rotate;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.circle-inside{
+    position: absolute;
+    background-color: var(--warna4);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+@keyframes rotate{
+    from{ transform: rotate(-360deg); }
+    to{ transform: rotate(360deg); }
 }
 .judul-rekomendasi{
     font-weight: 700;
