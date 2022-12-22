@@ -302,6 +302,16 @@ p{
     }
 }
 @media (max-width: 991.98px) {
+    .kontainer-kotak-resep{
+        padding: 10px;
+    }
+    .row-hasil{
+        margin: 0;
+        justify-content: center;
+    }
+    .judul-rekomendasi {
+        text-align: center;
+    }
     .kolom-kategori {
         padding: 5px;
     }
