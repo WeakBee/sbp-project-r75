@@ -1012,91 +1012,161 @@
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Bakar Samarinda",
+        "jenis" : ["Lauk", "Daerah"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "daging ayam", "jumlah" : 6, "satuan" :"ptg", "cat" : ""},
+            {"bahan" : "cabai merah", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "bawang merah", "jumlah" : 7, "satuan" :"siung", "cat" : ""},
+            {"bahan" : "jahe", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
+            {"bahan" : "kemiri", "jumlah" : 3, "satuan" :"btr", "cat" : ""},
+            {"bahan" : "gula merah", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "aji no moto", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "garam", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
+            {"bahan" : "santan", "jumlah" : 200, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 3, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 30, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Buat bumbu halus: masukkan cabai merah, bawang putih, bawang merah, kemiri, jahe, dan air."},
+            {"resep" : "Panaskan minyak goreng, masukkan bumbu halus, aduk hingga harum."},
+            {"resep" : "Masukkan potongan ayam, gula merah, aduk rata.Masukkan santan, AJI-NO-MOTO®, masak hingga berubah warna."},
+            {"resep" : "Aduk rata, biarkan hingga bumbu mengering dan ayam terpanggang rata serta matang."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Goreng Golden Crispy",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "paha ayam", "jumlah" : 6, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "sajiku golden crispy", "jumlah" : 1, "satuan" :"bks", "cat" : "200 gr"},
+            {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Panaskan minyak. Siapkan adonan basah dengan melarutkan 5 sdm Sajiku® Golden Crispy dengan 100 ml air. Sisanya digunakan sebagai adonan kering."},
+            {"resep" : "gulingkan potongan ayam kedalam adonan kering, kemudian ketuk-ketuk."},
+            {"resep" : "Celup potongan ayam ke dalam adonan basah hingga rata, tiriskan."},
+            {"resep" : "Gulingkan kembali ke adonan kering sambil diremas-remas hingga terbentuk kulit yang keriting, ketuk-ketuk kembali agar sisa tepung hilang. Langsung goreng terendam dalam minyak panas hingga berwarna kuning kecoklatan, angkat dan sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Katsu",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "dada ayam tanpa kulit", "jumlah" : 200, "satuan" :"gr", "cat" : "2 buah"},
+            {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "air es", "jumlah" : 25, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Buat adonan kering: Masukkan 1 bks Sajiku® Tepung Bumbu."},
+            {"resep" : "Buat adonan basah: Masukkan air dan 4 sdm tepung bumbu di wadah terpisah, aduk rata."},
+            {"resep" : "Masukkan ayam ke adonan basah, gulingkan ke adonan kering, remas sebentar, ketukkan."},
+            {"resep" : "Langsung goreng daging di minyak panas hingga kuning keemasan, angkat, sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Panggang",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "dada ayam fillet", "jumlah" : 4, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "kentang rendang", "jumlah" : 8, "satuan" :"buah", "cat" : "rebus"},
+            {"bahan" : "tomat ceri", "jumlah" : 8, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "kacang polong", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "wijen", "jumlah" : 1, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "saori saos tiram", "jumlah" : 2, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "maizena", "jumlah" : 1, "satuan" :"sdm", "cat" : "larutkan dengan 3 sdm air"}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Potong kentang dan tomat menjadi dua bagian.Siapkan wadah, masukkan daging ayam, 1 bks SAORI® Saus Tiram, dan wijen, aduk rata, diamkan +/- 15 menit."},
+            {"resep" : "Panaskan minyak, panggang dada ayam hingga matang dan kecoklatan, angkat."},
+            {"resep" : "Buat saus: Panaskan wajan, masukkan air, kentang, kacang polong, tomat ceri dan SAORI® Saus Tiram"},
+            {"resep" : "Tambahkan larutan maizena, masak hingga mengental, angkat, Sajikan dengan saus."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Kremes",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "paha ayam", "jumlah" : 4, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "cabai merah", "jumlah" : 1, "satuan" :"buah", "cat" : "buang biji, cincang halus"},
+            {"bahan" : "daun bawang", "jumlah" : 4, "satuan" :"buah", "cat" : "iris-iris"},
+            {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "air", "jumlah" : 150, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Tuang Sajiku® Tepung Bumbu, tambahkan air, cabai merah, & daun bawang, aduk rata."},
+            {"resep" : "Masukkan ayam, diamkan selama +/- 10 menit."},
+            {"resep" : "Goreng ayam hingga matang, sisihkan."},
+            {"resep" : "Kremesan: Masukkan sisa adonan sedikit demi sedikit ke dalam minyak panas. Goreng hingga kering, taburkan di atas ayam goreng & sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Bakpao Ayam",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "tepung tapioka protein sedang", "jumlah" : 300, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "tepung tapioka", "jumlah" : 40, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "gula halus", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "ragi instan", "jumlah" : 5, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "susu", "jumlah" : 190, "satuan" :"ml", "cat" : ""},
+            {"bahan" : "baking powder", "jumlah" : 8, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "minyak goreng", "jumlah" : 2, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "ayam rebus", "jumlah" : 200, "satuan" :"gr", "cat" : "suwir"},
+            {"bahan" : "saori saos teriyaki", "jumlah" : 6, "satuan" :"sdm", "cat" : ""},
+            {"bahan" : "kertas roti", "jumlah" : 12, "satuan" :"buah", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Campur 3/4 bagian terigu, ragi, dan susu, aduk hingga kalis. Tutup adonan dengan kain, diamkan ± 30 menit."},
+            {"resep" : "Tambahkan sisa terigu, gula halus, tapioka, dan baking powder, aduk rata. Tambahkan minyak goreng, aduk hingga kalis, diamkan ± 20 menit*."},
+            {"resep" : "Bagi adonan menjadi 12 buah, bulatkan, diamkan ± 10 menit*."},
+            {"resep" : "Siapkan wadah, campur ayam suwir dan SAORI® Saus Teriyaki, sisihkan."},
+            {"resep" : "Pipihkan adonan, masukkan isian, bulatkan. Letakkan adonan diatas kertas roti, diamkan +/- 45 menit*."},
+            {"resep" : "Kukus dengan api besar hingga matang, angkat, dan sajikan. "}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Ayam Bakar Sedap Manis",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "daging ayam", "jumlah" : 400, "satuan" :"gr", "cat" : "3 potong"},
+            {"bahan" : "saori saos teriyaki", "jumlah" : 50, "satuan" :"ml", "cat" : "6 sdm"},
+            {"bahan" : "mentega", "jumlah" : 10, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "minyak wijen", "jumlah" : 1, "satuan" :"sdt", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Panggang ayam hingga setengah matang."},
+            {"resep" : "Olesi dengan bumbu oles secukupnya, sambil terus dipanggang"},
+            {"resep" : "Lakukan beberapa kali hingga matang."},
+            {"resep" : "Angkat dan sajikan."}
         ]
     },
     {
-        "nama" : "",
-        "jenis" : "",
+        "nama" : "Sate Ayam",
+        "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "", "jumlah" : 0, "satuan" :"", "cat" : ""}
+            {"bahan" : "daging ayam tanpa tulang", "jumlah" : 150, "satuan" :"gr", "cat" : "potong-potong"},
+            {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : "cincang"},
+            {"bahan" : "saori saos teriyaki", "jumlah" : 50, "satuan" :"ml", "cat" : "6 sdm"},
+            {"bahan" : "mentega", "jumlah" : 10, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "minyak wijen", "jumlah" : 1, "satuan" :"sdt", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : ""}
+            {"resep" : "Campur semua bumbu oles, aduk rata."},
+            {"resep" : "Olesi potongan ayam dengan bumbu oles, kemudian susun potongan ayam tersebut pada tusuk sate."},
+            {"resep" : "Panggang sate ayam tersebut sambil sesekali diolesi dengan sisa bumbu oles hingga matang. Angkat dan sajikan."}
         ]
     },
     {
