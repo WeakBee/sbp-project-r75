@@ -78,9 +78,18 @@ $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
 
 
 $(".tombol-selesai").click(function(){
-    $('.row-rekomendasi').empty();
     if($(this).hasClass( "nyala" )){
-        $('.list-rekomendasi').empty();
+        $('.row-rekomendasi').empty();
+        $('.row-rekomendasi').append(`
+            <div class="loading-circle">
+                <div class="loading-inside"></div>
+                <div class="circle-inside"></div>
+            </div>
+        `);
+        setTimeout(function() {
+            $('.row-rekomendasi').empty();
+        }, 1900);
+        
         // Jumlah data
         var ingingenre = [];
         var ingindurasi = [];
@@ -174,7 +183,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 400);
+        }, 1000);
 
         setTimeout(function() {
             let rekomendasi3 = unique(rekomendasi2);
@@ -183,7 +192,7 @@ $(".tombol-selesai").click(function(){
                     $.each(data2, function(a,data3){
                         if(data === data3.judul){
                             $('.row-rekomendasi').append(`
-                                <div class="col-4 d-flex justify-content-center px-1 py-3">
+                                <div class="col-lg-4 d-flex justify-content-center px-1 py-3">
                                     <div class="card" style="width: 100%">
                                         <img src="../`+ data3.gambar +`" class="gambar-kartu card-img-top" alt="...">
                                         <div class="card-body">
@@ -225,6 +234,6 @@ $(".tombol-selesai").click(function(){
                     });
                 });
             });
-        }, 600);
+        }, 2000);
     };
 });

@@ -32,7 +32,7 @@
             {"bahan" : "jagung manis","jumlah" : 1, "satuan" :"buah", "cat" : "potong potong menjadi bagian"},
             {"bahan" : "labu siam","jumlah" : 1, "satuan" :"buah", "cat" : "kupas potong dadu"},
             {"bahan" : "kacang panjang","jumlah" : 100, "satuan" :"gram", "cat" : "Potong 5cm"},
-            {"bahan" : "royco bumbu komplit Sayur Asem","jumlah" : 1, "satuan" :"bks", "cat" : ""},
+            {"bahan" : "royco bumbu komplit sayur asem","jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "daun melinjo","jumlah" : 50, "satuan" :"gram", "cat" : ""}
         ],
         "cara" : [
