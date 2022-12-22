@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="jumpblues.css">
+    <style>
+        .row{
+        justify-content: center;
+        align-items: center;
+        }
+        .card{
+            padding: 0 !important;
+            margin: 0 20px;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+    </style>
+    <title>East Coast Hip Hop</title>
+    
+</head>
+<body>
+    <div class="row section-container-spacer">
+        <div class="col-md-10">
+            <h3>East Coast Hip Hop</h3>    
+                      </div>
+                      <div class="col-md-10">
+                        <p>East Coast hip hop kadang-kadang disebut sebagai New York rap karena asal-usulnya dan perkembangannya berada di New York City pada tahun 1970. Menurut Allmusic, "Pada awal dari hip-hop era, semua rap adalah East Coast rap. awalnya terbentuk bersama DJ Kool Herc, Grandmaster flash, Afrika Bambaataa, Gang Sugarhill, Kurtis Blow, Jam Master Jay, dan Run-DMC, dipelopori East Coast hip hop selama perkembangan hip hop. Sebagai genre yang dikembangkan, tema lirik berkembang melalui karya seniman West Coast seperti Native Tongues, sebuah kolektif seniman hip hop terkait dengan yg umumnya positif, bertema Afrocentric, dan dirakit oleh Afrika Bambaataa. Kelompok berbasis New York seperti De La Soul, A Tribe Called Quest, dan Jungle Brothers juga mendapat pengakuan untuk eklektisisme musik mereka.
+                        </p>
+                        
+                      </div>
+                    </div>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+    <script>
+        $.getJSON('../API/HipHop.json', function (data){
+            // Membuat Kartu
+            $.each(data, function(i,data2){
+                if(data2.SUBGENRE == "East Coast hip hop"){
+                    $('.row').append(`
+                        <div class="card" style="width: 285px;">
+                            <img src="../assets/images/imageshiphop/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">`+ data2.Judul +`</h5>
+                                <p class="card-text">`+ data2.Band +`</p>
+                                <p class="card-text">`+ data2.Album +`</p>
+                                <p class="card-text">`+ data2.Tahun +`</p>
+                            </div>
+                        </div>
+                    `);
+                }
+            });
+            // Membuat Kartu
+        });
+    </script>
+</body>
+</html>
