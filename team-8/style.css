@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Poppins&display=swap');
 
 /* Navbar */
+:root {
+    --warna1: #A4BE7B;
+    --warna2: #285430;
+    --warna3: #04330d;
+}
+
 nav {
-    background-color: #A4BE7B;
+    background-color: var(--warna1);
 }
 
 .navbar-brand {
@@ -21,7 +27,7 @@ nav .btn {
     font-family: 'Poppins', sans-serif;
     width: 130px;
     height: 45px;
-    background-color: #285430;
+    background-color: var(--warna2);
     font-weight: 500;
     font-size: 16px;
     border: none;
@@ -44,16 +50,30 @@ nav .btn:hover {
     object-fit: cover;
 }
 
-/* Informasi */
 
-.container h3 {
-    text-transform: uppercase;
+.tombol{
+    background-color: var(--warna1);
+    color: var(--warna3);
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 10px;
+    border: 2px solid var(--warna1);
 }
 
-.container .card-title {
-    text-align:center;
+.tombol-belum{
+    background-color: var(--warna3);
+    color: var(--warna1);
+    border: 2px solid var(--warna3);
 }
 
-.container .card {
-    margin-bottom: 20px;
+.tombol:hover{
+    background-color: transparent;
+    color: var(--warna3);
+    border: 2px solid var(--warna3);
+}
+
+.tombol-belum:hover{
+    background-color: transparent;
+    color: var(--warna3);
+    border: 2px solid var(--warna3);
 }

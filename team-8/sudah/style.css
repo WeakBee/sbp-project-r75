@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+    --warna1: #A4BE7B;
+    --warna2: #285430;
+    --warna3: #04330d;
+    --warna4: #c1d69e;
+}
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-color: var(--warna1);
+}
+h1{
+    font-weight: 700;
+}
+p{
+    margin-bottom: 0;
+}
+.row-penyakit{
+    height: 400px;
+    background-color: var(--warna2);
+    border: 2px solid white;
+    overflow: auto;
+    box-shadow: inset 0px 6px 9px rgba(0, 0, 0, 0.425);
+    padding: 10px 50px;
+}
+.row-penyakit::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+  .row-penyakit::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+  .row-penyakit::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+  .row-penyakit::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+.kolom-kategori{
+    padding: 5px;
+}   
+.kolom-kategori .kartu-kategori{
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-weight: 700;
+    color: var(--warna8);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.527),
+                5px 5px 7px rgba(0, 0, 0, 0.267);
+    cursor: pointer;
+    text-align: center;
+    transition: 0.3s;
+}
+.kolom-kategori .pilih{
+    background-image: linear-gradient(to bottom right, var(--warna2), var(--warna4));
+    color: rgba(0, 0, 0, 0.801);
+}
+.kolom-kategori .kartu-kategori p{
+    text-transform: capitalize;
+}
+.row-button{
+    justify-content: center;
+    padding: 0 20px;
+}
+.tombol-selesai{
+    padding: 20px 0px;
+    background-color: rgba(255, 255, 255, 0.281);
+    border-radius: 15px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.466);
+    text-align: center;
+    cursor: no-drop;
+}
+.tombol-selesai.nyala{
+    background-color: var(--warna3);
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.rekomendasi{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--warna4);
+    padding-top: 25px;
+    min-height: 300px;
+    padding-bottom: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+.loading-circle{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.281);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.loading-inside{
+    position: absolute;
+    height: 40px;
+    width: 20px;
+    background-color: white;
+    animation-name: rotate;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.circle-inside{
+    position: absolute;
+    background-color: var(--warna4);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+@keyframes rotate{
+    from{ transform: rotate(-360deg); }
+    to{ transform: rotate(360deg); }
+}
+.judul-rekomendasi{
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 25px;
+}
+.card-title {
+    text-transform: capitalize;
+}
+
+@media (max-width: 991.98px) {
+    .judul-rekomendasi{
+        text-align: center;
+    }
+    .kolom-kategori {
+        padding: 5px;
+    }
+    .kolom-kategori .kartu-kategori {
+        padding: 0;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px 5px;
+    }
+    .kolom-kategori .kartu-kategori-vitamin {
+        height: 80px;
+    }
+    .kolom-kategori .pilih::after{
+        right: -60px;
+        top: 20px;
+        width: 140px;
+        height: 20px;
+    }
+    .kolom-kategori .kartu-kategori:hover{
+        background-color: white;
+        transform: scale(1.1);
+    }
+    .row-hasil{
+        justify-content: center;
+    }
+}
+
