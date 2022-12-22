@@ -192,7 +192,7 @@ $(".tombol-selesai").click(function(){
                     $.each(data2, function(a,data3){
                         if(data === data3.judul){
                             $('.row-rekomendasi').append(`
-                                <div class="col-4 d-flex justify-content-center px-1 py-3">
+                                <div class="col-lg-4 d-flex justify-content-center px-1 py-3">
                                     <div class="card" style="width: 100%">
                                         <img src="../`+ data3.gambar +`" class="gambar-kartu card-img-top" alt="...">
                                         <div class="card-body">

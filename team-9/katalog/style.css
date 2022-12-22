@@ -76,6 +76,8 @@ p{
 }
 .rekomendasi{
     position: relative;
+    justify-content: center;
+    align-items: center;
     background-color: var(--warna4);
     padding-top: 25px;
     min-height: 300px;
@@ -92,8 +94,6 @@ p{
     justify-content: center;
     align-items: center;
     top: 100px;
-    left: 49%;
-    right: 50%;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -161,3 +161,37 @@ p{
     color: rgba(0, 0, 0, 0.76);
     font-size: 14px;
 }
+
+@media (max-width: 991.98px) {
+    .judul-rekomendasi{
+        text-align: center;
+    }
+    .kolom-kategori {
+        padding: 5px;
+    }
+    .kolom-kategori .kartu-kategori {
+        padding: 0;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px 5px;
+    }
+    .kolom-kategori .kartu-kategori-vitamin {
+        height: 80px;
+    }
+    .kolom-kategori .pilih::after{
+        right: -60px;
+        top: 20px;
+        width: 140px;
+        height: 20px;
+    }
+    .kolom-kategori .kartu-kategori:hover{
+        background-color: white;
+        transform: scale(1.1);
+    }
+    .row-hasil{
+        justify-content: center;
+    }
+}
+
