@@ -137,12 +137,15 @@ $(".tombol-selesai").click(function(){
         $.getJSON('./API/buah.json', function (data){
             $.each(data, function(a,data2){
                 $.each(inginvitamin, function(a,ingin_vitamin){
-                    if(data2.vitamin == ingin_vitamin){
-                        buahvitamin.push(data2.nama);
-                    }
+                    $.each(data2.vitamin, function(a,data3){
+                        if(data3 == ingin_vitamin){
+                            buahvitamin.push(data2.nama);
+                        }
+                    });
                 });
             });
         });
+        console.log(buahvitamin)
         // vitamin
 
         // karbo
@@ -282,7 +285,7 @@ $(".tombol-selesai").click(function(){
                     $.each(data2, function(a,data3){
                         if(data === data3.nama){
                             $('.row-rekomendasi').append(`
-                                <div class="col-4 d-flex justify-content-center px-1 py-3">
+                                <div class="col-lg-4 d-flex justify-content-center px-1 py-3">
                                     <div class="card" style="width: 100%">
                                         <img src="./assets/`+ data3.nama +`.jpg" class="gambar-kartu card-img-top" alt="...">
                                         <div class="card-body">

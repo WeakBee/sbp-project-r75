@@ -117,7 +117,7 @@ p{
     background: var(--warna5);
 }
 .vitamin{
-    height: 100px;
+    height: 120px;
     overflow: auto;
 }
 
@@ -141,3 +141,37 @@ p{
   .vitamin::-webkit-scrollbar-thumb:hover {
     background: var(--warna5);
 }
+
+@media (max-width: 991.98px) {
+    .judul-rekomendasi{
+        text-align: center;
+    }
+    .kolom-kategori {
+        padding: 5px;
+    }
+    .kolom-kategori .kartu-kategori {
+        padding: 0;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px 5px;
+    }
+    .kolom-kategori .kartu-kategori-vitamin {
+        height: 80px;
+    }
+    .kolom-kategori .pilih::after{
+        right: -60px;
+        top: 20px;
+        width: 140px;
+        height: 20px;
+    }
+    .kolom-kategori .kartu-kategori:hover{
+        background-color: white;
+        transform: scale(1.1);
+    }
+    .row-hasil{
+        justify-content: center;
+    }
+}
+
