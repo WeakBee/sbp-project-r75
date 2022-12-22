@@ -1,20 +1,436 @@
 [
-    {   
-        "Nama" : "Cerecet Jawa",
-        "Habitat" : "Pegunungan",
-        "Lokasi": "Jawa",
-        "UkuranTubuh" : "8 CM",
-        "PanjangEkor" : "5 CM",
-        "BentukParuh" : "Segitiga Kecil",
-        "Makanan" :[
-            "Serangga Kecil",
-            "Biji-Bijian"
-        ],
-        "TipeKulit" : "Berbulu",
-        "Gambar" : "",
-        "Warna" : [ 
-            "Abu Abu",
-            "Putih"
+  {
+    "Nama" : "Cerecet Jawa",
+    "Habitat" : "Pegunungan",
+    "Lokasi": "Jawa",
+    "UkuranTubuh" : "8 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+        "Serangga Kecil",
+        "Biji-Bijian"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Abu Abu",
+        "Putih"
+]
+},
+{
+    "Nama" : "Cucak Rowo",
+    "Habitat" : "sungai,rawa",
+    "Lokasi": "Sumatra",
+    "UkuranTubuh" : "28 CM",
+    "PanjangEkor" : "9 CM",
+    "BentukParuh" : " bentuk paruh yang berpangkal lebar, tebal, besar dan panjang",
+    "Makanan" :[
+         "buah buahan dan tomat"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Hijau"
+]
+},
+{
+    "Nama" : "Cucak Rowo",
+    "Habitat" : "sungai,rawa",
+    "Lokasi": "Sumatra",
+    "UkuranTubuh" : "28 CM",
+    "PanjangEkor" : "9 CM",
+    "BentukParuh" : " bentuk paruh yang berpangkal lebar, tebal, besar dan panjang",
+    "Makanan" :[
+         "buah buahan dan tomat"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Hijau"
     ]
-    }
+},
+{
+    "Nama" : "Gelatik jawa ",
+    "Habitat" : "Pulau jawa , Kagean dan bali",
+    "Lokasi": "Jawa",
+    "UkuranTubuh" : "15 CM",
+    "PanjangEkor" : "3 CM",
+    "BentukParuh" : "tebal-pendek",
+    "Makanan" :[
+         "Biji-Bijian"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "abu abu"
+    ]
+},
+{
+    "Nama" : "Celepuk Jawa",
+    "Habitat" : "pulau jawa",
+    "Lokasi": "jawa",
+    "UkuranTubuh" : "16-18 CM",
+    "PanjangEkor" : "3CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+         "Serangga"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Coklat"
+    ]
+},
+{
+    "Nama" : "Burung Cendrawasih Princess Stephanie’s Astrapia",
+    "Habitat" : "Dataran Rendah",
+    "Lokasi": "Papua",
+    "UkuranTubuh" : "31 CM",
+    "PanjangEkor" : "30 CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+         "buah buahan dan biji-bijian"
+    ],
+    "TipeKulit" : "Berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Hijau dan unggu"
+    ]
+},
+{
+    "Nama" : "Jalak Bali",
+    "Habitat" : "daratan rendah",
+    "Lokasi": "bali barat",
+    "UkuranTubuh" : "25 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "pipih,lancip",
+    "Makanan" :[
+         "buah buahan "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "putih"
+    ]
+},
+{
+    "Nama" : "jalak suren",
+    "Habitat" : "daratan rendah",
+    "Lokasi": "asia tenggara",
+    "UkuranTubuh" : "24 CM",
+    "PanjangEkor" : " 4 CM",
+    "BentukParuh" : "runcing",
+    "Makanan" :[
+         "buah buahan dan serangga  "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hitam dan putih"
+    ]
+},
+{
+    "Nama" : "Cucak hijau",
+    "Habitat" : "daratan rendah",
+    "Lokasi": "Jawa Timur",
+    "UkuranTubuh" : "22 CM",
+    "PanjangEkor" : "4 CM",
+    "BentukParuh" : "runcing",
+    "Makanan" :[
+         "buah buahan "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "Hijau"
+    ]
+},
+{
+    "Nama" : "Kenari Melayu",
+    "Habitat" : "Dataran Rendah",
+    "Lokasi": "asia",
+    "UkuranTubuh" : "11 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+         "Biji-Bijian"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "kuning"
+    ]
+},
+{
+    "Nama" : "Elang ular bido",
+    "Habitat" : "dataaran tinggi",
+    "Lokasi": "hongkong",
+    "UkuranTubuh" : "76 CM",
+    "PanjangEkor" : "15 CM",
+    "BentukParuh" : "runcing",
+    "Makanan" :[
+         "daging "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "burung hantu",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "jawa",
+    "UkuranTubuh" : "68 CM",
+    "PanjangEkor" : "10 CM",
+    "BentukParuh" : "runcing ",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "Burung hantu beluk jampuk",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "asia",
+    "UkuranTubuh" : "46 CM",
+    "PanjangEkor" : "3 CM",
+    "BentukParuh" : "segitiga lancip",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "Burung hantu punggok cokelat",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "asia tenggara",
+    "UkuranTubuh" : "30 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "segitiga lancip",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "Elang alap cokelat",
+    "Habitat" : "dataran tinggi",
+    "Lokasi": "indonesia timur",
+    "UkuranTubuh" : "55 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "runcing",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "rajawali totol",
+    "Habitat" : "dataran rendah ",
+    "Lokasi": "eropa dan asia",
+    "UkuranTubuh" : "74 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "segitiga lancip",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat"
+    ]
+},
+{
+    "Nama" : "itik gunung",
+    "Habitat" : "dataaran rendah",
+    "Lokasi": "indonesia timur",
+    "UkuranTubuh" : "43 CM",
+    "PanjangEkor" : "4 CM",
+    "BentukParuh" : "lebar",
+    "Makanan" :[
+         "omnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat gelap"
+    ]
+},
+{
+    "Nama" : "burung wallet",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "asia tenggara",
+    "UkuranTubuh" : "16 CM",
+    "PanjangEkor" : " 3 CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+         "Serangga Kecil"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hitam"
+    ]
+},
+{
+    "Nama" : "bambangan rimba",
+    "Habitat" : "dataran rendah ",
+    "Lokasi": "papua",
+    "UkuranTubuh" : "15 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "lancip panjang",
+    "Makanan" :[
+         "buah buahan "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "kuning dan hitam"
+    ]
+},
+{
+    "Nama" : "burung kangkareng Sulawesi",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "sulawesi",
+    "UkuranTubuh" : "53 CM",
+    "PanjangEkor" : "4 CM",
+    "BentukParuh" : "lancip panjang",
+    "Makanan" :[
+         "buah buahan dan biji-bijian"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hitam"
+    ]
+},
+{
+    "Nama" : "burung kakatua putih ",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "indonesia timur",
+    "UkuranTubuh" : "46 CM",
+    "PanjangEkor" : "5 CM",
+    "BentukParuh" : "segitiga lancip",
+    "Makanan" :[
+         "buah buahan dan biji-bijian"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "putih"
+    ]
+},
+{
+    "Nama" : "burung pleci kacamata sangihe",
+    "Habitat" : "daratan rendah",
+    "Lokasi": "sulawesi utara",
+    "UkuranTubuh" : "12 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "Segitiga Kecil",
+    "Makanan" :[
+         "buah buahan dan serangga  "
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hijau"
+    ]
+},
+{
+    "Nama" : "burung maduh sepah raja",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "india,china",
+    "UkuranTubuh" : "13 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "lancip panjang",
+    "Makanan" :[
+         "buah buahan"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "merah"
+    ]
+},
+{
+    "Nama" : "burung madu sriganti",
+    "Habitat" : "dataran rendah ",
+    "Lokasi": "asia tenggara",
+    "UkuranTubuh" : "12 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "panjang lancip",
+    "Makanan" :[
+         "buah buahan"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hijau"
+    ]
+},
+{
+    "Nama" : "burung paok biru ",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "asia tenggara",
+    "UkuranTubuh" : "13 CM",
+    "PanjangEkor" : "2 CM",
+    "BentukParuh" : "segitiga kecil",
+    "Makanan" :[
+         "buah buahan"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "kuning,biru"
+    ]
+},
+{
+    "Nama" : "burung poksay jambul putih",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "hongkong",
+    "UkuranTubuh" : "30 CM",
+    "PanjangEkor" : "4 CM",
+    "BentukParuh" : "kecil lancip",
+    "Makanan" :[
+         "buah buahan"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "coklat dan putih"
+    ]
+},
+{
+    "Nama" : "burung gagak Halmahera",
+    "Habitat" : "dataran rendah",
+    "Lokasi": "pulau morotai",
+    "UkuranTubuh" : "53 CM",
+    "PanjangEkor" : "8 CM",
+    "BentukParuh" : "segitiga ",
+    "Makanan" :[
+         "karnivora"
+    ],
+    "TipeKulit" : "berbulu",
+    "Gambar" : "",
+    "Warna" : [ 
+        "hitam"
+    ]
+}
 ]
