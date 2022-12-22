@@ -152,6 +152,17 @@ $(".tombol-selesai").click(function(){
     if($(this).hasClass( "nyala" )){
         $('.sangat-rekomendasi').empty();
         $('.rekomendasi').empty();
+        $('.sangat-rekomendasi').append(`
+        <div class="loading-circle">
+            <div class="loading-inside"></div>
+            <div class="circle-inside"></div>
+        </div>
+        `);
+        setTimeout(function() {
+            $('.sangat-rekomendasi').empty();
+            
+        }, 900);
+        
         // Jumlah data
         var inginbahan = [];
         let resepumami = [];
@@ -190,7 +201,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        }, 100);
+        }, 800);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi);
             let unikrekomendasi = unique(rekomendasi);
@@ -288,7 +299,7 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 200);
+        }, 1000);
         // UMAMI
 
         // ROYCO
@@ -316,7 +327,7 @@ $(".tombol-selesai").click(function(){
                 }
             }
             // AND
-        },100);
+        },800);
         setTimeout(function() {
             let uniksangatrekomendasi = unique(sangatrekomendasi2);
             let unikrekomendasi = unique(rekomendasi2);
@@ -415,7 +426,7 @@ $(".tombol-selesai").click(function(){
                     // Menambah bahan
                 });
             });
-        }, 200);
+        }, 1000);
         // ROYCO
     };
 });

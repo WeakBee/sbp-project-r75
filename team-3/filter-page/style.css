@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,700&display=swap');
+
+/* Navbar */
+
+.navbar .container {
+    position: relative;
+    border: 2px solid rgb(216, 216, 216);
+    border-style: none none solid none;
+    padding-bottom: 15px;
+}
+
+.navbar-brand {
+    color: #252525;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 32px;
+}
+
+.kiri {
+    background-color: #CACACA;
+}
+
+.kanan {
+    background-color: #4299E1;
+}
+
+
+
+/* Filter */

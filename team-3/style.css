@@ -4,7 +4,7 @@
     --warna1: #1A202C;
     --warna2: #61D2F2;
     --warna3: #4299E1;
-    --warna4:  #E8C145;
+    --warna4: #E8C145;
     --warna5: #c49b16;
     --warna6: #22333b;
     --warna7: #0a0908;
@@ -18,26 +18,90 @@
 
 /* Navbar */
 
-.navbar .container{
+.navbar .container {
     position: relative;
     padding-bottom: 15px;
 }
+
 .navbar-brand {
     color: var(--warna8);
     font-family: 'Poppins', sans-serif;
     font-style: italic;
-    font-size: 35px;
-    font-weight: 700;
+    font-size: 32px;
 }
 
-a.nav-link {
+.nav-link {
     color: var(--warna8);
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 200;
+    margin-right: 28px;
+}
+
+/* Hero */
+#hero {
+    background-color: var(--warna7);
+}
+
+.hero {
+    padding-top: 20px;
+    color: #CACACA;
+    height: 450px;
+}
+
+.hero h1 {
+    font-size: 64px;
+    font-weight: 600;
+}
+
+.hero p {
+    font-size: 40px;
+    font-weight: 200;
 }
 
 /* Container Rekomendasi */
 .container .card {
     background-color: #F7F7F7;
     border-radius: 10px;
+}
+
+.view-more {
+    color: var(--warna7);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.view-more:hover {
+    color: var(--warna7);
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.rekomendasi .foto-hp {
+    padding-top: 10px;
+}
+
+.rekomendasi .card-title {
+    font-size: 18px;
+}
+
+.rekomendasi .card-body {
+    background-color: #CACACA;
+}
+
+.rekomendasi .card-text {
+    font-size: 13px;
+}
+
+.rekomendasi .harga {
+    font-size: 19pxpx;
+    font-weight: 500;
+    color: #E94A0F;
+}
+
+@media (min-width: 991.98px) {
+
+    .navbar-link {
+        text-transform: uppercase;
+    }
+
 }

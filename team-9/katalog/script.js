@@ -65,7 +65,7 @@ setTimeout(function() {
         </div>
         `);
     });
-}, 500);
+}, 1000);
 
 $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
     $(this).toggleClass("pilih");
@@ -78,9 +78,18 @@ $( ".row" ).delegate( ".kartu-kategori-tahun", "click", function() {
 
 
 $(".tombol-selesai").click(function(){
-    $('.row-rekomendasi').empty();
     if($(this).hasClass( "nyala" )){
-        $('.list-rekomendasi').empty();
+        $('.row-rekomendasi').empty();
+        $('.row-rekomendasi').append(`
+            <div class="loading-circle">
+                <div class="loading-inside"></div>
+                <div class="circle-inside"></div>
+            </div>
+        `);
+        setTimeout(function() {
+            $('.row-rekomendasi').empty();
+        }, 1900);
+        
         // Jumlah data
         var ingingenre = [];
         var ingindurasi = [];
@@ -174,7 +183,7 @@ $(".tombol-selesai").click(function(){
             }
             
             console.log(rekomendasi2);
-        }, 200);
+        }, 1000);
 
         setTimeout(function() {
             let rekomendasi3 = unique(rekomendasi2);
@@ -183,20 +192,21 @@ $(".tombol-selesai").click(function(){
                     $.each(data2, function(a,data3){
                         if(data === data3.judul){
                             $('.row-rekomendasi').append(`
-                                <div class="col-4 d-flex justify-content-center px-1 py-3">
+                                <div class="col-lg-4 d-flex justify-content-center px-1 py-3">
                                     <div class="card" style="width: 100%">
                                         <img src="../`+ data3.gambar +`" class="gambar-kartu card-img-top" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">`+ data3.judul +`</h5>
                                             <h6 class="card-subtitle">`+ data3.durasi +` menit</h6>
                                             <p class="card-text">`+ data3.sinopsis +`</p>
+                                            <p class="card-subtitle genre genreke-`+ a +`"></p>
                                         </div>
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">Produser : `+ data3.produser +` </li>
                                             <li class="list-group-item">Sutradata : `+ data3.sutradara +`</li>
                                             <li class="list-group-item">Penulis : `+ data3.penulis +`</li>
                                             <li class="list-group-item">Pemain :
-                                                <ul class="pemainfilmke-`+a+`">
+                                                <ul class="pemain pemainfilmke-`+ a +`">
                                                 </ul>
                                             </li>
                                         </ul>
@@ -215,8 +225,15 @@ $(".tombol-selesai").click(function(){
                             });
                         }
                     });
+                    $.each(data2, function(a,data3){
+                        if(data == data3.judul){
+                            $.each(data3.genre, function(i,data4){
+                                $('.genreke-'+a).append(data4 +` * `);
+                            });
+                        }
+                    });
                 });
             });
-        }, 300);
+        }, 2000);
     };
 });
