@@ -199,7 +199,7 @@
             
     },
 	{
-         "SUBGENRE" : "Vocelse",
+         "SUBGENRE" : "Vocalese",
         "Band"  : "Alicia Keys",
         "Album" : "As I Am",
         "Judul" : "No One",
@@ -368,7 +368,7 @@
         "Album" : "Vous Qui Passez Sanz Me Voir",
         "Judul" : "Vous Qui Passez Sanz Me Voir",
         "Tahun" : "1936",
-        "Gambar" : "europeanj3.jpeg" 
+        "Gambar" : "european3.jpeg" 
 			
 	},
 	{   
@@ -499,7 +499,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "Gypsy Jaz",
+         "SUBGENRE" : "Gypsy Jazz",
         "Band"  : "Havana Swing",
         "Album" : "Django Festival 5",
         "Judul" : "Les Croquants",

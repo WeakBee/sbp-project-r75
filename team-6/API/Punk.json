@@ -1,6 +1,6 @@
 [
     {   
-        "SUBGENRE" : "CLASSIC PUNK ROCK",
+        "SUBGENRE" : "Classic Punk Rock",
         "Band"  : "The Clash",
         "Album" : "The Cost Of Living |EP|",
         "Judul" : "I Fougth The Law",
@@ -9,7 +9,7 @@
             
     },
 	{
-        "SUBGENRE" : "CLASSIC PUNK ROCK",
+        "SUBGENRE" : "Classic Punk Rock",
         "Band"  : "Bad Religion",
         "Album" : "Suffer",
         "Judul" : "Suffer",
@@ -18,7 +18,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "CLASSIC PUNK ROCK",
+        "SUBGENRE" : "Classic Punk Rock",
         "Band"  : "Sex Pistol",
         "Album" : "Never Mind The Bollocks,Here's The Sex Pistol",
         "Judul" : "God Save The Queen",
@@ -27,7 +27,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "HARDCORE SCHOOL",
+        "SUBGENRE" : "Hardcore School",
         "Band"  : "Bad Brains",
         "Album" : "Bad Brains",
         "Judul" : "Attitude",
@@ -36,7 +36,7 @@
             
     },
 	{
-        "SUBGENRE" : "HARDCORE SCHOOL",
+        "SUBGENRE" : "Hardcore School",
         "Band"  : "Black Flag",
         "Album" : "Demaged",
         "Judul" : "Rise Above",
@@ -45,7 +45,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "HARDCORE SCHOOL",
+        "SUBGENRE" : "Hardcore School",
         "Band"  : "Negative Approach",
         "Album" : "Tied Down",
         "Judul" : "Nothing",
@@ -54,7 +54,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "RAW PUNK",
+        "SUBGENRE" : "Raw Punk",
         "Band"  : "Toxic Holocaust",
         "Album" : "Chemistry Of Consciosness",
         "Judul" : "Acid Fuzz",
@@ -63,7 +63,7 @@
             
     },
 	{
-        "SUBGENRE" : "RAW PUNK",
+        "SUBGENRE" : "Raw Punk",
         "Band"  : "Anti Cimec",
         "Album" : "Scandinavian Jawbreaker",
         "Judul" : "Only In Dreams",
@@ -72,7 +72,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "RAW PUNK",
+        "SUBGENRE" : "Raw Punk",
         "Band"  : "Doom",
         "Album" : "Total Doom ",
         "Judul" : "Police Bastard",
@@ -81,7 +81,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "MELODIC",
+        "SUBGENRE" : "Melodic",
         "Band"  : "Killing Me Inside",
         "Album" : "One Reason",
         "Judul" : "Jangan Pergi",
@@ -90,7 +90,7 @@
             
     },
 	{
-        "SUBGENRE" : "MELODIC",
+        "SUBGENRE" : "Melodic",
         "Band"  : "Green Day",
         "Album" : "Dookie",
         "Judul" : "She",
@@ -99,7 +99,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "MELODIC",
+        "SUBGENRE" : "Melodic",
         "Band"  : "No Use For A Name",
         "Album" : "Leche Con Carne",
         "Judul" : "Soul Mate",
@@ -135,7 +135,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "GOTHIC PUNK",
+        "SUBGENRE" : "Gothic Punk",
         "Band"  : "My Chemical Romance",
         "Album" : "the Black Parade",
         "Judul" : "I Don't Love You",
@@ -144,7 +144,7 @@
             
     },
 	{
-        "SUBGENRE" : "GOTHIC PUNK",
+        "SUBGENRE" : "Gothic Punk",
         "Band"  : "Misfits",
         "Album" : "The Devil's Rain",
         "Judul" : "Father",
@@ -153,7 +153,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "GOTHIC PUNK",
+        "SUBGENRE" : "Gothic Punk",
         "Band"  : "Batu Nisan",
         "Album" : "Cahaya Bidadari |single|",
         "Judul" : "Cahaya Bidadari",
@@ -162,7 +162,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "Post-punk",
+        "SUBGENRE" : "Post-Punk",
         "Band"  : "The Cure",
         "Album" : "Three Imaginary Boys",
         "Judul" : "Boys Dont Cry",
@@ -171,7 +171,7 @@
             
     },
 	{
-        "SUBGENRE" : "Post-punk",
+        "SUBGENRE" : "Post-Punk",
         "Band"  : "The Killers",
         "Album" : "Hot Fuss",
         "Judul" : "...Mr.Brightside",
@@ -180,7 +180,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "Post-punk",
+        "SUBGENRE" : "Post-Punk",
         "Band"  : "Blur",
         "Album" : "Blur",
         "Judul" : "Song 2",
@@ -189,7 +189,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "Anarko-punk",
+        "SUBGENRE" : "Anarko-Punk",
         "Band"  : "Sex Pistol",
         "Album" : "Never Mind The Bollocks,Here's The Sex Pistol",
         "Judul" : "Anarchy In The UK",
@@ -198,7 +198,7 @@
             
     },
 	{
-        "SUBGENRE" : "Anarko-punk",
+        "SUBGENRE" : "Anarko-Punk",
         "Band"  : "Ramones",
         "Album" : "Ramones",
         "Judul" : "Blitzkrieg Bop",
@@ -207,7 +207,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "Anarko-punk",
+        "SUBGENRE" : "Anarko-Punk",
         "Band"  : "Misfits",
         "Album" : "Collection",
         "Judul" : "Green Hell",
@@ -216,7 +216,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "art punk",
+        "SUBGENRE" : "Art Punk",
         "Band"  : "Uranium Club",
         "Album" : "All Of Them Naturals",
         "Judul" : "….Who Made The Man?",
@@ -225,7 +225,7 @@
             
     },
 	{
-        "SUBGENRE" : "art punk",
+        "SUBGENRE" : "Art Punk",
         "Band"  : "Television",
         "Album" : "Marquee Moon",
         "Judul" : "Prove It",
@@ -234,7 +234,7 @@
 			
 	},
 	{
-        "SUBGENRE" : "art punk",
+        "SUBGENRE" : "Art Punk",
         "Band"  : "C.C.T.V.",
         "Album" : "Ep",
         "Judul" : "Anxiety",
@@ -243,7 +243,7 @@
 			
 	},
 	{   
-        "SUBGENRE" : "Avant-punk",
+        "SUBGENRE" : "Avant-Punk",
         "Band"  : "The Cure",
         "Album" : "Three Imaginary Boys",
         "Judul" : "10:15 Saturday Night",
@@ -252,7 +252,7 @@
             
     },
 	{
-        "SUBGENRE" : "Avant-punk",
+        "SUBGENRE" : "Avant-Punk",
         "Band"  : "Joy Divison",
         "Album" : "Atmosphere |single|",
         "Judul" : "Atmosphere",
@@ -261,7 +261,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "Avant-punk",
+         "SUBGENRE" : "Avant-Punk",
         "Band"  : "Magazine",
         "Album" : "Magazine…|Where The Power Is|",
         "Judul" : "A Song From Under The Floorboards",
@@ -270,7 +270,7 @@
 		
     },
 	{   
-        "SUBGENRE" : "Christian punk",
+        "SUBGENRE" : "Christian Punk",
         "Band"  : "Haste The Day",
         "Album" : "Dreamer",
         "Judul" : "Autumn",
@@ -279,7 +279,7 @@
             
     },
 	{
-        "SUBGENRE" : "Christian punk",
+        "SUBGENRE" : "Christian Punk",
         "Band"  : "MxPx",
         "Album" : "MxPx",
         "Judul" : "All Of It",
@@ -288,7 +288,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "Christian punk",
+         "SUBGENRE" : "Christian Punk",
         "Band"  : "FM Static",
         "Album" : "Critically Ashamed",
         "Judul" : "Tonight ",
@@ -297,7 +297,7 @@
 		
     },
 	{   
-        "SUBGENRE" : "hardcore punk",
+        "SUBGENRE" : "Hardcore Punk",
         "Band"  : "Black Flag",
         "Album" : "My War",
         "Judul" : "My War ",
@@ -306,7 +306,7 @@
             
     },
 	{
-        "SUBGENRE" : "hardcore punk",
+        "SUBGENRE" : "Hardcore Punk",
         "Band"  : "Void ",
         "Album" : "side B",
         "Judul" : "Who Are You??",
@@ -315,7 +315,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "hardcore punk",
+         "SUBGENRE" : "Hardcore Punk",
         "Band"  : "Teen Idles",
         "Album" : "Minor Disturbance",
         "Judul" : "Sneakers",
@@ -324,7 +324,7 @@
 		
     },
 	{   
-        "SUBGENRE" : "horror punk",
+        "SUBGENRE" : "Horror Punk",
         "Band"  : "Misfits",
         "Album" : "walk Among Us",
         "Judul" : "I Turned into a Martian",
@@ -333,7 +333,7 @@
             
     },
 	{
-        "SUBGENRE" : "horror punk",
+        "SUBGENRE" : "Horror Punk",
         "Band"  : "Kelelawar Malam",
         "Album" : "jalan Gelap",
         "Judul" : "jalan Gelap",
@@ -342,7 +342,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "horror punk",
+         "SUBGENRE" : "Horror Punk",
         "Band"  : "Blitzkid",
         "Album" : "Trace Of A Stranger",
         "Judul" : "Making A Moster",
@@ -351,7 +351,7 @@
 		
     },
 	{   
-        "SUBGENRE" : "post-hardcore",
+        "SUBGENRE" : "Post-Hardcore",
         "Band"  : "Emarosa",
         "Album" : "Relativity",
         "Judul" : "Preted. Relesse.The Close",
@@ -360,25 +360,25 @@
             
     },
 	{
-        "SUBGENRE" : "post-hardcore",
+        "SUBGENRE" : "Post-Hardcore",
         "Band"  : "Neck Deep",
         "Album" : "All Distortions Are Intentional",
         "Judul" : "... Little Dove",
         "Tahun" : "2020",
-        "Gambar" : "ph2.jpg"  
+        "Gambar" : "ph3.jpg"  
 			
 	},
 	{
-         "SUBGENRE" : "post-hardcore",
+         "SUBGENRE" : "Post-Hardcore",
         "Band"  : "For Revenge",
         "Album" : "Second Change",
         "Judul" : "Pulang",
         "Tahun" : "2013",
-        "Gambar" : "ph3.png"  
+        "Gambar" : "ph2.png"  
 		
     },
 	{   
-        "SUBGENRE" : "street punk",
+        "SUBGENRE" : "Street Punk",
         "Band"  : "Marjinal",
         "Album" : "Cinta Pembodohan",
         "Judul" : "Cinta Pembodohan",
@@ -387,7 +387,7 @@
             
     },
 	{
-        "SUBGENRE" : "street punk",
+        "SUBGENRE" : "Street Punk",
         "Band"  : "Navicula",
         "Album" : "Love Bomb",
         "Judul" : "Mafia Hukum",
@@ -396,7 +396,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "street punk",
+         "SUBGENRE" : "Street Punk",
         "Band"  : "Monster Squad",
         "Album" : "Strength Through Pain +All Out Of Control |EP|",
         "Judul" : "All Out Of Control",
@@ -405,7 +405,7 @@
 		
     },
 	{   
-        "SUBGENRE" : "Skate punk",
+        "SUBGENRE" : "Skate Punk",
         "Band"  : "Rocket Rockers",
         "Album" : "Better Season",
         "Judul" : "Ingin Hilang Ingatan",
@@ -414,7 +414,7 @@
             
     },
 	{
-        "SUBGENRE" : "Skate punk",
+        "SUBGENRE" : "Skate Punk",
         "Band"  : "Blink-182",
         "Album" : "Take Of Your Pants And Jacket",
         "Judul" : "First Date",
@@ -423,7 +423,7 @@
 			
 	},
 	{
-         "SUBGENRE" : "Skate punk",
+         "SUBGENRE" : "Skate Punk",
         "Band"  : "Rancid",
         "Album" : "….And Out Come The Wolves",
         "Judul" : "Olympia WA",

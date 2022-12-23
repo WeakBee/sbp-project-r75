@@ -97,7 +97,7 @@
         "Album" : "Ace of Spades",
         "Judul" : "Ace of Spades",
         "Tahun" : "1980",
-        "Gambar" : "sm1.jpg"  
+        "Gambar" : "sm3.jpg"  
     },
 	{
         "SUBGENRE" : "Speed Metal",
@@ -105,7 +105,7 @@
         "Album" : "The Number of the Beast",
         "Judul" : "Invaders",
         "Tahun" : "1982" ,
-        "Gambar" : "sm2.jpg" 
+        "Gambar" : "sm1.jpg" 
     },
 	{
         "SUBGENRE" : "Speed Metal",
@@ -113,7 +113,7 @@
         "Album" : "British Steel",
         "Judul" : "Breaking the Law",
         "Tahun" : "1980" ,
-        "Gambar" : "sm3.jpg" 
+        "Gambar" : "sm2.jpg" 
     },
 	{
         "SUBGENRE" : "Melodic Metal",
@@ -425,7 +425,7 @@
         "Album" : "Power Demons",
         "Judul" : "Timur Tragedi",
         "Tahun" : "1993",
-        "Gambar" : "powmet1.jpeg"  
+        "Gambar" : "powmet.jpeg"  
     },
 	{
         "SUBGENRE" : "Power Metal",

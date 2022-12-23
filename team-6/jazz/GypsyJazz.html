@@ -18,15 +18,15 @@
             overflow: hidden;
         }
     </style>
-    <title> Ghipsy Jazz</title>
+    <title> Gypsy Jazz</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>GHIPSY JAZZ</h3>    
+            <h3>Gypsy Jazz</h3>    
                       </div>
                       <div class="col-md-10">
-                        <P>Ghipsy Jazz adalah sub genre Musik Jazz yang terpengaruh oleh Seni Musik Tradisional dari Eropa Timur berjenis Folk. Jenis musik yang dijuluki Jazz Manouche ini memiliki ciri khas berupa languid dan seductive feel yang memiliki karateristik Driving Rhytms. </p>
+                        <P>Gypsy Jazz adalah sub genre Musik Jazz yang terpengaruh oleh Seni Musik Tradisional dari Eropa Timur berjenis Folk. Jenis musik yang dijuluki Jazz Manouche ini memiliki ciri khas berupa languid dan seductive feel yang memiliki karateristik Driving Rhytms. </p>
                     </div>
                     </div>
 
@@ -39,7 +39,7 @@
         $.getJSON('../API/Jazz.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Ghipsy Jazz"){
+                if(data2.SUBGENRE == "Gypsy Jazz"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagesjazz/`+ data2.Gambar +`" class="card-img-top" alt="...">
