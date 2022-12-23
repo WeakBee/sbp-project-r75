@@ -203,7 +203,7 @@ $(".tombol-selesai").click(function(){
                                         </div>
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">Produser : `+ data3.produser +` </li>
-                                            <li class="list-group-item">Sutradata : `+ data3.sutradara +`</li>
+                                            <li class="list-group-item">Sutradara : `+ data3.sutradara +`</li>
                                             <li class="list-group-item">Penulis : `+ data3.penulis +`</li>
                                             <li class="list-group-item">Pemain :
                                                 <ul class="pemain pemainfilmke-`+ a +`">

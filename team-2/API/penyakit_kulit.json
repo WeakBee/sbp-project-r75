@@ -6,7 +6,7 @@
       {"gejala" : "Adanya plaque (lesi kulit yang permukaannya meninggi dan atasnya rata)"},
       {"gejala" : "Timbul gejal koebner phenomeon (kelainan kulit, dimana jika kuit sehat terkena trauma/tergores, kulit yang sehat juga akan menjadi kelainan)"}
     ],
-    "pengobatan"   : ["Emolien","clobetasol","methotrexate"]
+    "pengobatan"   : ["Emolien","Clobetasol","Methotrexate"]
     },
     {
       "nama_penyakit" : "Veruca",
@@ -87,7 +87,7 @@
       {"gejala" : "Dipinggiran daun telinga terlihat ada kerak berwarna putih"},
       {"gejala" : "Penebalan dan keriput pada kulit ditutupi oleh kerak-kerak berwarna abu-abu kekuningan"}
     ],
-    "pengobatan"   : ["Antihistamin","interhistin","cetirizin"]
+    "pengobatan"   : ["Antihistamin","Interhistin","Cetirizin"]
    },
    {
     "nama_penyakit" : "Serkarial Dermatis",
@@ -98,7 +98,7 @@
       {"gejala" : "Edema disekitar kulit yang terkena"},
       {"gejala" : "Vesikula kemudian dapat menjadi pustula apabila telah terjadi infeksi bakterial sekunder"}
     ],
-    "pengobatan"   : ["kortikosteroid","losion antigatal","pasta soda kue"]
+    "pengobatan"   : ["Kortikosteroid","Losion antigatal","Pasta soda kue"]
    },
    {
     "nama_penyakit" : "Jerawat",
@@ -107,7 +107,7 @@
       {"gejala" : "Benjolan kecil merah disertai nanah"},
       {"gejala" : "Benjolan padat dan menggembung di kulit"}
     ],
-    "pengobatan"   : ["tretinoin","benzoyl peroxide","isotretinoin"]
+    "pengobatan"   : ["Tretinoin","Benzoyl peroxide","Isotretinoin"]
    },
 
 {
@@ -401,7 +401,7 @@
 {
     "nama_penyakit" : "Karbunkel",
     "gejala_penyakit" : [
-      {"gejala" : "tumbuh beberapa bisul yang menyatu"},
+      {"gejala" : "Tumbuh beberapa bisul yang menyatu"},
       {"gejala" : "Membengkak"},
       {"gejala" : "Terasa nyeri"}
     ],
