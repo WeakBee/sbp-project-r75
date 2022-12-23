@@ -3,7 +3,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7qFqES-gnf-Hht2QxPlE3NnG_xxXVVDaWA&usqp=CAU",
         "Brand" : "Xiaomi 12T Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 11.300.000",
+        "Harga" : 11300000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13",
@@ -23,7 +23,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lW8LsbRozVgvF6VuongTOnapdsNS-L9iNQ&usqp=CAU",
         "Brand" : "Xiaomi Redmi Note 11",
         "Tahun" : "2022",
-        "Harga" : "Rp 2.000.000",
+        "Harga" : 2000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13",
@@ -42,7 +42,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6m-xyD9QikFEc9ksCTvm_o2lGeTTASOfwA&usqp=CAU",
         "Brand" : "Xiaomi Redmi Note 11 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.399.000",
+        "Harga" : 3399000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13",
@@ -61,7 +61,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV5y0oOKrz_W213lLA4edaf-ADAEC-lXwgA&usqp=CAU",
         "Brand" : "Xiaomi 12T",
         "Tahun" : "2022",
-        "Harga" : "Rp 6.265.000",
+        "Harga" : 6265000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13",
@@ -81,7 +81,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyT-ajBpyi8USkChjmGrAlO5y--EwpJ05w&usqp=CAU",
         "Brand" : "Xiaomi Poco X4 Pro 5G",
         "Tahun" : "2022",
-        "Harga" : "Rp 4.900.000",
+        "Harga" : 4900000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, MIUI 13 for POCO",
@@ -101,7 +101,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ii88AQiZz5BXrMYLmrJ3J7q8mry52PiF4w&usqp=CAU",
         "Brand" : "Xiaomi Poco F4",
         "Tahun" : "2022",
-        "Harga" : "Rp 4.795.000",
+        "Harga" : 4795000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13 for POCO",
@@ -121,7 +121,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Od2_-IKBTkpIxidkW4-5EUe5IKLyzLrN3Q&usqp=CAU",
         "Brand" : "Xiaomi 12 Lite",
         "Tahun" : "2022",
-        "Harga" : "Rp 5.075.000",
+        "Harga" : 5075000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, MIUI 13",
@@ -141,7 +141,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJt1a2mLYgFho0Fejc0ekJPmxmSqeBOtiPQ&usqp=CAU",
         "Brand" : "Xiaomi Redmi 10C",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.580.000",
+        "Harga" : 1580000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, MIUI 13",
@@ -161,7 +161,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -181,7 +181,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -201,7 +201,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -221,7 +221,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -241,7 +241,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -261,7 +261,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -281,7 +281,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -301,7 +301,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -321,7 +321,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -341,7 +341,7 @@
         "Gambar" : "",
         "Brand" : "",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
