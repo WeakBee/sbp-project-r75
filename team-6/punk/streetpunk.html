@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>STREET PUNK</title>
+    <title>Street Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>STREET PUNK</h3>    
+            <h3>Street Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <P>Street punk (kadang-kadang dieja sebagai streetpunk ) adalah subgenre punk rock berbasis kelas pekerja perkotaan  , yang sebagian muncul sebagai pemberontakan terhadap pretensi artistik yang dirasakan dari gelombang pertama punk Inggris.Street punk muncul dari gaya Oi! dan band- band hardcore punk . Band kunci dalam mendefinisikan estetika adalah Exploited .Punk jalanan umumnya memiliki penampilan yang jauh lebih mencolok dan flamboyan daripada kelas pekerja atau skinheadgambar dibudidayakan oleh banyak Oi! grup.Punk jalanan biasanya memakai rambut warna-warni , mohawk , tato , rompi bertabur tebal dan jaket kulit, dan pakaian, terutama kotak-kotak, dihiasi dengan slogan politik, tambalan, dan / atau nama band punk. Pada 1990-an dan 2000-an, kebangkitan punk jalanan dimulai dengan munculnya band-band punk jalanan seperti Korban .</P>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "street punk"){
+                if(data2.SUBGENRE == "Street Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

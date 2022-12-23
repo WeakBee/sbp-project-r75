@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>CLASSIC PUNK ROCK</title>
+    <title>Classic Punk Rock</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>CLASSIC PUNK ROCK</h3>    
+            <h3>Classic Punk Rock</h3>    
                       </div>
                       <div class="col-md-10">
                        <p>Punk rock adalah salah satu cabang genre dari musik rock, genre ini muncul pada era 1970-an dengan munculnya band seperti Ramones, The Clash, Sex Pistols, dan lainnya.Kelompok punk sering meniru struktur musik sederhana seperti musik garage rock dari tahun 1960-an. Biasanya mereka terdiri dari satu drum kit, satu atau dua gitar elektrik, satu bass elektrik, dan vokal. Drums biasanya hanya memiliki satu snare drum, satu tom, satu floor tom, satu bass drum, hi-hats, satu atau dua crash cymbal dan satu ride cymbal.</p>
@@ -40,7 +40,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "CLASSIC PUNK ROCK"){
+                if(data2.SUBGENRE == "Classic Punk Rock"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

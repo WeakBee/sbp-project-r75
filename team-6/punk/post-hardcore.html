@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>POST HARDCORE</title>
+    <title>Post-Hardcore</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>POST HARDCORE</h3>    
+            <h3>Post-Hardcore</h3>    
                       </div>
                       <div class="col-md-10">
                         <P>Post-hardcore adalah genre punk rock yang tetap mempertahankan agresivitas dan intensitas hardcore punk, tetapi sudah terpengaruh ekspresi kreatif yang terinspirasi oleh post-punk dan noise rock. Seperti post-punk, istilah tersebut telah diterapkan pada gugus yang luas. Post-hardcore dimulai pada 1980-an dengan grup-grup musik seperti Hüsker Dü dan Minutemen. Genre ini berkembang pada 1980-an dan 1990-an dengan rilisan grup musik dari kota yang terpengaruh pergerakan hardcore, seperti Fugazi dari Washington, D.C.[3] serta grup musik seperti Big Black dan Jawbox yang sangat dekat dengan noise rock.</P>
@@ -40,7 +40,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "post-hardcore"){
+                if(data2.SUBGENRE == "Post-Hardcore"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

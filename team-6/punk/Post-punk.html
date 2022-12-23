@@ -26,7 +26,7 @@
             <h3>POST-PUNK</h3>    
                       </div>
                       <div class="col-md-10">
-                        <P>Post-punk (awalnya disebut new musick)adalah sebuah genre turunan dari musik rock yang muncul pada akhir 1970-an, dimana musisi-musisi pada masa itu meninggalkan kesederhanaan dan tradisionalisme musik punk rock, dan sebagai gantinya mengambil pengaruh dari beragam jenis musik avant-garde, serta musik non-rock. Mereka terinspirasi dari energi punk and etos DIY tetapi berniat untuk mematahkan klise musik rok, kemudian bereksperimen dengan gaya musik seperti funk, musik elektronik, jazz, dan musik dansa teknik-teknik produksi dari dub dan disko serta ide-ide seni dan politik, termasuk teori kritis, seni rupa modern, film dan sastra</P>
+                        <P>Post-Punk (awalnya disebut new musick)adalah sebuah genre turunan dari musik rock yang muncul pada akhir 1970-an, dimana musisi-musisi pada masa itu meninggalkan kesederhanaan dan tradisionalisme musik punk rock, dan sebagai gantinya mengambil pengaruh dari beragam jenis musik avant-garde, serta musik non-rock. Mereka terinspirasi dari energi punk and etos DIY tetapi berniat untuk mematahkan klise musik rok, kemudian bereksperimen dengan gaya musik seperti funk, musik elektronik, jazz, dan musik dansa teknik-teknik produksi dari dub dan disko serta ide-ide seni dan politik, termasuk teori kritis, seni rupa modern, film dan sastra</P>
                         <p>Komunitas-komunitas post-punk ini telah menghasilkan label rekaman independen, karya seni rupa, pertunjukan multimedia dan berbagai fanzine sendiri.</p>
                     </div>
                     </div>
@@ -40,7 +40,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Post-punk"){
+                if(data2.SUBGENRE == "Post-Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

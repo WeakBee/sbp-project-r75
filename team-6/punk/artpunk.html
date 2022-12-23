@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>ART-PUNK</title>
+    <title>Art Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>ART-PUNK</h3>    
+            <h3>Art Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <p>Art punk/Seni punk adalah subgenre dari punk rock di mana seniman melampaui garasi rock dasar genre dan dianggap lebih canggih daripada rekan-rekan mereka.Grup-grup ini masih menghasilkan estetika punk yang sederhana, ofensif, dan berjiwa bebas, tetapi pada dasarnya menarik penonton selain penonton kelas pekerja yang pemarah yang mengelilingi pub rock .</p>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "art punk"){
+                if(data2.SUBGENRE == "Art Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

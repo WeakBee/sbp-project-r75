@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>HOROR PUNK</title>
+    <title>Horror Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>HOROR PUNK</h3>    
+            <h3>Horror Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <P>Horror punk (juga dikenal sebagai horror rock) adalah genre musik yang memadukan suara proto-gothic dan punk rock dengan citra dan lirik yang tidak wajar dan penuh kekerasan yang sering dipengaruhi oleh film horor dan film fiksi ilmiah Film kelas B ini mirip dan terkadang tumpang tindih dengan death rock, meskipun death rock lebih condong ke arah suara rock gothic atmosfer sementara punk horor condong ke arah suara doo-wop dan rockabilly yang dipengaruhi tahun 1950-an. Musik punk horor biasanya lebih agresif dan melodis daripada death rock. Banyak tindakan menggunakan pendekatan lidah-di-pipi, lucu atau satir untuk genre.</P>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "horror punk"){
+                if(data2.SUBGENRE == "Horror Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>ANARKO-PUNK</title>
+    <title>Anarko-Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>ANARKO-PUNK</h3>    
+            <h3>Anarko-Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <p>Anarko-punk adalah bagian dari gerakan punk yang dilakukan baik oleh kelompok, band, maupun individu-individu yang secara khusus menyebarkan ide-ide Anarkisme. Dengan kata lain, Anarko-punk adalah sebuah sub-budaya yang menggabungkan musik punk dan gerakan politik Anarkisme. Tidak semua punk diiidentikkan dengan anarkisme. Namun, anarkisme memiliki peran yang signifikan dalam punk. Begitu juga sebaliknya, punk memberikan pengaruh yang besar pada wajah dunia anarkisme kontemporer.</p>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Anarko-punk"){
+                if(data2.SUBGENRE == "Anarko-Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>SKATE PUNK</title>
+    <title>Skate Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>SKATE PUNK</h3>    
+            <h3>Skate Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <p>Skate punk (juga dikenal sebagai skatecore dan skate rock ) adalah subkultur skater dan subgenre punk rock yang berkembang pada 1980-an. Awalnya bentuk punk hardcore yang terkait erat dengan budaya skate, skate punk berkembang menjadi genre punk rock yang lebih melodius pada 1990-an mirip dengan punk pop . Sejak itu, lagu ini menampilkan tempo cepat, permainan gitar utama (termasuk riff gitar dan solo gitar ), permainan drum cepat, dan nyanyian (terkadang termasuk harmoni vokal). Kadang-kadang, punk skate juga menggabungkan tempo cepat punk hardcore danmelodic hardcore dengan sentuhan pop-punk yang catchy.</p>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "Skate punk"){
+                if(data2.SUBGENRE == "Skate Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

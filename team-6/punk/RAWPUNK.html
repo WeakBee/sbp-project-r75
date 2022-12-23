@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>RAW PUNK</title>
+    <title>Raw Punk</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>RAW PUNK</h3>    
+            <h3>Raw Punk</h3>    
                       </div>
                       <div class="col-md-10">
                         <p>Raw punk muncul akhir tahun 1970-an dipelopori oleh Exploited dan Chaos UK. Aliran musik ini mengandalkan kecepatan ketukan 1/24, kekompakan permainan yang sangat berenergi sehingga musiknya terdengar membangkitkan adrenalin.</p>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "RAW PUNK"){
+                if(data2.SUBGENRE == "Raw Punk"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">

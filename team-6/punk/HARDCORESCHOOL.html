@@ -18,12 +18,12 @@
             overflow: hidden;
         }
     </style>
-    <title>HARDCORE SCHOOL</title>
+    <title>Hardcore School</title>
 </head>
 <body>
     <div class="row section-container-spacer">
         <div class="col-md-10">
-            <h3>HARDCORE SCHOOL</h3>    
+            <h3>Hardcore School</h3>    
                       </div>
                       <div class="col-md-10">
                         <P>Hardcore school punk adalah genre punk rock serta subkultur yang lahir pada akhir dekade 1970-an. Hardcore punk lebih cepat, lebih keras, dan lebih agresif daripada bentuk punk rock lainnya</P>
@@ -39,7 +39,7 @@
         $.getJSON('../API/Punk.json', function (data){
             // Membuat Kartu
             $.each(data, function(i,data2){
-                if(data2.SUBGENRE == "HARDCORE SCHOOL"){
+                if(data2.SUBGENRE == "Hardcore School"){
                     $('.row').append(`
                         <div class="card" style="width: 285px;">
                             <img src="../assets/images/imagespunk/`+ data2.Gambar +`" class="card-img-top" alt="...">
