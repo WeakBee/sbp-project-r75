@@ -44,5 +44,274 @@
         ],
         "Gambar" : "",
         "Warna" : "Hijau"
-    }
+    },
+    {
+        "Nama" : "Pari Sungai Pinggir Putih",
+    "Habitat" :"Dasar Perairan Tawar" ,
+    "Lokasi": "Daerah Estuari",
+    "UkuranTubuh" : ">37CM",
+    "BanyakSisik" : "-",
+    "CiriCiri" : ["Bagian punggungnya berwarna kekuningan atau coklat keabuan dan terdapat spot-spot kecil berwarna hitam",
+		"Bagian tepi tubuhnya dan perut berwarna putih",
+		"Ekornya panjang seperti cambuk dengan pangkal yang lebar dan tidak memiliki selaput kulit pada ekornya",
+		"Terdapat duri sengat di bagian pangkal ekor dan tidak terdapat duri-duri kecil di sepanjang pangkal ekornya",
+		"Kedua mata relatif kecil dan tidak menonjol keluar"    
+		],
+    "Gambar" : "",
+    "Warna" : "Kuning Kecoklatan"
+},
+{
+    "Nama" : "Pari Gergaji lancip",
+    "Habitat" : ["perairan sungai",
+		"perairan pantai hingga kedalaman 40Meter"
+    ],
+    "Lokasi": "",
+    "UkuranTubuh" : "200-230CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki moncong yang panjang dan ramping/meruncing",
+		"Salah satu ciri penting pembeda spesies dan bernilai ekonomi tinggi adalah pada rostrumnya",
+		"Jumlah gigi rostrumnya sebanyak 16-33 pasang",
+		"Letak pangkal sirip punggung pertama berada di belakang sirip perut",
+		"Panjang dan lebar siripnya sama, dan pada sirip ekornya memiliki cabang"
+    ],
+    "Gambar" : "",
+    "Warna" : "Coklat"
+},
+{
+    "Nama" : "Pari Gergaji Kerdil",
+    "Habitat" : ["Perairan Estuari",
+		"Muara Sungai"
+    ],
+    "Lokasi": "",
+    "UkuranTubuh" : "<310CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki jumlah gigi rostrum sebanyak 18-27 pasang dengan susunan gigi yang rata",
+		"Letak pangkal sirip punggung pertama berada di belakang sirip perut",
+		"Cuping bawah dari sirip ekornya pendek"
+    ],
+    "Gambar" : "",
+    "Warna" : "abu-abu kecoklatan"
+},
+{
+    "Nama" : "Ikan Batak",
+    "Habitat" : "sungai-sungai sekitar Danau Toba",
+    "Lokasi": "DanauToba",
+    "UkuranTubuh" : "16-42CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki badan pipih memanjang",
+		"Terdapat 10 sisik di depan sirip punggung dan 26 sisik di sepanjang gurat sisi",
+		"Terdapat 10 baris pori-pori yang tidak teratur pada masing-masing sisi moncong dan dibawah mata, alur dari bagian belakang sampai ke bibir bawah terputus di bagian tengah",
+		"Ikan ini memiliki warna keperakan"
+    ],
+    "Gambar" : "",
+    "Warna" : "Hitam Keemasan"
+},
+{
+    "Nama" : "Pari Gergaji Hijau",
+    "Habitat" : ["Perairan Tawar",
+		"Perairan Pantai"
+],
+    "Lokasi": "",
+    "UkuranTubuh" : "6-7M",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki moncong yang ramping dan datar",
+		"Jumlah gigi pada rostrumnya adalah 27-37 pasang",
+		"Susunan giginya tidak rata dengan gigi bawah lebih pendek dari yang atas",
+		"Cuping bawah dari sirip ekor tidak ada",
+		"Sirip lebih panjang daripada lebar dan ekornya tidak bercabang"
+    ],
+    "Gambar" : "",
+    "Warna" : "abu-abu kecoklatan"
+},
+{
+    "Nama" : "Pari gergaji gigi besar",
+    "Habitat" : ["Dasar Perairan Sungai",
+		"Danau"
+    ],
+    "Lokasi": "",
+    "UkuranTubuh" : "656-700CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Moncong sangat panjang, datar dan seperti gergaji",
+		"Cuping bawah dari sirip ekor pendek,tapi nampak jelas",
+		"Salah satu ciri penting pembeda spesies dan bernilai ekonomi tinggi adalah rostrumnya",
+		"Gigi pertama lebih besar dari yang kedua, dengan jumlah gigi pada rostrum 14-24 pasang dengan susunan gigi rata",
+		"Letak pangkal sirip punggung pertama berada di depan pangkal sirip perut",
+		"Sirip lebih panjang dari pada lebar dan ekor bercabang"
+    ],
+    "Gambar" : "",
+    "Warna" : "abu-abu"
+},
+{
+    "Nama" : "Ikan Balashark",
+    "Habitat" : "Sungai berarus dan rawa",
+    "Lokasi": ["Sumatera",
+		"Kalimantan"
+		],
+    "UkuranTubuh" : "<35CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Tubuh berwarna perak dengan tepi hitam pada sirip punggung,ekor dan perutnya",
+		"Letak mulut agak ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang",
+		"Terdapat 34-35 sisik sepanjang gurat sisi",
+		"Bentuk sirip ekornya bercagak"
+    ],
+    "Gambar" : "",
+    "Warna" : "Perak"
+},
+{
+    "Nama" : "Arwana Kalimantan",
+    "Habitat" : ["Sungai-sungai besar yang tertutup oleh vegetasi pepohonan",
+		"Hutan banjir"
+    ],
+    "Lokasi": "Kalimantan",
+    "UkuranTubuh" : "<90CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki bentuk tubuh pipih",
+		"Kepala berbentuk sendok dan dilengkapi dua sungut lunak di ujung rahang bawahnya",
+		"Sirip punggung terletak di belakang pangkal sirip dubur",
+		"Sirip dada panjang dan meruncing",
+		"Sevara umum arwana mempunyai tubuh berwarna merah terang dan gelap"
+    ],
+    "Gambar" : "",
+    "Warna" : "Merah"
+},
+{
+    "Nama" : "Arwana Irian",
+    "Habitat" : ["Sungai",
+		"Hutan Banjir",
+		"rawa dan umumnya berenang dekat vegetasi perairan"
+    ],
+    "Lokasi": "Irian",
+    "UkuranTubuh" : "<90CM",
+    "BanyakSisik" : "32-25",
+    "CiriCiri" : ["Sirip punggung terletak jauh di belakang mendekati sirip ekor",
+		"Sirip dada memanjang dan meruncing",
+		"Tubuhnya berwarna kuning kehijauan, dimana bagian punggung terlihat lebih gelap",
+		"Pada bagian pipi terdapat bintik-bintik merah",
+		"Sirip-sirip berwarna gelap dihiasi bintik merah",
+		"Pada anakan ukuran 3-5CM masih membawa kuning telur sebagai bahan makanan"
+    ],
+    "Gambar" : "",
+    "Warna" : "Hijau"
+},
+{
+    "Nama" : "Ikan Raja Laut",
+    "Habitat" : ["Lereng berbatu di perairan dalam",
+		"goa karbonat"
+    ],
+    "Lokasi": "",
+    "UkuranTubuh" : "<1200CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki bentuk yang khas dan mudah dibedakan, bentuk sisik berbeda secara signifikan di beberapa bagian tubuh",
+		"Ukuran sisik juga berbeda di setiap bagian tubuh",
+		"Terdapat kecenderungan penurunan ukuran sisik dari tubuh bagian depan ke tubuh bagian belakang",
+		"Melanofor banyak terkonsenstrasi pada bagian atas tubuh daripada bagian perut",
+		"Sirip lobus punggung,daerah dubur dan sirip lobus anus memiliki berbagai bentuk, walaupun pada bagian tubuh yang sama"
+    ],
+    "Gambar" : "",
+    "Warna" : "abu-abu"
+},
+{
+    "Nama" : "Wader goa",
+    "Habitat" : "perairan tawar di dalam goa di wilayah Jawa",
+    "Lokasi": "Jawa",
+    "UkuranTubuh" : "15-17CM",
+    "BanyakSisik" : "22-32",
+    "CiriCiri" : ["Bagian akhir dari jari-jari lemah sirip punggung yang sederhana bergerigi pada bagian belakang",
+		"Memiliki dua pasang sungut",
+		"Terdapat 22-32 sisik pada garis gurat sisi",
+		"Memiliki mata rudimenter/mengecil"
+    ],
+    "Gambar" : "",
+    "Warna" : "Hijau perak"
+},
+{
+    "Nama" : "Selusur Maninjau",
+    "Habitat" : "Dataran tinggi sekitar 100 sampai 1.800 Meter diatas permukaan laut",
+    "Lokasi": "",
+    "UkuranTubuh" : "6-8CM",
+    "BanyakSisik" : "60-73",
+    "CiriCiri" : ["Badan bagian depan yang datar dengan sirip di dada dan perut",
+		"Sirip memanjang ke arah samping",
+		"Sirip punggung berada di belakang sirip perut"
+    ],
+    "Gambar" : "",
+    "Warna" : "Coklat keemasan"
+},
+{
+    "Nama" : "Belida Jawa",
+    "Habitat" : ["Sungai",
+		"Rawa",
+		"Danau"
+    ],
+    "Lokasi": "Perairan Payau",
+    "UkuranTubuh" : "<60CM",
+    "BanyakSisik" : "34-35",
+    "CiriCiri" : ["Kepala bagian atas sampai punggung berbentuk mencembung dan mengerucut ke arah ekor",
+		"Memiliki ukuran mulut besar",
+		"Sirip punggungnya pendek dan mempunyai 7-9 jari-jari",
+		"Sirip dubur memanjang 97-111 jari-jari",
+		"Pada bagian perut terdapat 28-37 pasang duri yang berukuran kecil",
+		"Secara umum belida berwarna coklat polos, namun beberapa ada yang berwarna putih keperakan dengan bercak abu-abu di bagian tubuh dan kepalanya",
+		"Sirip-siripnya memiliki warna lebih transparan atau kecoklatan"	
+    ],
+    "Gambar" : "",
+    "Warna" : "Kecoklatan"
+},
+{
+    "Nama" : "Belida Sumatra",
+    "Habitat" : "Dasar Perairan Tawar",
+    "Lokasi": "Sumatra",
+    "UkuranTubuh" : ">15CM",
+    "BanyakSisik" : "34-35",
+    "CiriCiri" : ["Bentuk pipih memanjang dan berwarna perak dengan pinggiran hitam pada sirip punggung, sirip ekor,sirip dubur, dan sirip perut",
+		"Kepalanya berbentuk cekung di dekat punggung",
+		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
+    ],
+    "Gambar" : "",
+    "Warna" : "Perak"
+},
+{
+    "Nama" : "Belida Borneo",
+    "Habitat" : "Perairan Tawar",
+    "Lokasi": ["Sumatra",
+		"Kalimantan"
+	],
+    "UkuranTubuh" : "<40CM",
+    "BanyakSisik" : "34-35",
+    "CiriCiri" : ["Bentuk pipih memanjang dan berwarna perak dengan pinggiran hitam pada sirip punggung, sirip ekor,sirip dubur, dan sirip perut",
+		"Kepalanya berbentuk cekung di dekat punggung",
+		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
+    ],
+    "Gambar" : "",
+    "Warna" : "Perak"
+},
+{
+    "Nama" : "Belida Lopis",
+    "Habitat" : "Sungai yang berarus dan rawa",
+    "Lokasi": "Pulai Jawa",
+    "UkuranTubuh" : "<15CM",
+    "BanyakSisik" : "34-35",
+    "CiriCiri" : ["Bentuk pipih memanjang dan berwarna perak dengan pinggiran hitam pada sirip punggung, sirip ekor,sirip dubur, dan sirip perut",
+		"Kepalanya berbentuk cekung di dekat punggung",
+		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
+    ],
+    "Gambar" : "",
+    "Warna" : "Kekuningan"
+},
+{
+    "Nama" : "Pasa",
+    "Habitat" : "Sungai yang berarus dan rawa",
+    "Lokasi": ["Sumatra",
+		"Kalimantan"
+	],
+    "UkuranTubuh" : "19CM",
+    "BanyakSisik" : "",
+    "CiriCiri" : ["Memiliki kepala simetris dan badan bersisik",
+		"Moncongnya terbelah oleh celah horizontal dimana terdapat barisan tubus-tubus keras",
+		"Permulaan sirip punggung di depan permulaan sirip perut",
+		"Hanya ada jari-jari lemah dan lemah mengeras"
+],
+    "Gambar" : "",
+    "Warna" : "Perak Kehitaman"
+}
 ]
