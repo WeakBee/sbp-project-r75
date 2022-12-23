@@ -19,67 +19,48 @@
 },
 {
     "Nama" : "Cucak Rowo",
-    "Habitat" : "sungai,rawa",
+    "Habitat" : ["Sungai",
+                "Rawa"
+        ],
     "Lokasi": "Sumatra",
     "UkuranTubuh" : "28 CM",
     "PanjangEkor" : "9 CM",
-    "BentukParuh" : " bentuk paruh yang berpangkal lebar, tebal, besar dan panjang",
-    "Makanan" :[
-         "buah buahan dan tomat"
+    "BentukParuh" : ["Bentuk paruh yang berpangkal lebar", 
+                    "Tebal", 
+                    "Besar",
+                    "Panjang"
     ],
+    "Makanan" :"Buah",
     "TipeKulit" : "Berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "Hijau"
-]
+    "Warna" : "Hijau"
 },
-{
-    "Nama" : "Cucak Rowo",
-    "Habitat" : "sungai,rawa",
-    "Lokasi": "Sumatra",
-    "UkuranTubuh" : "28 CM",
-    "PanjangEkor" : "9 CM",
-    "BentukParuh" : " bentuk paruh yang berpangkal lebar, tebal, besar dan panjang",
-    "Makanan" :[
-         "buah buahan dan tomat"
-    ],
-    "TipeKulit" : "Berbulu",
-    "Gambar" : "",
-    "Warna" : [ 
-        "Hijau"
-    ]
-},
+
 {
     "Nama" : "Gelatik jawa ",
-    "Habitat" : "Pulau jawa , Kagean dan bali",
+    "Habitat" : "-",
     "Lokasi": "Jawa",
     "UkuranTubuh" : "15 CM",
     "PanjangEkor" : "3 CM",
-    "BentukParuh" : "tebal-pendek",
-    "Makanan" :[
-         "Biji-Bijian"
-    ],
+    "BentukParuh" : ["Tebal",
+                    "Pendek"
+        ],
+    "Makanan" :"Biji-Bijian",
     "TipeKulit" : "Berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "abu abu"
-    ]
+    "Warna" : "Abu-Abu"
 },
 {
     "Nama" : "Celepuk Jawa",
-    "Habitat" : "pulau jawa",
-    "Lokasi": "jawa",
+    "Habitat" : "-",
+    "Lokasi": "Jawa",
     "UkuranTubuh" : "16-18 CM",
     "PanjangEkor" : "3CM",
     "BentukParuh" : "Segitiga Kecil",
-    "Makanan" :[
-         "Serangga"
-    ],
+    "Makanan" :"Serangga",
     "TipeKulit" : "Berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "Coklat"
-    ]
+    "Warna" :  "Coklat"
 },
 {
     "Nama" : "Burung Cendrawasih Princess Stephanie’s Astrapia",
@@ -88,62 +69,58 @@
     "UkuranTubuh" : "31 CM",
     "PanjangEkor" : "30 CM",
     "BentukParuh" : "Segitiga Kecil",
-    "Makanan" :[
-         "buah buahan dan biji-bijian"
+    "Makanan" :["Buah",
+                "Biji-Bijian"
     ],
     "TipeKulit" : "Berbulu",
     "Gambar" : "",
     "Warna" : [ 
-        "Hijau dan unggu"
+        "Hijau", 
+        "Ungu"
     ]
 },
 {
     "Nama" : "Jalak Bali",
-    "Habitat" : "daratan rendah",
-    "Lokasi": "bali barat",
+    "Habitat" : "Daratan Rendah",
+    "Lokasi": "Bali Barat",
     "UkuranTubuh" : "25 CM",
     "PanjangEkor" : "5 CM",
-    "BentukParuh" : "pipih,lancip",
-    "Makanan" :[
-         "buah buahan "
-    ],
-    "TipeKulit" : "berbulu",
+    "BentukParuh" : ["Pipih",
+                    "Lancip"
+],
+    "Makanan" :"Buah",
+    "TipeKulit" : "Berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "putih"
-    ]
+    "Warna" :"Putih"
 },
 {
-    "Nama" : "jalak suren",
-    "Habitat" : "daratan rendah",
+    "Nama" : "Jalak Suren",
+    "Habitat" : "Daratan Rendah",
     "Lokasi": "asia tenggara",
     "UkuranTubuh" : "24 CM",
     "PanjangEkor" : " 4 CM",
-    "BentukParuh" : "runcing",
-    "Makanan" :[
-         "buah buahan dan serangga  "
+    "BentukParuh" : "Runcing",
+    "Makanan" :["Buah",
+            "Serangga"
     ],
     "TipeKulit" : "berbulu",
     "Gambar" : "",
     "Warna" : [ 
-        "hitam dan putih"
+        "Hitam",
+        "Putih"
     ]
 },
 {
     "Nama" : "Cucak hijau",
-    "Habitat" : "daratan rendah",
+    "Habitat" : "Daratan Rendah",
     "Lokasi": "Jawa Timur",
     "UkuranTubuh" : "22 CM",
     "PanjangEkor" : "4 CM",
-    "BentukParuh" : "runcing",
-    "Makanan" :[
-         "buah buahan "
-    ],
+    "BentukParuh" : "Runcing",
+    "Makanan" :"Buah",
     "TipeKulit" : "berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "Hijau"
-    ]
+    "Warna" : "HIjau"
 },
 {
     "Nama" : "Kenari Melayu",
@@ -152,14 +129,10 @@
     "UkuranTubuh" : "11 CM",
     "PanjangEkor" : "2 CM",
     "BentukParuh" : "Segitiga Kecil",
-    "Makanan" :[
-         "Biji-Bijian"
-    ],
+    "Makanan" :"Biji-Bijian",
     "TipeKulit" : "berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "kuning"
-    ]
+    "Warna" :"Kuning"
 },
 {
     "Nama" : "Elang ular bido",
@@ -167,19 +140,18 @@
     "Lokasi": "hongkong",
     "UkuranTubuh" : "76 CM",
     "PanjangEkor" : "15 CM",
-    "BentukParuh" : "runcing",
-    "Makanan" :[
-         "daging "
-    ],
+    "BentukParuh" : "Runcing",
+    "Makanan" :"Daging",
     "TipeKulit" : "berbulu",
     "Gambar" : "",
-    "Warna" : [ 
-        "coklat"
-    ]
+    "Warna" :"Coklat"
 },
+
+
+
 {
-    "Nama" : "burung hantu",
-    "Habitat" : "dataran rendah",
+    "Nama" : "Burung Hantu",
+    "Habitat" : "Dataran Rendah",
     "Lokasi": "jawa",
     "UkuranTubuh" : "68 CM",
     "PanjangEkor" : "10 CM",
