@@ -22,7 +22,8 @@ function unique(list) {
 
 setTimeout(function() {
     let gejalaunik = unique(penyakit);
-    $.each(gejalaunik, function(i,data){
+    let gejalauniksort = gejalaunik.sort();
+    $.each(gejalauniksort, function(i,data){
         $('.row-gejala').append(`
         <div class="col-6 kolom-kategori">
             <div class="kartu-kategori kartu-kategori-gejala" gejala="`+ data +`">
