@@ -90,7 +90,7 @@ $(".tombol-selesai").click(function(){
                             $('.row-rekomendasi').append(`
                                 <div class="col-lg-4 d-flex justify-content-center px-1 py-3">
                                     <div class="card" style="width: 100%">
-                                        <img src="./assets/`+ data3.nama_penyakit +`.jpeg" class="gambar-kartu card-img-top" alt="...">
+                                        <img src="./assets/`+ data3.nama_penyakit +`.jpg" class="gambar-kartu card-img-top" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">`+ data3.nama_penyakit +`</h5>
                                         </div>
