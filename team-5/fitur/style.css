@@ -184,6 +184,7 @@ p{
     .kolom-kategori .kartu-kategori {
         padding: 0;
         height: 120px;
+        font-size: 12px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -204,6 +205,18 @@ p{
     }
     .row-hasil{
         justify-content: center;
+    }
+    .row-processor{
+        border: 1px solid white;
+        box-shadow: inset 0px 6px 10px black;
+    }
+    .row-graphiccard{
+        border: 1px solid white;
+        box-shadow: inset 0px 6px 10px black;
+    }
+    .row-ram{
+        border: 1px solid white;
+        box-shadow: inset 0px 6px 10px black;
     }
 }
 
