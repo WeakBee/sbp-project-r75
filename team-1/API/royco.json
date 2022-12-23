@@ -1,5 +1,6 @@
 [
     {
+        "kode" : "r0",
         "nama" : "Tumis Kangkung",
         "jenis" : ["Sayur"],
         "waktu" : "25 Menit",
@@ -21,6 +22,7 @@
         ]
     },
     {
+        "kode" : "r1",
         "nama" : "Sayur Asem",
         "jenis" : ["Sayur"],
         "waktu" : "20 Menit",
@@ -43,6 +45,7 @@
         ]
     },
     {
+        "kode" : "r2",
         "nama" : "Opor Ayam",
         "jenis" : ["Lauk"],
         "waktu" : "45 Menit",
@@ -75,6 +78,7 @@
         ]
     },
     {
+        "kode" : "r3",
         "nama" : "Nasi Goreng Jamur",
         "jenis" : ["Nasi"],
         "waktu" : "30 Menit",
@@ -97,6 +101,7 @@
         ]
     },
     {
+        "kode" : "r4",
         "nama" : "Capcay",
         "jenis" : ["Sayur"],
         "waktu" : "30 Menit",
@@ -128,6 +133,7 @@
         ]
     },
     {
+        "kode" : "r5",
         "nama" : "Cumi Tumis Pakcoy",
         "jenis" : ["Lauk","Sayur"],
         "waktu" : "35 Menit",
@@ -153,6 +159,7 @@
         ]
     },
     {
+        "kode" : "r6",
         "nama" : "Ayam Goreng Lengkuas",
         "jenis" : ["Lauk"],
         "waktu" : "30 Menit",
@@ -171,6 +178,7 @@
         ]
     },
     {
+        "kode" : "r7",
         "nama" : "Tumis Tempe",
         "jenis" : ["Lauk"],
         "waktu" : "30 Menit",
@@ -192,6 +200,7 @@
         ]
     },
     {
+        "kode" : "r8",
         "nama" : "Ayam Kuah Pedas",
         "jenis" : ["Lauk"],
         "waktu" : "60 Menit",
@@ -221,6 +230,7 @@
         ]
     },
     {
+        "kode" : "r9",
         "nama" : "",
         "jenis" : [""],
         "waktu" : "",

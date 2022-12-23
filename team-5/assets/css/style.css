@@ -1,4 +1,11 @@
 
+:root{
+  --warna1 : #5f2f86;
+  --warna2 : #824dad;
+  --warna3 : #451869;
+  --warna4 : #f7efff;
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -215,7 +222,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #0563bb;
+  background: var(--warna1);
 }
 
 .nav-menu a:hover span,
@@ -269,5 +276,51 @@ h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #0563bb;
+  background-color: var(--warna2);
+}
+
+.nav-link:hover img{
+  filter: invert();
+}
+
+.kolom-kiri{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  height: 100vh;
+  padding-left: 130px;
+  color: var(--warna3);
+}
+
+.judul{
+  font-weight: 700;
+  font-size: 30px;
+}
+.sub-judul{
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.kolom-kanan{
+  padding-right: 130px;
+  display: flex;
+  align-items: center;
+  background-color: var(--warna4);
+}
+
+.kolom-kanan img{
+  width: 100%;
+}
+
+.tombol{
+  padding: 10px 15px;
+  background-color: var(--warna3);
+  color: white;
+  font-weight: 700;
+  border: 2px solid var(--warna3);
+}
+
+.tombol:hover{
+  color: var(--warna3);
+  background-color: transparent;
 }

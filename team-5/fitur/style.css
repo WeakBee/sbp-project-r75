@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root{
+    --warna1 : #5f2f86;
+    --warna2 : #824dad;
+    --warna3 : #451869;
+    --warna4 : #f7efff;
+}
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+    background-color: var(--warna2);
+}
+h1{
+    font-weight: 700;
+}
+p{
+    margin-bottom: 0;
+}
+.judul-kategori{
+    color: white;
+}
+.kolom-kategori{
+    padding: 5px;
+}   
+.kolom-kategori .kartu-kategori{
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-weight: 700;
+    color: var(--warna4);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.527),
+                5px 5px 7px rgba(0, 0, 0, 0.267);
+    cursor: pointer;
+    text-align: center;
+    transition: 0.3s;
+}
+.kolom-kategori .pilih{
+    background-image: linear-gradient(to bottom right, black, rgb(141, 141, 141));
+    color: white;
+}
+
+.kolom-kategori .kartu-kategori p{
+    text-transform: capitalize;
+}
+.row-processor{
+    height: 225px;
+    overflow: auto;
+}
+.row-graphiccard{
+    height: 235px;
+    overflow: auto;
+}
+.row-ram{
+    height: 275px;
+    overflow: auto;
+}
+.row-button{
+    justify-content: center;
+    padding: 0 20px;
+}
+.tombol-selesai{
+    padding: 20px 0px;
+    background-color: rgba(255, 255, 255, 0.281);
+    border-radius: 15px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.466);
+    text-align: center;
+    cursor: no-drop;
+}
+.tombol-selesai.nyala{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+.kotak-film{
+    font-weight: 800;
+}
+.rekomendasi{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--warna3);
+    padding-top: 25px;
+    min-height: 300px;
+    padding-bottom: 25px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+.loading-circle{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.281);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.loading-inside{
+    position: absolute;
+    height: 40px;
+    width: 20px;
+    background-color: white;
+    animation-name: rotate;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.circle-inside{
+    position: absolute;
+    background-color: var(--warna1);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+@keyframes rotate{
+    from{ transform: rotate(-360deg); }
+    to{ transform: rotate(360deg); }
+}
+.judul-rekomendasi{
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 25px;
+}
+
+
+.card-text{
+    max-height: 150px;
+    overflow: auto;
+}
+
+.card-text::-webkit-scrollbar {
+    width: 8px;
+}
+
+  /* Track */
+  .card-text::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+  /* Handle */
+  .card-text::-webkit-scrollbar-thumb {
+    background: var(--warna4);
+    border-radius: 10px;
+}
+
+  /* Handle on hover */
+  .card-text::-webkit-scrollbar-thumb:hover {
+    background: var(--warna5);
+}
+.gambar-kartu{
+    height: 200px;
+    object-fit: cover;
+}
+.pemain{
+    height: 100px;
+    overflow: auto;
+}
+.genre{
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 14px;
+}
+.list-group{
+    max-height: 200px;
+    overflow: auto;
+}
+
+@media (max-width: 991.98px) {
+    .judul-rekomendasi{
+        text-align: center;
+    }
+    .kolom-kategori {
+        padding: 5px;
+    }
+    .kolom-kategori .kartu-kategori {
+        padding: 0;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 5px 5px;
+    }
+    .kolom-kategori .kartu-kategori-vitamin {
+        height: 80px;
+    }
+    .kolom-kategori .pilih::after{
+        right: -60px;
+        top: 20px;
+        width: 140px;
+        height: 20px;
+    }
+    .kolom-kategori .kartu-kategori:hover{
+        background-color: white;
+        transform: scale(1.1);
+    }
+    .row-hasil{
+        justify-content: center;
+    }
+}
+
