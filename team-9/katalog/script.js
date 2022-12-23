@@ -209,6 +209,10 @@ $(".tombol-selesai").click(function(){
                                                 <ul class="pemain pemainfilmke-`+ a +`">
                                                 </ul>
                                             </li>
+                                            <li class="list-group-item">Funfact :
+                                                <ul class="pemain funfactke-`+ a +`">
+                                                </ul>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -229,6 +233,15 @@ $(".tombol-selesai").click(function(){
                         if(data == data3.judul){
                             $.each(data3.genre, function(i,data4){
                                 $('.genreke-'+a).append(data4 +` * `);
+                            });
+                        }
+                    });
+                    $.each(data2, function(a,data3){
+                        if(data == data3.judul){
+                            $.each(data3.funfact, function(i,data4){
+                                $('.funfactke-'+a).append(`
+                                    <li>`+ data4 +`</li>
+                                `);
                             });
                         }
                     });
