@@ -14,7 +14,7 @@
         "Album" : "Sleep’s Holy Mountain",
         "Judul" : "Dragonaut",
         "Tahun" : "1993",
-        "Gambar" : "lz.jpeg" 
+        "Gambar" : "m2.jpeg" 
 			
 	},
 	{
@@ -468,7 +468,7 @@
         "Gambar" : "kawmet3.jpg"  
     },
 	{
-        "SUBGENRE" : "Romance/Love Metal",
+        "SUBGENRE" : "Romance-Love Metal",
         "Band"  : "Betray-Ed",
         "Album" : "Songs From The Oak Of Wishes",
         "Judul" : "A Call From the Deep Woods",
@@ -476,7 +476,7 @@
         "Gambar" : "romet1.jpg" 
     },
 	{
-        "SUBGENRE" : "Romance/Love Metal",
+        "SUBGENRE" : "Romance-Love Metal",
         "Band"  : "Paragon of Beauty",
         "Album" : "The Spring",
         "Judul" : " Where the Nights Still Dance",
@@ -484,7 +484,7 @@
         "Gambar" : "romet2.jpg" 
     },
 	{
-        "SUBGENRE" : "Romance/Love Metal",
+        "SUBGENRE" : "Romance-Love Metal",
         "Band"  : "Evenfall",
         "Album" : "Indigo Skies",
         "Judul" : "Luminous Depths",
@@ -492,7 +492,7 @@
         "Gambar" : "romet3.jpeg" 
     },
 	{
-        "SUBGENRE" : "Romance/Love Metal",
+        "SUBGENRE" : "Romance-Love Metal",
         "Band"  : "How Like a Winter",
         "Album" : "…Beyond My Grey Wake",
         "Judul" : "A Flower That Sears In Silence",

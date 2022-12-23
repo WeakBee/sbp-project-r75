@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="jumpblues.css">
+    <style>
+        .row{
+        justify-content: center;
+        align-items: center;
+        }
+        .card{
+            padding: 0 !important;
+            margin: 0 20px;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+    </style>
+    <title>Death Metal</title>
+    
+</head>
+<body>
+    <div class="row section-container-spacer">
+        <div class="col-md-10">
+            <h3>Death Metal</h3>    
+                      </div>
+                      <div class="col-md-10">
+                        <p>Death metal adalah subgenre ekstrim dari musik heavy metal. Ini biasanya menggunakan gitar yang sangat terdistorsi dan disetel rendah, dimainkan dengan teknik seperti palm muting dan tremolo picking; vokal menggeram yang dalam; permainan drum yang agresif dan kuat, menampilkan teknik double kick dan blast beat; kunci minor atau nada suara; perubahan tempo, kunci, dan tanda tangan yang tiba-tiba; dan progresi akord kromatik. Tema lirik death metal mungkin termasuk kekerasan gaya film slasher, konflik politik, agama, alam, filsafat, kejahatan sejati dan fiksi ilmiah.
+                            Dibangun dari struktur musik thrash metal dan black metal awal, death metal muncul pada pertengahan 1980-an. Band-band seperti Venom, Celtic Frost, Slayer, dan Kreator adalah pengaruh penting dalam penciptaan genre. Possessed, Death, Necrophagia, Obituary, Autopsy, dan Morbid Angel sering dianggap sebagai pelopor genre ini. Pada akhir 1980-an dan awal 1990-an, death metal mendapat lebih banyak perhatian media sebagai genre populer. Label rekaman niche seperti Combat, Earache, dan Roadrunner mulai menandatangani band-band death metal dengan kecepatan tinggi.
+                            Sejak itu, death metal telah terdiversifikasi, melahirkan beberapa subgenre. Melodic death metal menggabungkan elemen death metal dengan gelombang baru heavy metal Inggris. Death metal teknis adalah gaya yang kompleks, dengan tanda waktu yang tidak biasa, ritme yang tidak biasa, dan harmoni dan melodi yang tidak biasa. Death-doom menggabungkan vokal deep growled dan double-kick drum death metal dengan tempo lambat dan suasana melankolis dari doom metal. Deathgrind, goregrind, dan pornogrind memadukan kompleksitas death metal dengan intensitas, kecepatan, dan singkatnya grindcore. Deathcore menggabungkan death metal dengan ciri-ciri metalcore. Death 'n' roll menggabungkan vokal geraman death metal dan riff gitar yang sangat terdistorsi tuned dengan elemen hard rock dan heavy metal tahun 1970-an.
+                        </p>
+                      </div>
+                    </div>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+    <script>
+        $.getJSON('../API/Metal.json', function (data){
+            // Membuat Kartu
+            $.each(data, function(i,data2){
+                if(data2.SUBGENRE == "Death Metal"){
+                    $('.row').append(`
+                        <div class="card" style="width: 285px;">
+                            <img src="../assets/images/imagesmetal/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">`+ data2.Judul +`</h5>
+                                <p class="card-text">`+ data2.Band +`</p>
+                                <p class="card-text">`+ data2.Album +`</p>
+                                <p class="card-text">`+ data2.Tahun +`</p>
+                            </div>
+                        </div>
+                    `);
+                }
+            });
+            // Membuat Kartu
+        });
+    </script>
+</body>
+</html>
