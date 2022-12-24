@@ -44,7 +44,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
         "Brand" : "Vivo V25 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 5.800.000",
+        "Harga" : 5800000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -64,7 +64,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrKacjpGMm9SdRKZFvnWNv9f4T8JM1SIaIg&usqp=CAU",
         "Brand" : "Vivo Y16",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.650.000",
+        "Harga" : 1650000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -84,7 +84,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2KUHSsd8jx1dVxsY1mlWfeavUfQYpz7Y-g&usqp=CAU",
         "Brand" : "Vivo Y35",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.200.000",
+        "Harga" : 3200000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 12",
@@ -104,7 +104,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y1iBMH2cAefC7fQhMx0VijO5yBGy1s5iz3B96caeoc62Avkm2yPM-k3gGWrLzk-hAmw&usqp=CAU",
         "Brand" : "Vivo Y22",
         "Tahun" : "2022",
-        "Harga" : "Rp 2.200.000",
+        "Harga" : 2200000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -124,7 +124,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2XvTOA27F0AzMa5XNXymguz6Z_y7Q4kUdQ&usqp=CAU",
         "Brand" : "Vivo X80 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 10.300.000",
+        "Harga" : 10300000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -141,30 +141,10 @@
         ]
     },
 {  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrDdTae6rARkI7MjPML4Ns1f7o1Rpdnfj5Q&usqp=CAU",
         "Brand" : "Vivo V25e",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.600.000",
+        "Harga" : 3600000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -184,7 +164,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHQhpXOAaAmlzi5UiDdShl75A24SB8bi1wA&usqp=CAU",
         "Brand" : "Vivo V23 5G",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.300.000",
+        "Harga" : 3300000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -204,7 +184,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGksGbHDs7sYyi0tAS-eC_vJxWD_RTZYUpgw&usqp=CAU",
         "Brand" : "Vivo T1 5G",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.000.000",
+        "Harga" : 3000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 12",
@@ -224,7 +204,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJycujTh0d-VSSiYFMM5BhAckfmTAW-XACQ&usqp=CAU",
         "Brand" : "Vivo Y22s",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.700.000",
+        "Harga" : 1700000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -244,7 +224,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk56tkhd33ghWPHQb-Kyxknk8q4onpIL2cHw&usqp=CAU",
         "Brand" : "Vivo Y02s",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.700.000",
+        "Harga" : 1700000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -264,7 +244,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iPcIsWcbVA9CPVcwcxYetC4vLxcbE1Dkkg&usqp=CAU",
         "Brand" : "Vivo X Fold+",
         "Tahun" : "2022",
-        "Harga" : "Rp 30.000.000",
+        "Harga" : 30000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Origin OS Ocean",
@@ -284,7 +264,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vxJGa2HjorIH5mb3lS5HX6EX2yZluFLzIA&usqp=CAU",
         "Brand" : "Vivo IQOO 10 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 20.000.000",
+        "Harga" : 20000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -304,7 +284,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu-AduWrkIfclvEhVu8hv4T1_nV3A0CLowg&usqp=CAU",
         "Brand" : "Vivo T1 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 4.000.000",
+        "Harga" : 4000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -324,7 +304,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98odJVXpKUzpsID52EXxnRc9js8Vg1IhUuA&usqp=CAU",
         "Brand" : "Vivo iQOO Neo 6",
         "Tahun" : "2022",
-        "Harga" : "Rp 7.500.000",
+        "Harga" : 7500000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -344,7 +324,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt4aV7UO6qe7er-B896W_N0U_hXbePD2fAkA&usqp=CAU",
         "Brand" : "Vivo X80 Lite",
         "Tahun" : "2022",
-        "Harga" : "Rp 6.600.000",
+        "Harga" : 6600000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -364,7 +344,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMB_EH90htx562_iZHFLZ0HEmuSX3DogBQyg&usqp=CAU",
         "Brand" : "Vivo iQOO 9T",
         "Tahun" : "2022",
-        "Harga" : "Rp 9.400.000",
+        "Harga" : 9400000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -384,7 +364,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzXlLMK9175nverzjOwnG3QhVfv8q3AKkRg&usqp=CAU",
         "Brand" : "Vivo V23 Pro",
         "Tahun" : "2022",
-        "Harga" : "Rp 5.999.999",
+        "Harga" : 6000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -404,7 +384,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1v8qsEW5tI9zfvY0wCgvZcMPJPqRgBt9WHA&usqp=CAU",
         "Brand" : "Vivo Y01",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.300.000",
+        "Harga" : 1300000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11 (Go edition), Funtouch 11.1",
@@ -424,7 +404,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo Y33t",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.399.000",
+        "Harga" : 3399000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 12",
@@ -444,7 +424,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo Y75 5G",
         "Tahun" : "2022",
-        "Harga" : "Rp 4.000.000",
+        "Harga" : 4000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 12",
@@ -464,7 +444,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo Y21a",
         "Tahun" : "2022",
-        "Harga" : "Rp 2.399.000",
+        "Harga" : 2399000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 11.1",
@@ -484,7 +464,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo iQOO Z6",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.599.000",
+        "Harga" : 3599000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -504,7 +484,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo iQOO U5x",
         "Tahun" : "2022",
-        "Harga" : "Rp 1.999.000",
+        "Harga" : 1999000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Origin OS Ocean",
@@ -524,7 +504,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo Y21G",
         "Tahun" : "2022",
-        "Harga" : "Rp 2.599.000",
+        "Harga" : 2599000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, Funtouch 11.1",
@@ -544,7 +524,7 @@
         "Gambar" : "-",
         "Brand" : "Vivo Y72t",
         "Tahun" : "2022",
-        "Harga" : "Rp 3.099.000",
+        "Harga" : 3099000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11, OriginOS 11",
@@ -556,166 +536,6 @@
                 "kamera_depan" : "8 MP",
                 "Kapasitas_baterai" : "6000 mAh",
                 "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
- 
-            }
-        ]
-    },
-{  
-        "Gambar" : "",
-        "Brand" : "",
-        "Tahun" : "",
-        "Harga" : "",
-        "Spesifikasi" : [
-            {
-                "OS" : "",
-                "Chipset" : "",
-                "Prosesor inti" : "",
-                "RAM" : "",
-                "Penyimpanan" : "",
-                "Kamera_belakang" : "",
-                "kamera_depan" : "",
-                "Kapasitas_baterai" : "",
-                "Sensor" : ""
  
             }
         ]
