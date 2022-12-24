@@ -36,6 +36,7 @@ $.getJSON('../API/harga.json', function (data) {
 });
 
 $( ".row" ).delegate( ".kartu-kategori-brand", "click", function() {
+    $(".kartu-kategori-brand").removeClass("pilih");
     $(this).toggleClass("pilih");
     if($( ".kartu-kategori-brand" ).hasClass( "pilih" ) && $( ".kartu-kategori-ram" ).hasClass( "pilih" ) && $( ".kartu-kategori-harga" ).hasClass( "pilih" )){
         $( ".tombol-selesai" ).addClass("nyala");
@@ -44,6 +45,7 @@ $( ".row" ).delegate( ".kartu-kategori-brand", "click", function() {
     }
 });
 $( ".row" ).delegate( ".kartu-kategori-ram", "click", function() {
+    $(".kartu-kategori-ram").removeClass("pilih");
     $(this).toggleClass("pilih");
     if($( ".kartu-kategori-brand" ).hasClass( "pilih" ) && $( ".kartu-kategori-ram" ).hasClass( "pilih" ) && $( ".kartu-kategori-harga" ).hasClass( "pilih" )){
         $( ".tombol-selesai" ).addClass("nyala");
@@ -52,6 +54,7 @@ $( ".row" ).delegate( ".kartu-kategori-ram", "click", function() {
     }
 });
 $( ".row" ).delegate( ".kartu-kategori-harga", "click", function() {
+    $(".kartu-kategori-harga").removeClass("pilih");
     $(this).toggleClass("pilih");
     if($( ".kartu-kategori-brand" ).hasClass( "pilih" ) && $( ".kartu-kategori-ram" ).hasClass( "pilih" ) && $( ".kartu-kategori-harga" ).hasClass( "pilih" )){
         $( ".tombol-selesai" ).addClass("nyala");
