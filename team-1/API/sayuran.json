@@ -14,6 +14,8 @@
     },{
         "nama" : "cabai merah"
     },{
+        "nama" : "cabai merah besar"
+    },{
         "nama" : "cabai merah keriting"
     },{
         "nama" : "cabai rawit merah"
@@ -24,9 +26,19 @@
     },{
         "nama" : "jagung"
     },{
+        "nama" : "jagung manis"
+    },{
+        "nama" : "jagung pipil"
+    },{
         "nama" : "jagung putih"
     },{
+        "nama" : "jahe"
+    },{
         "nama" : "wortel"
+    },{
+        "nama" : "wortel parut"
+    },{
+        "nama" : "wortel rebus"
     },{
         "nama" : "paprika hijau"
     },{
@@ -38,14 +50,54 @@
     },{
         "nama" : "daun salam"
     },{
+        "nama" : "daun singkong"
+    },{
         "nama" : "daun jeruk"
     },{
+        "nama" : "daun jeruk purut segar"
+    },{
         "nama" : "daun bawang"
+    },{
+        "nama" : "daun kunyit"
+    },{
+        "nama" : "daun melinjo"
+    },{
+        "nama" : "daun peterseli"
     },{
         "nama" : "kembang kol"
     },{
         "nama" : "kol"
     },{
+        "nama" : "kol putih"
+    },{
         "nama" : "sawi putih"
+    },{
+        "nama" : "sawi hijau"
+    },{
+        "nama" : "bawang bombay"
+    },{
+        "nama" : "brokoli"
+    },{
+        "nama" : "kacang panjang"
+    },{
+        "nama" : "kacang polong"
+    },{
+        "nama" : "kacang tanah"
+    },{
+        "nama" : "kangkung"
+    },{
+        "nama" : "kapri"
+    },{
+        "nama" : "jamur"
+    },{
+        "nama" : "jamur kancing"
+    },{
+        "nama" : "labu siam"
+    },{
+        "nama" : "melinjo"
+    },{
+        "nama" : "pakcoy"
+    },{
+        "nama" : "rebung kalengan"
     }
 ]

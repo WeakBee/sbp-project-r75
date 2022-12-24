@@ -1,8 +1,360 @@
 [
-    {
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7qFqES-gnf-Hht2QxPlE3NnG_xxXVVDaWA&usqp=CAU",
         "Brand" : "Xiaomi 12T Pro",
         "Tahun" : "2022",
-        "Harga" : "Sekian",
-        "OS " : "Android 12, MIUI 13"
+        "Harga" : 11300000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+",
+                "Prosesor inti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "200 + 8 + 2MP",
+                "kamera_depan" : "20MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lW8LsbRozVgvF6VuongTOnapdsNS-L9iNQ&usqp=CAU",
+        "Brand" : "Xiaomi Redmi Note 11",
+        "Tahun" : "2022",
+        "Harga" : 2000000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 8 + 2 + 2 MP",
+                "kamera_depan" : "13 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass,Virtual proximity sensing"
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6m-xyD9QikFEc9ksCTvm_o2lGeTTASOfwA&usqp=CAU",
+        "Brand" : "Xiaomi Redmi Note 11 Pro",
+        "Tahun" : "2022",
+        "Harga" : 3399000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Mediatek Helio G96",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "108 + 8 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass,Virtual proximity sensing"
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV5y0oOKrz_W213lLA4edaf-ADAEC-lXwgA&usqp=CAU",
+        "Brand" : "Xiaomi 12T",
+        "Tahun" : "2022",
+        "Harga" : 6265000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "MediaTek Dimensity 8100-Ultra",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyT-ajBpyi8USkChjmGrAlO5y--EwpJ05w&usqp=CAU",
+        "Brand" : "Xiaomi Poco X4 Pro 5G",
+        "Tahun" : "2022",
+        "Harga" : 4900000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, MIUI 13 for POCO",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ii88AQiZz5BXrMYLmrJ3J7q8mry52PiF4w&usqp=CAU",
+        "Brand" : "Xiaomi Poco F4",
+        "Tahun" : "2022",
+        "Harga" : 4795000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13 for POCO",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB , 8GB , 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "20 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Od2_-IKBTkpIxidkW4-5EUe5IKLyzLrN3Q&usqp=CAU",
+        "Brand" : "Xiaomi 12 Lite",
+        "Tahun" : "2022",
+        "Harga" : 5075000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4300 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, compass,Virtual proximity sensing"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJt1a2mLYgFho0Fejc0ekJPmxmSqeBOtiPQ&usqp=CAU",
+        "Brand" : "Xiaomi Redmi 10C",
+        "Tahun" : "2022",
+        "Harga" : 1580000,
+        "Spesifikasi" : [
+            {
+                "OS" : "Android 11, MIUI 13",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G",
+                "Prosesor inti" : "Octa-core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity"
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        "Spesifikasi" : [
+            {
+                "OS" : "",
+                "Chipset" : "",
+                "Prosesor inti" : "",
+                "RAM" : "",
+                "Penyimpanan" : "",
+                "Kamera_belakang" : "",
+                "kamera_depan" : "",
+                "Kapasitas_baterai" : "",
+                "Sensor" : ""
+
+            }
+        ]
     }
 ]

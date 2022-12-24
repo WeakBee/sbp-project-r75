@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="jumpblues.css">
+    <style>
+        .row{
+        justify-content: center;
+        align-items: center;
+        }
+        .card{
+            padding: 0 !important;
+            margin: 0 20px;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+    </style>
+    <title>Folk Metal</title>
+    
+</head>
+<body>
+    <div class="row section-container-spacer">
+        <div class="col-md-10">
+            <h3>Folk Metal</h3>    
+                      </div>
+                      <div class="col-md-10">
+                        <p>Folk metal adalah genre perpaduan musik heavy metal dan musik rakyat tradisional yang berkembang di Eropa selama tahun 1990-an. Hal ini ditandai dengan meluasnya penggunaan instrumen rakyat dan, pada tingkat lebih rendah, gaya menyanyi tradisional (misalnya, Heidevolk Belanda, Sylvatica Denmark dan Stone of Erech Spanyol). Itu juga terkadang menampilkan instrumentasi lembut yang dipengaruhi oleh folk rock.
+                        </p>
+                        <p>Grup musik folk metal paling awal adalah Skyclad dari Inggris dan Cruachan dari Irlandia. Album debut Skyclad The Wayward Sons of Mother Earth dirilis pada tahun 1991 dan akan dianggap sebagai album thrash metal dengan beberapa pengaruh lagu daerah, tidak seperti karya awal Cruachan yang menganut elemen lagu daerah sebagai bagian yang menentukan dari suara mereka. Baru pada tahun 1994 dan 1995 kontributor awal lainnya dalam genre tersebut mulai muncul dari berbagai wilayah di Eropa dan sekitarnya.
+                        </p>
+                      </div>
+                    </div>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+    <script>
+        $.getJSON('../API/Metal.json', function (data){
+            // Membuat Kartu
+            $.each(data, function(i,data2){
+                if(data2.SUBGENRE == "Folk Metal"){
+                    $('.row').append(`
+                        <div class="card" style="width: 285px;">
+                            <img src="../assets/images/imagesmetal/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">`+ data2.Judul +`</h5>
+                                <p class="card-text">`+ data2.Band +`</p>
+                                <p class="card-text">`+ data2.Album +`</p>
+                                <p class="card-text">`+ data2.Tahun +`</p>
+                            </div>
+                        </div>
+                    `);
+                }
+            });
+            // Membuat Kartu
+        });
+    </script>
+</body>
+</html>

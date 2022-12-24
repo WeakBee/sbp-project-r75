@@ -1,43 +1,41 @@
 [
     {
-        "nama" : "drama"
+        "nama" : "Drama"
     },{
-        "nama" : "action"
+        "nama" : "Action"
     },{
-        "nama" : "komedi"
+        "nama" : "Komedi"
     },{
-        "nama" : "horror"
+        "nama" : "Horror"
     },{
-        "nama" : "romantis"
+        "nama" : "Romantis"
     },{
-        "nama" : "fantasi"
+        "nama" : "Fantasi"
     },{
-        "nama" : "adventure"
+        "nama" : "Adventure"
     },{
-        "nama" : "thriller"
+        "nama" : "Thriller"
     },{
-        "nama" : "perang"
-     },{
-        "nama" : "sport"
+        "nama" : "Perang"
     },{
-        "nama" : "musical"
+        "nama" : "Sport"
     },{
-        "nama" : "animasi"
+        "nama" : "Musical"
     },{
-        "nama" : "anak-anak"
+        "nama" : "Animasi"
     },{
-        "nama" : "sci-fi"
+        "nama" : "Anak-anak"
     },{
-        "nama" : "history"
+        "nama" : "Sci-Fi"
     },{
-        "nama" : "mystery"
+        "nama" : "Mystery"
     },{
-        "nama" : "superhero"
+        "nama" : "Superhero"
     },{
-        "nama" : "family"
+        "nama" : "Family"
     },{
-        "nama" : "crime"
+        "nama" : "Crime"
     },{
-        "nama" : "kehidupan"
+        "nama" : "Kehidupan"
     }
 ]

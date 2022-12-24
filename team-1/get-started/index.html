@@ -9,54 +9,119 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="../assets/font/Inter Web/inter.css">
     <script src="https://kit.fontawesome.com/1a746e98b1.js" crossorigin="anonymous"></script>
-    <title>BisaMasak</title>
+    <title>Bisa Masak</title>
 </head>
 <body>
-    <section>
+    <section id="popup">
+        <div class="container">
+            <img class="close-popup" src="../assets/images/close.svg">
+            <img class="gambar-resep" src="" alt="">
+            <div class="row deskripsi">
+                <div class="col-6">
+                    <p class="judul-deskripsi"></p>
+                    <p class="mb-4 keteranganresep"></p>
+                    <p class="judul-deskripsi-popup">Cara Masak : </p>
+                    <ol class="cara-masak-popup"></ol>
+                </div>
+                <div class="col-6">
+                    <p class="judul-deskripsi-popup">Bahan Masakan : </p>
+                    <ul class="deskripsi-resep-kotak-list"></ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="second">
+        <div class="container kontainer-kotak-resep">
+            <h1 class="text-center kotak-resep">KOTAK RESEP</h1>
+            <div class="row row-hasil">
+                <h3 class="judul-rekomendasi">Sangat Rekomendasi</h3>
+                <div class="row sangat-rekomendasi">
+
+                </div>
+                <h3 class="judul-rekomendasi">Rekomendasi</h3>
+                <div class="row rekomendasi">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="third">
         <div class="container-lg">
             <div class="row text-center">
-                <h1>Pilih Kategori Resep</h1>
+                <h1 class="judul-bahan-masakan">Pilih Bahan Masakan</h1>
             </div>
-            <div class="row mb-4">
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Sayur">
-                        <img src="../assets/icon/sayur.png">
-                        <p>Sayur</p>
+
+            <nav>
+                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                    <button class="nav-link active" id="nav-sayur-tab" data-bs-toggle="tab" data-bs-target="#nav-sayur" type="button" role="tab" aria-controls="nav-sayur" aria-selected="true"><img src="../assets/icon/sayuran.png" width="20px">Sayur Sayuran</button>
+                    <button class="nav-link" id="nav-rempah-tab" data-bs-toggle="tab" data-bs-target="#nav-rempah" type="button" role="tab" aria-controls="nav-rempah" aria-selected="false"><img src="../assets/icon/rempah.png" width="20px"> Rempah</button>
+                    <button class="nav-link" id="nav-hewan-tab" data-bs-toggle="tab" data-bs-target="#nav-hewan" type="button" role="tab" aria-controls="nav-hewan" aria-selected="false"><img src="../assets/icon/hewan.png" width="20px"> Daging/Hewan</button>
+                    <button class="nav-link" id="nav-minyak-tab" data-bs-toggle="tab" data-bs-target="#nav-minyak" type="button" role="tab" aria-controls="nav-minyak" aria-selected="false"><img src="../assets/icon/minyak.png" width="20px"> Minyak</button>
+                    <button class="nav-link" id="nav-tepung-tab" data-bs-toggle="tab" data-bs-target="#nav-tepung" type="button" role="tab" aria-controls="nav-tepung" aria-selected="false"><img src="../assets/icon/tepung.png" width="20px"> Tepung</button>
+                    <button class="nav-link" id="nav-nabati-tab" data-bs-toggle="tab" data-bs-target="#nav-nabati" type="button" role="tab" aria-controls="nav-nabati" aria-selected="false"><img src="../assets/icon/nabati.png" width="20px"> Nabati</button>
+                    <button class="nav-link" id="nav-penyedap-tab" data-bs-toggle="tab" data-bs-target="#nav-penyedap" type="button" role="tab" aria-controls="nav-penyedap" aria-selected="false"><img src="../assets/icon/penyedap.png" width="20px"> Penyedap</button>
+                    <button class="nav-link" id="nav-lainlain-tab" data-bs-toggle="tab" data-bs-target="#nav-lainlain" type="button" role="tab" aria-controls="nav-lainlain" aria-selected="false"><img src="../assets/icon/lainlain.png" width="20px"> Lain Lain</button>
+                </div>
+            </nav>
+            <div class="tab-content mb-5" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-sayur" role="tabpanel" aria-labelledby="nav-sayur-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Sayur Sayuran:</h3>
+                    </div>
+                    <div class="row mb-4 row-sayuran">
                     </div>
                 </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Nasi">
-                        <img src="../assets/icon/nasi.png">
-                        <p>Nasi</p>
+                <div class="tab-pane fade" id="nav-rempah" role="tabpanel" aria-labelledby="nav-rempah-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Rempah:</h3>
+                    </div>
+                    <div class="row mb-4 row-rempah">
                     </div>
                 </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Lauk">
-                        <img src="../assets/icon/lauk.png">
-                        <p>Lauk</p>
+                <div class="tab-pane fade" id="nav-hewan" role="tabpanel" aria-labelledby="nav-hewan-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Daging/Hewan:</h3>
+                    </div>
+                    <div class="row mb-4 row-hewan">
                     </div>
                 </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Mie">
-                        <img src="../assets/icon/mie.png">
-                        <p>Mie</p>
+                <div class="tab-pane fade" id="nav-minyak" role="tabpanel" aria-labelledby="nav-minyak-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Minyak:</h3>
+                    </div>
+                    <div class="row mb-4 row-minyak">
                     </div>
                 </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Soto">
-                        <img src="../assets/icon/soto.png">
-                        <p>Soto</p>
+                <div class="tab-pane fade" id="nav-tepung" role="tabpanel" aria-labelledby="nav-tepung-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Tepung:</h3>
+                    </div>
+                    <div class="row mb-4 row-tepung">
                     </div>
                 </div>
-                <div class="col-4 kolom-kategori">
-                    <div class="kartu-kategori" kategori="Daerah">
-                        <img src="../assets/icon/daerah.png">
-                        <p>Daerah</p>
+                <div class="tab-pane fade" id="nav-nabati" role="tabpanel" aria-labelledby="nav-nabati-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Nabati:</h3>
+                    </div>
+                    <div class="row mb-4 row-nabati">
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-penyedap" role="tabpanel" aria-labelledby="nav-penyedap-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Penyedap:</h3>
+                    </div>
+                    <div class="row mb-4 row-penyedap">
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-lainlain" role="tabpanel" aria-labelledby="nav-lainlain-tab" tabindex="0">
+                    <div class="row">
+                        <h3 class="judul-bahan-masakan">Lain - lain:</h3>
+                    </div>
+                    <div class="row mb-4 row-lainlain">
                     </div>
                 </div>
             </div>
             <div class="row row-button">
-                <a href="../get-started-2/" class="tombol-selesai">Selanjutnya</a>
+                <a href="#second" class="tombol-selesai">Cari Resep</a>
             </div>
         </div>
     </section>

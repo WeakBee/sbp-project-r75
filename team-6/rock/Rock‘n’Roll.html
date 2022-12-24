@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="jumpblues.css">
+    <style>
+        .row{
+        justify-content: center;
+        align-items: center;
+        }
+        .card{
+            padding: 0 !important;
+            margin: 0 20px;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+    </style>
+    <title>Rock ‘n’ Roll</title>
+    
+</head>
+<body>
+    <div class="row section-container-spacer">
+        <div class="col-md-10">
+            <h3>Rock ‘n’ Roll</h3>    
+                      </div>
+                      <div class="col-md-10">
+                        <p>Rock and roll (sering ditulis sebagai rock 'n' roll) adalah genre musik yang berkembang di Amerika Serikat pada akhir tahun 1940-an, dan mencapai puncak kepopuleran pada awal tahun 1950-an. Dari Amerika Serikat, genre musik ini tersebar ke seluruh dunia. Rock and roll melahirkan berbagai macam subgenre yang secara keseluruhan dikenal sebagai musik rock.
+                            Ciri khas rock and roll adalah pada ketukan (beat) yang biasanya dipadu dengan lirik. Rock and roll menggunakan beat yang didasarkan salah satu ritme musik blues yang disebut boogie woogie ditambah aksen yang hampir selalu diisi pukulan snare drum. Versi klasik dari rock and roll dimainkan dengan satu atau dua gitar listrik, gitar bas listrik, dan drum set.</p>
+                        <p>Perangkat kibor sering dimainkan sebagai alat musik tambahan. Bila dimainkan dengan dua gitar listrik, gitar listrik yang dimainkan untuk memberi melodi disebut guitar lead, sedangkan gitar untuk memberi ritme dan harmoni disebut gitar ritme. Saksofon sering dijadikan instrumen melodi pada gaya rock and roll awal tahun 1950-an, tetapi digantikan perannya oleh gitar elektrik di pertengahan tahun 1950-an. Di akhir tahun 1940-an, bentuk awal rock and roll bahkan memakai piano sebagai instrumen melodi. Salah satu cikal bakal rock and roll adalah musik boogie woogie dengan piano sebagai melodi, seperti permainan musik berbagai kelompok yang mendominasi dunia musik Amerika dekade 1940-an. Kepopuleran rock and roll secara massal dan mendunia ternyata menimbulkan dampak sosial yang tidak terduga. Rock and roll bukan saja mempengaruhi gaya bermusik, tetapi sekaligus gaya hidup, gaya berpakaian, dan bahasa.
+                        </p>
+                      </div>
+                    </div>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+    <script>
+        $.getJSON('../API/Rock.json', function (data){
+            // Membuat Kartu
+            $.each(data, function(i,data2){
+                if(data2.SUBGENRE == "Rock ‘n’ Roll"){
+                    $('.row').append(`
+                        <div class="card" style="width: 285px;">
+                            <img src="../assets/images/imagesrock/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">`+ data2.Judul +`</h5>
+                                <p class="card-text">`+ data2.Band +`</p>
+                                <p class="card-text">`+ data2.Album +`</p>
+                                <p class="card-text">`+ data2.Tahun +`</p>
+                            </div>
+                        </div>
+                    `);
+                }
+            });
+            // Membuat Kartu
+        });
+    </script>
+</body>
+</html>

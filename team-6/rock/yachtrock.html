@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="jumpblues.css">
+    <style>
+        .row{
+        justify-content: center;
+        align-items: center;
+        }
+        .card{
+            padding: 0 !important;
+            margin: 0 20px;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+    </style>
+    <title>Yacht Rock</title>
+    
+</head>
+<body>
+    <div class="row section-container-spacer">
+        <div class="col-md-10">
+            <h3>Yacht Rock</h3>    
+                      </div>
+                      <div class="col-md-10">
+                        <p>Yacht rock (awalnya dikenal sebagai suara Pantai Barat  atau rock berorientasi dewasa adalah gaya musik yang luas dan estetika  umumnya terkait dengan soft rock,  salah satu yang paling sukses secara komersial genre dari pertengahan 1970-an hingga pertengahan 1980-an. Menggambarkan sumber-sumber seperti jiwa yang halus, jazz yang halus,  R&B, dan disko, sifat gaya umum termasuk produksi berkualitas tinggi, vokal yang bersih, dan fokus pada melodi yang ringan dan menarik. Namanya, diciptakan pada tahun 2005 oleh pembuat serial video online Yacht Rock, berasal dari hubungannya Hard rock atau heavy rock adalah subgenre musik rok yang didefinisikan secara longgar yang ditandai dengan penggunaan vokal agresif, gitar listrik terdistorsi, gitar bass, dan drum, terkadang disertai dengan kibor. Ini dimulai pada pertengahan 1960-an dengan gerakan garage, psikedelik dan blues rock. Beberapa musik hard rock paling awal diproduksi oleh the Kinks, the Who, the Rolling Stones, the Yardbirds, Cream dan the Jimi Hendrix Experience. Pada akhir 1960-an, grup musik seperti the Jeff Beck Group, Iron Butterfly, The Beatles, Led Zeppelin, Golden Earring, Steppenwolf dan Deep Purple juga memproduksi hard rock.
+                            dengan aktivitas berlayar santai California Selatan yang populer.</p>
+                      </div>
+                    </div>
+
+      <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+    <script>
+        $.getJSON('../API/Rock.json', function (data){
+            // Membuat Kartu
+            $.each(data, function(i,data2){
+                if(data2.SUBGENRE == "Yacht Rock"){
+                    $('.row').append(`
+                        <div class="card" style="width: 285px;">
+                            <img src="../assets/images/imagesrock/`+ data2.Gambar +`" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">`+ data2.Judul +`</h5>
+                                <p class="card-text">`+ data2.Band +`</p>
+                                <p class="card-text">`+ data2.Album +`</p>
+                                <p class="card-text">`+ data2.Tahun +`</p>
+                            </div>
+                        </div>
+                    `);
+                }
+            });
+            // Membuat Kartu
+        });
+    </script>
+</body>
+</html>

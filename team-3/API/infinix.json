@@ -3,7 +3,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 20S",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -23,7 +23,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Zero 2023",
         "Tahun" : "",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "",
@@ -43,7 +43,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Zero Ultra",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -63,7 +63,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 Pro 5G",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -83,7 +83,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -103,7 +103,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 12 Play",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -123,7 +123,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 G96",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -143,7 +143,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 12",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -163,7 +163,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 20",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -183,7 +183,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Zero 20",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -203,7 +203,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 20 5G",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -223,7 +223,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Zero 5G",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -243,7 +243,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 (2023)",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -263,7 +263,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 12i",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -283,7 +283,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 20i",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -303,7 +303,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 20 Play",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -323,7 +323,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 VIP",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -343,7 +343,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 Pro",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -363,7 +363,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 11s NFC",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -383,7 +383,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 12 Pro",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -403,7 +403,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Smart 6 HD",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",
@@ -423,7 +423,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12i",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -443,7 +443,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12 5G",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -463,7 +463,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 11 2022",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -483,7 +483,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Note 12i 2022",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12",
@@ -503,7 +503,7 @@
         "Gambar" : "",
         "Brand" : "Infinix Hot 12 Play NFC",
         "Tahun" : "2022",
-        "Harga" : "",
+        "Harga" : 1,
         "Spesifikasi" : [
             {
                 "OS" : "Android 11",

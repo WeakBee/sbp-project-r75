@@ -5,7 +5,7 @@
         "Album" : "Tha Carter",
         "Judul" : "Walk In",
         "Tahun" : "2004",
-        "Gambar" : ""
+        "Gambar" : "dirtyh1.jpg"
             
     },
 	{
@@ -14,7 +14,7 @@
         "Album" : "Queen Radio: Volume 1",
         "Judul" : "Did It On’em",
         "Tahun" : "2022",
-        "Gambar" : ""
+        "Gambar" : "dirtyh2.jpeg"
 			
 	},
 	{
@@ -23,7 +23,7 @@
         "Album" : "Cold as Ice",
         "Judul" : "Stand Up",
         "Tahun" : "1999",
-        "Gambar" : "" 
+        "Gambar" : "dirtyh3.jpg" 
 			
 	},
 	{   
@@ -32,16 +32,16 @@
         "Album" : "CGet Rich or Die Tryin’",
         "Judul" : "What Up Gangsta",
         "Tahun" : "2003",
-        "Gambar" : "" 
+        "Gambar" : "gangstarap1.jpeg" 
             
     },
 	{
         "SUBGENRE" : "Gangsta Rap",
         "Band"  : " N.W.A",
         "Album" : "Straight Outta Compton",
-        "Judul" : "RFuck The Police |Explicit|",
+        "Judul" : "Fuck The Police |Explicit|",
         "Tahun" : "1987",
-        "Gambar" : ""
+        "Gambar" : "gangstarap2.jpg"
 			
 	},
 	{
@@ -50,7 +50,7 @@
         "Album" : "R&G (Rhythm & Gangsta): The Masterpiece",
         "Judul" : "Drop It Like It’s Hot",
         "Tahun" : "2004",
-        "Gambar" : ""
+        "Gambar" : "gangstarap3.jpg"
 			
 	},
 	{   
@@ -59,7 +59,7 @@
         "Album" : "The Eminem Show",
         "Judul" : "Till I Collapse",
         "Tahun" : "2002",
-        "Gambar" : ""
+        "Gambar" : "hchip1.jpg"
             
     },
 	{
@@ -68,7 +68,7 @@
         "Album" : "Fear of a Black Planet",
         "Judul" : "Fight The Power",
         "Tahun" : "1990",
-        "Gambar" : "" 
+        "Gambar" : "hchip2.jpg" 
 			
 	},
 	{
@@ -77,7 +77,7 @@
         "Album" : "Enter The Wu-Tang |36 Chambers|",
         "Judul" : "C.R.E.A.M.|Cash Rules Everything Around Me|",
         "Tahun" : "1993",
-        "Gambar" : "" 
+        "Gambar" : "hchip3.jpg" 
 			
 	},
 	{   
@@ -86,7 +86,7 @@
         "Album" : "Illmatic",
         "Judul" : "N.Y. State of Mind",
         "Tahun" : "1994",
-        "Gambar" : "" 
+        "Gambar" : "eastcoasth1.jpg" 
             
     },
 	{
@@ -95,7 +95,7 @@
         "Album" : "Watch The Throne",
         "Judul" : "Ni**as In Paris",
         "Tahun" : "2011",
-        "Gambar" : ""
+        "Gambar" : "eastcoasth2.jpg"
 			
 	},
 	{
@@ -104,7 +104,7 @@
         "Album" : "Ready to Die",
         "Judul" : "Things Done Changed |Explicit|",
         "Tahun" : "1994",
-        "Gambar" : "" 
+        "Gambar" : "eastcoast3.jpg" 
 			
 	},
 	{   
@@ -113,7 +113,7 @@
         "Album" : "DAMN.",
         "Judul" : "HUMBLE.",
         "Tahun" : "2017",
-        "Gambar" : "" 
+        "Gambar" : "westcoast1.jpeg" 
             
     },
 	{
@@ -122,7 +122,7 @@
         "Album" : "Flower Boy",
         "Judul" : "See You Again",
         "Tahun" : "2017" ,
-        "Gambar" : ""
+        "Gambar" : "westcoast2.jpeg"
 			
 	},
 	{
@@ -131,7 +131,7 @@
         "Album" : "Ryhme Pays",
         "Judul" : "6’N the Mornin’",
         "Tahun" : "1987",
-        "Gambar" : ""
+        "Gambar" : "westcoast3.jpg"
 			
 	},
 	{   
@@ -140,7 +140,7 @@
         "Album" : "My Own Lane",
         "Judul" : "No Option",
         "Tahun" : "2014",
-        "Gambar" : ""
+        "Gambar" : "hipster1.jpg"
             
     },
 	{
@@ -149,7 +149,7 @@
         "Album" : "Entergalactic",
         "Judul" : "Do What I Want",
         "Tahun" : "2022",
-        "Gambar" : "" 
+        "Gambar" : "hipster2.jpeg" 
 			
 	},
 	{
@@ -158,7 +158,7 @@
         "Album" : "Want",
         "Judul" : "STARSTRUKK",
         "Tahun" : "2008",
-        "Gambar" : "" 
+        "Gambar" : "hipster3.jpeg" 
 			
 	},
 	{   
@@ -167,7 +167,7 @@
         "Album" : "III Communication",
         "Judul" : "Sabotage",
         "Tahun" : "1994",
-        "Gambar" : ""
+        "Gambar" : "alternativeh1.png"
             
     },
 	{
@@ -176,7 +176,7 @@
         "Album" : "The Grind Date",
         "Judul" : "Rock Co.Kane Flow",
         "Tahun" : "2004",
-        "Gambar" : ""
+        "Gambar" : "alternativeh2.jpg"
 			
 	},
 	{
@@ -185,7 +185,7 @@
         "Album" : "Stankonia",
         "Judul" : "Ms. Jackson",
         "Tahun" : "2000",
-        "Gambar" : ""
+        "Gambar" : "alternativeh3.jpeg"
 			
 	},
 	{   
@@ -194,17 +194,8 @@
         "Album" : "MM…FOOD",
         "Judul" : "Rapp Snitch Knishes",
         "Tahun" : "2004",
-        "Gambar" : "" 
+        "Gambar" : "underground1.jpeg" 
             
-    },
-	{
-        "SUBGENRE" : "Underground hip hop",
-        "Band"  : "MANBO",
-        "Album" : "MANBO+1|SINGLE|",
-        "Judul" : "CUA",
-        "Tahun" : "2020",
-        "Gambar" : "" 
-			
 	},
 	{
         "SUBGENRE" : "Underground hip hop",
@@ -212,7 +203,7 @@
         "Album" : "Madvillainy",
         "Judul" : "All Cops",
         "Tahun" : "2004",
-        "Gambar" : "" 
+        "Gambar" : "underground2.jpeg" 
 			
 	},
 	{   
@@ -221,7 +212,7 @@
         "Album" : "Battle Of The Sexes",
         "Judul" : "My Chick Bad",
         "Tahun" : "2010",
-        "Gambar" : ""
+        "Gambar" : "southernh1.jpeg"
             
     },
 	{
@@ -230,7 +221,7 @@
         "Album" : "UGK |Underground Kingz|",
         "Judul" : "Int’l Players Anthem |I Choose You|",
         "Tahun" : "2007",
-        "Gambar" : "" 
+        "Gambar" : "southernh2.jpeg" 
 			
 	},
 	{
@@ -239,7 +230,7 @@
         "Album" : "None Shall Pass",
         "Judul" : "None Shall Pass",
         "Tahun" : "2007",
-        "Gambar" : "" 
+        "Gambar" : "southernh3.jpeg" 
 			
 	},
 	{   
@@ -248,7 +239,7 @@
         "Album" : "Dark Sky Paradise",
         "Judul" : "I Don’t Fuck With You",
         "Tahun" : "2015",
-        "Gambar" : ""
+        "Gambar" : "progressiveh1.jpeg"
             
     },
 	{
@@ -257,7 +248,7 @@
         "Album" : "Kala",
         "Judul" : "Paper Planes",
         "Tahun" : "2007",
-        "Gambar" : "" 
+        "Gambar" : "progressiveh2.jpeg" 
 			
 	},
 	{
@@ -266,7 +257,7 @@
         "Album" : "MLove & Hate",
         "Judul" : "Find Out",
         "Tahun" : "2003",
-        "Gambar" : "" 
+        "Gambar" : "progressiveh3.jpeg" 
 		
     },
 	{   
@@ -275,7 +266,7 @@
         "Album" : "The Life of Pablo",
         "Judul" : "Father Stretch My Hands Pt.1",
         "Tahun" : "2016",
-        "Gambar" : ""  
+        "Gambar" : "politicalh1.jpeg"  
             
     },
 	{
@@ -284,7 +275,7 @@
         "Album" : "To Pimp A Butterfly",
         "Judul" : "Alright",
         "Tahun" : "2015",
-        "Gambar" : ""  
+        "Gambar" : "politicalh2.jpeg"  
 			
 	},
 	{
@@ -293,7 +284,7 @@
         "Album" : "Return of the Boom Bap",
         "Judul" : "Sound of da Police",
         "Tahun" : "1993",
-        "Gambar" : ""  
+        "Gambar" : "politicalh3.jpeg"  
 		
     },
 	{   
@@ -302,7 +293,7 @@
         "Album" : "FUTURE",
         "Judul" : "Mask Off",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "mumblerap1.jpeg"  
             
     },
 	{
@@ -311,7 +302,7 @@
         "Album" : "Luv Is Rage 2",
         "Judul" : "XO Tour Llif3",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "mumblerap2.jpeg"  
 			
 	},
 	{
@@ -320,7 +311,7 @@
         "Album" : "Dying to Live",
         "Judul" : "ZEZE",
         "Tahun" : "2018",
-        "Gambar" : ""  
+        "Gambar" : "mumblerap3.jpeg"  
 		
     },
 	{   
@@ -329,7 +320,7 @@
         "Album" : "Donuts",
         "Judul" : "U-Love",
         "Tahun" : "2006",
-        "Gambar" : ""  
+        "Gambar" : "instrumentalh1.jpeg"  
             
     },
 	{
@@ -338,7 +329,7 @@
         "Album" : "Madvillainy",
         "Judul" : "Accordion",
         "Tahun" : "2004",
-        "Gambar" : ""  
+        "Gambar" : "instrumentalh2.jpeg"  
 			
 	},
 	{
@@ -347,7 +338,7 @@
         "Album" : "Deadringer",
         "Judul" : "Ghostwriter",
         "Tahun" : "2002",
-        "Gambar" : ""  
+        "Gambar" : "instrumentalh3.jpeg"  
 		
     },
 	{   
@@ -356,7 +347,7 @@
         "Album" : "The Marshall Mathers LP",
         "Judul" : "The Real Slim Shady",
         "Tahun" : "2001",
-        "Gambar" : ""  
+        "Gambar" : "freestylerap1.jpeg"  
             
     },
 	{
@@ -365,7 +356,7 @@
         "Album" : "To Whom It May Concern",
         "Judul" : "Sunshine Men",
         "Tahun" : "1999",
-        "Gambar" : ""  
+        "Gambar" : "freestylerap2.jpeg"  
 			
 	},
 	{
@@ -374,7 +365,7 @@
         "Album" : "The Blueprint 3",
         "Judul" : "Empire State Of Mind",
         "Tahun" : "2009",
-        "Gambar" : ""  
+        "Gambar" : "freestylerap3.jpeg"  
 		
     },
 	{   
@@ -383,7 +374,7 @@
         "Album" : "Ignorance is Bliss",
         "Judul" : "Greaze Mode",
         "Tahun" : "2019",
-        "Gambar" : ""  
+        "Gambar" : "britishh1.jpeg"  
             
     },
 	{
@@ -392,7 +383,7 @@
         "Album" : "Wamp 2 Dem",
         "Judul" : "Peligro",
         "Tahun" : "2017",
-        "Gambar" : ""  
+        "Gambar" : "britishh2.jpeg"  
 			
 	},
 	{
@@ -401,7 +392,7 @@
         "Album" : "10 Years of Akala",
         "Judul" : "Shakespeare",
         "Tahun" : "2016",
-        "Gambar" : "" 
+        "Gambar" : "britishh3.jpeg" 
 		
     },
 	{   
@@ -410,7 +401,7 @@
         "Album" : "So Def, So Fresh, So Stupid",
         "Judul" : "The Cabbage Patch",
         "Tahun" : "1988",
-        "Gambar" : "" 
+        "Gambar" : "miamibass1.jpeg" 
             
     },
 	{
@@ -419,7 +410,7 @@
         "Album" : "Is What We Are",
         "Judul" : "We Want Some P--sy",
         "Tahun" : "1987",
-        "Gambar" : "" 
+        "Gambar" : "miamibass2.jpeg" 
 			
 	},
 	{
@@ -428,7 +419,7 @@
         "Album" : "199 Quad",
         "Judul" : "Tootsee Roll",
         "Tahun" : "1994",
-        "Gambar" : ""  
+        "Gambar" : "miamibass3.jpeg"  
 		
     }
 ]

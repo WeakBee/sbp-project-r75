@@ -15,6 +15,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan ini 2x sehari"}
+        ],
+        "gejala_penyakit" : [
+            {"gejala" : "jantung berdebar atau justru berdetak lebih lambat"},
+            {"gejala" : "tubuh demam"},
+            {"gejala" : "terjadi pembengkakan pada bagian perut, lengan, tungkai atau di area sekitar mata"},
+            {"gejala" : "terasa nyeri pada rahang, leher, punggung dan bagian tenggorokan"},
+            {"gejala" : "terasa ingin pingsan"},
+            {"gejala" : "batuk kering yang tidak lekas membaik"}
         ]
     },
     {
@@ -31,6 +39,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "kompreskan pada bagian yang sakit, hingga sembuh "}
+        ],
+        "gejala_penyakit" : [
+            {"gejala" : "munculnya benjolan"},
+            {"gejala" : "bercak"},
+            {"gejala" : "tahi lalat dengan bentuk atau ukuran yang tidak normal"}
+
         ]
     },
     {
@@ -46,6 +60,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" :"minum ramuan ini 2x sehari"}
+        ],
+        "gejala_penyakit" : [
+            {"gejala" : "kembung dan sering bersendawa"},
+            {"gejala" : "anemia atau kekurangan sel darah merah"},
+            {"gejala" : "cepat merasa kenyang saat makan"},
+            {"gejala" : "gangguan penvernaan yang sering kumat"}
         ]
     },
     {
@@ -62,7 +82,15 @@
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1 gelas"},
             {"pemakaian" : "lakukan secara teratur selama 6 bulan"}
+        ],
+        "gejala_penyakit" : [
+            {"gejala" : "batuk berdarah"},
+            {"gejala" : "sesak napas"},
+            {"gejala" : "asma"},
+            {"gejala" : "nyeri dibagian dada"},
+            {"gejala" : "merasa sangat lelah"}
         ]
+        
     },
     {
         "nama_penyakit" : "kanker payudara",
@@ -81,6 +109,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1/2 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Tekstur berubah"},
+            {"gejala" : "terdapat benjolan"},
+            {"gejala" : "Keluar cairan kuning"},
+            {"gejala" : "Benjolan di ketiak"},
+            {"gejala" : "Warna berubah"},
+            {"gejala" : "Bentuk puting berubah"}
         ]
     },
     {
@@ -108,6 +144,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1 gelas "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Perdarahan abnormal"},
+            {"gejala" : "Keputihan berbau"},
+            {"gejala" : "Nyeri saat berhubungan seksual"},
+            {"gejala" : "Nyeri saat buang air kecil"}
         ]
     },
     {
@@ -125,6 +167,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari secara rutin dan teratur"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Penyakit kuning (jaundice)"},
+            {"gejala" : "Nyeri dekat ke bahu kanan"},
+            {"gejala" : "Pembesaran hati atau limpa atau keduanya"},
+            {"gejala" : "Pembengkakan di perut atau penumpukan cairan"},
+            {"gejala" : "Mual dan muntah"},
+            {"gejala" : "Sakit punggung"},
+            {"gejala" : "Gatal"},
+            {"gejala" : "Demam"}
         ]
     },
     {
@@ -143,6 +195,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 1x sehari setelah makan, masing-masing 2/3 gelas "}
+        ],
+        "gejala_penyakit" : [
+            {"gejala" : "Demam dan menggigil"},
+            {"gejala" : "Kelelahan secara terus menerus"},
+            {"gejala" : "Mengalami anemia"},
+            {"gejala" : "Penurunan berat badan dibarengi dengan hilangnya nafsu makan"},
+            {"gejala" : "Muncul bintik merah pada area kulit di tubuh"},
+            {"gejala" : "Sering mengalami mimisan"},
+            {"gejala" : "Rentan terserang infeksi"}
         ]
     },
     {
@@ -160,6 +221,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan ini sekaligus, selagi masih hangat "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Gangguan pencernaan yang sering kumat"},
+            {"gejala" : "Kehilangan nafsu makan"},
+            {"gejala" : "Merasa kelelahan"},
+            {"gejala" : "Mual dan muntah, hingga muntah darah"},
+            {"gejala" : "Nyeri pada tulang dada"}
         ]
     },
     {
@@ -179,6 +247,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan ini setiap hari secara teratur "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Benjolan di sekitar pinggang atau perut"},
+            {"gejala" : "Nyeri di sekitar punggung bawah dan pinggang"},
+            {"gejala" : "Demam yang tak kunjung mereda"},
+            {"gejala" : "Keringat berlebih, terutama pada malam hari"},
+            {"gejala" : "Berat badan turun tanpa sebab yang pasti"},
+            {"gejala" : "Hilang selera makan"},
+            {"gejala" : "Pucat, lemas, dan mudah lelah"},
+            {"gejala" : "Urine berdarah (hematuria)"}
         ]
     },
     {
@@ -198,6 +276,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x sehari, masing-masing 1/2 gelas "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Mengalami sakit kepala dengan pola yang berubah-ubah"},
+            {"gejala" : "Sakit kepala yang semakin sering dan lebih parah"},
+            {"gejala" : "Mual atau muntah tanpa alasan pasti"},
+            {"gejala" : "Mengalami masalah penglihatan, seperti penglihatan kabur, penglihatan ganda, atau kehilangan penglihatan tepi"}
         ]
     },
     {
@@ -214,6 +298,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Perdarahan vagina yang tidak normal"},
+            {"gejala" : "Keputihan yang tidak biasa"},
+            {"gejala" : "Nyeri saat berhubungan intim"},
+            {"gejala" : "Frekuensi buang air kecil meningkat"},
+            {"gejala" : "Mudah lelah"},
+            {"gejala" : "Pembengkakan di salah satu tungkai"}
         ]
     },
     {
@@ -232,6 +324,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan seperti teh dengan dicampurkan madu secukupnya "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Rasa nyeri hebat di punggung atau di bawah tulang rusuk"},
+            {"gejala" : "Nyeri di area selangkangan dan perut bagian bawah"},
+            {"gejala" : "Rasa sakit yang datang dan pergi dengan tingkat rasa sakit yang bervariasi"},
+            {"gejala" : "Muncul rasa sakit ketika buang air kecil"},
+            {"gejala" : "Buang air kecil dengan intensitas yang sering"}
         ]
     },
     {
@@ -251,10 +350,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x segari, masing-masing 1/2 gelas "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Lelah setiap saat"},
+            {"gejala" : "Panas dingin pada tubuh"},
+            {"gejala" : "Sesak napas"},
+            {"gejala" : "Pusing hingga sulit berpikir jernih"},
+            {"gejala" : "Kulit kasar dan gatal"},
+            {"gejala" : "Pembengkakan pada tangan, kaki, dan wajah"},
+            {"gejala" : "Nyeri punggung bawah"}
         ]
-    },
-    {
-
     },
     {
         "nama_penyakit" : "radang ginjal",
@@ -274,6 +379,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan secara teratur setiap hari "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Mual-mual"},
+            {"gejala" : "Muntah"},
+            {"gejala" : "Gatal-gatal"},
+            {"gejala" : "Tubuh terlihat pucat"},
+            {"gejala" : "Badan terasa lemas"},
+            {"gejala" : "Beberapa bagian tubuh bengkak"},
+            {"gejala" : "Sesak nafas"}
         ]
     },
     {
@@ -288,7 +402,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari, [agi dan sore setelah makan "}
-        ] 
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Sakit kepala"},
+            {"gejala" : "Gelisah"},
+            {"gejala" : "Jantung berdebar-debar"},
+            {"gejala" : "Pusing"},
+            {"gejala" : "Penglihatan kabur"},
+            {"gejala" : "Rasa sakit di dada"},
+            {"gejala" : "mudah lelah"}
+        ]
     },
     {
         "nama_penyakit" : "kencing manis",
@@ -304,6 +427,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x seminggu, masing masing 0.5 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Penyembuhan lambat. Infeksi, luka, dan memar yang tidak sembuh dengan cepat merupakan tanda diabetes lainnya"},
+            {"gejala" : "Keletihan dan mudah tersinggung"},
+            {"gejala" : "Pandangan yang kabur"},
+            {"gejala" : "Kesemutan atau mati rasa"},
+            {"gejala" : "Kelaparan"}
         ]
     },
     {
@@ -322,6 +452,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan ini selagi hangat, lakukan sehari sekali"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Kesemutan"},
+            {"gejala" : "Pegal pada Tengkuk atau Pundak"},
+            {"gejala" : "Rasa Nyeri di Kaki"},
+            {"gejala" : "Xanthelasma"},
+            {"gejala" : "Perlemakan Hati"},
+            {"gejala" : "Gejala Strok"},
+            {"gejala" : "Kram"}
         ]
     },
     {
@@ -340,6 +479,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 3x sehari, setidaknya selama 7 hari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Mual dan muntah"},
+            {"gejala" : "Nyeri perut"},
+            {"gejala" : "Penurunan nafsu makan"},
+            {"gejala" : "Penurunan gairah seksual (libido)"},
+            {"gejala" : "Rasa lelah yang berlebihan"},
+            {"gejala" : "Perubahan warna feses menjadi pucat atau kehitaman"},
+            {"gejala" : "KramWarna urine menjadi gelap"},
+            {"gejala" : "Kulit dan mata menjadi kuning atau penyakit kuning"}
         ]
     },
     {
@@ -356,6 +505,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan ini selagi hangat, lakukan 3x sekali. jamurnya bisa dimakan sebagai sayuran"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Peningkatan tekanan darah mendadak"},
+            {"gejala" : "Salah satu sisi mulut dan wajah penderita terlihat turun"},
+            {"gejala" : "Kelelahan tiba-tiba"},
+            {"gejala" : "Kesemutan tubuh"},
+            {"gejala" : "Cara bicara jadi kacau dan tidak jelas"},
+            {"gejala" : "Lengan atau kaki mengalami kelumpuhan atau sulit diangkat"}
         ]
     },
     {
@@ -373,10 +530,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari, pada sore dan malam hari menjelang tidur"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Sesak dada"},
+            {"gejala" : "Batuk, terutama pada malam atau dini hari"},
+            {"gejala" : "Sesak napas"},
+            {"gejala" : "Mengi, yang menyebabkan suara siulan saat mengeluarkan napas"}
         ]
     },
     {
-        "nama_penyakit" : "TBC",
+        "nama_penyakit" : "TBC (Tuberkulosis)",
         "semua_bahan" : [
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung"},
             {"bahan" : "daun lidah buaya", "jumlah" : 100, "satuan" : "gr"},
@@ -394,6 +557,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari masing masing 0.5 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Demam dan meriang dalam jangka waktu yang panjang"},
+            {"gejala" : "Sesak nafas dan nyeri dada"},
+            {"gejala" : "Berat badan menurun"},
+            {"gejala" : "Ketika batuk terkadang dahak bercampur darah"},
+            {"gejala" : "Nafsu makan yang menurun"},
+            {"gejala" : "Berkeringat di malam hari meski tanpa melakukan kegiatan"}
         ]
     },
     {
@@ -411,6 +582,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari dengan takaran yang sama"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Muncul bintik bintik kemerahan"},
+            {"gejala" : "Nyeri sendi"},
+            {"gejala" : "Nyeri otot"},
+            {"gejala" : "Nyeri pada area belakang bola mata"},
+            {"gejala" : "Manifestasi perdarahan (kulit, mukosa, pencernaan)"},
+            {"gejala" : "Demam"}
         ]
     },
     {
@@ -431,6 +610,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan sehari sekali saja selama sakit"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Demam dalam kurun waktu lama"},
+            {"gejala" : "Mengalami gangguan pencernaan, bisa sembelit atau susah BAB, diare, atau sakit perut"},
+            {"gejala" : "Nyeri sendi dan otot"},
+            {"gejala" : "Hilangnya nafsu makan"},
+            {"gejala" : "Mual dan muntah"},
+            {"gejala" : "Pusing atau sakit kepala"},
+            {"gejala" : "Tubuh terasa sangat lemas"}
         ]
     },
     {
@@ -450,6 +638,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan secara rutin setiap pagi"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Pusing"},
+            {"gejala" : "Pingsan (sinkop)"},
+            {"gejala" : "Mual atau muntah"},
+            {"gejala" : "Penglihatan kabur atau terdistorsi"},
+            {"gejala" : "Napas cepat dan dangkal"},
+            {"gejala" : "Kelelahan atau kelemahan"},
+            {"gejala" : "Merasa lelah atau lesu"},
+            {"gejala" : "Kebingungan atau kesulitan berkonsentrasi"}
         ]
     },
     {
@@ -468,6 +666,11 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 2x sehari, masing masing 1 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Mual dan muntah"},
+            {"gejala" : "Kehilangan nafsu makan"},
+            {"gejala" : "Demam, Konstipasi, Diare dan Kembung"}
         ]
     },
     {
@@ -489,6 +692,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan 1x sehari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Mual"},
+            {"gejala" : "Muntah"},
+            {"gejala" : "Sakit maag"},
+            {"gejala" : "Perut kembung"},
+            {"gejala" : "Hilang nafsu makan"},
+            {"gejala" : "Diare"}
         ]
     },
     {
@@ -509,6 +720,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan dalam keadaan hangat 3x sehari, masing masing 0.5 gelas "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Perut terlihat membesar dan terasa penuh"},
+            {"gejala" : "Muncul bunyi seperti gemuruh pada perut"},
+            {"gejala" : "Sering sendawa"},
+            {"gejala" : "Perut terasa nyeri atau terasa tidak nyaman"},
+            {"gejala" : "Frekuensi buang gas meningkat"}
         ]
     },
     {
@@ -524,6 +742,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "oleskan ramuan kesekitar telinga yang sakit. lakukan 2x sehari "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Gatal pada telinga"},
+            {"gejala" : "Sakit, terutama saat telinga disentuh atau ditarik"},
+            {"gejala" : "Telinga tampak kemerahan dan bengkak"},
+            {"gejala" : "Keluar cairan dari telinga"},
+            {"gejala" : "Gangguan pendengaran"},
+            {"gejala" : "Telinga terasa penuh atau tersumbat"},
+            {"gejala" : "Demam"},
+            {"gejala" : "Muncul benjolan di leher atau sekitar telinga karena pembengkakan kelenjar getah bening"}
         ]
     },
     {
@@ -543,6 +771,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan dalam keadaan hangat 3x sehari, masing masing 0.5 gelas "}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Pinggang terasa pegal, kaku, atau seperti ditusuk"},
+            {"gejala" : "Nyeri menjalar dari pinggang ke bokong sampai kaki"},
+            {"gejala" : "Sulit untuk bergerak maupun berdiri tegang karena nyeri pinggang"},
+            {"gejala" : "Sakit bisa memburuk di malam hari atau saat terlalu lama duduk"}
         ]
     },
     {
@@ -560,6 +794,11 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan pada pagi dan sore hari masing masing 1 gelas"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "sendi mendadak terasa sangat sakit"},
+            {"gejala" : "Kesulitan untuk berjalan akibat sakit yang mengganggu, khususnya di malam hari"},
+            {"gejala" : "nyeri hebat, pembengkakan, rasa panas, serta muncul warna kemerahan pada kulit sendi"}
         ]
     },
     {
@@ -573,6 +812,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "gosokkan pada pelupuk mata selama merasa pegal"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "mata yang mengalami astenofia biasanya terasa nyeri"},
+            {"gejala" : "mata bengkak"},
+            {"gejala" : "mata kering"},
+            {"gejala" : "fotofobia"},
+            {"gejala" : "pandangan buram"}
         ]
     },
     {
@@ -590,6 +836,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "dimunum satu kali sehari masing masing 2 cangkir"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "menopause"},
+            {"gejala" : "kehamilan"},
+            {"gejala" : "alat konstrasepsi"},
+            {"gejala" : "pola hidup"},
+            {"gejala" : "sindrom ovarium polikistik (PCOS)"},
+            {"gejala" : "masalah pada trioid"}
         ]
     },
     {
@@ -605,6 +859,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum ramuan setiap pagi"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Batuk selama beberapa minggu sebelum batuk berdarah timbul"},
+            {"gejala" : "Nyeri dada"},
+            {"gejala" : "Demam"},
+            {"gejala" : "Berkeringat di malam hari"},
+            {"gejala" : "Tubuh terasa letih dan lemah"},
+            {"gejala" : "Hilang nafsu makan"},
+            {"gejala" : "Berat badan menurun"}
         ]
     },
     {
@@ -619,6 +882,11 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "diminum setiap 2 jam sekali sampai sakit berkurang. apabila sudah membaik lakukan setiap 4 jam sekali"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "diare"},
+            {"gejala" : "mual dan muntah, yang muncul 1–3 hari setelah terinfeksi"},
+            {"gejala" : "Sakit atau kram perut."}
         ]
     },
     {
@@ -634,6 +902,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "diusapkan pada luka hingga sembuh"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Ruam, bengkak, dan gatal di lipatan selangkangan"},
+            {"gejala" : "Ruam menyebar ke pangkal paha, paha dalam, pinggang, dan bokong"},
+            {"gejala" : "Kulit cenderung bersisik dan memiliki batas luar yang sedikit menonjol"},
+            {"gejala" : "Kulit mengelupas dan retak"},
+            {"gejala" : "Gatal dan nyeri"}
         ]
     },
     {
@@ -647,6 +922,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "dioleskan pada bagian yang keseleo sebagai bedak"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Rasa nyeri"},
+            {"gejala" : "Pembengkakan"},
+            {"gejala" : "Memar"},
+            {"gejala" : "Mati rasa"},
+            {"gejala" : "Kemampuan gerak terbatas"}
         ]
     },
     {
@@ -660,6 +942,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "dengan meminum air kencur dan satu gelas air putih"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Nyeri yang terasa panas atau perih di bagian ulu hati"},
+            {"gejala" : "Perut kembung"},
+            {"gejala" : "Mual"},
+            {"gejala" : "Muntah"},
+            {"gejala" : "Hilang nafsu makan"},
+            {"gejala" : "Cegukan"},
+            {"gejala" : "Cepat merasa kenyang saat makan"},
+            {"gejala" : "Berat badan menurun secara tiba-tiba"}
         ]
     },
     {
@@ -675,6 +967,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ramuan dioleskan dibawah pusar"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Pembengkakan prostat"},
+            {"gejala" : "Infeksi"},
+            {"gejala" : "Batu saluran kemih"},
+            {"gejala" : "Operasi"},
+            {"gejala" : "Gangguan saraf"},
+            {"gejala" : "Masalah psikologis"},
+            {"gejala" : "Efek samping obat-obatan"}
         ]
     },
     {
@@ -692,6 +993,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ditempelkan di perut"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Kotoran terasa keras dan kering"},
+            {"gejala" : "Sulit buang air besar"},
+            {"gejala" : "Perut terasa penuh, padat, keras, atau kencang"},
+            {"gejala" : "BAB berdarah"},
+            {"gejala" : "BAB kurang dari 3 kali seminggu"},
+            {"gejala" : "Tidak merasa puas setelah BAB, seperti ada yang mengganjal"},
+            {"gejala" : "Mulas dan nyeri pada perut"}
         ]
     },
     {
@@ -705,6 +1015,11 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ramuan dioleskan pada payudara"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "sakit kepala"},
+            {"gejala" : "perut terasa mual"},
+            {"gejala" : "perubahan hormon setelah berhenti menyusui"}
         ]
     },
     {
@@ -725,6 +1040,16 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ramuan diminum 3x sehari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Gangguan Tiroid. Telat datang bulan bisa disebabkan oleh gangguan tiroid"},
+            {"gejala" : "Sindrom Ovarium Polikistik (PCOS) PCOS juga bisa memicu siklus menstruasi terlambat"},
+            {"gejala" : "Ketidakseimbangan Hormon"},
+            {"gejala" : "Amenorrhea"},
+            {"gejala" : "Kanker Rahim"},
+            {"gejala" : "Penyakit kronis"},
+            {"gejala" : "Penyakit Celiac"},
+            {"gejala" : "kisa"}
         ]
     },
     {
@@ -738,6 +1063,12 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ramuan diminum saat kambuh"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Kebingungan sementara"},
+            {"gejala" : "Mata kosong (bengong) menatap satu titik terlalu lama"},
+            {"gejala" : "Gerakan menyentak tak terkendali pada tangan dan kaki"},
+            {"gejala" : "Hilang kesadaran sepenuhnya atau sementara"}
         ]
     },
     {
@@ -751,6 +1082,13 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "minum air rebusan setiap hari selama 40 hari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Anhidrosis, yaitu kulit tidak mengeluarkan keringat"},
+            {"gejala" : "Luka pada telapak kaki tidak terasa nyeri"},
+            {"gejala" : "Kulit menjadi mati rasa, termasuk kehilangan kemampuan untuk merasakan sentuhan, tekanan, suhu, bahkan rasa nyeri"},
+            {"gejala" : "Kulit terasa kering dan kaku"},
+            {"gejala" : "Saraf membesar, umumnya pada lutut dan siku"}
         ]
     },
     {
@@ -764,6 +1102,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "duguanakan sebagai bedak atau obat gososk"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Pilek, batuk, dan sakit tenggorokan"},
+            {"gejala" : "Tubuh terasa lemas"},
+            {"gejala" : "Mata merah"},
+            {"gejala" : "Sakit dan nyeri otot"},
+            {"gejala" : "Nafsu makan menurun"},
+            {"gejala" : "Diare"},
+            {"gejala" : "Demam tinggi"}
         ]
     },
     {
@@ -778,6 +1125,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "ramuan diminum 2x sehari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "sakit pada rahang"},
+            {"gejala" : "mudah lelah"},
+            {"gejala" : "sakit kepala"},
+            {"gejala" : "rasa nyeri pada kaki"},
+            {"gejala" : "perlemakan hati"},
+            {"gejala" : "kram"},
+            {"gejala" : "gejala Stroke"}
         ]
     },
     {
@@ -795,6 +1151,15 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "selagi masih hangat, gunakan untuk kumur-kumur. gunakan 3x sehari"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Tenggorokan dilapisi selaput tebal berwarna abu-abu"},
+            {"gejala" : "Radang tenggorokan dan serak"},
+            {"gejala" : "Pembengkakan kelenjar pada leher"},
+            {"gejala" : "Masalah pernapasan dan saat menelan"},
+            {"gejala" : "Cairan pada hidung, ngiler"},
+            {"gejala" : "Demam dan menggigil"},
+            {"gejala" : "Batuk yang keras"}
         ]
     },
     {
@@ -815,6 +1180,14 @@
         ],
         "aturan_pakai" : [
             {"pemakaian" : "air rebusan diminum ketika sedang kambuh"}
+        ],
+        "gejala_penyakit" :[
+            {"gejala" : "Sakit ulu hati yang menjalar hingga ke punggung dan semakin parah seusai makan"},
+            {"gejala" : "demam"},
+            {"gejala" : "mual"},
+            {"gejala" : "muntah"},
+            {"gejala" : "Perubahan warna kulit di sekitar pusar atau pinggang"},
+            {"gejala" : "Perut terasa lunak saat disentuh"}
         ]
     },
     {
@@ -833,8 +1206,15 @@
                 ],
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan sekaligus, lakukan 2x sehari di pagi dan sore hari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "sumbatan pada hidung"},
+                    {"gejala" : "flu"},
+                    {"gejala" : "bersin-bersin"},
+                    {"gejala" : "mata merah"},
+                    {"gejala" : "demam"}
                 ]
-    },
+         },
                 {
                  "nama_penyakit" : "batuk kering",
                  "semua_bahan" : [
@@ -850,7 +1230,17 @@
                 ],
                  "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan 2x sehari, pagi dan sore"}
-            
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "flu"},
+                    {"gejala" : "sakit tenggorokan"},
+                    {"gejala" : "batuk intens tanpa disertai dahak"},
+                    {"gejala" : "suara serak"},
+                    {"gejala" : "demam"},
+                    {"gejala" : "dada sakit"},
+                    {"gejala" : "tubuh pegal"},
+                    {"gejala" : "mual"},
+                    {"gejala" : "sakit kepala"}
                 ]
             },
                 {
@@ -873,6 +1263,13 @@
                 ],
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan 3x sehari, hingga sembuh"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Terdapat darah pada dahak"},
+                    {"gejala" : "Dada terasa sesak, bahkan hingga kehabisan napas"},
+                    {"gejala" : "Mengalami demam lebih dari 3 hari"},
+                    {"gejala" : "Batuk tak kunjung membaik setelah tujuh hari"},
+                    {"gejala" : "Batuk berdahak disertai kehilangan indera penciuman"}
                 ]
             },
                 { 
@@ -890,6 +1287,15 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan sekaligus, lakukan 2-3 kali sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Gangguan pada penglihatan"},
+                    {"gejala" : "Kesulitan berbicara"},
+                    {"gejala" : "Leher kaku"},
+                    {"gejala" : "Hilang kesadaran"},
+                    {"gejala" : "demam tinngi"},
+                    {"gejala" : "Salah satu sisi tubuh menjadi lemah atau lumpuh"},
+                    {"gejala" : "Sulit berjalan"}
                 ]
             },
 
@@ -909,6 +1315,13 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "gunakan air rebusan untuk berkumu"},
                     {"pemakaian" : "lakukan 2x sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Bengkak di gusi sekitar gigi yang sakit"},
+                    {"gejala" : "Bengkak pada rahang dan wajah"},
+                    {"gejala" : "Bau mulut yang tidak sedap (halitosis)"},
+                    {"gejala" : "Perdarahan dari gigi atau gusi"},
+                    {"gejala" : "Sulit dan sakit saat membuka mulut"}
                 ]
             },
 
@@ -930,6 +1343,16 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan 2x sehari dengan dosis yang sama"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Nyeri kepala"},
+                    {"gejala" : "Keringat dingin"},
+                    {"gejala" : "Menggigil"},
+                    {"gejala" : "Batuk"},
+                    {"gejala" : "Nyeri tenggorokan"},
+                    {"gejala" : "Diare"},
+                    {"gejala" : "Nyeri telinga"},
+                    {"gejala" : "Dehidrasi"}
                 ]
             },
 
@@ -951,6 +1374,16 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "makan bubur kacang hijau tersebut, 2x sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "sakit kepala"},
+                    {"gejala" : "Rasa mual"},
+                    {"gejala" : "Hidung beringus"},
+                    {"gejala" : "Batuk"},
+                    {"gejala" : "Nyeri pada otot"},
+                    {"gejala" : "Tenggorokan terasa kering"},
+                    {"gejala" : "demam"},
+                    {"gejala" : "kelelahan"}
                 ]
             },
 
@@ -972,6 +1405,16 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "balurkan ramuan ini pada bagian yang sakit"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "SaWaktu tidur/istirahat kurang sehingga tubuh terpaksa bekerja ekstra dalam jangka waktu lamalah posisi tidur sehingga ada sejumlah bagian tubuh yang mendapat tekanan terlalu besar"},
+                    {"gejala" : "Waktu tidur/istirahat kurang sehingga tubuh terpaksa bekerja ekstra dalam jangka waktu lama"},
+                    {"gejala" : "Kekurangan cairan tubuh atau dehidrasi yang menyebabkan tubuh kekurangan tenaga"},
+                    {"gejala" : "Jarang bergerak aktif, termasuk olahraga, sehingga kinerja tulang dan otot tidak terlatih dan mudah sakit-sakitan"},
+                    {"gejala" : "Melakukan aktivitas fisik berlebih yang menguras terlalu banyak energi dan membebani bagian tubuh tertent"},
+                    {"gejala" : "Kekurangan vitamin D yang mengakibatkan gangguan kesehatan tulang"},
+                    {"gejala" : "Efek samping vaksin"},
+                    {"gejala" : "Efek samping obat-obatan tertentu"}
                 ]
             },
                 {
@@ -991,6 +1434,16 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "minumlah sedikit demi sedikit"},
                     {"pemakaian" : "lakukan selama 1 minggu secara teratur"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Kaku pinggang atau leher"},
+                    {"gejala" : "Gerakan sendi menjadi terbatas"},
+                    {"gejala" : "Nyeri gerak sendi"},
+                    {"gejala" : "demam"},
+                    {"gejala" : "lemah"},
+                    {"gejala" : "bengkak tubuh sesak"},
+                    {"gejala" : "radang mata"},
+                    {"gejala" : "Nyeri pada otot"}
                 ]
             },
 
@@ -1008,6 +1461,14 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "gunakan air rebusan yang masih hangat untuk berkumur"},
                     {"pemakaian" : "lakukan 2-3 kali sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Sensasi terbakar pada lidah"},
+                    {"gejala" : "Bagian dalam mulut dan tenggorokan berwarna merah"},
+                    {"gejala" : "Rasa tak nyaman saat menelan"},
+                    {"gejala" : "Muncul warna kemerahan dan rasa nyeri pada bagian mulut yang terdapat gigi palsu"},
+                    {"gejala" : "Rasa tidak nyaman dalam mulut"},
+                    {"gejala" : "Luka berwarna putih yang muncul di lidah"}
                 ]
             },
 
@@ -1027,6 +1488,15 @@
                 "aturan_pakai" : [
                     {"pemakaian" : " minum ramuan 2x sehari"}
             
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Kotoran terasa keras dan kering"},
+                    {"gejala" : "Sulit buang air besar"},
+                    {"gejala" : "Perut terasa penuh, padat, keras, atau kencang"},
+                    {"gejala" : "BAB berdarah"},
+                    {"gejala" : "BAB kurang dari 3 kali seminggu"},
+                    {"gejala" : "Tidak merasa puas setelah BAB, seperti ada yang mengganjal"},
+                    {"gejala" : "Mulas dan nyeri pada perut"}
                 ]
             },
                 {
@@ -1043,6 +1513,11 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "gosokan pada kulit yang terkena panu, digunakan setiap pagi dan sore"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "bercak di kulit yang berwarna lebih terang atau lebih gelap"},
+                    {"gejala" : "kulit kering atau bersisik di area yang terinfeksi"},
+                    {"gejala" : "gatal"}
                 ]
             },
 
@@ -1061,6 +1536,16 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "oleskan ramuan pada perut"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Feses cair atau lembek dan keluar dalam jumlah banyak"},
+                    {"gejala" : "Rasa mual dan muntah"},
+                    {"gejala" : "Munculnya darah pada feses"},
+                    {"gejala" : "Lemas dan pusing"},
+                    {"gejala" : "Kesulitan untuk menahan keinginan buang air besar"},
+                    {"gejala" : "Sakit perut atau bahkan kram"},
+                    {"gejala" : "demam"},
+                    {"gejala" : "Merasa haus terus-menerus atau dehidrasi"}
                 ]
             },
 
@@ -1081,6 +1566,12 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "tempelkan ramuan ini pada bisul"},
                     {"pemakaian" : "lakukan secara rutin hingga bisul lekas masak dan pecah sampai segera sembuh"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Muncul benjolan merah berisi nanah yang pada awalnya berukuran kecil, tetapi bisa makin membesar"},
+                    {"gejala" : "Kulit di sekitar benjolan akan tampak memerah, bengkak, dan terasa hangat jika disentuh"},
+                    {"gejala" : "Benjolan yang timbul akan terasa nyeri, terutama saat disentuh"},
+                    {"gejala" : "Benjolan memiliki titik putih atau kuning di bagian puncak (pustula) yang kemudian akan pecah dan mengeluarkan nanah"}
                 ]
             },
 
@@ -1100,6 +1591,14 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "ramuan ini di oleskan pada bagian kulit yang kena eksem"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Ruam dengan sisik yang lebih parah"},
+                    {"gejala" : "Ruam timbul pada lipatan siku atau lutut"},
+                    {"gejala" : "Ruam dapat menutupi sebagian besar tubuh"},
+                    {"gejala" : "Kulit yang sangat kering pada area yang terserang"},
+                    {"gejala" : "Ruam yang gatal secara permanen"},
+                    {"gejala" : "Mengalami infeksi kulit"}
                 ]
             },
 
@@ -1119,6 +1618,12 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "oleskan pada wajah dan diamkan selama 15 menit, kemudian bilas dengan air hangat"}
             
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Benjolan berwarna kemerahan atau kuning (karena mengandung nanah)"},
+                    {"gejala" : "Benjolan kecil (papul) yang muncul di atas kulit"},
+                    {"gejala" : "Sensasi panas atau terbakar akibat adanya peradangan"},
+                    {"gejala" : "Timbul rasa gatal pada benjolan"}
                 ]
             },
                 {
@@ -1142,6 +1647,14 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "air rebusan diminum selagi hangat"},
                     {"pemakaian" : "lakukan sehari sekali teratur selama 10 hari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Keputihan yang kental dan berwarna putih"},
+                    {"gejala" : "Bau tak sedap yang bertahan lebih dari sehari"},
+                    {"gejala" : "Hubungan intim yang menyakitkan"},
+                    {"gejala" : "Buang air kecil yang menyakitkan"},
+                    {"gejala" : "Perasaan nyeri atau nyeri tekan di perut bagian bawah"},
+                    {"gejala" : "Lepuh, benjolan atau luka di area genital"}
                 ]
             },
                 {
@@ -1165,6 +1678,12 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan pada hari pertama haid atau saat merasa nyeri di perut"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "kram perut yang menyebar hingga ke pinggang, punggung, selangkangan, dan vagina"},
+                    {"gejala" : "seperti sakit kepala"},
+                    {"gejala" : "mual dan diare"},
+                    {"gejala" : "Lemas"}
                 ]
             },
                 {
@@ -1182,6 +1701,13 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minumlah ramuan 1x sehari, 1 gelas"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "kembung"},
+                    {"gejala" : "mual hingga muntah"},
+                    {"gejala" : "Huilang selera makan"},
+                    {"gejala" : "Fases berwarna gelap"},
+                    {"gejala" : "nyeri pada uluh hati"}
                 ]
             },
                 {
@@ -1199,6 +1725,12 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "ramuan ini dioleskan pada wasir ketika sudah dingin"}
             
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Rasa gatal atau sakit di sekitar anus"},
+                    {"gejala" : "Benjolan keras di sekitar anus yang terasa perih"},
+                    {"gejala" : "Perdarahan dari anus setelah buang air besar"},
+                    {"gejala" : "Keluarnya lendir setelah BAB"}
                 ]
             },
                 {
@@ -1217,6 +1749,15 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan sekaligus, lakukan 2x sehari"}
                 
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Disertai Diare Berdarah"},
+                    {"gejala" : "Rasa Sakit yang Hebat disertai Muntah"},
+                    {"gejala" : "Rasa Sakit Menjalar ke Punggung"},
+                    {"gejala" : "Rasa Sakit di Perut Kanan Bawah"},
+                    {"gejala" : "Sakit Saat BAK"},
+                    {"gejala" : "Sakit perut atau bahkan kram"},
+                    {"gejala" : "Sakit Tajam di Sisi Panggu"}
                 ]
             },
                 {
@@ -1235,6 +1776,14 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : " minum ramuan 3x sehari, masing-masing 3 sendok makan"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Tubuh demam dan menggigil"},
+                    {"gejala" : "sesak napas"},
+                    {"gejala" : "Lemas"},
+                    {"gejala" : "Sakit tenggorokan dan pusing"},
+                    {"gejala" : "Terdengar bunyi saat bernapas"},
+                    {"gejala" : "Nyeri pada dada saat batuk"}
                 ]
             },
                 {
@@ -1251,6 +1800,14 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "balurkan ramuan pada ruam dan kulit yang terkena cacar"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Kelelahan atau perasaan tidak nyaman dan merasa tidak sehat (malaise)"},
+                    {"gejala" : "Demam yang berlangsung 3-5 hari dan biasanya kurang dari 39 °C"},
+                    {"gejala" : "Kehilangan selera makan"},
+                    {"gejala" : "Nyeri otot atau sendi"},
+                    {"gejala" : "Gejala seperti pilek seperti batuk atau pilek"},
+                    {"gejala" : "Sakit kepala"}
                 ]
             },
                 {
@@ -1267,6 +1824,16 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan sedikit demi sedikit"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Kelelahan"},
+                    {"gejala" : "Sakit perut"},
+                    {"gejala" : "Perut kembung"},
+                    {"gejala" : "mual"},
+                    {"gejala" : "muntah"},
+                    {"gejala" : "Diare"},
+                    {"gejala" : "Disdentri"},
+                    {"gejala" : "Kehilangan nafsu makan"}
                 ]
             },
                 {
@@ -1286,6 +1853,12 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1/2 gelas"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Diare dengan kram perut"},
+                    {"gejala" : "Demam"},
+                    {"gejala" : "Mual dan muntah"},
+                    {"gejala" : "Darah atau lendir pada diare"}
                 ]
             },
                 {
@@ -1302,6 +1875,13 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "masukan daun yang sudah di gulung, ke dalam lubang hidung yang mimisan"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Alergi"},
+                    {"gejala" : "Kebiasaan membuang hingus terlalu kencang"},
+                    {"gejala" : "Cedera pada hidung"},
+                    {"gejala" : "Sinusitis kronis"},
+                    {"gejala" : "Infeksi yang menyebabkan hidung tersumbat"}
                 ]
             },
                 {
@@ -1320,6 +1900,15 @@
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan sekaligus, sampai sehat kembali"}
             
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Sakit tenggorokan"},
+                    {"gejala" : "Hidung meler"},
+                    {"gejala" : "Nyeri otot atau tubuh"},
+                    {"gejala" : "Sakit kepala"},
+                    {"gejala" : "Kelelahan"},
+                    {"gejala" : "Demam"},
+                    {"gejala" : "Batuk"}
                 ]
             },
                 {
@@ -1337,6 +1926,15 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "gunakan ramuan untuk mata yang sakit, lakukan 3x sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Mata merah"},
+                    {"gejala" : "Terasa nyeri"},
+                    {"gejala" : "Gatal"},
+                    {"gejala" : "Kering"},
+                    {"gejala" : "Berair"},
+                    {"gejala" : "Pandangan yang kabur"},
+                    {"gejala" : "Kepala terasa pusing saat memfokuskan titik penglihatan pada satu objek"}
                 ]
             },
                 {
@@ -1357,9 +1955,42 @@
 
                 "aturan_pakai" : [
                     {"pemakaian" : "minum ramuan 2x sehari, masing-masing 1 gelas"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Pusing atau sakit kepala"},
+                    {"gejala" : "Demam"},
+                    {"gejala" : "Perut kembung"},
+                    {"gejala" : "Mual atau muntah"},
+                    {"gejala" : "Radang tenggorokan"},
+                    {"gejala" : "Pilek dan batuk"},
+                    {"gejala" : "Hidung tersumbat"},
+                    {"gejala" : "Lemas"}
                 ]
-            
-                
+            },
+                {            
+                "nama_penyakit" : "Radang Gusi",
+                "semua_bahan" : [
+                    {"bahan" : "kunyit", "jumlah" : 0.5, "satuan" : "buah"},
+                    {"bahan" : "gambir", "jumlah" : 3, "satuan" : "potong"},
+                    {"bahan" : "air matang", "jumlah" : 2, "satuan" : "gelas"}
+                ],
+    
+                "cara_pembuatan" : [
+                    {"resep" : "kunyit dicuci dan diiris tipis-tipis"},
+                    {"resep" : "rebus dengan 3 gelas air bersama gambir hingga tersisa kira kira1 gelas air"}
+                ],
+    
+                "aturan_pakai" : [
+                    {"pemakaian" : "gunakan untuk berkumur 3-4mkali sehari"}
+                ],
+                "gejala_penyakit" :[
+                    {"gejala" : "Perubahan warna gusi menjadi merah"},
+                    {"gejala" : "Gusi yang bengkak"},
+                    {"gejala" : "Bau mulut yang tidak sedap (halitosis)"},
+                    {"gejala" : "Perdarahan dari gusi saat menyikat gigi atau flossing"},
+                    {"gejala" : "Gusi mungkin terasa menyakitkan ketika disentuh"},
+                    {"gejala" : "Gusi menjadi lembut dan sensitif"}
+                ]
                 
 
             
