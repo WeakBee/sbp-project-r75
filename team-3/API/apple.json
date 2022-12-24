@@ -4,7 +4,7 @@
         "Brand": "Apple",
         "Nama": "Iphone 14 Pro Max",
         "Tahun": "2022",
-        "Harga": 1,
+        "Harga": 21999000,
         "Spesifikasi": [
             {
                 "OS": "iOS 16",
@@ -24,7 +24,7 @@
         "Brand": "Apple",
         "Nama": "iPhone 14 Pro",
         "Tahun": "2022",
-        "Harga": 1,
+        "Harga": 19999000,
         "Spesifikasi": [
             {
                 "OS": "iOS 16",
@@ -44,7 +44,7 @@
         "Brand": "Apple",
         "Nama": "iPhone 14",
         "Tahun": "2022",
-        "Harga": 1,
+        "Harga":  15999000,
         "Spesifikasi": [
             {
                 "OS": "iOS 16",
@@ -64,7 +64,7 @@
         "Brand": "Apple",
         "Nama":"iPhone 14 Plus",
         "Tahun": "2022",
-        "Harga": 1,
+        "Harga": 17999000,
         "Spesifikasi": [
             {
                 "OS": "iOS 16",
@@ -84,7 +84,7 @@
         "Brand": "Apple",
         "Nama": "iPhone SE (2022)",
         "Tahun": "2022",
-        "Harga": 1,
+        "Harga": 7999000,
         "Spesifikasi": [
             {
                 "OS": "iOS 16",
