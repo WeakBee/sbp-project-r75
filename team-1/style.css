@@ -81,6 +81,15 @@ a{
 #first .container{
     padding-bottom: 80px;
 }
+.madeby{
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.nama-team{
+    font-size: 12px;
+    margin-bottom: 0;
+}
 #first .kolom {
     text-align: center;
 }
@@ -98,7 +107,7 @@ a{
     background-color: var(--warna1);
     padding: 15px 30px;
     color: white;
-    margin-top: 51px;
+    margin-top: 30px;
     border: none;
     border: 2px solid var(--warna1);
     margin-left: -90px;

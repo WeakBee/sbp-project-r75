@@ -8,7 +8,6 @@
 }
 *{
     font-family: 'Inter', sans-serif;
-    color: var(--warna4);
 }
 section{
     padding-top: 60px;
@@ -30,31 +29,21 @@ section{
     padding: 5px;
 }   
 .kolom-kategori .kartu-kategori{
-    position: relative;
     overflow: hidden;
-    background-color: rgba(255, 255, 255, 0.5);
+    position: relative;
+    background-color: rgba(122, 122, 122, 0.5);
     border-radius: 20px;
     padding: 20px;
-    box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.527),
+    box-shadow: inset 1px 1px 1px rgba(71, 71, 71, 0.527),
                 5px 5px 7px rgba(0, 0, 0, 0.267);
     cursor: pointer;
     text-align: center;
     transition: 0.3s;
 }
-.kolom-kategori .pilih{
-    background-color: white;
+.kolom-kategori .kartu-kategori:hover{
+    transform: scale(1.1);
 }
-.kolom-kategori .pilih::after{
-    position: absolute;
-    content: "";
-    right: -40px;
-    top: 20px;
-    background-color: black;
-    width: 140px;
-    height: 30px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.267);
-    transform: rotate(45deg);
-}
+
 .kolom-kategori .kartu-kategori p{
     text-transform: capitalize;
 }
@@ -96,7 +85,7 @@ p{
 .tab-pane{
     padding: 15px 25px;
     border-radius: 25px;
-    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.377);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.377);
 }
 #nav-sayur , #nav-sayur-tab , #nav-sayur .judul-bahan-masakan{
     background-color: #9e0142;
@@ -110,24 +99,16 @@ p{
     background-color: #f46d43;
     color: white;
 }
-#nav-buah , #nav-buah-tab , #nav-buah .judul-bahan-masakan{
-    background-color: #fdae61;
+#nav-minyak , #nav-minyak-tab , #nav-minyak .judul-bahan-masakan{
+    background-color: #b38b1e;
     color: white;
 }
-#nav-minyak , #nav-minyak-tab , #nav-minyak .judul-bahan-masakan{
-    background-color: #fee08b;
-    color: black;
-}
 #nav-tepung , #nav-tepung-tab , #nav-tepung .judul-bahan-masakan{
-    background-color: #e6f598;
-    color: black;
+    background-color: #829716;
+    color: white;
 }
 #nav-nabati , #nav-nabati-tab , #nav-nabati .judul-bahan-masakan{
-    background-color: #abdda4;
-    color: black;
-}
-#nav-saus , #nav-saus-tab , #nav-saus .judul-bahan-masakan{
-    background-color: #66c2a5;
+    background-color: #209610;
     color: white;
 }
 #nav-penyedap , #nav-penyedap-tab , #nav-penyedap .judul-bahan-masakan{
@@ -137,6 +118,47 @@ p{
 #nav-lainlain , #nav-lainlain-tab , #nav-lainlain .judul-bahan-masakan{
     background-color: #5e4fa2;
     color: white;
+}
+
+#nav-sayur .kartu-kategori.pilih{
+    background: url(../assets/icon/sayuran.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-rempah .kartu-kategori.pilih{
+    background: url(../assets/icon/rempah.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-hewan .kartu-kategori.pilih{
+    background: url(../assets/icon/hewan.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-minyak .kartu-kategori.pilih{
+    background: url(../assets/icon/minyak.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-tepung .kartu-kategori.pilih{
+    background: url(../assets/icon/tepung.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-nabati .kartu-kategori.pilih{
+    background: url(../assets/icon/nabati.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-penyedap .kartu-kategori.pilih{
+    background: url(../assets/icon/penyedap.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+#nav-lainlain .kartu-kategori.pilih{
+    background: url(../assets/icon/lainlain.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
 }
 
 .nav-link{
@@ -372,13 +394,6 @@ p{
 
 
 
-/* POPUP */
-@media (min-width: 991.98px) {
-    .kolom-kategori .kartu-kategori:hover{
-        background-color: white;
-        transform: scale(1.1);
-    }
-}
 @media (max-width: 991.98px) {
     .kontainer-kotak-resep{
         padding: 10px;
