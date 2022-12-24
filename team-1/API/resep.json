@@ -30,7 +30,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "Ayam goreng adalah hidangan Indonesia yang merupakan ayam yang digoreng dalam minyak goreng. Dalam dunia internasional, istilah ayam goreng merujuk kepada cara Indonesia dalam memasak ayam yang digoreng. Kebanyakan ayam goreng khas Nusantara tidak dilapisi tepung, dan memiliki bumbu yang lebih kaya.",
         "semua_bahan" : [
-            {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : ""},
+            {"bahan" : "ayam","jumlah" : 1, "satuan" :"kg", "cat" : ""},
             {"bahan" : "sajiku bumbu ayam goreng","jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "air","jumlah" : 650, "satuan" :"ml", "cat" : ""},
             {"bahan" : "minyak goreng","jumlah" : 600, "satuan" :"ml", "cat" : ""},
@@ -81,7 +81,7 @@
             {"resep" : "Lumuri ikan kembung dengan jeruk limau, diamkan selama 3 menit."},
             {"resep" : "Setelah itu lumuri dengan Sajiku® Bumbu Praktis Ikan Goreng, diamkan selama 15 menit."},
             {"resep" : "Goreng ikan dalam minyak goreng panas hingga kuning kecoklatan, angkat dan sajikan."},
-            {"resep" : "Sambal Matah; masak terasi dengan minyak kelapa. Setelah beberapa saat masukkan sereh dan bawang putih. Masak dengan api sangat kecil, sampai sereh menjadi wandi dan jangan sampai bawang putih menjadi coklat. Letakkan bawang merah, cabai dan daun jeruk di dalam mangkuk, lalu masukkan air jeruk limau tambahkan garam dan AJI-NO-MOTO®, lalu aduk rata."},
+            {"resep" : "Sambal Matah; masak terasi dengan minyak kelapa. Setelah beberapa saat masukkan serai dan bawang putih. Masak dengan api sangat kecil, sampai serai menjadi wandi dan jangan sampai bawang putih menjadi coklat. Letakkan bawang merah, cabai dan daun jeruk di dalam mangkuk, lalu masukkan air jeruk limau tambahkan garam dan AJI-NO-MOTO®, lalu aduk rata."},
             {"resep" : "Sajikan ikan goreng dengan sambal matah."}
         ]
     }, 
@@ -132,7 +132,7 @@
             {"bahan" : "ikan tuna","jumlah" : 170, "satuan" :"gr", "cat" : "cincang kasar"},
             {"bahan" : "wortel","jumlah" : 70, "satuan" :"gr", "cat" : "cincang kasar"},
             {"bahan" : "buncis","jumlah" : 3, "satuan" :"buah", "cat" : "potong 1 cm"},
-            {"bahan" : "telur","jumlah" : 0.5, "satuan" :"btr", "cat" : "kocok"},
+            {"bahan" : "telur ayam","jumlah" : 0.5, "satuan" :"btr", "cat" : "kocok"},
             {"bahan" : "maizena","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "air","jumlah" : 100, "satuan" :"ml", "cat" : ""},
             {"bahan" : "sajiku golden crispy","jumlah" : 1, "satuan" :"bks", "cat" : ""},
@@ -163,7 +163,7 @@
             {"bahan" : "gula jawa","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "air","jumlah" : 70, "satuan" :"ml", "cat" : ""},
             {"bahan" : "garam","jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
-            {"bahan" : "cabai merah kriting","jumlah" : 5, "satuan" :"buah", "cat" : ""},
+            {"bahan" : "cabai merah keriting","jumlah" : 5, "satuan" :"buah", "cat" : ""},
             {"bahan" : "cabai rawit merah","jumlah" : 2, "satuan" :"buah", "cat" : ""},
             {"bahan" : "bawang merah","jumlah" : 6, "satuan" :"btr", "cat" : ""},
             {"bahan" : "bawang putih","jumlah" : 3, "satuan" :"btr", "cat" : ""},
@@ -186,7 +186,7 @@
         "jenis" : ["Daerah","Lauk"],
         "deskripsi" : "Opor ayam adalah masakan Indonesia dari Jawa Tengah yang terdiri dari ayam yang dimasak dengan santan. Campuran bumbunya antara lain lengkuas, serai, kayu manis, air asam jawa, gula aren, ketumbar, jinten, kemiri, bawang putih, bawang merah, dan merica.",
         "semua_bahan" : [
-            {"bahan" : "daging ayam","jumlah" : 1, "satuan" :"kg", "cat" : "(potong 10 bagian)"},
+            {"bahan" : "ayam","jumlah" : 1, "satuan" :"kg", "cat" : "(potong 10 bagian)"},
             {"bahan" : "santan kental","jumlah" : 300, "satuan" :"ml", "cat" : ""},
             {"bahan" : "santan encer","jumlah" : 70, "satuan" :"ml", "cat" : ""},
             {"bahan" : "daun jeruk","jumlah" : 5, "satuan" :"lbr", "cat" : ""},
@@ -358,7 +358,7 @@
         "semua_bahan" : [
             {"bahan" : "ayam", "jumlah" : 1, "satuan" :"kg", "cat" : "potong 8"},
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
-            {"bahan" : "biji ketumbar", "jumlah" : 1, "satuan" :"sdm", "cat" : "sangrai"},
+            {"bahan" : "ketumbar", "jumlah" : 1, "satuan" :"sdm", "cat" : "sangrai"},
             {"bahan" : "kemiri", "jumlah" : 5, "satuan" :"btr", "cat" : "sangrai"},
             {"bahan" : "kunyit", "jumlah" : 2, "satuan" :"cm", "cat" : "kupas dan bakar hingga berubah warna"},
             {"bahan" : "jahe", "jumlah" : 1, "satuan" :"cm", "cat" : "kupas"},
@@ -368,10 +368,10 @@
             {"bahan" : "sajiku bumbu ayam goreng", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "air", "jumlah" : 200, "satuan" :"ml", "cat" : ""},
             {"bahan" : "merica bubuk", "jumlah" : 0.25, "satuan" :"sdt", "cat" : ""},
-            {"bahan" : "minyak", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
+            {"bahan" : "minyak goreng", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
         ],
         "cara" : [
-            {"resep" : "Haluskan bawang putih, biji ketumbar, kemiri, kunyit dan jahe."},
+            {"resep" : "Haluskan bawang putih, ketumbar, kemiri, kunyit dan jahe."},
             {"resep" : "Panaskan minyak dalam wajan dengan api sedang. Tumis bumbu halus hingga harum, tambahkan daun salam, serai dan setengah dari lengkuas parut. Tumis kembali hingga bumbu matang. Tambahkan garam, lada dan sedikit air."},
             {"resep" : "Masukkan potongan ayam, air, merica bubuk dan Sajiku® Ayam Goreng. Aduk rata dan masak (ungkep) dengan api kecil hingga ayam matang dan bumbu surut. Bolak-balik ayam sesekali. Apabila perlu, tambahkan air selama pemasakan."},
             {"resep" : "Angkat ayam, tiriskan, dan tinggalkan sisa bumbu dalam wajan. Tambahkan sisa parutan lengkuas ke dalam bumbu. Masak kembali selama 5 menit."},
@@ -448,19 +448,19 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "Ayam geprek adalah makanan ayam goreng tepung khas Indonesia yang diulek atau dilumatkan bersama sambal bajak. Sebagian besar sumber menyebut bahwa ayam geprek berasal dari Kota Yogyakarta. Kini, ayam geprek telah menjadi hidangan populer yang dapat ditemukan di hampir semua kota besar di Indonesia.",
         "semua_bahan" : [
-            {"bahan" : "ayam potong", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
+            {"bahan" : "ayam", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
             {"bahan" : "sajiku tepung bumbu", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
             {"bahan" : "air es", "jumlah" : 4, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
             {"bahan" : "cabai merah besar", "jumlah" : 2, "satuan" :"buah", "cat" : ""},
             {"bahan" : "cabai rawit", "jumlah" : 6, "satuan" :"buah", "cat" : ""},
             {"bahan" : "bawang merah", "jumlah" : 6, "satuan" :"siung", "cat" : ""},
-            {"bahan" : "sereh", "jumlah" : 2, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "serai", "jumlah" : 2, "satuan" :"btg", "cat" : ""},
             {"bahan" : "terasi", "jumlah" : 0.5, "satuan" :"sdt", "cat" : ""},
             {"bahan" : "garam", "jumlah" : 0.25, "satuan" :"sdt", "cat" : ""}
         ],
         "cara" : [
-            {"resep" : "Iris cabai merah besar, cabai rawit, bawang merah, dan sereh. Panaskan 3 sdm minyak goreng, tumis irisan cabai merah besar, cabai rawit, bawang merah, dan sereh hingga harum. Sisihkan."},
+            {"resep" : "Iris cabai merah besar, cabai rawit, bawang merah, dan serai. Panaskan 3 sdm minyak goreng, tumis irisan cabai merah besar, cabai rawit, bawang merah, dan serai hingga harum. Sisihkan."},
             {"resep" : "Buat adonan basah: campur 2 sdm Sajiku® Tepung Bumbu dengan 4 sdm air es. Sisanya digunakan sebagai adonan kering."},
             {"resep" : "Masukkan ayam ke dalam adonan basah, gulingkan ke adonan kering sambil diremas-remas hingga terbentuk kulit yang keriting, ketuk-ketuk agar sisa tepung hilang."},
             {"resep" : "Panaskan minyak goreng, goreng ayam hingga kuning kecoklatan. Angkat dan geprek, sajikan bersama sambal matah."}
@@ -497,7 +497,7 @@
         "deskripsi" : "Kwetiau goreng adalah kwetiau yang digoreng yang merupakan masakan Tionghoa Indonesia, itu adalah hidangan mie yang digoreng yang beraroma dan pedas yang umum dijumpai di Indonesia.",
         "semua_bahan" : [
             {"bahan" : "kwetiau", "jumlah" : 200, "satuan" :"gr", "cat" : ""},
-            {"bahan" : "telur", "jumlah" : 2, "satuan" :"buah", "cat" : "kocok"},
+            {"bahan" : "telur ayam", "jumlah" : 2, "satuan" :"buah", "cat" : "kocok"},
             {"bahan" : "ayam rebus", "jumlah" : 30, "satuan" :"gr", "cat" : "suwir"},
             {"bahan" : "sajiku bumbu nasi goreng rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "sawi hijau", "jumlah" : 5, "satuan" :"btg", "cat" : ""},
@@ -518,7 +518,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "Ayam Krispi Saus Korea terdiri dari banyak hidangan ayam goreng yang diciptakan di Korea Selatan, termasuk huraideu-chicken dan ayam goreng berbumbu pedas yangnyeom chicken. Makanan ini dikomsumsi sebagai makanan utama, makanan cepat saji di bar, atau sebagai makanan ringan setelah makan di Korea.",
         "semua_bahan" : [
-            {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
+            {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "3 potong"},
             {"bahan" : "sajiku tepung bumbu golden crispy", "jumlah" : 1, "satuan" :"bks", "cat" : "80 gr"},
             {"bahan" : "air", "jumlah" : 5, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "minyak goreng", "jumlah" : 600, "satuan" :"ml", "cat" : ""},
@@ -544,7 +544,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "Ungkep ayam adalah cara mengolah ayam dengan diungkep atau direbus menggunakan api kecil dengan tujuan agar bumbunya lebih meresap hingga airnya habis. Ini membuat bumbu lebih bisa meresap hingga ke dalam alih-alih hanya dimasak biasa.",
         "semua_bahan" : [
-            {"bahan" : "daging ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "4 potong"},
+            {"bahan" : "ayam", "jumlah" : 250, "satuan" :"gr", "cat" : "4 potong"},
             {"bahan" : "saori saus tiram", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "bawang merah", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
             {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : ""},
@@ -615,7 +615,7 @@
             {"bahan" : "kulit siomay", "jumlah" : 8, "satuan" :"buah", "cat" : ""},
             {"bahan" : "sajiku bumbu nasi goreng rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "ayam cincang", "jumlah" : 300, "satuan" :"gr", "cat" : ""},
-            {"bahan" : "telor", "jumlah" : 1, "satuan" :"buah", "cat" : "kocok"},
+            {"bahan" : "telur ayam", "jumlah" : 1, "satuan" :"buah", "cat" : "kocok"},
             {"bahan" : "daun bawang", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
             {"bahan" : "keju mudah leleh", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
             {"bahan" : "wortel rebus", "jumlah" : 20, "satuan" :"gr", "cat" : ""},
@@ -645,7 +645,7 @@
             {"bahan" : "daun pisang", "jumlah" : 0, "satuan" :"", "cat" : "secukupnya"}
         ],
         "cara" : [
-            {"resep" : "Iris-iris sereh dan cabai rawit"},
+            {"resep" : "Iris-iris serai dan cabai rawit"},
             {"resep" : "Buat bumbu : Campur ½ bks Sajiku® Ayam Goreng, ½ bks Sajiku® Soto Ayam, serai, cabai rawit dan minyak goreng, aduk rata"},
             {"resep" : "Bumbui daun singkong dengan ½ campuran bumbu Sajiku® lalu masukkan daun singkong ke dalam perut ayam"},
             {"resep" : "Lumuri ayam dengan sisa ½ campuran bumbu Sajiku® kemudian bungkus ayam dengan daun pisang. Kukus hingga matang (±45 menit), angkat dan sajikan"}
@@ -690,13 +690,13 @@
             {"bahan" : "cabai rawit", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
             {"bahan" : "kunyit", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
             {"bahan" : "jahe", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
-            {"bahan" : "sereh", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "serai", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
             {"bahan" : "air", "jumlah" : 100, "satuan" :"ml", "cat" : ""}
         ],
         "cara" : [
             {"resep" : "Masukkan bawang merah, bawang putih, cabai merah, cabai rawit, kunyit, jahe, dan air, haluskan, sisihkan"},
             {"resep" : "Panaskan minyak goreng, tumis bumbu halus"},
-            {"resep" : "Masukkan ayam, daun jeruk, sereh, air, AJI-NO-MOTO® dan garam, masak hingga ayam matang"},
+            {"resep" : "Masukkan ayam, daun jeruk, serai, air, AJI-NO-MOTO® dan garam, masak hingga ayam matang"},
             {"resep" : "Tambahkan kemangi, aduk sesaat, angkat, dan sajikan"}
         ]
     },
@@ -708,7 +708,7 @@
         "deskripsi" : "",
         "semua_bahan" : [
             {"bahan" : "kulit pangsit", "jumlah" : 24, "satuan" :"buah", "cat" : ""},
-            {"bahan" : "daging ayam", "jumlah" : 200, "satuan" :"gr", "cat" : "cincang"},
+            {"bahan" : "ayam", "jumlah" : 200, "satuan" :"gr", "cat" : "cincang"},
             {"bahan" : "tahu putih", "jumlah" : 1, "satuan" :"buah", "cat" : ""},
             {"bahan" : "wortel", "jumlah" : 40, "satuan" :"gr", "cat" : ""},
             {"bahan" : "masako rasa ayam", "jumlah" : 1, "satuan" :"bks", "cat" : "11 gr"},
@@ -1014,7 +1014,7 @@
         "semua_bahan" : [
             {"bahan" : "kulit dadar", "jumlah" : 8, "satuan" :"lbr", "cat" : ""},
             {"bahan" : "daging ayam rebus", "jumlah" : 180, "satuan" :"gr", "cat" : "suwir"},
-            {"bahan" : "telur", "jumlah" : 2, "satuan" :"btr", "cat" : "kocok"},
+            {"bahan" : "telur ayam", "jumlah" : 2, "satuan" :"btr", "cat" : "kocok"},
             {"bahan" : "tepung roti", "jumlah" : 100, "satuan" :"gr", "cat" : ""},
             {"bahan" : "tepung terigu", "jumlah" : 30, "satuan" :"gr", "cat" : ""},
             {"bahan" : "kentang", "jumlah" : 50, "satuan" :"gr", "cat" : ""},
@@ -1044,7 +1044,7 @@
             {"bahan" : "bawang putih", "jumlah" : 2, "satuan" :"siung", "cat" : ""},
             {"bahan" : "cabai kriting", "jumlah" : 6, "satuan" :"buah", "cat" : ""},
             {"bahan" : "laos", "jumlah" : 1, "satuan" :"ruas", "cat" : ""},
-            {"bahan" : "sereh", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
+            {"bahan" : "serai", "jumlah" : 1, "satuan" :"btg", "cat" : ""},
             {"bahan" : "daun salam", "jumlah" : 2, "satuan" :"btg", "cat" : ""},
             {"bahan" : "daun jeruk", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
             {"bahan" : "aji no moto", "jumlah" : 1, "satuan" :"sdt", "cat" : ""},
@@ -1055,7 +1055,7 @@
         ],
         "cara" : [
             {"resep" : "Buat bumbu halus: masukkan bawang merah, bawang putih, cabai keriting, dan air, haluskan."},
-            {"resep" : "Panaskan minyak goreng, masukkan bumbu halus, laos, sereh, daun jeruk, daun salam tumis hingga harum."},
+            {"resep" : "Panaskan minyak goreng, masukkan bumbu halus, laos, serai, daun jeruk, daun salam tumis hingga harum."},
             {"resep" : "Masukkan ayam, air asam, AJI-NO-MOTO® dan garam, masak hingga matang."}
         ]
     },
@@ -1088,7 +1088,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "daging ayam", "jumlah" : 500, "satuan" :"gr", "cat" : "potong jadi 8 bagian"},
+            {"bahan" : "ayam", "jumlah" : 500, "satuan" :"gr", "cat" : "potong jadi 8 bagian"},
             {"bahan" : "bawang bombay", "jumlah" : 0.5, "satuan" :"buah", "cat" : ""},
             {"bahan" : "saori saos rasa mentega", "jumlah" : 1, "satuan" :"bks", "cat" : ""},
             {"bahan" : "minyak goreng", "jumlah" : 700, "satuan" :"ml", "cat" : ""},
@@ -1108,7 +1108,7 @@
         "jenis" : ["Lauk", "Daerah"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "daging ayam", "jumlah" : 6, "satuan" :"ptg", "cat" : ""},
+            {"bahan" : "ayam", "jumlah" : 6, "satuan" :"ptg", "cat" : ""},
             {"bahan" : "cabai merah", "jumlah" : 3, "satuan" :"buah", "cat" : ""},
             {"bahan" : "bawang putih", "jumlah" : 3, "satuan" :"siung", "cat" : ""},
             {"bahan" : "bawang merah", "jumlah" : 7, "satuan" :"siung", "cat" : ""},
@@ -1244,7 +1244,7 @@
         "jenis" : ["Lauk"],
         "deskripsi" : "",
         "semua_bahan" : [
-            {"bahan" : "daging ayam", "jumlah" : 400, "satuan" :"gr", "cat" : "3 potong"},
+            {"bahan" : "ayam", "jumlah" : 400, "satuan" :"gr", "cat" : "3 potong"},
             {"bahan" : "saori saos teriyaki", "jumlah" : 50, "satuan" :"ml", "cat" : "6 sdm"},
             {"bahan" : "mentega", "jumlah" : 10, "satuan" :"gr", "cat" : ""},
             {"bahan" : "minyak wijen", "jumlah" : 1, "satuan" :"sdt", "cat" : ""}
@@ -1289,7 +1289,7 @@
             {"bahan" : "minyak wijen","jumlah" : 1, "satuan" :"sdm", "cat" : ""},
             {"bahan" : "cabai merah","jumlah" : 2, "satuan" :"buah", "cat" : "Buang Biji Iris Serong Tipis"},
             {"bahan" : "kangkung","jumlah" : 2, "satuan" :"ikat", "cat" : "Petiki Daunnya"},
-            {"bahan" : "minyak","jumlah" : 3, "satuan" :"sdm", "cat" : "Untuk Menumis"}
+            {"bahan" : "minyak goreng","jumlah" : 3, "satuan" :"sdm", "cat" : "Untuk Menumis"}
         ],
         "cara" : [
             {"resep" : "Panaskan minyak didalam wajan di atas api sedang. Tumis bawang merah dan bawang putih hingga harum."},
@@ -1344,7 +1344,7 @@
             {"bahan" : "bawang putih", "jumlah" : 6, "satuan" : "siung", "cat" : ""},
             {"bahan" : "kencur", "jumlah" : 1, "satuan" : "g", "cat" : "kira-kira seruas ibu jari, memarkan"},
             {"bahan" : "merica putih bubuk", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
-            {"bahan" : "ketumbar butiran", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
+            {"bahan" : "ketumbar", "jumlah" : 1, "satuan" : "sdt", "cat" : ""},
             {"bahan" : "kemiri", "jumlah" : 5, "satuan" : "buah", "cat" : "sangrai"},
             {"bahan" : "garam", "jumlah" : 2, "satuan" : "sdt", "cat" : ""},
             {"bahan" : "gula pasir", "jumlah" : 1, "satuan" : "sdt", "cat" : ""}
