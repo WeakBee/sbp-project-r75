@@ -38,11 +38,37 @@ $.getJSON('../API/Warna.json', function (data){
     });
 });
 
-
-
-$( ".row" ).delegate( ".kartu-kategori", "click", function() {
+$( ".row" ).delegate( ".kartu-kategori-golongan", "click", function() {
+    $(".kartu-kategori-golongan").removeClass("pilih");
     $(this).toggleClass("pilih");
-    if($( ".kartu-kategori" ).hasClass( "pilih" )){
+    if($( ".kartu-kategori-golongan" ).hasClass( "pilih" ) && $( ".kartu-kategori-habitat" ).hasClass( "pilih" ) && $( ".kartu-kategori-warna" ).hasClass( "pilih" ) && $( ".kartu-kategori-berat" ).hasClass( "pilih" )){
+        $( ".tombol-selesai" ).addClass("nyala");
+    } else{
+        $( ".tombol-selesai" ).removeClass("nyala")
+    }
+});
+$( ".row" ).delegate( ".kartu-kategori-habitat", "click", function() {
+    $(".kartu-kategori-habitat").removeClass("pilih");
+    $(this).toggleClass("pilih");
+    if($( ".kartu-kategori-golongan" ).hasClass( "pilih" ) && $( ".kartu-kategori-habitat" ).hasClass( "pilih" ) && $( ".kartu-kategori-warna" ).hasClass( "pilih" ) && $( ".kartu-kategori-berat" ).hasClass( "pilih" )){
+        $( ".tombol-selesai" ).addClass("nyala");
+    } else{
+        $( ".tombol-selesai" ).removeClass("nyala")
+    }
+});
+$( ".row" ).delegate( ".kartu-kategori-warna", "click", function() {
+    $(".kartu-kategori-warna").removeClass("pilih");
+    $(this).toggleClass("pilih");
+    if($( ".kartu-kategori-golongan" ).hasClass( "pilih" ) && $( ".kartu-kategori-habitat" ).hasClass( "pilih" ) && $( ".kartu-kategori-warna" ).hasClass( "pilih" ) && $( ".kartu-kategori-berat" ).hasClass( "pilih" )){
+        $( ".tombol-selesai" ).addClass("nyala");
+    } else{
+        $( ".tombol-selesai" ).removeClass("nyala")
+    }
+});
+$( ".row" ).delegate( ".kartu-kategori-berat", "click", function() {
+    $(".kartu-kategori-berat").removeClass("pilih");
+    $(this).toggleClass("pilih");
+    if($( ".kartu-kategori-golongan" ).hasClass( "pilih" ) && $( ".kartu-kategori-habitat" ).hasClass( "pilih" ) && $( ".kartu-kategori-warna" ).hasClass( "pilih" ) && $( ".kartu-kategori-berat" ).hasClass( "pilih" )){
         $( ".tombol-selesai" ).addClass("nyala");
     } else{
         $( ".tombol-selesai" ).removeClass("nyala")
@@ -79,6 +105,8 @@ $(".tombol-selesai").click(function(){
         let rekomendasi = [];
         let allhewansort = [];
         let rekomendasi2 = [];
+        let rekomendasi3 = [];
+        let rekomendasi4 = [];
 
         $(".kartu-kategori-golongan.pilih").each(function(i){
             ingingolongan.push($(this).attr("golongan"));
@@ -182,8 +210,6 @@ $(".tombol-selesai").click(function(){
         },300);
 
         setTimeout(function() {
-            console.log(allhewan);
-            console.log(allhewansort);
             for (let i = 0; i < allhewansort.length; i++) {
                 if(pilihsatuaja.length == 1){
                     rekomendasi.push(allhewansort[i]);
@@ -191,12 +217,21 @@ $(".tombol-selesai").click(function(){
                     rekomendasi.push(allhewansort[i]);
                 }
             }
+            for (let i = 0; i < rekomendasi.length; i++) {
+                if(rekomendasi[i] == rekomendasi[i-1]){
+                    rekomendasi2.push(rekomendasi[i]);
+                }
+            }
+            for (let i = 0; i < rekomendasi.length; i++) {
+                if(rekomendasi[i] == rekomendasi[i-1]){
+                    rekomendasi3.push(rekomendasi[i]);
+                }
+            }
         }, 500);
 
         setTimeout(function() {
-        console.log(rekomendasi);
-        let rekomendasi2 = unique(rekomendasi);
-        $.each(rekomendasi2, function(i,data){
+        let rekomendasi4 = unique(rekomendasi3);
+        $.each(rekomendasi4, function(i,data){
             $.getJSON('../API/reptile.json', function (data2){
                 $.each(data2, function(a,data3){
                     if(data === data3.Nama){
