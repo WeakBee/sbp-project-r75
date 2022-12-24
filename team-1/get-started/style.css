@@ -13,7 +13,6 @@
 section{
     padding-top: 60px;
     padding-bottom: 60px;
-    background: linear-gradient(311deg, rgba(245,173,15,1) 0%, rgba(252,207,101,1) 100%);
 }
 .container-lg{
     height: 100%;
@@ -65,8 +64,8 @@ p{
     font-weight: 500;
 }
 .judul-bahan-masakan{
-    color: white;
-    text-shadow: 2px 2px 2px black;
+    color: black;
+    font-weight: 800;
 }
 
 .row-button{
@@ -75,12 +74,13 @@ p{
 }
 .tombol-selesai{
     padding: 20px 0px;
-    background-color: rgba(255, 255, 255, 0.281);
-    color: rgba(255, 255, 255, 0.37);
+    background-color: rgba(0, 0, 0, 0.384);
+    color: white;
     border-radius: 15px;
     font-weight: 700;
     text-align: center;
     cursor: no-drop;
+    text-decoration: none;
 }
 .tombol-selesai.nyala{
     background-color: black;
@@ -88,10 +88,79 @@ p{
     cursor: pointer;
 }
 #second{
-    background: var(--warna2);
+    background: var(--warna1);
 }
 #second .col-lg-4{
     margin-bottom: 15px;
+}
+.tab-pane{
+    padding: 15px 25px;
+    border-radius: 25px;
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.377);
+}
+#nav-sayur , #nav-sayur-tab , #nav-sayur .judul-bahan-masakan{
+    background-color: #9e0142;
+    color: white;
+}
+#nav-rempah , #nav-rempah-tab , #nav-rempah .judul-bahan-masakan{
+    background-color: #d53e4f;
+    color: white;
+}
+#nav-hewan , #nav-hewan-tab , #nav-hewan .judul-bahan-masakan{
+    background-color: #f46d43;
+    color: white;
+}
+#nav-buah , #nav-buah-tab , #nav-buah .judul-bahan-masakan{
+    background-color: #fdae61;
+    color: white;
+}
+#nav-minyak , #nav-minyak-tab , #nav-minyak .judul-bahan-masakan{
+    background-color: #fee08b;
+    color: black;
+}
+#nav-tepung , #nav-tepung-tab , #nav-tepung .judul-bahan-masakan{
+    background-color: #e6f598;
+    color: black;
+}
+#nav-nabati , #nav-nabati-tab , #nav-nabati .judul-bahan-masakan{
+    background-color: #abdda4;
+    color: black;
+}
+#nav-saus , #nav-saus-tab , #nav-saus .judul-bahan-masakan{
+    background-color: #66c2a5;
+    color: white;
+}
+#nav-penyedap , #nav-penyedap-tab , #nav-penyedap .judul-bahan-masakan{
+    background-color: #3288bd;
+    color: white;
+}
+#nav-lainlain , #nav-lainlain-tab , #nav-lainlain .judul-bahan-masakan{
+    background-color: #5e4fa2;
+    color: white;
+}
+
+.nav-link{
+    text-decoration: none;
+    border: none;
+    font-weight: 500;
+}
+.nav-link:hover{
+    border: none;
+    border-color: transparent;
+    transform: scale(1.1);
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none;
+    border-color: transparent;
+    transform: scale(1.1);
+    z-index: 100;
+}
+.nav-tabs .nav-link {
+    margin-bottom: calc(-1 * var(--bs-nav-tabs-border-width));
+    background: 0 0;
+    border: none;
+    border-top-left-radius: none;
+    border-top-right-radius: none;
 }
 .kotak-resep{
     font-weight: 800;
@@ -100,7 +169,7 @@ p{
     position: relative;
     justify-content: center;
     align-items: center;
-    background-color: var(--warna5);
+    background-color: var(--warna2);
     padding-top: 25px;
     border-radius: 15px;
     margin-bottom: 25px;
@@ -117,7 +186,7 @@ p{
 }
 .loading-circle{
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.281);
+    background-color: #febc2fa8;
     width: 40px;
     height: 40px;
     display: flex;
@@ -132,7 +201,7 @@ p{
     position: absolute;
     height: 40px;
     width: 20px;
-    background-color: white;
+    background-color: var(--warna1);
     animation-name: rotate;
     animation-duration: 1.5s;
     animation-iteration-count: infinite;
@@ -140,7 +209,7 @@ p{
 }
 .circle-inside{
     position: absolute;
-    background-color: var(--warna5);
+    background-color: var(--warna2);
     width: 30px;
     height: 30px;
     border-radius: 50%;
@@ -214,7 +283,14 @@ p{
 .pemilik-resep{
     text-transform: capitalize;
 }
+.tab-content{
+    width: 100%;
+    z-index: 101;
+}
 
+#third{
+    background-color: rgb(255, 223, 206);
+}
 /* POPUP */
 #popup{
     position: fixed;
