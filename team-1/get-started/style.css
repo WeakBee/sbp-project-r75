@@ -211,7 +211,9 @@ p{
 #second .waktu-masak{
     color: #A8A8A8;
 }
-
+.pemilik-resep{
+    text-transform: capitalize;
+}
 
 /* POPUP */
 #popup{
