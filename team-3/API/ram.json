@@ -1,17 +1,17 @@
 [
     {
-        "RAM":"2GB"
+        "ram":"2GB"
     },
     {
-        "RAM":"3GB"
+        "ram":"3GB"
     },
     {
-        "RAM":"4GB"
+        "ram":"4GB"
     },
     {
-        "RAM":"6GB"
+        "ram":"6GB"
     },
     {
-        "RAM":"8GB"
+        "ram":"8GB"
     }
 ]

@@ -1,0 +1,2688 @@
+[
+    {
+        "Gambar": "",
+        "Brand": "Apple",
+        "Nama": "Iphone 14 Pro Max",
+        "Tahun": "2022",
+        "Harga": 21999000,
+        
+            
+                "OS": "iOS 16",
+                "Chipset": "Apple A16 Bionic (4 nm)",
+                "Prosesorinti": "Hexa Core",
+                "RAM": "6GB",
+                "Penyimpanan": "128GB, 256GB, 512GB, 1TB",
+                "Kamera_belakang": "48 + 12 + 12MP",
+                "kamera_depan": "12MP",
+                "Kapasitas_baterai": "4323 mAh",
+                "Sensor": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+            
+        
+    },
+    {
+        "Gambar": "",
+        "Brand": "Apple",
+        "Nama": "iPhone 14 Pro",
+        "Tahun": "2022",
+        "Harga": 19999000,
+        
+            
+                "OS": "iOS 16",
+                "Chipset": "Apple A16 Bionic (4 nm)",
+                "Prosesorinti": "Hexa Core",
+                "RAM": "6GB",
+                "Penyimpanan": "128GB, 256GB, 512GB, 1TB",
+                "Kamera_belakang": "48 + 12 + 12MP",
+                "kamera_depan": "12MP",
+                "Kapasitas_baterai": "3200 mAh",
+                "Sensor": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+            
+        
+    },
+    {
+        "Gambar": "",
+        "Brand": "Apple",
+        "Nama": "iPhone 14",
+        "Tahun": "2022",
+        "Harga":  15999000,
+        
+            
+                "OS": "iOS 16",
+                "Chipset": "Apple A15 Bionic (5 nm)",
+                "Prosesorinti": "Hexa Core",
+                "RAM": "6GB",
+                "Penyimpanan": "128GB, 256GB, 512GB",
+                "Kamera_belakang": "12 + 12MP",
+                "kamera_depan": "12MP",
+                "Kapasitas_baterai": "3279 mAh",
+                "Sensor": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+            
+        
+    },
+    {
+        "Gambar": "",
+        "Brand": "Apple",
+        "Nama":"iPhone 14 Plus",
+        "Tahun": "2022",
+        "Harga": 17999000,
+        
+            
+                "OS": "iOS 16",
+                "Chipset": "Apple A15 Bionic (5 nm)",
+                "Prosesorinti": "Hexa Core",
+                "RAM": "6GB",
+                "Penyimpanan": "128GB, 256GB, 512GB",
+                "Kamera_belakang": "12 + 12MP",
+                "kamera_depan": "12MP",
+                "Kapasitas_baterai": "4323 mAh",
+                "Sensor": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+            
+        
+    },
+    {
+        "Gambar": "",
+        "Brand": "Apple",
+        "Nama": "iPhone SE (2022)",
+        "Tahun": "2022",
+        "Harga": 7999000,
+        
+            
+                "OS": "iOS 16",
+                "Chipset": "Apple A15 Bionic (5 nm)",
+                "Prosesorinti": "Hexa Core",
+                "RAM": "4GB",
+                "Penyimpanan": "64GB, 128GB, 256GB",
+                "Kamera_belakang": "12MP",
+                "kamera_depan": "7MP",
+                "Kapasitas_baterai": "2018 mAh",
+                "Sensor": "Fingerprint (front-mounted), accelerometer, proximity, gyro, compass, barometer"
+            
+        
+    },
+    
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 20S",
+        "Tahun" : "2022",
+        "Harga" : 2369000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6781 Helio G96 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Zero Ultra",
+        "Tahun" : "2022",
+        "Harga" : 6469000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek Dimensity 920 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "200 + 13 + 2MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 Pro 5G",
+        "Tahun" : "2022",
+        "Harga" : "gadijual di indo ternyata wkwk",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128Gb, 256GB",
+                "Kamera_belakang" : "108 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12",
+        "Tahun" : "2022",
+        "Harga" : 2699000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "MediaTek Helio G88 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 12 Play",
+        "Tahun" : "2022",
+        "Harga" : 1689000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "13MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 G96",
+        "Tahun" : "2022",
+        "Harga" : 2699000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6781 Helio G96 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128Gb, 256GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 12",
+        "Tahun" : "2022",
+        "Harga" : 2149000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "13 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 20",
+        "Tahun" : "2022",
+        "Harga" : "gadijual di indo ternyata wkwk",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "128Gb, 256GB",
+                "Kamera_belakang" : "50MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Zero 20",
+        "Tahun" : "2022",
+        "Harga" : 3599000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 13 + 2 MP",
+                "kamera_depan" : "60MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 20 5G",
+        "Tahun" : "2022",
+        "Harga" : 2515000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Zero 5G",
+        "Tahun" : "2022",
+        "Harga" : 3999000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "48 + 13 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 (2023)",
+        "Tahun" : "2022",
+        "Harga" : 2799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 12i",
+        "Tahun" : "2022",
+        "Harga" : 1499000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Mediatek MT6761 Helio A22 (12 nm)",
+                "Prosesorinti" : "Quad Core",
+                "RAM" : "2GB, 3GB, 4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 20i",
+        "Tahun" : "2022",
+        "Harga" : 1449000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6762G Helio G25 (12 nm) / Mediatek MT6761 Helio A22 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "2GB, 3GB, 4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "13MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 20 Play",
+        "Tahun" : "2022",
+        "Harga" : "gadijual di indo ternyata wkwk",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6765 Helio G37 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "13MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 VIP",
+        "Tahun" : "2022",
+        "Harga" : 3836000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6781 Helio G96 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 13 + 2 MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 Pro",
+        "Tahun" : "2022",
+        "Harga" : "ganemu",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "108 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 11s NFC",
+        "Tahun" : "2022",
+        "Harga" : 1959000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "MediaTek Helio G88 (12nm)MediaTek Helio G88 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000MA",
+                "Sensor" : ""
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 12 Pro",
+        "Tahun" : "2022",
+        "Harga" : 2499000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Unisoc Tiger T616 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Smart 6 HD",
+        "Tahun" : "2022",
+        "Harga" : 1169000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Unisoc SC9863A (28nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12i",
+        "Tahun" : "2022",
+        "Harga" : 2299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12 5G",
+        "Tahun" : "2022",
+        "Harga" : "gadijual di indo ternyata wkwk",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 11 2022",
+        "Tahun" : "2022",
+        "Harga" : "ganemu",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Unisoc T610 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Note 12i 2022",
+        "Tahun" : "2022",
+        "Harga" : 2299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Infinix",
+        "Nama" : "Infinix Hot 12 Play NFC",
+        "Tahun" : "2022",
+        "Harga" : 1689000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Unisoc T610 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "13MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+
+         
+        
+    },
+    
+    {  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 10 Pro+",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 13",
+                "Chipset" : "MediaTek Dimensity 1080 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2MP",
+                "kamera_depan" : "12MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 10 Pro",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 13",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "108 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 10",
+        "Tahun" : "2022",
+        "Harga" : 2799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme C35",
+        "Tahun" : "2022",
+        "Harga" : 2299000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Unisoc Tiger T616 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 0.3MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9",
+        "Tahun" : "2022",
+        "Harga" : 3148000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "108 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9 Pro+",
+        "Tahun" : "2022",
+        "Harga" : 4999000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek Dimensity 920 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9 Pro",
+        "Tahun" : "2022",
+        "Harga" : 3997000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "64 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme C33",
+        "Tahun" : "2022",
+        "Harga" : 1599000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Unisoc Tiger T612 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 0.3MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT2 Pro",
+        "Tahun" : "2022",
+        "Harga" : 9499000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "50 + 50 + 3MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT Neo 3T",
+        "Tahun" : "2022",
+        "Harga" : 5299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9i",
+        "Tahun" : "2022",
+        "Harga" : 2797000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT Neo 3",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek Dimensity 8100 (5 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 10 5G",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Narzo 50",
+        "Tahun" : "2022",
+        "Harga" : 1989000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Mediatek Helio G96 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme C30",
+        "Tahun" : "2022",
+        "Harga" : 1499000,
+        
+        
+                "OS" : "Android 11",
+                "Chipset" : "Unisoc Tiger T612 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "2GB, 3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9i 5G",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT2 Explorer Master",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "50 + 50 + 3MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT2",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme C30s",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "2GB, 3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity"
+ 
+         
+        
+    },
+    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme C31",
+        "Tahun" : "2022",
+        "Harga" : 1597000,
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "Unisoc Tiger T612 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "13 + 2 + 0.3MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Narzo 50 Pro",
+        "Tahun" : "2022",
+        "Harga" : "ganemu",
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek Dimensity 920 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "48 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Narzo 50 5G",
+        "Tahun" : "2022",
+        "Harga" : 3299000,
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "48 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Narzo 50i Prime",
+        "Tahun" : "2022",
+        "Harga" : 1299000,
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "Unisoc Tiger T612 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9 5G",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Narzo 50A Prime",
+        "Tahun" : "2022",
+        "Harga" : 1799000,
+        
+         
+                "OS" : "Android 11",
+                "Chipset" : "Unisoc Tiger T612 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 0.3MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme 9 5G Speed",
+        "Tahun" : "2022",
+        "Harga" : "Tidak tersedia secara resmi di Indonesia",
+        
+         
+                "OS" : "Android 11",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "48 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Q5 Pro",
+        "Tahun" : "2022",
+        "Harga" : "ganemu",
+        
+         
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+            
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme GT Neo 3 150W",
+        "Tahun" : "2022",
+        "Harga" : 7799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek Dimensity 8100 (5 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+        
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme V23",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "48 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity"
+        
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Q5",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+        
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme V25",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "64 + 2 + 2MP",
+                "kamera_depan" : "16MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+        
+        
+    },    {
+        "Gambar" : "",
+        "Brand" : "Realme",
+        "Nama" : "Realme Q5i",
+        "Tahun" : "2022",
+        "Harga" : 1,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "13 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), unspecified sensors"
+        
+        
+    },    
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy S22 Ultra 5G",
+        "Tahun" : "2022",
+        "Harga" : 18999000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB, 1 TB",
+                "Kamera_belakang" : "64 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A53 5G",
+        "Tahun" : "2022",
+        "Harga" : 5799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint, gyro, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A13",
+        "Tahun" : "2022",
+        "Harga" : 2299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB, 6GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "Fingerprint, Accelerometer, compass",
+                "Sensor" : "5000 mAh"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A33 5G",
+        "Tahun" : "2022",
+        "Harga" : 4799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "48 + 8 + 5 + 2MP",
+                "kamera_depan" : "13MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint, Accelerometer, Compass, Gyro"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy S22 5G",
+        "Tahun" : "2022",
+        "Harga" : 13749000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "12 + 50 + 10MP",
+                "kamera_depan" : "10MP",
+                "Kapasitas_baterai" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+                "Sensor" : "3700 mAh"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A73 5G",
+        "Tahun" : "2022",
+        "Harga" : 7799000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 12 + 5 + 5MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : " 5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+        
+        
+    },    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy S21 FE 5G",
+        "Tahun" : "2022",
+        "Harga" : 8429000,
+        
+        
+                "OS" : " Android 12",
+                "Chipset" : "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "12 + 8 + 12MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+        
+        
+    },    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A23 5G",
+        "Tahun" : "2022",
+        "Harga" : 3999000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : " 8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass "
+        
+        
+    },    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A04S",
+        "Tahun" : "2022",
+        "Harga" : 2099000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 850 (8nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : " 5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer Virtual Proximity Sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy S22+ 5G",
+        "Tahun" : "2022",
+        "Harga" : 13749000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 2200 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 MP + 12 MP + 10 MP",
+                "kamera_depan" : "10 MP",
+                "Kapasitas_baterai" : " 4500 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy Z Fold4",
+        "Tahun" : "2022",
+        "Harga" : 24999000,
+        
+        
+                "OS" : "Android 12L",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "12GB",
+                "Penyimpanan" : "255GB, 512GB 1TB",
+                "Kamera_belakang" : "50 + 10 + 12MP",
+                "kamera_depan" : "4MP",
+                "Kapasitas_baterai" : "44000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsusng Gakaxy A04e",
+        "Tahun" : "2022",
+        "Harga" : 1299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "13 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy Z Flip4",
+        "Tahun" : "2022",
+        "Harga" : 13999000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8 GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "12 + 12MP",
+                "kamera_depan" : "10MP",
+                "Kapasitas_baterai" : "3700 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy M53",
+        "Tahun" : "2022",
+        "Harga" : 6299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 + 2MP",
+                "kamera_depan" : "32MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy M33",
+        "Tahun" : "2022",
+        "Harga" : 3399000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Exynos 1280 (5 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, Virtual Proximity Sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "../assets/apple/iphone_14.jpg",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A13 (SM-A137)",
+        "Tahun" : "2022",
+        "Harga" : 2299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Mediatek MT6769V/CU Helio G80 (12 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, compass, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy M23",
+        "Tahun" : "2022",
+        "Harga" : 3259000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM7225 Snapdragon 750G 5G (8 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 8 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual Proximity Sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A23",
+        "Tahun" : "2022",
+        "Harga" : 3299000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 5 + 2 + 2MP",
+                "kamera_depan" : "8MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Samsung",
+        "Nama" : "Samsung Galaxy A04",
+        "Tahun" : "2022",
+        "Harga" : 1499000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "3GB, 4GB, 6GB, 8GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "50 + 2MP",
+                "kamera_depan" : "5MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity"
+
+         
+        
+    },
+    
+    {  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wmrtC69n87-oTseRuzx_HDJBAkqa3rk0Xg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V21S",
+        "Tahun" : "2022",
+        "Harga" : 5600000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6853 Dimensity 800U (7 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "64 MP",
+                "kamera_depan" : "44 MP",
+                "Kapasitas_baterai" : "4000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+           
+    },
+
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V25",
+        "Tahun" : "2022",
+        "Harga" : 4000000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel color"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V25 Pro",
+        "Tahun" : "2022",
+        "Harga" : 5800000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek Dimensity 1300 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4830 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel color"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrKacjpGMm9SdRKZFvnWNv9f4T8JM1SIaIg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y16",
+        "Tahun" : "2022",
+        "Harga" : 1650000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2KUHSsd8jx1dVxsY1mlWfeavUfQYpz7Y-g&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y35",
+        "Tahun" : "2022",
+        "Harga" : 3200000,
+        
+        
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y1iBMH2cAefC7fQhMx0VijO5yBGy1s5iz3B96caeoc62Avkm2yPM-k3gGWrLzk-hAmw&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y22",
+        "Tahun" : "2022",
+        "Harga" : 2200000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6769Z Helio G85 (12nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2XvTOA27F0AzMa5XNXymguz6Z_y7Q4kUdQ&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo X80 Pro",
+        "Tahun" : "2022",
+        "Harga" : 10300000,
+        
+        
+                "OS" : "Android 12",
+                "Chipset" : "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 48 + 8 + 12 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, color spectrum"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrDdTae6rARkI7MjPML4Ns1f7o1Rpdnfj5Q&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V25e",
+        "Tahun" : "2022",
+        "Harga" : 3600000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT8781 Helio G99 (6nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 2 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel color"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbHQhpXOAaAmlzi5UiDdShl75A24SB8bi1wA&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V23 5G",
+        "Tahun" : "2022",
+        "Harga" : 3300000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek Dimensity 920 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "50 + 8 MP",
+                "Kapasitas_baterai" : "4200 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,Color changing back panel when exposed to sunlight"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGksGbHDs7sYyi0tAS-eC_vJxWD_RTZYUpgw&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo T1 5G",
+        "Tahun" : "2022",
+        "Harga" : 3000000,
+        
+        
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "MediaTek MT6833P Dimensity 810 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 6GB,8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJycujTh0d-VSSiYFMM5BhAckfmTAW-XACQ&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y22s",
+        "Tahun" : "2022",
+        "Harga" : 1700000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk56tkhd33ghWPHQb-Kyxknk8q4onpIL2cHw&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y02s",
+        "Tahun" : "2022",
+        "Harga" : 1700000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB, 64GB",
+                "Kamera_belakang" : "8 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_iPcIsWcbVA9CPVcwcxYetC4vLxcbE1Dkkg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo X Fold+",
+        "Tahun" : "2022",
+        "Harga" : 30000000,
+        
+        
+                "OS" : "Android 12, Origin OS Ocean",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "12GB RAM",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 8 + 12 + 48 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4730 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vxJGa2HjorIH5mb3lS5HX6EX2yZluFLzIA&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo IQOO 10 Pro",
+        "Tahun" : "2022",
+        "Harga" : 20000000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 14.6 + 50 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu-AduWrkIfclvEhVu8hv4T1_nV3A0CLowg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo T1 Pro",
+        "Tahun" : "2022",
+        "Harga" : 4000000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98odJVXpKUzpsID52EXxnRc9js8Vg1IhUuA&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo iQOO Neo 6",
+        "Tahun" : "2022",
+        "Harga" : 7500000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB,  256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt4aV7UO6qe7er-B896W_N0U_hXbePD2fAkA&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo X80 Lite",
+        "Tahun" : "2022",
+        "Harga" : 6600000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6877 Dimensity 900 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel color"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMB_EH90htx562_iZHFLZ0HEmuSX3DogBQyg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo iQOO 9T",
+        "Tahun" : "2022",
+        "Harga" : 9400000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 12 + 13 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4700 mAh",
+                "Sensor" : "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzXlLMK9175nverzjOwnG3QhVfv8q3AKkRg&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo V23 Pro",
+        "Tahun" : "2022",
+        "Harga" : 6000000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "MediaTek MT6893 Dimensity 1200 (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "50 + 8 MP",
+                "Kapasitas_baterai" : "4300 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, Color changing back panel when exposed to sunlight"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1v8qsEW5tI9zfvY0wCgvZcMPJPqRgBt9WHA&usqp=CAU",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y01",
+        "Tahun" : "2022",
+        "Harga" : 1300000,
+        
+        
+                "OS" : "Android 11 (Go edition), Funtouch 11.1",
+                "Chipset" : "Mediatek MT6765 Helio P35 (12nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB",
+                "Kamera_belakang" : "13 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted, market/region dependent), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y33t",
+        "Tahun" : "2022",
+        "Harga" : 3399000,
+        
+        
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y75 5G",
+        "Tahun" : "2022",
+        "Harga" : 4000000,
+        
+        
+                "OS" : "Android 11, Funtouch 12",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8 GB",
+                "Penyimpanan" : "128 GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y21a",
+        "Tahun" : "2022",
+        "Harga" : 2399000,
+        
+        
+                "OS" : "Android 11, Funtouch 11.1",
+                "Chipset" : "Android 11, Funtouch 11.1",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo iQOO Z6",
+        "Tahun" : "2022",
+        "Harga" : 3599000,
+        
+        
+                "OS" : "Android 12, Funtouch 12",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 6GB, 8GB",
+                "Penyimpanan" : "128 GB",
+                "Kamera_belakang" : "50 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo iQOO U5x",
+        "Tahun" : "2022",
+        "Harga" : 1999000,
+        
+        
+                "OS" : "Android 11, Origin OS Ocean",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 8GB",
+                "Penyimpanan" : "128GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y21G",
+        "Tahun" : "2022",
+        "Harga" : 2599000,
+        
+        
+                "OS" : "Android 11, Funtouch 11.1",
+                "Chipset" : "Mediatek MT6769 Helio G70 (12 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB",
+                "Penyimpanan" : "64GB",
+                "Kamera_belakang" : "13 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+{  
+        "Gambar" : "-",
+        "Brand" : "Vivo",
+        "Nama" : "Vivo Y72t",
+        "Tahun" : "2022",
+        "Harga" : 3099000,
+        
+        
+                "OS" : "Android 11, OriginOS 11",
+                "Chipset" : "MediaTek MT6833 Dimensity 700 (7 nm)",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "8 MP",
+                "Kapasitas_baterai" : "6000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, compass"
+ 
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7qFqES-gnf-Hht2QxPlE3NnG_xxXVVDaWA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi 12T Pro",
+        "Tahun" : "2022",
+        "Harga" : 11300000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+",
+                "Prosesorinti" : "Octa Core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "200 + 8 + 2MP",
+                "kamera_depan" : "20MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lW8LsbRozVgvF6VuongTOnapdsNS-L9iNQ&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi Note 11",
+        "Tahun" : "2022",
+        "Harga" : 2000000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 8 + 2 + 2 MP",
+                "kamera_depan" : "13 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass,Virtual proximity sensing"
+        
+    
+    },    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6m-xyD9QikFEc9ksCTvm_o2lGeTTASOfwA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi Note 11 Pro",
+        "Tahun" : "2022",
+        "Harga" : 3399000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Mediatek Helio G96",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "108 + 8 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass,Virtual proximity sensing"
+        
+        
+    },    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV5y0oOKrz_W213lLA4edaf-ADAEC-lXwgA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi 12T",
+        "Tahun" : "2022",
+        "Harga" : 6265000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "MediaTek Dimensity 8100-Ultra",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "50 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHyT-ajBpyi8USkChjmGrAlO5y--EwpJ05w&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Poco X4 Pro 5G",
+        "Tahun" : "2022",
+        "Harga" : 4900000,
+        
+        
+                "OS" : "Android 11, MIUI 13 for POCO",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ii88AQiZz5BXrMYLmrJ3J7q8mry52PiF4w&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Poco F4",
+        "Tahun" : "2022",
+        "Harga" : 4795000,
+        
+        
+                "OS" : "Android 12, MIUI 13 for POCO",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB , 8GB , 12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "20 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Od2_-IKBTkpIxidkW4-5EUe5IKLyzLrN3Q&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi 12 Lite",
+        "Tahun" : "2022",
+        "Harga" : 5075000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM7325 Snapdragon 778G 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4300 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, compass,Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJt1a2mLYgFho0Fejc0ekJPmxmSqeBOtiPQ&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi 10C",
+        "Tahun" : "2022",
+        "Harga" : 1580000,
+        
+        
+                "OS" : "Android 11, MIUI 13",
+                "Chipset" : "Qualcomm SM6225 Snapdragon 680 4G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "3GB, 4GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "50 + 2 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyi6kUMeVfcXASBjlAVIfpKT9__YW19H1W8w&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi A1",
+        "Tahun" : "2022",
+        "Harga" : 1186000,
+        
+        
+                "OS" : "Android 12 (Go edition), MIUI 12",
+                "Chipset" : "Mediatek MT6761 Helio A22",
+                "Prosesorinti" : "Quad-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB",
+                "Kamera_belakang" : "8 + 0.08 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Accelerometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJCLruWAtJpUefOBpHCC6Nq7u87fzidG-hg&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi Note 11 Pro 5G",
+        "Tahun" : "2022",
+        "Harga" : 2539000,
+        
+        
+                "OS" : "Android 11, MIUI 13",
+                "Chipset" : "Qualcomm SM6375 Snapdragon 695 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 4GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass,Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasz5nHvo9zADEhx8yidSOdtYUZaNt_S4xYQ&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi 12S Ultra",
+        "Tahun" : "2022",
+        "Harga" : 23500000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB , 12GB",
+                "Penyimpanan" : "256GB, 512GB",
+                "Kamera_belakang" : "50 + 48 + 48 MP",
+                "kamera_depan" : "32 MP",
+                "Kapasitas_baterai" : "4860 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, compass, color spectrum, barometer, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWs7LKPyC93yKM8R0OjGLQXDFXtVmxQE5DQ&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Civi 2",
+        "Tahun" : "2022",
+        "Harga" : 5099000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm Snapdragon 7 Gen 1",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB,  256GB",
+                "Kamera_belakang" : "50 + 20 + 2 MP",
+                "kamera_depan" : "32 + 32 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbqgjI6wTDDy7XDmHY6yYIHt5pqvLE_If3A&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Poco X4 GT",
+        "Tahun" : "2022",
+        "Harga" : 4600000,
+        
+        
+                "OS" : "Android 12, MIUI 13 for POCO",
+                "Chipset" : "MediaTek Dimensity 8100",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5080 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass, color spectrum"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhsG_0sXf704YI9XY6GlE9ovOTkesbDoq2g&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Poco M4 Pro",
+        "Tahun" : "2022",
+        "Harga" : 2800000,
+        
+        
+                "OS" : "Android 11, MIUI 13 for POCO",
+                "Chipset" : "Mediatek Helio G96",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "64GB, 128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi 10A",
+        "Tahun" : "2022",
+        "Harga" : 1510000,
+        
+        
+                "OS" : "Android 11, MIUI 12.5",
+                "Chipset" : "MediaTek MT6762G Helio G25",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "2GB, 3GB, 4GB, 6GB",
+                "Penyimpanan" : "32GB, 64GB, 128GB",
+                "Kamera_belakang" : "13 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer, proximity"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04o9shgRPEXYfKiDu2YzEbmAteXB23KMxJg&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi Note 11S",
+        "Tahun" : "2022",
+        "Harga" : 7999000,
+        
+        
+                "OS" : "Android 11, MIUI 13",
+                "Chipset" : "Mediatek Helio G96",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB ",
+                "Penyimpanan" : "64GB,128GB",
+                "Kamera_belakang" : "108 + 8 + 2 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3vgHlETR4Zo64DB2G607kjImJEmpwUeRQA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi A1+",
+        "Tahun" : "2022",
+        "Harga" : 1299000,
+        
+        
+                "OS" : "Android 12 (Go edition), MIUI 12",
+                "Chipset" : "Mediatek MT6761 Helio A22",
+                "Prosesorinti" : "Quad-core",
+                "RAM" : "2GB, 3GB",
+                "Penyimpanan" : "32GB",
+                "Kamera_belakang" : "8 + 0.08 MP",
+                "kamera_depan" : "5 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (rear-mounted), accelerometer"
+
+         
+        
+    },
+    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorRr_LsB7y4tBA-fT91ltctbyG7SWZ34gdg&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Poco M5s",
+        "Tahun" : "2022",
+        "Harga" : 2239000,
+        
+        
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Mediatek Helio G95",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "4GB, 6GB",
+                "Penyimpanan" : "64GB,128GB",
+                "Kamera_belakang" : "64 + 8 + 2 + 2 MP",
+                "kamera_depan" : "13 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, compass, Virtual proximity sensing"
+
+         
+        
+    },
+    {   
+        "Gambar" : "",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi K50 Ultra",
+        "Tahun" : "2022",
+        "Harga" : 6599000,
+        
+         
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "Qualcomm SM8475 Snapdragon 8+ Gen 1",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB, 12GB",
+                "Penyimpanan" : "128GB, 256GB, 512GB",
+                "Kamera_belakang" : "108 + 8 + 2 MP",
+                "kamera_depan" : "20 MP",
+                "Kapasitas_baterai" : "5000 mAh",
+                "Sensor" : "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum"
+            
+        
+    },    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjGwOnRLVsTAkUr-93044VwmqqHTBYe_foA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Redmi K50i",
+        "Tahun" : "2022",
+        "Harga" : 4899000,
+        
+         
+                "OS" : "Android 12, MIUI 13",
+                "Chipset" : "MediaTek Dimensity 8100",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "6GB, 8GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "5080 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass, color spectrum"
+            
+        
+    },    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9dZ6mDEY2XjZDtr42fsL4nW3OXTK1VFdVA&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Black Shark 5 RS",
+        "Tahun" : "2022",
+        "Harga" : 12000000,
+        
+         
+                "OS" : "Android 12, Joy UI 12.8",
+                "Chipset" : "Qualcomm SM8350 Snapdragon 888/888+ 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB,12GB",
+                "Penyimpanan" : "256GB",
+                "Kamera_belakang" : "64 + 8 + 2 MP",
+                "kamera_depan" : "20 MP",
+                "Kapasitas_baterai" : "4500 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+            
+        
+    },    {   
+        "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTg12Beg0Ii7lNNO45qK6s1x-A3-zduxFdQ&usqp=CAU",
+        "Brand" : "Xiaomi",
+        "Nama" : "Xiaomi Black Shark 5",
+        "Tahun" : "2022",
+        "Harga" : 9500000,
+        
+          
+                "OS" : "Android 12, Joy UI 13",
+                "Chipset" : "Qualcomm SM8250-AC Snapdragon 870 5G",
+                "Prosesorinti" : "Octa-core",
+                "RAM" : "8GB,12GB",
+                "Penyimpanan" : "128GB, 256GB",
+                "Kamera_belakang" : "64 + 13 + 2 MP",
+                "kamera_depan" : "16 MP",
+                "Kapasitas_baterai" : "4650 mAh",
+                "Sensor" : "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+                
+    }
+]
