@@ -3,7 +3,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_wmrtC69n87-oTseRuzx_HDJBAkqa3rk0Xg&usqp=CAU",
         "Brand" : "Vivo V21S",
         "Tahun" : "2022",
-        "Harga" : "Rp 5.600.000",
+        "Harga" : 5600000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
@@ -24,7 +24,7 @@
         "Gambar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88iFchDu-tw_KH4K7Jxu43hwfieOohCLa3A&usqp=CAU",
         "Brand" : "Vivo V25",
         "Tahun" : "2022",
-        "Harga" : "Rp 4.000.000",
+        "Harga" : 4000000,
         "Spesifikasi" : [
             {
                 "OS" : "Android 12, Funtouch 12",
