@@ -6,7 +6,7 @@
         "UkuranTubuh" : "6 CM - 7,5 CM",
         "BanyakSisik" : "60-73",
         "CiriCiri" : "Permukaan Perut Tidak Memiliki Sisik",
-        "Gambar" : "",
+        "Gambar" :"../assets/ikan/selusur.jpg",
         "Warna" : "Kuning"
     },
     {   
@@ -24,25 +24,7 @@
         "Ekornya cukup pendek, lebih pendek dari lebar tubuhnya",
         "Terdapat duri sengat di bagian tengah ekor"
         ],
-        "Gambar" : "",
-        "Warna" : "Hijau"
-    },
-    {   
-        "Nama" : "Pari Kai",
-        "Habitat" : ["Air Tawar",
-                     "Air Payau"
-        ],
-        "Lokasi": "Maluku",
-        "UkuranTubuh" : "23 CM",
-        "BanyakSisik" : "",
-        "CiriCiri" : ["bentuk agak membulat dengan ujung moncong yang tumpul",
-        "Bagian atas tubuh/punggungnya berwarna coklat kekuningan", 
-        "Terdapat lima pasang celah insang yang cukup pendek",
-        "Tidak memiliki sirip punggung namun sirip perutnya pendek dan membulat", 
-        "Ekornya cukup pendek, lebih pendek dari lebar tubuhnya",
-        "Terdapat duri sengat di bagian tengah ekor"
-        ],
-        "Gambar" : "",
+        "Gambar" :"../assets/ikan/parikai.jpg",
         "Warna" : "Hijau"
     },
     {
@@ -57,7 +39,7 @@
 		"Terdapat duri sengat di bagian pangkal ekor dan tidak terdapat duri-duri kecil di sepanjang pangkal ekornya",
 		"Kedua mata relatif kecil dan tidak menonjol keluar"    
 		],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/parisungai.jpg",
     "Warna" : "Kuning Kecoklatan"
 },
 {
@@ -74,7 +56,7 @@
 		"Letak pangkal sirip punggung pertama berada di belakang sirip perut",
 		"Panjang dan lebar siripnya sama, dan pada sirip ekornya memiliki cabang"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/parigergaji.jpg",
     "Warna" : "Coklat"
 },
 {
@@ -89,7 +71,7 @@
 		"Letak pangkal sirip punggung pertama berada di belakang sirip perut",
 		"Cuping bawah dari sirip ekornya pendek"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/parigergaji1.jpg",
     "Warna" : "abu-abu kecoklatan"
 },
 {
@@ -103,7 +85,7 @@
 		"Terdapat 10 baris pori-pori yang tidak teratur pada masing-masing sisi moncong dan dibawah mata, alur dari bagian belakang sampai ke bibir bawah terputus di bagian tengah",
 		"Ikan ini memiliki warna keperakan"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/ikanbatak.png",
     "Warna" : "Hitam Keemasan"
 },
 {
@@ -120,26 +102,8 @@
 		"Cuping bawah dari sirip ekor tidak ada",
 		"Sirip lebih panjang daripada lebar dan ekornya tidak bercabang"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/parigergaji2.jpg",
     "Warna" : "abu-abu kecoklatan"
-},
-{
-    "Nama" : "Pari gergaji gigi besar",
-    "Habitat" : ["Dasar Perairan Sungai",
-		"Danau"
-    ],
-    "Lokasi": "",
-    "UkuranTubuh" : "656-700CM",
-    "BanyakSisik" : "",
-    "CiriCiri" : ["Moncong sangat panjang, datar dan seperti gergaji",
-		"Cuping bawah dari sirip ekor pendek,tapi nampak jelas",
-		"Salah satu ciri penting pembeda spesies dan bernilai ekonomi tinggi adalah rostrumnya",
-		"Gigi pertama lebih besar dari yang kedua, dengan jumlah gigi pada rostrum 14-24 pasang dengan susunan gigi rata",
-		"Letak pangkal sirip punggung pertama berada di depan pangkal sirip perut",
-		"Sirip lebih panjang dari pada lebar dan ekor bercabang"
-    ],
-    "Gambar" : "",
-    "Warna" : "abu-abu"
 },
 {
     "Nama" : "Ikan Balashark",
@@ -154,7 +118,7 @@
 		"Terdapat 34-35 sisik sepanjang gurat sisi",
 		"Bentuk sirip ekornya bercagak"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/bala.jpg",
     "Warna" : "Perak"
 },
 {
@@ -171,7 +135,7 @@
 		"Sirip dada panjang dan meruncing",
 		"Sevara umum arwana mempunyai tubuh berwarna merah terang dan gelap"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/arwana.jpeg",
     "Warna" : "Merah"
 },
 {
@@ -190,7 +154,7 @@
 		"Sirip-sirip berwarna gelap dihiasi bintik merah",
 		"Pada anakan ukuran 3-5CM masih membawa kuning telur sebagai bahan makanan"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/arwana2.jpg",
     "Warna" : "Hijau"
 },
 {
@@ -207,35 +171,8 @@
 		"Melanofor banyak terkonsenstrasi pada bagian atas tubuh daripada bagian perut",
 		"Sirip lobus punggung,daerah dubur dan sirip lobus anus memiliki berbagai bentuk, walaupun pada bagian tubuh yang sama"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/rajalaut.jpg",
     "Warna" : "abu-abu"
-},
-{
-    "Nama" : "Wader goa",
-    "Habitat" : "perairan tawar di dalam goa di wilayah Jawa",
-    "Lokasi": "Jawa",
-    "UkuranTubuh" : "15-17CM",
-    "BanyakSisik" : "22-32",
-    "CiriCiri" : ["Bagian akhir dari jari-jari lemah sirip punggung yang sederhana bergerigi pada bagian belakang",
-		"Memiliki dua pasang sungut",
-		"Terdapat 22-32 sisik pada garis gurat sisi",
-		"Memiliki mata rudimenter/mengecil"
-    ],
-    "Gambar" : "",
-    "Warna" : "Hijau perak"
-},
-{
-    "Nama" : "Selusur Maninjau",
-    "Habitat" : "Dataran tinggi sekitar 100 sampai 1.800 Meter diatas permukaan laut",
-    "Lokasi": "",
-    "UkuranTubuh" : "6-8CM",
-    "BanyakSisik" : "60-73",
-    "CiriCiri" : ["Badan bagian depan yang datar dengan sirip di dada dan perut",
-		"Sirip memanjang ke arah samping",
-		"Sirip punggung berada di belakang sirip perut"
-    ],
-    "Gambar" : "",
-    "Warna" : "Coklat keemasan"
 },
 {
     "Nama" : "Belida Jawa",
@@ -254,7 +191,7 @@
 		"Secara umum belida berwarna coklat polos, namun beberapa ada yang berwarna putih keperakan dengan bercak abu-abu di bagian tubuh dan kepalanya",
 		"Sirip-siripnya memiliki warna lebih transparan atau kecoklatan"	
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/belidajawa.jpeg",
     "Warna" : "Kecoklatan"
 },
 {
@@ -267,7 +204,7 @@
 		"Kepalanya berbentuk cekung di dekat punggung",
 		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/belidasumatra.jpg",
     "Warna" : "Perak"
 },
 {
@@ -282,7 +219,7 @@
 		"Kepalanya berbentuk cekung di dekat punggung",
 		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/belidajawa.jpeg",
     "Warna" : "Perak"
 },
 {
@@ -295,7 +232,7 @@
 		"Kepalanya berbentuk cekung di dekat punggung",
 		"Mulutnya terletak sedikit ke bawah, bibir bawah berlekuk di bagian belakang yang membentuk kantung yang membuka ke arah belakang"
     ],
-    "Gambar" : "",
+    "Gambar" :"../assets/ikan/belidaborneo.jpg",
     "Warna" : "Kekuningan"
 },
 {
@@ -311,7 +248,7 @@
 		"Permulaan sirip punggung di depan permulaan sirip perut",
 		"Hanya ada jari-jari lemah dan lemah mengeras"
 ],
-    "Gambar" : "",
+"Gambar" :"../assets/ikan/pasa.jpg",
     "Warna" : "Perak Kehitaman"
 }
 ]

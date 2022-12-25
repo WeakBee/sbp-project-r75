@@ -13,9 +13,6 @@ $.getJSON('../API/ikan.json', function (data){
                         <p class="card-text">Banyak Sisik : `+ data2.BanyakSisik +`</p>
                         <p class="card-text">Warna : `+ data2.Warna +`</p>
                         </div>
-                        <div class="card-under">
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
                     </div>
                 </div>
             </div>

@@ -33,7 +33,7 @@
         "PanjangEkor" : "-",
         "Berat" : 1000,
         "Satuan": "KG",
-        "Gambar" : "../assets/reptile/biawak_muara.jpg",
+        "Gambar" : "../assets/reptile/buayamuara.jpg",
         "Golongan" : "Karnivora",
         "TipeKulit" : "Bersisik",
         "Warna" : ["Abu-Abu"]

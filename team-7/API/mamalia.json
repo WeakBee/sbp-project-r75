@@ -99,6 +99,7 @@
         "Satuan":"KG",
         "Golongan" :"Karnivora",
         "TipeKulit" : "Bersisik",
+        "Gambar" :"../assets/mamalia/paus minke.jpg",
         "Warna" : [
             "Coklat",
             "Kelabu",
@@ -116,6 +117,7 @@
         "Satuan":"KG",
         "Golongan" :"Karnivora",
         "TipeKulit" : "Bersisik",
+        "Gambar" :"../assets/mamalia/pausbiru.jpeg",
         "Warna" : [
             "Biru"
     ]
@@ -130,6 +132,7 @@
         "Satuan":"KG",
         "Golongan" :"Karnivora",
         "TipeKulit" : "Bersisik",
+        "Gambar" :"../assets/mamalia/paussirip.jpg",
         "Warna" : [
             "Abu Abu"
     ]
@@ -147,6 +150,7 @@
         "Satuan":"KG",
         "Golongan" :"Herbivora",
         "TipeKulit" : "Berbulu",
+        "Gambar" :"../assets/mamalia/banteng.jpg",
         "Warna" : [
             "Coklat Gelap",
             "Coklat Kemerahan"
@@ -154,14 +158,15 @@
     },
     {   
        "Nama" : "Anoa Daratan Rendah",
-       "Habitat" : "Hutan Primer yang ada di Sulawesi",
+       "Habitat" : "Hutan Primer",
        "Lokasi" : "Sulawesi",
        "UkuranTubuh" : "180cm",
        "PanjangEkor" : "35cm" ,
-       "Berat" :" 250-300 kg ",
+       "Berat" :300,
        "Satuan":"KG",
        "Golongan" :" Herbivora",
        "TipeKulit" : "Berbulu",
+       "Gambar" :"../assets/mamalia/anoa.jpg",
        "Warna" : "Cokelat"
    },
 {   
@@ -170,185 +175,65 @@
        "Lokasi" : "Sulawesi dan Pulau Bunton",
        "UkuranTubuh" : "Panjang : 122-153cm, Tinggi : 75cm",
        "PanjangEkor" : " 27cm" ,
-       "Berat" :" 150kg ",
+       "Berat" :150,
        "Satuan":"KG",
        "Golongan" :" Herbivora",
        "TipeKulit" : "Berbulu",
-       "Warna" : "Cokelat - Hitam"
+       "Gambar" :"../assets/mamalia/anoa1.jpg",
+       "Warna" : ["Coklat",
+    "Hitam"]
    },
 {   
        "Nama" : "Kambing Sumatera",
-       "Habitat" : "Daerah Dataran tinggi 200-3000mdpl",
+       "Habitat" : "Daerah Dataran Tinggi",
        "Lokasi" : "daratan tinggi aceh, daratan tinggi kerinci",
        "UkuranTubuh" : "Panjang tubuh : 1.4m-1.5m , Tinggi 0.8-0.9m",
        "PanjangEkor" : "8-16cm" ,
-       "Berat" :" 85-140kg",
+       "Berat" :140,
        "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut ",
-       "Warna" : " abu abu gelap-hitam "
+       "Golongan" :" Herbivora",
+       "TipeKulit" : " Berambut ",
+       "Gambar" :"../assets/mamalia/kambing.jpg",
+       "Warna" : " Abu Abu Gelap-Hitam "
    },
 {   
        "Nama" : " Kucing merah ",
-       "Habitat" : " hutan,perbukitn daratan rendah",
-       "Lokasi" : " kalimantan ",
+       "Habitat" : " Hutan",
+       "Lokasi" : " Kalimantan ",
        "UkuranTubuh" : " 53-57cm ",
        "PanjangEkor" : " 32-40cm " ,
-       "Berat" :" 3-4kg ",
+       "Berat" :4,
        "Satuan":"KG",
-       "Golongan" :" karnivora ",
-       "TipeKulit" : " berbulu ",
-       "Warna" : " abuabu "
+       "Golongan" :" Karnivora ",
+       "TipeKulit" : "Berbulu",
+       "Gambar" :"../assets/mamalia/kucingmerah.jpg",
+       "Warna" : " AbuAbu "
    },
 {   
-       "Nama" : " kucing emas sumatera ",
-       "Habitat" : " hutan nokturnal ",
-       "Lokasi" : " sumatera ",
+       "Nama" : " Kucing Emas Sumatera ",
+       "Habitat" : "Hutan",
+       "Lokasi" : " Sumatera ",
        "UkuranTubuh" : " 66-105cm ",
        "PanjangEkor" : " 40-57cm " ,
-       "Berat" :" 9-16kg ",
+       "Berat" :16,
        "Satuan":"KG",
-       "Golongan" :" karnivora ",
-       "TipeKulit" : " berbulu ",
-       "Warna" : " coklat keemesan "
+       "Golongan" :" Karnivora ",
+       "TipeKulit" : " Berbulu ",
+       "Gambar" :"../assets/mamalia/kucingemas.jpeg",
+       "Warna" : " Coklat Keemasan "
    },
-{   
-       "Nama" : " ajag ",
-       "Habitat" : " pegunungan dan hutan ",
-       "Lokasi" : " jawa dan sumatera ",
-       "UkuranTubuh" : " panjang 90cm, tinggi 50cm ",
-       "PanjangEkor" : " 40-50cm " ,
-       "Berat" :" 12-20kg ",
-       "Satuan":"KG",
-       "Golongan" :" karnivora ",
-       "TipeKulit" : " berbulu ",
-       "Warna" : " cokelat kemerahan "
-   },
-{   
-       "Nama" : " kubung sunda ",
-       "Habitat" : " hutan hujan tropis ",
-       "Lokasi" : " jawa,sumatera,kalimantan ",
-       "UkuranTubuh" : " 36-43cm ",
-       "PanjangEkor" : " 22-27cm " ,
-       "Berat" :" 1-1.75kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora ",
-       "TipeKulit" : " berbulu ",
-       "Warna" : " bercorak belang abu abu,putih,hitam "
-   },
-{   
-       "Nama" : " Musang air ",
-       "Habitat" : " rawarawa,sepanjang sungai semenanjung malay ",
-       "Lokasi" : " kalimantan,sumatera ",
-       "UkuranTubuh" : " 70.5-88cm ",
-       "PanjangEkor" : " 120-205mm " ,
-       "Berat" :" 3-5kg",
-       "Satuan":"KG",
-       "Golongan" :" omnivora ",
-       "TipeKulit" : " berbulu ",
-       "Warna" : "hitam"
-   },
-{   
-       "Nama" : " lumba lumba moncong panjang ",
-       "Habitat" : " perairan dangkal ",
-       "Lokasi" : " teluk kiluan ",
-       "UkuranTubuh" : " 1.9-2.5m ",
-       "PanjangEkor" : "" ,
-       "Berat" :" 200kg ",
-       "Satuan":"KG",
-       "Golongan" :" karnivora ",
-       "TipeKulit" : " licin tidak bersisik ",
-       "Warna" : " abuabu "
-   },
-{   
-       "Nama" : " Kanguru pohon goodfellow ",
-       "Habitat" : " hutan hujan",
-       "Lokasi" : " papua mugini ",
-       "UkuranTubuh" : " 41-77cm ",
-       "PanjangEkor" : " 40-87cm " ,
-       "Berat" :" 14.5kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora ",
-       "TipeKulit" : " berambut ",
-       "Warna" : " cokelat "
-   },
-{   
-       "Nama" : " kanguru pohon wakera ",
-       "Habitat" : " hutan hujan ",
-       "Lokasi" : " papua ",
-       "UkuranTubuh" : " 41-77cm ",
-       "PanjangEkor" : " 40-87cm " ,
-       "Berat" :" 14.5kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora ",
-       "TipeKulit" : " berambut ",
-       "Warna" : " coklat "
-   },
-{   
-       "Nama" : " kanguru pohon wondiwoi ",
-       "Habitat" : " hutan pegunungan",
-       "Lokasi" : " papua barat ",
-       "UkuranTubuh" : " 40-80cm ",
-       "PanjangEkor" : " 40-80cm " ,
-       "Berat" :" 9.25kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut ",
-       "Warna" : " hitam suram"
-   },
-{   
-       "Nama" : " kanguru pohon mbaiso ",
-       "Habitat" : " hutan pegunungan papua nugini ",
-       "Lokasi" : " papua nugini ",
-       "UkuranTubuh" : " 52-81cm ",
-       "PanjangEkor" : " 40-94cm " ,
-       "Berat" :" 6.5-14.5kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut",
-       "Warna" : " hitam dengan kombinasi putih "
-   },
-{   
-       "Nama" : " kanguru pohon mantel emas ",
-       "Habitat" : " pegunungan torricelli ",
-       "Lokasi" : " papua mugini ",
-       "UkuranTubuh" : " 41-77cm ",
-       "PanjangEkor" : " 40-80cm " ,
-       "Berat" :" 7-15kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut ",
-       "Warna" : " keemasan "
-   },
-{   
-       "Nama" : " kanguru pohon seri ",
-       "Habitat" : " hutan pegunungan ",
-       "Lokasi" : " bagian barat papua nugini ",
-       "UkuranTubuh" : " 41-77cm ",
-       "PanjangEkor" : " 40-80cm " ,
-       "Berat" :" 14-15kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut ",
-       "Warna" : " kuning cerah "
-   },
-{   
-       "Nama" : " kanguru pohon nemena ",
-       "Habitat" : " hutan tropis ",
-       "Lokasi" : " papua barat ",
-       "UkuranTubuh" : " 50-80cm ",
-       "PanjangEkor" : " 40-94cm " ,
-       "Berat" :" 8kg ",
-       "Satuan":"KG",
-       "Golongan" :" herbivora",
-       "TipeKulit" : " berambut ",
-       "Warna" : " coklat kekuningan "
-   },
+
 {
-       "Nama" : " badak sumatera ",
-       "Habitat" : "hutan sekunder dan hutan primer yang ada diatas ketinggian 2000m",
-       "Lokasi" : " sumatera ",
+       "Nama" : " Badak sumatera ",
+       "Habitat" : "Hutan Hujan",
+       "Lokasi" : "Sumatera",
        "UkuranTubuh" : " tinggi 120-145cm,panjang 250cm ",
-       "PanjangEkor" : ""
+       "PanjangEkor" : "",
+       "Berat" :1000,
+       "Satuan":"KG",
+       "Golongan" :" Karnivora ",
+       "TipeKulit" : " Kulit Tebal ",
+       "Gambar" :"../assets/mamalia/badaksumatra.jpg",
+       "Warna" : "Coklat Kemerahan"
 }
 ]

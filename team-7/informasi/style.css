@@ -189,18 +189,18 @@ a{
     border-radius: 10px;
   }
 
-  .container5 ::-webkit-scrollbar-track {
+  .container1 ::-webkit-scrollbar-track {
     box-shadow: inset 0 0 0px transparent;
   }
   
   
   /* Handle */
-  .container5 ::-webkit-scrollbar-thumb {
+  .container1 ::-webkit-scrollbar-thumb {
     background: transparent;
     border-radius: 10px;
   }
 
-  .container5 ::-webkit-scrollbar-thumb {
+  .container2 ::-webkit-scrollbar-thumb {
     background: #0d6efd;
     border-radius: 10px;
   }

@@ -16,9 +16,6 @@ $.getJSON('../API/burung.json', function (data){
                         <p class="card-text">Tipe Kulit : `+ data2.TipeKulit +`</p>
                         <p class="card-text">Warna : `+ data2.Warna +`</p>
                         </div>
-                        <div class="card-under">
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
                     </div>
                 </div>
             </div>
